@@ -1,6 +1,7 @@
-import { LandingPage } from "../../components/Landing/LandingPage";
-import { IniNavbar } from "../../components/Navbar/iniNavbar";
-import VillaRecomendation from "../../components/Recomendations/VillaRecomendation";
+import { LandingPage } from '../../components/Landing/LandingPage';
+import { IniNavbar } from '../../components/Navbar/iniNavbar';
+import VillaRecomendation from '../../components/Recomendations/VillaRecomendation';
+import VillaCard from '../../components/StayCard/VillaCard';
 
 const HomePage = () => {
   return (
@@ -8,6 +9,7 @@ const HomePage = () => {
       <IniNavbar />
       <LandingPage />
       <VillaRecomendation />
+      <VillaCard />
     </>
   );
 };
