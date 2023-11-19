@@ -1,3 +1,14 @@
+.card-container {
+  opacity: 0;
+  transform: translateX(-100%);
+  transition: opacity 0.5s ease-in-out, transform 0.5s ease-in-out;
+}
+
+.card-container.active {
+  opacity: 1;
+  transform: translateX(0);
+}
+
 /* #root {
   max-width: 1280px;
   margin: 0 auto;

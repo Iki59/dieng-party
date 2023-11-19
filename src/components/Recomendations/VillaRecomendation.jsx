@@ -8,32 +8,98 @@ import { useState } from 'react';
 
 const VillaRecomendation = () => {
   const cards = [
-    { image: VillaEx, title: 'Villa Cemara', price: 'Rp. 300.000,-/Night' },
-    { image: Villa2, title: 'Villa Cemara', price: 'Rp. 300.000,-/Night' },
-    { image: VillaEx, title: 'Villa Cemara', price: 'Rp. 300.000,-/Night' },
-    { image: Villa2, title: 'Villa Cemara', price: 'Rp. 300.000,-/Night' },
-    { image: VillaEx, title: 'Villa Cemara', price: 'Rp. 300.000,-/Night' },
-    { image: Villa2, title: 'Villa Cemara', price: 'Rp. 300.000,-/Night' },
-    { image: VillaEx, title: 'Villa Cemara', price: 'Rp. 300.000,-/Night' },
-    { image: Villa2, title: 'Villa Cemara', price: 'Rp. 300.000,-/Night' },
-    { image: VillaEx, title: 'Villa Cemara', price: 'Rp. 300.000,-/Night' },
-    { image: Villa2, title: 'Villa Cemara', price: 'Rp. 300.000,-/Night' },
+    {
+      image: VillaEx,
+      title: 'Villa Cemara',
+      price: 'Rp. 300.000,-/Night',
+      text: '1',
+    },
+    {
+      image: Villa2,
+      title: 'Villa Cemara',
+      price: 'Rp. 300.000,-/Night',
+      text: '2',
+    },
+    {
+      image: VillaEx,
+      title: 'Villa Cemara',
+      price: 'Rp. 300.000,-/Night',
+      text: '3',
+    },
+    {
+      image: Villa2,
+      title: 'Villa Cemara',
+      price: 'Rp. 300.000,-/Night',
+      text: '4',
+    },
+    {
+      image: VillaEx,
+      title: 'Villa Cemara',
+      price: 'Rp. 300.000,-/Night',
+      text: '5',
+    },
+    {
+      image: Villa2,
+      title: 'Villa Cemara',
+      price: 'Rp. 300.000,-/Night',
+      text: '6',
+    },
+    {
+      image: VillaEx,
+      title: 'Villa Cemara',
+      price: 'Rp. 300.000,-/Night',
+      text: '7',
+    },
+    {
+      image: Villa2,
+      title: 'Villa Cemara',
+      price: 'Rp. 300.000,-/Night',
+      text: '8',
+    },
+    {
+      image: VillaEx,
+      title: 'Villa Cemara',
+      price: 'Rp. 300.000,-/Night',
+      text: '9',
+    },
+    {
+      image: Villa2,
+      title: 'Villa Cemara',
+      price: 'Rp. 300.000,-/Night',
+      text: '10',
+    },
   ];
 
   const cardsPerPage = 4;
-  const [startIndex, setStartIndex] = useState(0);
+  const [currentCardIndex, setCurrentCardIndex] = useState(0);
+  const [isAnimating, setIsAnimating] = useState(false);
 
   const handleNext = () => {
-    const nextIndex = startIndex + cardsPerPage;
-    console.log(nextIndex);
-    setStartIndex(Math.min(nextIndex, cards.length - cardsPerPage));
+    if (!isAnimating) {
+      setIsAnimating(true);
+      setTimeout(() => {
+        setCurrentCardIndex((prevIndex) => prevIndex + 1);
+        setIsAnimating(false);
+      }, 500); // Sesuaikan dengan durasi animasi dalam milidetik
+    }
   };
+
+  const visibleCards = cards.slice(
+    currentCardIndex,
+    currentCardIndex + cardsPerPage
+  );
+
   const handlePrev = () => {
-    const prevIndex = startIndex - cardsPerPage;
-    console.log(prevIndex);
-    setStartIndex(Math.max(prevIndex, 0));
+    if (!isAnimating) {
+      setIsAnimating(true);
+      setTimeout(() => {
+        setCurrentCardIndex(
+          (prevIndex) => (prevIndex - 1 + cards.length) % cards.length
+        );
+        setIsAnimating(false);
+      }, 500); // Sesuaikan dengan durasi animasi dalam milidetik
+    }
   };
-  const visibleCards = cards.slice(startIndex, startIndex + cardsPerPage);
 
   return (
     <>
@@ -47,13 +113,13 @@ const VillaRecomendation = () => {
             <div>
               <img
                 onClick={handlePrev}
-                disabled={startIndex === 0}
+                // disabled={currentCardIndex === 0}
                 className="me-2"
                 src={LeftArrow}
               />
               <img
                 onClick={handleNext}
-                disabled={startIndex + cardsPerPage >= cards.length}
+                // disabled={currentCardIndex + cardsPerPage >= cards.length}
                 src={RightArrow}
               />
             </div>
@@ -61,7 +127,13 @@ const VillaRecomendation = () => {
         </Row>
         <Row>
           {visibleCards.map((card, index) => (
-            <Col key={index} md={3}>
+            <Col
+              key={index}
+              md={3}
+              // className={`card-container ${
+              //   index === currentCardIndex ? 'active' : ''
+              // }`}
+            >
               <Card style={{ width: '16rem', border: 'none' }}>
                 <Card.Img
                   style={{ height: '14rem', borderRadius: '10%' }}
@@ -89,12 +161,11 @@ const VillaRecomendation = () => {
                 </div>
                 <Card.Body>
                   <Card.Title>{card.title}</Card.Title>
-                  <Card.Text>
-                    <div className="d-flex">
-                      <img className="mb-0" src={homeIcon} />
-                      <p className="text-muted mb-0 ms-2">{card.price}</p>
-                    </div>
-                  </Card.Text>
+                  <div className="d-flex">
+                    <img className="mb-0" src={homeIcon} />
+                    <p className="text-muted mb-0 ms-2">{card.price}</p>
+                  </div>
+                  <p>{card.text}</p>
                 </Card.Body>
               </Card>
             </Col>
