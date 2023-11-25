@@ -22,12 +22,14 @@ export const IniNavbar = () => {
             <Nav.Link href="#">
               <button
                 style={{
+                  fontSize: "14px",
                   borderRadius: "80px",
-                  padding: "3px 15px",
+                  padding: "4px 15px",
                   border: "none",
-                  fontWeight: "medium",
+                  fontWeight: "semibold",
                   backgroundColor: "white",
                   border: "2px solid grey",
+                  marginTop: "5px",
                 }}
               >
                 Kontak
