@@ -1,3 +1,4 @@
+import { Faq } from "../../components/Faq/Faq";
 import { LandingPage } from "../../components/Landing/LandingPage";
 import { IniNavbar } from "../../components/Navbar/iniNavbar";
 import VillaRecomendation from "../../components/Recomendations/VillaRecomendation";
@@ -12,6 +13,7 @@ const HomePage = () => {
       <VillaRecomendation />
       <Wisata />
       <VillaCard />
+      <Faq />
     </>
   );
 };
