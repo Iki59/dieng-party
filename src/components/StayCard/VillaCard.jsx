@@ -2,8 +2,10 @@ import { Button, Card, Col, Container, ListGroup, Row } from 'react-bootstrap';
 import Villa3 from '../../assets/villa3.jpeg';
 import Wifi from '../../assets/wifi.svg';
 import Breakfast from '../../assets/breakfast.svg';
+import { useNavigate } from 'react-router-dom';
 
 const VillaCard = () => {
+  const navigate = useNavigate();
   const cards = [
     {
       image: Villa3,
@@ -221,6 +223,7 @@ const VillaCard = () => {
         <div className="d-flex justify-content-center mb-5">
           <Button
             className="bg-white text-black fw-bold border-secondary rounded-5"
+            onClick={() => navigate('/villa-list')}
             style={{
               marginTop: '0px',
               marginBottom: '2px',

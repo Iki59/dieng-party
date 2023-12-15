@@ -1,8 +1,7 @@
-import React from "react";
-import Logo from "../../assets/logo.png";
-import Container from "react-bootstrap/Container";
-import Nav from "react-bootstrap/Nav";
-import Navbar from "react-bootstrap/Navbar";
+import Logo from '../../assets/logo.png';
+import Container from 'react-bootstrap/Container';
+import Nav from 'react-bootstrap/Nav';
+import Navbar from 'react-bootstrap/Navbar';
 
 export const IniNavbar = () => {
   return (
@@ -22,14 +21,13 @@ export const IniNavbar = () => {
             <Nav.Link href="#">
               <button
                 style={{
-                  fontSize: "14px",
-                  borderRadius: "80px",
-                  padding: "4px 15px",
-                  border: "none",
-                  fontWeight: "semibold",
-                  backgroundColor: "white",
-                  border: "2px solid grey",
-                  marginTop: "5px",
+                  fontSize: '14px',
+                  borderRadius: '80px',
+                  padding: '4px 15px',
+                  border: 'none',
+                  fontWeight: 'semibold',
+                  backgroundColor: 'white',
+                  marginTop: '5px',
                 }}
               >
                 Kontak

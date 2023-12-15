@@ -53,3 +53,26 @@
 .read-the-docs {
   color: #888;
 } */
+
+.regular {
+  position: relative;
+  padding: 0 40px;
+  &::before {
+    content: '\201C';
+    position: absolute;
+    font-size: 3em;
+    color: black;
+    top: -30px;
+    left: 5px;
+    font-family: Poppins;
+  }
+  &::after {
+    content: '\201D';
+    position: absolute;
+    font-size: 3em;
+    color: black;
+    bottom: -55px;
+    right: 50px;
+    font-family: Poppins;
+  }
+}
