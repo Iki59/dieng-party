@@ -1,40 +1,46 @@
-import React from "react";
-import { Col, Container, Row } from "react-bootstrap";
-import LandingPhoto from "../../assets/landing.png";
+import React from 'react';
+import { Col, Container, Row } from 'react-bootstrap';
+import LandingPhoto from '../../assets/landing.png';
 
 export const LandingPage = () => {
   return (
-    <div style={{ minHeight: "100vh" }}>
-      <Container>
-        <Row>
-          <Col>
-            <div style={{ marginTop: "11rem" }}>
-              <div style={{ marginBottom: "-1rem" }}>
-                <p className="text-body-secondary fw-medium">Menjelajahi dieng bersama dieng party</p>
-              </div>
-              <div className="fs-1 fw-semibold" style={{ marginBottom: "2rem" }}>
-                <p>Temukan Keseruan disini</p>
-              </div>
-              <div className="text-body-secondary fw-medium" style={{ fontSize: "1rem" }}>
-                <p style={{ marginBottom: "1px" }}>Selalu tersedia tempat tempat dan rekomendasi</p>
-                <p> terbaik hanya ada di Dieng Party.</p>
-              </div>
-              <div>
-                <button
-                  className="btn btn-primary fw-semibold mt-3"
-                  style={{
-                    borderRadius: "90px",
-                    padding: "8px 70px",
-                  }}
-                >
-                  Find Recomendation Cottage{" "}
-                </button>
-              </div>
+    <div style={{ minHeight: '100vh' }}>
+      <Container className="px-lg-4 py-lg-5 px-md-3 py-md-3 px-4 py-5">
+        <Row className="g-md-5 g-lg-0 g-5 d-flex align-items-center">
+          <Col md={6}>
+            <div>
+              <p className="text-body-secondary fw-medium mb-1">
+                MENJELAJAHI DIENG BERSAMA DIENG PARTY
+              </p>
+            </div>
+            <div className="fs-1 fw-semibold" style={{ marginBottom: '2rem' }}>
+              <h1>Temukan Keseruan disini</h1>
+            </div>
+            <div className="text-body-secondary fs-9 fw-medium">
+              <p>
+                Selalu tersedia tempat tempat dan rekomendasi terbaik hanya ada
+                di Dieng Party.
+              </p>
+            </div>
+            <div>
+              <button
+                className="btn btn-primary fs-8 fw-semibold mt-3 p-2 w-75"
+                style={{
+                  borderRadius: '90px',
+                }}
+              >
+                Find Recomendation Cottage{' '}
+              </button>
             </div>
           </Col>
-          <Col>
-            <div className="mt-5">
-              <img src={LandingPhoto} alt="landing" style={{ height: "28rem" }} />
+          <Col md={6}>
+            <div>
+              <img
+                className="w-100"
+                src={LandingPhoto}
+                alt="landing"
+                style={{ height: '28rem' }}
+              />
             </div>
           </Col>
         </Row>

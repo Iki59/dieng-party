@@ -24,65 +24,9 @@ const ListCard = () => {
 
   const dataVillaLength = dataVilla.length;
 
-  //   const cards = [
-  //     {
-  //       image: Villa3,
-  //       title: ' Villa Kayu Pemandangan Bukit',
-  //       price: 'Rp. 300.000,-/Night',
-  //       text: '1',
-  //     },
-  //     {
-  //       image: Villa3,
-  //       title: ' Villa Kayu Pemandangan Bukit',
-  //       price: 'Rp. 300.000,-/Night',
-  //       text: '2',
-  //     },
-  //     {
-  //       image: Villa3,
-  //       title: ' Villa Kayu Pemandangan Bukit',
-  //       price: 'Rp. 300.000,-/Night',
-  //       text: '3',
-  //     },
-  //     {
-  //       image: Villa3,
-  //       title: ' Villa Kayu Pemandangan Bukit',
-  //       price: 'Rp. 300.000,-/Night',
-  //       text: '4',
-  //     },
-  //     {
-  //       image: Villa3,
-  //       title: ' Villa Kayu Pemandangan Bukit',
-  //       price: 'Rp. 300.000,-/Night',
-  //       text: '5',
-  //     },
-  //     {
-  //       image: Villa3,
-  //       title: ' Villa Kayu Pemandangan Bukit',
-  //       price: 'Rp. 300.000,-/Night',
-  //       text: '6',
-  //     },
-  //     {
-  //       image: Villa3,
-  //       title: ' Villa Kayu Pemandangan Bukit',
-  //       price: 'Rp. 300.000,-/Night',
-  //       text: '7',
-  //     },
-  //     {
-  //       image: Villa3,
-  //       title: ' Villa Kayu Pemandangan Bukit',
-  //       price: 'Rp. 300.000,-/Night',
-  //       text: '8',
-  //     },
-  //     {
-  //       image: Villa3,
-  //       title: ' Villa Kayu Pemandangan Bukit',
-  //       price: 'Rp. 300.000,-/Night',
-  //       text: '9',
-  //     },
-  //   ];
   return (
-    <>
-      <Container className="mt-3">
+    <div className="min-vh-100">
+      <Container className="mt-3 px-lg-4 px-md-3 px-4">
         <div>
           <Image
             src={Wonosobo}
@@ -96,12 +40,12 @@ const ListCard = () => {
             <h3>Over 300 Stays</h3>
           </div>
           <div>
-            <Row>
+            <Row className="g-3 g-md-3">
               {dataVilla.slice(0, visible).map((item, index) => (
-                <Col className="mb-4" md={4} key={index}>
+                <Col md={4} key={index}>
                   <Card
+                    className="w-100"
                     style={{
-                      width: '19rem',
                       border: '1px solid #E6E8EC',
                       borderRadius: '22px',
                       overflow: 'hidden',
@@ -141,10 +85,10 @@ const ListCard = () => {
                     <ListGroup className="list-group-flush">
                       <ListGroup.Item>
                         <Row>
-                          <Col md={9}>
+                          <Col xs={9} md={8} lg={9}>
                             <h4 style={{ fontSize: '17px' }}>{item.title}</h4>
                           </Col>
-                          <Col md={3}>
+                          <Col xs={3} md={4} lg={3}>
                             <div
                               className="border-success"
                               style={{
@@ -241,7 +185,7 @@ const ListCard = () => {
           </div>
         </div>
       </Container>
-    </>
+    </div>
   );
 };
 

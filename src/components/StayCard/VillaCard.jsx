@@ -63,13 +63,13 @@ const VillaCard = () => {
     },
   ];
   return (
-    <>
-      <Container className="px-4">
-        <Row>
-          <Col md={10}>
-            <h2>128 experiences</h2>
+    <div className="min-vh-100">
+      <Container className="px-lg-4 py-lg-5 px-md-3 py-md-3 px-4 py-5">
+        <Row className="mb-3">
+          <Col md={9} lg={10}>
+            <h1 className="fs-1 fw-bold">128 experiences</h1>
           </Col>
-          <Col md={2}>
+          <Col md={3} lg={2} className="d-none d-sm-block">
             <Button
               className="bg-white text-black fw-bold border-secondary rounded-5"
               style={{
@@ -82,36 +82,35 @@ const VillaCard = () => {
               See more +
             </Button>
           </Col>
+          <div className="d-flex">
+            <p
+              className="me-3 text-success"
+              style={{
+                border: '2px solid',
+                padding: '4px',
+                borderRadius: '7px',
+                fontSize: '14px',
+              }}
+            >
+              UP TO 25% OFF
+            </p>
+            <p>May 1-14, 2 guests</p>
+          </div>
         </Row>
-        <div className="d-flex">
-          <p
-            className="me-3 text-success"
-            style={{
-              border: '2px solid',
-              padding: '4px',
-              borderRadius: '7px',
-              fontSize: '14px',
-            }}
-          >
-            UP TO 25% OFF
-          </p>
-          <p>May 1-14, 2 guests</p>
-        </div>
-        <Row>
+        <Row className="g-3 g-md-3">
           {cards.map((item, index) => (
-            <Col className="mb-4" md={4} key={index}>
+            <Col md={4} key={index}>
               <Card
+                className="w-100"
                 style={{
-                  width: '19rem',
                   border: '1px solid #E6E8EC',
                   borderRadius: '22px',
                   overflow: 'hidden',
                 }}
               >
                 <Card.Img
-                  className="img-fluid"
+                  className="img-fluid w-100"
                   style={{
-                    width: '100%',
                     height: '14rem',
                     padding: '0px',
                     borderRadius: '22px',
@@ -142,10 +141,10 @@ const VillaCard = () => {
                 <ListGroup className="list-group-flush">
                   <ListGroup.Item>
                     <Row>
-                      <Col md={9}>
+                      <Col xs={9} md={8} lg={9}>
                         <h4 style={{ fontSize: '17px' }}>{item.title}</h4>
                       </Col>
-                      <Col md={3}>
+                      <Col xs={3} md={4} lg={3}>
                         <div
                           className="border-success"
                           style={{
@@ -236,7 +235,7 @@ const VillaCard = () => {
           </Button>
         </div>
       </Container>
-    </>
+    </div>
   );
 };
 

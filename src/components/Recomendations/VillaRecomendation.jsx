@@ -5,6 +5,7 @@ import LeftArrow from '../../assets/arrowLeft.svg';
 import RightArrow from '../../assets/arrowRight.svg';
 import homeIcon from '../../assets/home.svg';
 import { useState } from 'react';
+import { useMediaQuery } from 'react-responsive';
 
 const VillaRecomendation = () => {
   const cards = [
@@ -70,7 +71,11 @@ const VillaRecomendation = () => {
     },
   ];
 
-  const cardsPerPage = 4;
+  const isMobile = useMediaQuery({ query: '(max-width: 767px)' });
+  const isTablet = useMediaQuery({
+    query: '(min-width: 768px) and (max-width: 991px)',
+  });
+  const cardsPerPage = isMobile ? 1 : isTablet ? 3 : 4;
   const [startIndex, setStartIndex] = useState(0);
   const [isPrevDisabled, setIsPrevDisabled] = useState(true);
   const [isNextDisabled, setIsNextDisabled] = useState(
@@ -106,14 +111,14 @@ const VillaRecomendation = () => {
   console.log('ini start', startIndex);
 
   return (
-    <Container>
+    <Container className="px-lg-4 py-lg-5 px-md-3 py-md-3 px-4 py-5">
       <Row>
-        <Col md={11}>
-          <h3>Rekomendasi Villa Terbaik</h3>
+        <Col xs={12} md={10} lg={11}>
+          <h1>Rekomendasi Villa Terbaik</h1>
           <p className="text-muted">Yang terbaik selalu bisa bikin kangen</p>
         </Col>
-        <Col md={1}>
-          <div>
+        <Col xs={3} md={2} lg={1}>
+          <div className="d-none d-sm-block">
             <img
               onClick={isPrevDisabled ? null : handlePrev}
               disabled={startIndex === 0}
@@ -146,10 +151,10 @@ const VillaRecomendation = () => {
 
                 return (
                   <Carousel.Item key={index}>
-                    <Row>
+                    <Row className="g-md-3 g-lg-2">
                       {cardSubset.map((card, cardIndex) => (
-                        <Col key={cardIndex} md={3}>
-                          <Card style={{ width: '16rem', border: 'none' }}>
+                        <Col key={cardIndex} md={4} lg={3}>
+                          <Card className="w-100" style={{ border: 'none' }}>
                             <Card.Img
                               style={{
                                 height: '14rem',
@@ -202,6 +207,21 @@ const VillaRecomendation = () => {
           </Carousel>
         </Col>
       </Row>
+      <div className="d-md-none ms-3">
+        <img
+          onClick={isPrevDisabled ? null : handlePrev}
+          disabled={startIndex === 0}
+          className="me-2"
+          src={LeftArrow}
+          alt="Left Arrow"
+        />
+        <img
+          onClick={isNextDisabled ? null : handleNext}
+          disabled={startIndex + cardsPerPage >= cards.length}
+          src={RightArrow}
+          alt="Right Arrow"
+        />
+      </div>
     </Container>
   );
 };
