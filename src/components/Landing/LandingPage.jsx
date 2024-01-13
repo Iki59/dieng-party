@@ -1,10 +1,15 @@
 import React from 'react';
 import { Col, Container, Row } from 'react-bootstrap';
 import LandingPhoto from '../../assets/landing.png';
+import { useMediaQuery } from 'react-responsive';
 
 export const LandingPage = () => {
+  const isMobile = useMediaQuery({ query: '(max-width: 767px)' });
+  const isTablet = useMediaQuery({
+    query: '(min-width: 768px) and (max-width: 991px)',
+  });
   return (
-    <div style={{ minHeight: '100vh' }}>
+    <>
       <Container className="px-lg-4 py-lg-5 px-md-3 py-md-3 px-4 py-5">
         <Row className="g-md-5 g-lg-0 g-5 d-flex align-items-center">
           <Col md={6}>
@@ -39,12 +44,14 @@ export const LandingPage = () => {
                 className="w-100"
                 src={LandingPhoto}
                 alt="landing"
-                style={{ height: '28rem' }}
+                style={{
+                  height: isTablet ? '21rem' : isMobile ? '20rem' : '28rem',
+                }}
               />
             </div>
           </Col>
         </Row>
       </Container>
-    </div>
+    </>
   );
 };

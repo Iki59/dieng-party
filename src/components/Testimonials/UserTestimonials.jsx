@@ -248,7 +248,7 @@ const UserTestimonials = () => {
   console.log('content', selectedContent);
   return (
     <>
-      <Container className="px-lg-4 py-lg-5 px-md-3 py-md-3 px-4 py-5">
+      <Container className="px-lg-4 px-md-3 px-4">
         <Row className="g-5">
           <Col
             xs={12}
