@@ -1,75 +1,81 @@
 import { Card, Carousel, Col, Container, Row } from 'react-bootstrap';
-import VillaEx from '../../assets/villaex.jpg';
-import Villa2 from '../../assets/villa2.jpg';
+// import VillaEx from '../../assets/villaex.jpg';
+// import Villa2 from '../../assets/villa2.jpg';
 import LeftArrow from '../../assets/arrowLeft.svg';
 import RightArrow from '../../assets/arrowRight.svg';
 import homeIcon from '../../assets/home.svg';
 import { useState } from 'react';
 import { useMediaQuery } from 'react-responsive';
+import dataVilla from '../../../data-villa.json';
+import { useNavigate } from 'react-router-dom';
 
 const VillaRecomendation = () => {
-  const cards = [
-    {
-      image: VillaEx,
-      title: 'Villa Cemara',
-      price: 'Rp. 300.000,-/Night',
-      text: '1',
-    },
-    {
-      image: Villa2,
-      title: 'Villa Cemara',
-      price: 'Rp. 300.000,-/Night',
-      text: '2',
-    },
-    {
-      image: VillaEx,
-      title: 'Villa Cemara',
-      price: 'Rp. 300.000,-/Night',
-      text: '3',
-    },
-    {
-      image: Villa2,
-      title: 'Villa Cemara',
-      price: 'Rp. 300.000,-/Night',
-      text: '4',
-    },
-    {
-      image: VillaEx,
-      title: 'Villa Cemara',
-      price: 'Rp. 300.000,-/Night',
-      text: '5',
-    },
-    {
-      image: Villa2,
-      title: 'Villa Cemara',
-      price: 'Rp. 300.000,-/Night',
-      text: '6',
-    },
-    {
-      image: VillaEx,
-      title: 'Villa Cemara',
-      price: 'Rp. 300.000,-/Night',
-      text: '7',
-    },
-    {
-      image: Villa2,
-      title: 'Villa Cemara',
-      price: 'Rp. 300.000,-/Night',
-      text: '8',
-    },
-    {
-      image: VillaEx,
-      title: 'Villa Cemara',
-      price: 'Rp. 300.000,-/Night',
-      text: '9',
-    },
-    {
-      image: Villa2,
-      title: 'Villa Cemara',
-      price: 'Rp. 300.000,-/Night',
-      text: '10',
-    },
-  ];
+  // const cards = [
+  //   {
+  //     image: VillaEx,
+  //     title: 'Villa Cemara',
+  //     price: 'Rp. 300.000,-/Night',
+  //     text: '1',
+  //   },
+  //   {
+  //     image: Villa2,
+  //     title: 'Villa Cemara',
+  //     price: 'Rp. 300.000,-/Night',
+  //     text: '2',
+  //   },
+  //   {
+  //     image: VillaEx,
+  //     title: 'Villa Cemara',
+  //     price: 'Rp. 300.000,-/Night',
+  //     text: '3',
+  //   },
+  //   {
+  //     image: Villa2,
+  //     title: 'Villa Cemara',
+  //     price: 'Rp. 300.000,-/Night',
+  //     text: '4',
+  //   },
+  //   {
+  //     image: VillaEx,
+  //     title: 'Villa Cemara',
+  //     price: 'Rp. 300.000,-/Night',
+  //     text: '5',
+  //   },
+  //   {
+  //     image: Villa2,
+  //     title: 'Villa Cemara',
+  //     price: 'Rp. 300.000,-/Night',
+  //     text: '6',
+  //   },
+  //   {
+  //     image: VillaEx,
+  //     title: 'Villa Cemara',
+  //     price: 'Rp. 300.000,-/Night',
+  //     text: '7',
+  //   },
+  //   {
+  //     image: Villa2,
+  //     title: 'Villa Cemara',
+  //     price: 'Rp. 300.000,-/Night',
+  //     text: '8',
+  //   },
+  //   {
+  //     image: VillaEx,
+  //     title: 'Villa Cemara',
+  //     price: 'Rp. 300.000,-/Night',
+  //     text: '9',
+  //   },
+  //   {
+  //     image: Villa2,
+  //     title: 'Villa Cemara',
+  //     price: 'Rp. 300.000,-/Night',
+  //     text: '10',
+  //   },
+  // ];
+  const navigate = useNavigate();
+
+  const cards = dataVilla.filter((item) => item.recomendation === true);
+  console.log('ini cards', cards);
 
   const isMobile = useMediaQuery({ query: '(max-width: 767px)' });
   const isTablet = useMediaQuery({
@@ -155,7 +161,13 @@ const VillaRecomendation = () => {
                       <Row className="g-md-3 g-lg-2">
                         {cardSubset.map((card, cardIndex) => (
                           <Col key={cardIndex} md={4} lg={3}>
-                            <Card className="w-100" style={{ border: 'none' }}>
+                            <Card
+                              className="w-100"
+                              style={{ border: 'none' }}
+                              onClick={() => {
+                                navigate(`/detail/${card.id}`);
+                              }}
+                            >
                               <Card.Img
                                 style={{
                                   height: '14rem',

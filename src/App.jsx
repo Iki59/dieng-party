@@ -1,8 +1,8 @@
-import { BrowserRouter, Routes, Route } from "react-router-dom";
-import "./App.css";
-import { Detail } from "./pages/Details/Detail";
-import HomePage from "./pages/home";
-import ListVilla from "./pages/ListVilla/ListVilla";
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import './App.css';
+import { Detail } from './pages/Details/Detail';
+import HomePage from './pages/home';
+import ListVilla from './pages/ListVilla/ListVilla';
 
 function App() {
   return (
@@ -10,7 +10,7 @@ function App() {
       <Routes>
         <Route path="/" element={<HomePage />} />
         <Route path="/villa-list" element={<ListVilla />} />
-        <Route path="/detail" element={<Detail />} />
+        <Route path="/detail/:id" element={<Detail />} />
       </Routes>
     </BrowserRouter>
   );
