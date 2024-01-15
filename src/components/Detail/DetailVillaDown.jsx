@@ -11,6 +11,7 @@ import Shape from '../../assets/Shape.png';
 import Mark from '../../assets/Line.png';
 import Star from '../../assets/Frame 855.png';
 import PropTypes from 'prop-types';
+import ReactWhatsapp from 'react-whatsapp';
 
 export const DetailVillaDown = ({ dataVilla }) => {
   console.log('villa 2 nihh', dataVilla);
@@ -264,14 +265,16 @@ export const DetailVillaDown = ({ dataVilla }) => {
               </div>
             </div>
             <div>
-              <button
+              <ReactWhatsapp
+                number="+6285395249752"
+                message="Hi Gaeeeesss"
                 className="btn btn-primary"
                 style={{ width: '100%', marginTop: '15px' }}
               >
                 <span style={{ fontWeight: '600' }}>
                   Booking <img src={Shopping} alt="shopping" />
                 </span>
-              </button>
+              </ReactWhatsapp>
             </div>
             <div style={{ marginTop: '20px', padding: '0px 60px' }}>
               <a href="#" style={{ textDecoration: 'none', color: 'grey' }}>
