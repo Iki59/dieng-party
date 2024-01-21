@@ -3,11 +3,11 @@ import { Container } from 'react-bootstrap';
 import { DetailVillaDown } from './DetailVillaDown';
 import { DetailVillaUp } from './DetailVillaUp';
 import dataVilla from '../../../data-villa.json';
+import { useParams } from 'react-router-dom';
 
 export const DetailVilla = () => {
-  const url = window.location.href;
-  const segments = url.split('/');
-  const id = segments[segments.length - 1];
+  const { id } = useParams();
+  console.log('ini id nya', id);
 
   const villa = dataVilla.find((item) => item.id == id);
   return (

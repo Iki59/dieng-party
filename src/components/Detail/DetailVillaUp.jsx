@@ -18,7 +18,6 @@ import BtnAll from '../../assets/btn-all.png';
 import PropTypes from 'prop-types';
 
 export const DetailVillaUp = ({ dataVilla }) => {
-  console.log('ini data villa', dataVilla);
   return (
     <>
       <Row>
@@ -84,7 +83,7 @@ export const DetailVillaUp = ({ dataVilla }) => {
       <Row>
         <Col>
           <div className="mt-3 fw-bold">
-            <h2 className="fs-1">Spectacular views of Queenstown</h2>
+            <h2 className="fs-1">{dataVilla.headTitle}</h2>
           </div>
         </Col>
         <Col>
@@ -118,19 +117,25 @@ export const DetailVillaUp = ({ dataVilla }) => {
             color: 'grey',
           }}
         >
-          (256 reviews)
+          ({`${dataVilla.reviews} reviews`})
         </p>
-        <img src={Shape} alt="home" />
-        <p
-          style={{
-            display: 'inline-block',
-            marginLeft: '5px',
-            marginRight: '20px',
-            color: 'grey',
-          }}
-        >
-          Rekomendasi
-        </p>
+        {dataVilla.recomendation === true ? (
+          <>
+            <img src={Shape} alt="home" />
+            <p
+              style={{
+                display: 'inline-block',
+                marginLeft: '5px',
+                marginRight: '20px',
+                color: 'grey',
+              }}
+            >
+              Rekomendasi
+            </p>
+          </>
+        ) : (
+          ''
+        )}
         <img src={Mark} alt="mark" />
         <p
           style={{
@@ -140,22 +145,38 @@ export const DetailVillaUp = ({ dataVilla }) => {
             color: 'grey',
           }}
         >
-          Queenstown, Otago, New Zealand
+          {dataVilla.location}
         </p>
       </div>
       <div className="d-flex">
         <div>
-          <img src={Primary} alt="primary" style={{ width: '98%' }} />
+          <img
+            src={`../${dataVilla.image}`}
+            alt="primary"
+            style={{ width: '98%' }}
+          />
         </div>
         <div>
           <div className="mb-2">
-            <img src={Thumb01} alt="thumb" style={{ width: '98%' }} />
+            <img
+              src={`../${dataVilla.image2}`}
+              alt="thumb"
+              style={{ width: '98%' }}
+            />
           </div>
           <div className="mb-2">
-            <img src={Thumb03} alt="thumb" style={{ width: '98%' }} />
+            <img
+              src={`../${dataVilla.image3}`}
+              alt="thumb"
+              style={{ width: '98%' }}
+            />
           </div>
           <div className="mb-2">
-            <img src={Thumb02} alt="thumb" style={{ width: '98%' }} />
+            <img
+              src={`../${dataVilla.image4}`}
+              alt="thumb"
+              style={{ width: '98%' }}
+            />
           </div>
         </div>
       </div>

@@ -14,13 +14,12 @@ import PropTypes from 'prop-types';
 import ReactWhatsapp from 'react-whatsapp';
 
 export const DetailVillaDown = ({ dataVilla }) => {
-  console.log('villa 2 nihh', dataVilla);
   return (
     <>
       <Row>
         <Col sm={8}>
           <div>
-            <h2>Private room in house</h2>
+            <h2>{dataVilla.title}</h2>
           </div>
           <div>
             <p style={{ color: 'grey' }}>
@@ -31,7 +30,7 @@ export const DetailVillaDown = ({ dataVilla }) => {
                   alt="ava"
                   style={{ marginRight: '4px', marginLeft: '3px' }}
                 />{' '}
-                Rifkiyantoro
+                {dataVilla.host}
               </span>
             </p>
           </div>
@@ -47,7 +46,7 @@ export const DetailVillaDown = ({ dataVilla }) => {
                   color: 'grey',
                 }}
               >
-                2 guests
+                {`${dataVilla.guests} guests`}
               </p>
               <img src={Mark} alt="markjuga" />
               <p
@@ -58,7 +57,7 @@ export const DetailVillaDown = ({ dataVilla }) => {
                   color: 'grey',
                 }}
               >
-                1 bedroom
+                {`${dataVilla.bedroom} bedroom`}
               </p>
               <img src={Mark} alt="markjuga" />
               <p
@@ -69,164 +68,183 @@ export const DetailVillaDown = ({ dataVilla }) => {
                   color: 'grey',
                 }}
               >
-                1 private bath
+                {`${dataVilla.privateBath} private bath`}
               </p>
             </div>
           </div>
           <div
             style={{ color: 'grey', marginTop: '40px', fontWeight: 'semibold' }}
           >
-            <p>
-              Described by Queenstown House & Garden magazine as having 'one of
-              the best views we've ever seen' you will love relaxing in this
-              newly built, architectural house sitting proudly on Queenstown
-              Hill.
-            </p>
-            <p>
-              Enjoy breathtaking 180' views of Lake Wakatipu from your well
-              appointed & privately accessed bedroom with modern en suite and
-              floor-to-ceiling windows.
-            </p>
-            <p>
-              Your private patio takes in the afternoon sun, letting you soak up
-              unparalleled lake and mountain views by day and the stars & city
-              lights by night.
-            </p>
+            <p>{dataVilla.description}</p>
+            <p>{dataVilla.description2}</p>
+            <p>{dataVilla.description3}</p>
           </div>
           <div style={{ marginTop: '4rem' }}>
             <h4>Amenities</h4>
             <Row>
               <Col>
-                <div>
-                  <img
-                    src={Modem}
-                    alt="modem"
-                    style={{ marginRight: '25px' }}
-                  />
-                  <p
-                    style={{
-                      display: 'inline-block',
-                      fontWeight: '500',
-                      color: 'grey',
-                    }}
-                  >
-                    Free Wifi 24/7
-                  </p>
-                </div>
-                <div>
-                  <img
-                    src={Computer}
-                    alt="computer"
-                    style={{ marginRight: '25px' }}
-                  />
-                  <p
-                    style={{
-                      display: 'inline-block',
-                      fontWeight: '500',
-                      color: 'grey',
-                    }}
-                  >
-                    Free Computer
-                  </p>
-                </div>
-                <div>
-                  <img
-                    src={Medical}
-                    alt="medical"
-                    style={{ marginRight: '25px' }}
-                  />
-                  <p
-                    style={{
-                      display: 'inline-block',
-                      fontWeight: '500',
-                      color: 'grey',
-                    }}
-                  >
-                    Alat Kesehatan
-                  </p>
-                </div>
-                <div>
-                  <img
-                    src={Apple}
-                    alt="apple"
-                    style={{ marginRight: '25px' }}
-                  />
-                  <p
-                    style={{
-                      display: 'inline-block',
-                      fontWeight: '500',
-                      color: 'grey',
-                    }}
-                  >
-                    Sedia Grill
-                  </p>
-                </div>
+                {dataVilla.wifi === true ? (
+                  <div>
+                    <img
+                      src={Modem}
+                      alt="modem"
+                      style={{ marginRight: '25px' }}
+                    />
+                    <p
+                      style={{
+                        display: 'inline-block',
+                        fontWeight: '500',
+                        color: 'grey',
+                      }}
+                    >
+                      Free Wifi 24/7
+                    </p>
+                  </div>
+                ) : (
+                  ''
+                )}
+                {dataVilla.computer === true ? (
+                  <div>
+                    <img
+                      src={Computer}
+                      alt="computer"
+                      style={{ marginRight: '25px' }}
+                    />
+                    <p
+                      style={{
+                        display: 'inline-block',
+                        fontWeight: '500',
+                        color: 'grey',
+                      }}
+                    >
+                      Free Computer
+                    </p>
+                  </div>
+                ) : (
+                  ''
+                )}
+                {dataVilla.medical === true ? (
+                  <div>
+                    <img
+                      src={Medical}
+                      alt="medical"
+                      style={{ marginRight: '25px' }}
+                    />
+                    <p
+                      style={{
+                        display: 'inline-block',
+                        fontWeight: '500',
+                        color: 'grey',
+                      }}
+                    >
+                      Alat Kesehatan
+                    </p>
+                  </div>
+                ) : (
+                  ''
+                )}
+                {dataVilla.grill === true ? (
+                  <div>
+                    <img
+                      src={Apple}
+                      alt="apple"
+                      style={{ marginRight: '25px' }}
+                    />
+                    <p
+                      style={{
+                        display: 'inline-block',
+                        fontWeight: '500',
+                        color: 'grey',
+                      }}
+                    >
+                      Sedia Grill
+                    </p>
+                  </div>
+                ) : (
+                  ''
+                )}
               </Col>
               <Col>
-                <div>
-                  <img
-                    src={Modem}
-                    alt="modem"
-                    style={{ marginRight: '25px' }}
-                  />
-                  <p
-                    style={{
-                      display: 'inline-block',
-                      fontWeight: '500',
-                      color: 'grey',
-                    }}
-                  >
-                    Free Wifi 24/7
-                  </p>
-                </div>
-                <div>
-                  <img
-                    src={Computer}
-                    alt="computer"
-                    style={{ marginRight: '25px' }}
-                  />
-                  <p
-                    style={{
-                      display: 'inline-block',
-                      fontWeight: '500',
-                      color: 'grey',
-                    }}
-                  >
-                    Free Computer
-                  </p>
-                </div>
-                <div>
-                  <img
-                    src={Medical}
-                    alt="medical"
-                    style={{ marginRight: '25px' }}
-                  />
-                  <p
-                    style={{
-                      display: 'inline-block',
-                      fontWeight: '500',
-                      color: 'grey',
-                    }}
-                  >
-                    Alat Kesehatan
-                  </p>
-                </div>
-                <div>
-                  <img
-                    src={Apple}
-                    alt="apple"
-                    style={{ marginRight: '25px' }}
-                  />
-                  <p
-                    style={{
-                      display: 'inline-block',
-                      fontWeight: '500',
-                      color: 'grey',
-                    }}
-                  >
-                    Sedia Grill
-                  </p>
-                </div>
+                {dataVilla.wifi === true ? (
+                  <div>
+                    <img
+                      src={Modem}
+                      alt="modem"
+                      style={{ marginRight: '25px' }}
+                    />
+                    <p
+                      style={{
+                        display: 'inline-block',
+                        fontWeight: '500',
+                        color: 'grey',
+                      }}
+                    >
+                      Free Wifi 24/7
+                    </p>
+                  </div>
+                ) : (
+                  ''
+                )}
+                {dataVilla.computer === true ? (
+                  <div>
+                    <img
+                      src={Computer}
+                      alt="computer"
+                      style={{ marginRight: '25px' }}
+                    />
+                    <p
+                      style={{
+                        display: 'inline-block',
+                        fontWeight: '500',
+                        color: 'grey',
+                      }}
+                    >
+                      Free Computer
+                    </p>
+                  </div>
+                ) : (
+                  ''
+                )}
+                {dataVilla.medical === true ? (
+                  <div>
+                    <img
+                      src={Medical}
+                      alt="medical"
+                      style={{ marginRight: '25px' }}
+                    />
+                    <p
+                      style={{
+                        display: 'inline-block',
+                        fontWeight: '500',
+                        color: 'grey',
+                      }}
+                    >
+                      Alat Kesehatan
+                    </p>
+                  </div>
+                ) : (
+                  ''
+                )}
+                {dataVilla.grill === true ? (
+                  <div>
+                    <img
+                      src={Apple}
+                      alt="apple"
+                      style={{ marginRight: '25px' }}
+                    />
+                    <p
+                      style={{
+                        display: 'inline-block',
+                        fontWeight: '500',
+                        color: 'grey',
+                      }}
+                    >
+                      Sedia Grill
+                    </p>
+                  </div>
+                ) : (
+                  ''
+                )}
               </Col>
             </Row>
           </div>
@@ -243,7 +261,7 @@ export const DetailVillaDown = ({ dataVilla }) => {
               <div>
                 <div>
                   <p style={{ fontSize: '1.5rem', fontWeight: '700' }}>
-                    Rp800k/night
+                    {dataVilla.price}
                   </p>
                 </div>
                 <div style={{ marginTop: '-0.7rem' }}>
@@ -256,7 +274,7 @@ export const DetailVillaDown = ({ dataVilla }) => {
                       color: 'grey',
                     }}
                   >
-                    (256 reviews)
+                    ({`${dataVilla.reviews} reviews`})
                   </p>
                 </div>
               </div>
@@ -267,7 +285,7 @@ export const DetailVillaDown = ({ dataVilla }) => {
             <div>
               <ReactWhatsapp
                 number="+6285395249752"
-                message="Hi Gaeeeesss"
+                message={`Saya tertarik untuk memesan villa di ${dataVilla.title}`}
                 className="btn btn-primary"
                 style={{ width: '100%', marginTop: '15px' }}
               >
