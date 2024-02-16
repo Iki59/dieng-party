@@ -76,3 +76,33 @@
     font-family: Poppins;
   }
 }
+
+/* #photoArray {
+  display: grid;
+  grid-gap: 0.5em;
+  grid-template-areas:
+    'photoOne photoTwo'
+    'photoOne photoThree'
+    'photoOne photoFour';
+  grid-template-columns: 1fr 17%;
+}
+
+#photoArray > div {
+}
+
+#photoArray > div:first-child {
+  grid-area: photoOne;
+  height: 450px;
+}
+
+#photoArray > div:nth-child(2) {
+  grid-area: photoTwo;
+}
+
+#photoArray > div:nth-child(3) {
+  grid-area: photoThree;
+}
+
+#photoArray > div:nth-child(4) {
+  grid-area: photoFour;
+} */

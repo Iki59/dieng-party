@@ -1,5 +1,5 @@
-import React from 'react';
-import { Col, Row } from 'react-bootstrap';
+import React, { useState } from 'react';
+import { Carousel, Col, Container, Image, Row } from 'react-bootstrap';
 import GoHome from '../../assets/button.png';
 import Location from '../../assets/location.png';
 import Share from '../../assets/share.png';
@@ -16,175 +16,228 @@ import Thumb03 from '../../assets/thumb 03.png';
 import Thumb02 from '../../assets/thumb 02.png';
 import BtnAll from '../../assets/btn-all.png';
 import PropTypes from 'prop-types';
+import { useMediaQuery } from 'react-responsive';
 
 export const DetailVillaUp = ({ dataVilla }) => {
+  const [index, setIndex] = useState(0);
+
+  const handleSelect = (selectedIndex) => {
+    setIndex(selectedIndex);
+  };
+  const isMobile = useMediaQuery({ query: '(max-width: 767px)' });
+  const isTablet = useMediaQuery({
+    query: '(min-width: 768px) and (max-width: 991px)',
+  });
   return (
     <>
-      <Row>
-        <Col>
-          <div className="mt-3">
-            <a href="#">
-              <img src={GoHome} alt="button" />
-            </a>
-          </div>
-        </Col>
-        <Col>
-          <div
+      <Container className="px-lg-4 py-lg-3 px-md-3 py-md-1 px-4 py-3">
+        <Row>
+          <Col>
+            <div className="mt-3">
+              <a href="#">
+                <img src={GoHome} alt="button" />
+              </a>
+            </div>
+          </Col>
+          {/* <Col>
+            <div
+              style={{
+                marginTop: '1rem',
+                fontSize: '0.8rem',
+                fontWeight: 'semibold',
+              }}
+            >
+              <a
+                className="me-3"
+                href="#"
+                style={{
+                  textDecoration: 'none',
+                  color: 'black',
+                }}
+              >
+                Home
+              </a>
+              <a
+                className="me-3"
+                href="#"
+                style={{
+                  textDecoration: 'none',
+                  color: 'black',
+                }}
+              >
+                Stay
+              </a>
+              <a
+                className="me-3"
+                href="#"
+                style={{
+                  textDecoration: 'none',
+                  color: 'black',
+                }}
+              >
+                New Zealand
+              </a>
+              <a
+                className="me-3"
+                href="#"
+                style={{
+                  textDecoration: 'none',
+                  color: 'black',
+                }}
+              >
+                South Island
+              </a>
+            </div>
+          </Col> */}
+        </Row>
+        <div className="mt-3 mb-5 fw-bold">
+          <h2 className="fs-1">{dataVilla.headTitle}</h2>
+        </div>
+        <div>
+          <img src={Avatar} alt="ava" style={{ marginRight: '20px' }} />
+          <img src={Star} alt="star" />
+          <p
             style={{
-              marginLeft: '12rem',
-              marginTop: '1rem',
-              fontSize: '0.8rem',
-              fontWeight: 'semibold',
+              display: 'inline-block',
+              marginLeft: '5px',
+              marginRight: '20px',
+              color: 'grey',
             }}
           >
-            <a
-              href="#"
-              style={{
-                textDecoration: 'none',
-                color: 'black',
-                marginRight: '22px',
-              }}
-            >
-              Home
-            </a>
-            <a
-              href="#"
-              style={{
-                textDecoration: 'none',
-                color: 'black',
-                marginRight: '22px',
-              }}
-            >
-              Stay
-            </a>
-            <a
-              href="#"
-              style={{
-                textDecoration: 'none',
-                color: 'black',
-                marginRight: '22px',
-              }}
-            >
-              New Zealand
-            </a>
-            <a
-              href="#"
-              style={{
-                textDecoration: 'none',
-                color: 'black',
-                marginRight: '22px',
-              }}
-            >
-              South Island
-            </a>
-          </div>
-        </Col>
-      </Row>
-      <Row>
-        <Col>
-          <div className="mt-3 fw-bold">
-            <h2 className="fs-1">{dataVilla.headTitle}</h2>
-          </div>
-        </Col>
-        <Col>
-          <div style={{ marginLeft: '15rem', marginTop: '-3rem' }}>
-            <a href="#" style={{ marginRight: '5px' }}>
-              <img src={Location} alt="location" />
-            </a>
-            <a href="#" style={{ marginRight: '5px' }}>
-              <img src={Share} alt="share" />
-            </a>
-            <a href="#" style={{ marginRight: '-12px', marginLeft: '-18px' }}>
-              <img src={Love} alt="love" style={{ marginTop: '80px' }} />
-            </a>
-            <a href="#" style={{ marginRight: '5px' }}>
-              <img src={More} alt="more" />
-            </a>
-            <a href="#" style={{ marginRight: '5px' }}>
-              <img src={Close} alt="close" />
-            </a>
-          </div>
-        </Col>
-      </Row>
-      <div style={{ marginTop: '-1.5rem' }}>
-        <img src={Avatar} alt="ava" style={{ marginRight: '20px' }} />
-        <img src={Star} alt="star" />
-        <p
-          style={{
-            display: 'inline-block',
-            marginLeft: '5px',
-            marginRight: '20px',
-            color: 'grey',
-          }}
-        >
-          ({`${dataVilla.reviews} reviews`})
-        </p>
-        {dataVilla.recomendation === true ? (
-          <>
-            <img src={Shape} alt="home" />
-            <p
-              style={{
-                display: 'inline-block',
-                marginLeft: '5px',
-                marginRight: '20px',
-                color: 'grey',
-              }}
-            >
-              Rekomendasi
-            </p>
-          </>
-        ) : (
-          ''
-        )}
-        <img src={Mark} alt="mark" />
-        <p
-          style={{
-            display: 'inline-block',
-            marginLeft: '5px',
-            marginRight: '20px',
-            color: 'grey',
-          }}
-        >
-          {dataVilla.location}
-        </p>
-      </div>
-      <div className="d-flex">
-        <div>
-          <img
-            src={`../${dataVilla.image}`}
-            alt="primary"
-            style={{ width: '98%' }}
-          />
+            ({`${dataVilla.reviews} reviews`})
+          </p>
+          {dataVilla.recomendation === true ? (
+            <>
+              <img src={Shape} alt="home" />
+              <p
+                style={{
+                  display: 'inline-block',
+                  marginLeft: '5px',
+                  marginRight: '20px',
+                  color: 'grey',
+                }}
+              >
+                Rekomendasi
+              </p>
+            </>
+          ) : (
+            ''
+          )}
+          <img src={Mark} alt="mark" />
+          <p
+            style={{
+              display: 'inline-block',
+              marginLeft: '5px',
+              marginRight: '20px',
+              color: 'grey',
+            }}
+          >
+            {dataVilla.location}
+          </p>
         </div>
-        <div>
-          <div className="mb-2">
-            <img
+        {/* <section id="photoArray">
+          <div>
+            <Image
+              src={`../${dataVilla.image}`}
+              alt="primary"
+              style={{ width: '100%' }}
+            />
+          </div>
+          <div>
+            <Image
               src={`../${dataVilla.image2}`}
               alt="thumb"
-              style={{ width: '98%' }}
+              style={{ width: '100%' }}
             />
           </div>
-          <div className="mb-2">
-            <img
+          <div>
+            <Image
               src={`../${dataVilla.image3}`}
               alt="thumb"
-              style={{ width: '98%' }}
+              style={{ width: '100%' }}
             />
           </div>
-          <div className="mb-2">
-            <img
+          <div>
+            <Image
               src={`../${dataVilla.image4}`}
               alt="thumb"
-              style={{ width: '98%' }}
+              style={{ width: '100%' }}
             />
           </div>
-        </div>
-      </div>
-      <img
-        src={BtnAll}
-        alt="button"
-        style={{ marginTop: '-129px', marginLeft: '20px', cursor: 'pointer' }}
-      />
+        </section> */}
+        {isMobile ? (
+          <Carousel activeIndex={index} onSelect={handleSelect}>
+            <Carousel.Item>
+              <Image
+                src={`../${dataVilla.image}`}
+                style={{ width: '100%', height: '250px', objectFit: 'cover' }}
+              />
+            </Carousel.Item>
+            <Carousel.Item>
+              <Image
+                src={`../${dataVilla.image2}`}
+                style={{ width: '100%', height: '250px', objectFit: 'cover' }}
+              />
+            </Carousel.Item>
+            <Carousel.Item>
+              <Image
+                src={`../${dataVilla.image3}`}
+                style={{ width: '100%', height: '250px', objectFit: 'cover' }}
+              />
+            </Carousel.Item>
+          </Carousel>
+        ) : (
+          <Row className="g-2">
+            <Col md={10}>
+              <Image
+                src={`../${dataVilla.image}`}
+                alt="primary"
+                style={{
+                  width: '100%',
+                  height: isMobile ? '100%' : '90%',
+                  borderRadius: '10px',
+                }}
+              />
+              <img
+                src={BtnAll}
+                alt="button"
+                style={{
+                  position: 'absolute',
+                  top: '140%',
+                  left: '10%',
+                  cursor: 'pointer',
+                  width: '170px',
+                }}
+              />
+            </Col>
+            <Col md={2}>
+              <div>
+                <div className="mb-2">
+                  <Image
+                    src={`../${dataVilla.image2}`}
+                    alt="thumb"
+                    style={{ width: '100%' }}
+                  />
+                </div>
+                <div className="mb-2">
+                  <Image
+                    src={`../${dataVilla.image3}`}
+                    alt="thumb"
+                    style={{ width: '100%' }}
+                  />
+                </div>
+                <div className="mb-2">
+                  <Image
+                    src={`../${dataVilla.image4}`}
+                    alt="thumb"
+                    style={{ width: '100%' }}
+                  />
+                </div>
+              </div>
+            </Col>
+          </Row>
+        )}
+      </Container>
     </>
   );
 };

@@ -10,68 +10,6 @@ import dataVilla from '../../../data-villa.json';
 import { useNavigate } from 'react-router-dom';
 
 const VillaRecomendation = () => {
-  // const cards = [
-  //   {
-  //     image: VillaEx,
-  //     title: 'Villa Cemara',
-  //     price: 'Rp. 300.000,-/Night',
-  //     text: '1',
-  //   },
-  //   {
-  //     image: Villa2,
-  //     title: 'Villa Cemara',
-  //     price: 'Rp. 300.000,-/Night',
-  //     text: '2',
-  //   },
-  //   {
-  //     image: VillaEx,
-  //     title: 'Villa Cemara',
-  //     price: 'Rp. 300.000,-/Night',
-  //     text: '3',
-  //   },
-  //   {
-  //     image: Villa2,
-  //     title: 'Villa Cemara',
-  //     price: 'Rp. 300.000,-/Night',
-  //     text: '4',
-  //   },
-  //   {
-  //     image: VillaEx,
-  //     title: 'Villa Cemara',
-  //     price: 'Rp. 300.000,-/Night',
-  //     text: '5',
-  //   },
-  //   {
-  //     image: Villa2,
-  //     title: 'Villa Cemara',
-  //     price: 'Rp. 300.000,-/Night',
-  //     text: '6',
-  //   },
-  //   {
-  //     image: VillaEx,
-  //     title: 'Villa Cemara',
-  //     price: 'Rp. 300.000,-/Night',
-  //     text: '7',
-  //   },
-  //   {
-  //     image: Villa2,
-  //     title: 'Villa Cemara',
-  //     price: 'Rp. 300.000,-/Night',
-  //     text: '8',
-  //   },
-  //   {
-  //     image: VillaEx,
-  //     title: 'Villa Cemara',
-  //     price: 'Rp. 300.000,-/Night',
-  //     text: '9',
-  //   },
-  //   {
-  //     image: Villa2,
-  //     title: 'Villa Cemara',
-  //     price: 'Rp. 300.000,-/Night',
-  //     text: '10',
-  //   },
-  // ];
   const navigate = useNavigate();
 
   const cards = dataVilla.filter((item) => item.recomendation === true);

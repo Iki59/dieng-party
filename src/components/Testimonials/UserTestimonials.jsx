@@ -1,4 +1,12 @@
-import { Col, Container, Image, Row, Tab, Tabs } from 'react-bootstrap';
+import {
+  Carousel,
+  Col,
+  Container,
+  Image,
+  Row,
+  Tab,
+  Tabs,
+} from 'react-bootstrap';
 import TestiImg from '../../assets/testi.jpeg';
 import peopleImg from '../../assets/peopletesti.jpeg';
 import peopleImg2 from '../../assets/peopletesti2.jpeg';
@@ -6,7 +14,10 @@ import peopleImg3 from '../../assets/peopletesti3.jpeg';
 import quote from '../../assets/Filled.svg';
 import testiImg from '../../assets/Landing.png';
 import testiImg2 from '../../assets/testiImg.jpeg';
+import LeftArrow from '../../assets/arrowLeft.svg';
+import RightArrow from '../../assets/arrowRight.svg';
 import { useState } from 'react';
+import { useMediaQuery } from 'react-responsive';
 
 const UserTestimonials = () => {
   const [selectedTestimonial, setSelectedTestimonial] = useState(null);
@@ -231,6 +242,50 @@ const UserTestimonials = () => {
       ),
       testimonialImage: testiImg,
     },
+    {
+      key: 5,
+      name: (
+        <div className="d-flex gap-3">
+          <div className="w-25">
+            <div
+              style={{
+                display: 'inline-block',
+                position: 'relative',
+                width: '40px',
+                height: '40px',
+                overflow: 'hidden',
+                borderRadius: '50%',
+              }}
+            >
+              <Image
+                src={peopleImg}
+                style={{
+                  width: 'auto',
+                  height: '100%',
+                  // marginLeft: '5px',
+                }}
+              />
+            </div>
+          </div>
+          <div>
+            <p style={{ textAlign: 'left', margin: 0, fontSize: '14px' }}>
+              Thomas
+            </p>
+            <p style={{ textAlign: 'left', margin: 0, fontSize: '14px' }}>
+              Website Developer
+            </p>
+          </div>
+        </div>
+      ),
+      textName: 'Thomas',
+      content: (
+        <div className="regular" style={{ fontFamily: 'Poppins' }}>
+          Stacks is the cleanest design system I’ve used. It helps a lot of
+          projects done without thinking. Nice Work!
+        </div>
+      ),
+      testimonialImage: testiImg,
+    },
   ];
 
   const handleTabClick = (key) => {
@@ -246,6 +301,43 @@ const UserTestimonials = () => {
   };
   console.log('selected', selectedTestimonial);
   console.log('content', selectedContent);
+
+  const isMobile = useMediaQuery({ query: '(max-width: 767px)' });
+  const isTablet = useMediaQuery({
+    query: '(min-width: 768px) and (max-width: 991px)',
+  });
+  const cardsPerPage = isMobile ? 2 : isTablet ? 3 : 4;
+  const [startIndex, setStartIndex] = useState(0);
+  const [isPrevDisabled, setIsPrevDisabled] = useState(true);
+  const [isNextDisabled, setIsNextDisabled] = useState(
+    startIndex + cardsPerPage >= dataTesti.length
+  );
+
+  const handleNext = () => {
+    const nextIndex = (startIndex + 1) % dataTesti.length;
+    console.log('ini nextindex', nextIndex);
+    setStartIndex(nextIndex);
+
+    const remainingCards = dataTesti.length - (nextIndex + cardsPerPage);
+
+    if (remainingCards <= 0) {
+      setIsNextDisabled(true);
+    }
+
+    setIsPrevDisabled(false);
+  };
+
+  const handlePrev = () => {
+    const prevIndex = (startIndex - 1 + dataTesti.length) % dataTesti.length;
+    setStartIndex(prevIndex);
+
+    if (prevIndex === 0) {
+      setIsPrevDisabled(true);
+    }
+
+    setIsNextDisabled(false);
+  };
+
   return (
     <>
       <Container className="px-lg-4 px-md-3 px-4">
@@ -295,28 +387,61 @@ const UserTestimonials = () => {
           </Col>
         </Row>
       </Container>
-      <Container className="mt-3 mb-5">
-        <Tabs
-          defaultActiveKey={1}
-          id="justify-tab-example"
-          className="mb-3"
-          justify
-          onSelect={handleTabClick}
+      <Container className="mt-4 mb-5">
+        <div className="d-flex justify-content-end me-3">
+          <img
+            onClick={isPrevDisabled ? null : handlePrev}
+            disabled={startIndex === 0}
+            className="me-2"
+            src={LeftArrow}
+            alt="Left Arrow"
+          />
+          <img
+            onClick={isNextDisabled ? null : handleNext}
+            disabled={startIndex + cardsPerPage >= dataTesti.length}
+            src={RightArrow}
+            alt="Right Arrow"
+          />
+        </div>
+        <Carousel
+          activeIndex={startIndex}
+          onSelect={() => {}}
+          // interval={null}
+          // controls={false}
         >
-          {dataTesti.map((item) => (
-            <Tab
-              key={item.key}
-              eventKey={item.key}
-              title={item.name}
-              style={{
-                paddingRight: 0,
-              }}
-              // onClick={() => handleTabClick(item.key)}
-            >
-              {/* {item.content} */}
-            </Tab>
-          ))}
-        </Tabs>
+          {[...Array(Math.ceil(dataTesti.length / cardsPerPage))].map(
+            (item, index) => {
+              const start = index * cardsPerPage;
+              const end = start + cardsPerPage;
+              const testiSubset = dataTesti.slice(start, end);
+
+              return (
+                <Carousel.Item key={index}>
+                  <Tabs
+                    defaultActiveKey={1}
+                    id="justify-tab-example"
+                    className="mb-3"
+                    justify
+                    onSelect={handleTabClick}
+                  >
+                    {testiSubset.map((item) => (
+                      <Tab
+                        key={item.key}
+                        eventKey={item.key}
+                        title={item.name}
+                        style={{
+                          paddingRight: 0,
+                        }}
+                      >
+                        {/* {item.content} */}
+                      </Tab>
+                    ))}
+                  </Tabs>
+                </Carousel.Item>
+              );
+            }
+          )}
+        </Carousel>
       </Container>
     </>
   );
