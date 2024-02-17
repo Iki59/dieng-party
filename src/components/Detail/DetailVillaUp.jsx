@@ -203,8 +203,8 @@ export const DetailVillaUp = ({ dataVilla }) => {
                 alt="button"
                 style={{
                   position: 'absolute',
-                  top: '140%',
-                  left: '10%',
+                  top: isTablet ? '51%' : '140%',
+                  left: isTablet ? '11%' : '10%',
                   cursor: 'pointer',
                   width: '170px',
                 }}

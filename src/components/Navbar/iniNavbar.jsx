@@ -24,7 +24,7 @@ export const IniNavbar = () => {
                 <Nav.Link href="#" className="mt-1">
                   Paket Wisata
                 </Nav.Link>
-                <Nav.Link href="#">
+                {/* <Nav.Link href="#">
                   <button
                     style={{
                       border: '2px solid var(--Neutrals-6, #E6E8EC)',
@@ -36,6 +36,9 @@ export const IniNavbar = () => {
                   >
                     Kontak
                   </button>
+                </Nav.Link> */}
+                <Nav.Link href="#" className="mt-1">
+                  Kontak
                 </Nav.Link>
               </Nav>
             </Navbar.Collapse>

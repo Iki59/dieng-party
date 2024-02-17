@@ -70,12 +70,14 @@ const VillaRecomendation = () => {
                 className="me-2"
                 src={LeftArrow}
                 alt="Left Arrow"
+                style={{ cursor: 'pointer' }}
               />
               <img
                 onClick={isNextDisabled ? null : handleNext}
                 disabled={startIndex + cardsPerPage >= cards.length}
                 src={RightArrow}
                 alt="Right Arrow"
+                style={{ cursor: 'pointer' }}
               />
             </div>
           </Col>
@@ -112,7 +114,7 @@ const VillaRecomendation = () => {
                                   borderRadius: '10%',
                                 }}
                                 variant="top"
-                                src={card.image}
+                                src={`../${card.image}`}
                               />
                               <div
                                 style={{
@@ -145,7 +147,6 @@ const VillaRecomendation = () => {
                                     {card.price}
                                   </p>
                                 </div>
-                                <p>{card.text}</p>
                               </Card.Body>
                             </Card>
                           </Col>
@@ -165,12 +166,14 @@ const VillaRecomendation = () => {
             className="me-2"
             src={LeftArrow}
             alt="Left Arrow"
+            style={{ cursor: 'pointer' }}
           />
           <img
             onClick={isNextDisabled ? null : handleNext}
             disabled={startIndex + cardsPerPage >= cards.length}
             src={RightArrow}
             alt="Right Arrow"
+            style={{ cursor: 'pointer' }}
           />
         </div>
       </Container>

@@ -286,6 +286,51 @@ const UserTestimonials = () => {
       ),
       testimonialImage: testiImg,
     },
+    {
+      key: 6,
+      name: (
+        <div className="d-flex gap-3">
+          <div className="w-25">
+            <div
+              style={{
+                display: 'inline-block',
+                position: 'relative',
+                width: '40px',
+                height: '40px',
+                overflow: 'hidden',
+                borderRadius: '50%',
+              }}
+            >
+              <Image
+                src={peopleImg2}
+                style={{
+                  width: 'auto',
+                  height: '100%',
+                  // marginLeft: '5px',
+                }}
+              />
+            </div>
+          </div>
+          <div>
+            <p style={{ textAlign: 'left', margin: 0, fontSize: '14px' }}>
+              Keisha
+            </p>
+            <p style={{ textAlign: 'left', margin: 0, fontSize: '14px' }}>
+              Website Developer
+            </p>
+          </div>
+        </div>
+      ),
+      textName: 'Keisha',
+      content: (
+        <div className="regular" style={{ fontFamily: 'Poppins' }}>
+          Who could look on these monuments without reflecting on the vanity of
+          mortals in thus offering up testimonials of their respect for persons
+          of whose very names posterity is ignorant?
+        </div>
+      ),
+      testimonialImage: TestiImg,
+    },
   ];
 
   const handleTabClick = (key) => {
@@ -354,10 +399,11 @@ const UserTestimonials = () => {
                   <Image
                     src={quote}
                     alt="quote"
-                    className="me-2"
+                    className="me-2 fade-in"
                     style={{ width: '24px', height: '24px' }}
                   />
                   <span
+                    className="fade-in"
                     style={{
                       fontFamily: 'Poppins',
                       fontSize: '14px',
