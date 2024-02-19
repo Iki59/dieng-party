@@ -1,5 +1,10 @@
 import React, { useState } from 'react';
 import { Button, Container, Form } from 'react-bootstrap';
+import emailjs from '@emailjs/browser';
+import {
+  errorNotification,
+  successNotification,
+} from '../../utils/Notifications';
 
 export const Contact = () => {
   const [validated, setValidated] = useState(false);
@@ -20,12 +25,29 @@ export const Contact = () => {
       event.preventDefault();
       event.stopPropagation();
     } else {
-      const phone = '+628562593941';
-      const message = `Saya ${data.name} berasal dari ${data.asal}. ${data.message} `;
-      const whatsappURL = `https://wa.me/${phone}?text=${encodeURIComponent(
-        message
-      )}`;
-      window.open(whatsappURL, '_blank');
+      if (send === '1') {
+        event.preventDefault();
+        emailjs
+          .sendForm('service_6852cjr', 'template_0uwexia', form, {
+            publicKey: 'uMJ9DGnQynwlhNM0J',
+          })
+          .then(
+            () => {
+              successNotification('Email');
+            },
+            (error) => {
+              errorNotification('Email');
+              console.log(error);
+            }
+          );
+      } else {
+        const phone = '+628562593941';
+        const message = `Saya ${data.name} berasal dari ${data.asal}. ${data.message} `;
+        const whatsappURL = `https://wa.me/${phone}?text=${encodeURIComponent(
+          message
+        )}`;
+        window.open(whatsappURL, '_blank');
+      }
     }
 
     setValidated(true);
