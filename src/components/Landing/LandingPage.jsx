@@ -1,6 +1,6 @@
 import React from "react";
 import { Col, Container, Row } from "react-bootstrap";
-import LandingPhoto from "../../assets/landing.png";
+import LandingPhoto from "../../assets/aaa.png";
 import { useMediaQuery } from "react-responsive";
 
 export const LandingPage = () => {
@@ -14,17 +14,15 @@ export const LandingPage = () => {
         <Row className="g-md-5 g-lg-0 g-5 d-flex align-items-center">
           <Col md={6}>
             <div>
-              <p className="text-body-secondary fw-medium mb-1">
-                MENJELAJAHI DIENG BERSAMA <span style={{ backgroundColor: "black", color: "white", padding: "1px 3px", borderRadius: "2px" }}>HOUSE OF DIENG</span>
+              <p className="fw-medium mb-1" style={{ color: "black" }}>
+                MENJELAJAHI DIENG BERSAMA HOUSE OF DIENG
               </p>
             </div>
             <div className="fs-1 fw-semibold" style={{ marginBottom: "2rem" }}>
               <h1>Temukan Keseruan disini</h1>
             </div>
             <div className="text-body-secondary fs-9 fw-medium">
-              <p>
-                Selalu tersedia tempat tempat dan rekomendasi terbaik hanya ada di <span style={{ backgroundColor: "black", color: "white", padding: "1px 3px", borderRadius: "2px" }}>House of Dieng</span>.
-              </p>
+              <p>Nikmati liburan staycation yang tak terlupakan di ketinggian Dieng, dengan pilihan menginap di villa mewah, cabin house, atau homestay tradisional yang nyaman..</p>
             </div>
             <div>
               <button
@@ -33,7 +31,7 @@ export const LandingPage = () => {
                   borderRadius: "90px",
                 }}
               >
-                Find Recomendation Cottage{" "}
+                Temukan Rekomendasi Villa{" "}
               </button>
             </div>
           </Col>
@@ -45,6 +43,7 @@ export const LandingPage = () => {
                 alt="landing"
                 style={{
                   height: isTablet ? "21rem" : isMobile ? "20rem" : "28rem",
+                  borderRadius: "8px",
                 }}
               />
             </div>

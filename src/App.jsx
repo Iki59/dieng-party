@@ -1,7 +1,8 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import "./App.css";
-import { Detail } from "./pages/Details/Detail";
-import HomePage from "./pages/home";
+import Detail from "./pages/Details/Detail";
+import { Gallerys } from "./pages/Details/Gallerys";
+import HomePage from "./pages/Home/Index";
 import ListVilla from "./pages/ListVilla/ListVilla";
 
 function App() {
@@ -10,7 +11,8 @@ function App() {
       <Routes>
         <Route path="/" element={<HomePage />} />
         <Route path="/villa-list" element={<ListVilla />} />
-        <Route path="/detail" element={<Detail />} />
+        <Route path="/detail/:id" element={<Detail />} />
+        <Route path="/gallery/:id" element={<Gallerys />} />
       </Routes>
     </BrowserRouter>
   );

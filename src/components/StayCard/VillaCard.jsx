@@ -221,11 +221,9 @@ const VillaCard = () => {
         </Row>
         <div className="d-flex justify-content-center mb-5">
           <Button
-            className="bg-white text-black fw-bold border-secondary rounded-5"
+            className="bg-white text-black fw-bold border-secondary rounded-5 mt-4"
             onClick={() => navigate('/villa-list')}
             style={{
-              marginTop: '0px',
-              marginBottom: '2px',
               padding: '7px 20px',
               fontSize: '14px',
               border: '1px solid',

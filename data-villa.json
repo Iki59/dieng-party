@@ -1,110 +1,357 @@
 [
   {
+    "id": 1,
     "image": "src/assets/villa3.jpeg",
     "title": "Villa Kayu Pemandangan Bukit",
     "price": "Rp. 300.000,-/Night",
     "text": "1"
   },
   {
+    "id": 2,
     "image": "src/assets/villa3.jpeg",
     "title": "Villa Kayu Pemandangan Bukit",
     "price": "Rp. 300.000,-/Night",
     "text": "2"
   },
   {
+    "id": 3,
     "image": "src/assets/villa3.jpeg",
     "title": "Villa Kayu Pemandangan Bukit",
     "price": "Rp. 300.000,-/Night",
     "text": "3"
   },
   {
+    "id": 4,
     "image": "src/assets/villa3.jpeg",
     "title": "Villa Kayu Pemandangan Bukit",
     "price": "Rp. 300.000,-/Night",
     "text": "4"
   },
   {
+    "id": 5,
     "image": "src/assets/villa3.jpeg",
     "title": "Villa Kayu Pemandangan Bukit",
     "price": "Rp. 300.000,-/Night",
     "text": "5"
   },
   {
+    "id": 6,
     "image": "src/assets/villa3.jpeg",
     "title": "Villa Kayu Pemandangan Bukit",
     "price": "Rp. 300.000,-/Night",
     "text": "6"
   },
   {
+    "id": 7,
     "image": "src/assets/villa3.jpeg",
     "title": "Villa Kayu Pemandangan Bukit",
     "price": "Rp. 300.000,-/Night",
     "text": "7"
   },
   {
+    "id": 8,
     "image": "src/assets/villa3.jpeg",
     "title": "Villa Kayu Pemandangan Bukit",
     "price": "Rp. 300.000,-/Night",
     "text": "8"
   },
   {
+    "id": 9,
     "image": "src/assets/villa3.jpeg",
     "title": "Villa Kayu Pemandangan Bukit",
     "price": "Rp. 300.000,-/Night",
     "text": "9"
   },
   {
+    "id": 10,
     "image": "src/assets/villa3.jpeg",
     "title": "Villa Kayu Pemandangan Bukit",
     "price": "Rp. 300.000,-/Night",
     "text": "10"
   },
   {
+    "id": 11,
     "image": "../src/assets/villa3.jpeg",
     "title": "Villa Kayu Pemandangan Bukit",
     "price": "Rp. 300.000,-/Night",
     "text": "11"
   },
   {
+    "id": 12,
     "image": "src/assets/villa3.jpeg",
     "title": "Villa Kayu Pemandangan Bukit",
     "price": "Rp. 300.000,-/Night",
     "text": "12"
   },
   {
+    "id": 13,
     "image": "src/assets/villa3.jpeg",
     "title": "Villa Kayu Pemandangan Bukit",
     "price": "Rp. 300.000,-/Night",
     "text": "13"
   },
   {
+    "id": 14,
     "image": "src/assets/villa3.jpeg",
     "title": "Villa Kayu Pemandangan Bukit",
     "price": "Rp. 300.000,-/Night",
     "text": "14"
   },
   {
+    "id": 15,
     "image": "src/assets/villa3.jpeg",
     "title": "Villa Kayu Pemandangan Bukit",
     "price": "Rp. 300.000,-/Night",
     "text": "15"
   },
   {
+    "id": 16,
     "image": "src/assets/villa3.jpeg",
     "title": "Villa Kayu Pemandangan Bukit",
     "price": "Rp. 300.000,-/Night",
     "text": "16"
   },
   {
+    "id": 17,
     "image": "src/assets/villa3.jpeg",
     "title": "Villa Kayu Pemandangan Bukit",
     "price": "Rp. 300.000,-/Night",
     "text": "17"
   },
   {
+    "id": 18,
     "image": "src/assets/villa3.jpeg",
     "title": "Villa Kayu Pemandangan Bukit",
     "price": "Rp. 300.000,-/Night",
     "text": "18"
+  },
+  {
+    "id": 19,
+    "image": "src/assets/cabin 1 tani house/tani house.jpg",
+    "image2": "src/assets/cabin 1 tani house/IMG_0179.JPG",
+    "image3": "src/assets/cabin 1 tani house/IMG_0199.JPG",
+    "image4": "src/assets/cabin 1 tani house/IMG_0207.JPG",
+    "headTitle": "TANI HOUSE 1",
+    "title": "Cabin Tani House 1",
+    "price": "Rp. 1.500.000/Night",
+    "text": "19",
+    "ratings": "4.9",
+    "reviews": 100,
+    "recomendation": true,
+    "location": "Dieng, Indonesia",
+    "host": "Techmas Solution",
+    "guests": 2,
+    "bedroom": 1,
+    "privateBath": 1,
+    "description": "Nikmati pengalaman menginap yang istimewa di Dieng Farmhouse Tani-1 , sebuah kabin yang terletak di Dieng, Kejajar, Wonosobo. Dengan kapasitas hingga 9 orang orang, kabin ini menawarkan 1 unit yang nyaman serta fasilitas standar seperti Free Wifi, Dapur dan peralatan masak, Parkir dan lain-lain",
+    "description2": "Para tamu dapat menikmati pemandangan spektakuler sambil bersantai di ruang tamu yang hangat . Dieng Farmhouse Tani-1 juga dekat dengan berbagai atraksi populer seperti Telaga Warna Dieng, Kawah Sikidang Dieng, Batu Ratapan Angin Dieng, View Point Bukit Sikapuk Dieng, Pemandian Air Hangat Dieng, Dieng Plateau Theater, dan lain-lain. Jadikan Dieng Farmhouse Tani-1 sebagai pilihan terbaik Anda untuk menginap di Dieng Kulon",
+    "description3": " ",
+    "wifi": true,
+    "bathroom": true,
+    "breakfast": true,
+    "atm": true,
+    "nearbyCity": true,
+    "medical": true,
+    "grill": true,
+    "gallery": [
+      {
+        "original": "../src/assets/cabin 1 tani house/tani house.jpg",
+        "thumbnail": "../src/assets/cabin 1 tani house/tani house.jpg"
+      },
+      {
+        "original": "../src/assets/cabin 1 tani house/IMG_0179.JPG",
+        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0179.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 1 tani house/IMG_0199.JPG",
+        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0199.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 1 tani house/IMG_0207.JPG",
+        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0207.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 1 tani house/IMG_0183.JPG",
+        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0183.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 1 tani house/IMG_0194.JPG",
+        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0194.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 1 tani house/IMG_0195.JPG",
+        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0195.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 1 tani house/IMG_0196.JPG",
+        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0196.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 1 tani house/IMG_0201.JPG",
+        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0201.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 1 tani house/IMG_0202.JPG",
+        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0202.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 1 tani house/IMG_0206.JPG",
+        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0206.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 1 tani house/IMG_0208.JPG",
+        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0208.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 1 tani house/IMG_0209.JPG",
+        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0209.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 1 tani house/IMG_0215.JPG",
+        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0215.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 1 tani house/IMG_0218.JPG",
+        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0218.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 1 tani house/IMG_0219.JPG",
+        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0219.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 1 tani house/IMG_0220.JPG",
+        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0220.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 1 tani house/IMG_0221.JPG",
+        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0221.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 1 tani house/IMG_0223.JPG",
+        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0223.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 1 tani house/IMG_0240.JPG",
+        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0240.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 1 tani house/IMG_0243.JPG",
+        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0243.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 1 tani house/IMG_0245.JPG",
+        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0245.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 1 tani house/IMG_0250.JPG",
+        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0250.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 1 tani house/IMG_0251.JPG",
+        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0251.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 1 tani house/IMG_0254.JPG",
+        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0254.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 1 tani house/IMG_0255.JPG",
+        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0255.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 1 tani house/IMG_0256.JPG",
+        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0256.JPG"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "image": "src/assets/villa2.jpg",
+    "image2": "src/assets/thumb 01.png",
+    "image3": "src/assets/thumb 03.png",
+    "image4": "src/assets/thumb 02.png",
+    "headTitle": "Spectacular Views of Dieng",
+    "title": "Villa Cemara",
+    "price": "Rp. 300.000/Night",
+    "text": "20",
+    "ratings": "4.8",
+    "reviews": 10,
+    "recomendation": true,
+    "location": "Dieng, Indonesia",
+    "host": "Techmas Solution",
+    "guests": 2,
+    "bedroom": 1,
+    "privateBath": 1,
+    "description": "Described by Queenstown House & Garden magazine as having 'one of the best views we've ever seen' you will love relaxing in this newly built, architectural house sitting proudly on Queenstown Hill.",
+    "description2": "Enjoy breathtaking 180' views of Lake Wakatipu from your well appointed & privately accessed bedroom with modern en suite and floor-to-ceiling windows.",
+    "description3": "Your private patio takes in the afternoon sun, letting you soak up unparalleled lake and mountain views by day and the stars & city lights by night.",
+    "wifi": true,
+    "bathroom": true,
+    "computer": true,
+    "breakfast": true,
+    "atm": true,
+    "nearbyCity": true,
+    "medical": true,
+    "grill": true
+  },
+  {
+    "id": 21,
+    "image": "src/assets/villaex.jpg",
+    "image2": "src/assets/thumb 01.png",
+    "image3": "src/assets/thumb 03.png",
+    "image4": "src/assets/thumb 02.png",
+    "headTitle": "Spectacular Views of Dieng",
+    "title": "Villa Cemara",
+    "price": "Rp. 300.000/Night",
+    "text": "21",
+    "ratings": "4.8",
+    "reviews": 10,
+    "recomendation": true,
+    "location": "Dieng, Indonesia",
+    "host": "Techmas Solution",
+    "guests": 2,
+    "bedroom": 1,
+    "privateBath": 1,
+    "description": "Described by Queenstown House & Garden magazine as having 'one of the best views we've ever seen' you will love relaxing in this newly built, architectural house sitting proudly on Queenstown Hill.",
+    "description2": "Enjoy breathtaking 180' views of Lake Wakatipu from your well appointed & privately accessed bedroom with modern en suite and floor-to-ceiling windows.",
+    "description3": "Your private patio takes in the afternoon sun, letting you soak up unparalleled lake and mountain views by day and the stars & city lights by night.",
+    "wifi": true,
+    "bathroom": true,
+    "computer": true,
+    "breakfast": true,
+    "atm": true,
+    "nearbyCity": true,
+    "medical": true,
+    "grill": true
+  },
+  {
+    "id": 22,
+    "image": "src/assets/villa2.jpg",
+    "image2": "src/assets/thumb 01.png",
+    "image3": "src/assets/thumb 03.png",
+    "image4": "src/assets/thumb 02.png",
+    "headTitle": "Spectacular Views of Dieng",
+    "title": "Villa Cemara",
+    "price": "Rp. 300.000/Night",
+    "text": "22",
+    "ratings": "4.8",
+    "reviews": 10,
+    "recomendation": true,
+    "location": "Dieng, Indonesia",
+    "host": "Techmas Solution",
+    "guests": 2,
+    "bedroom": 1,
+    "privateBath": 1,
+    "description": "Described by Queenstown House & Garden magazine as having 'one of the best views we've ever seen' you will love relaxing in this newly built, architectural house sitting proudly on Queenstown Hill.",
+    "description2": "Enjoy breathtaking 180' views of Lake Wakatipu from your well appointed & privately accessed bedroom with modern en suite and floor-to-ceiling windows.",
+    "description3": "Your private patio takes in the afternoon sun, letting you soak up unparalleled lake and mountain views by day and the stars & city lights by night.",
+    "wifi": true,
+    "bathroom": true,
+    "computer": true,
+    "breakfast": true,
+    "atm": true,
+    "nearbyCity": true,
+    "medical": true,
+    "grill": true
   }
 ]
