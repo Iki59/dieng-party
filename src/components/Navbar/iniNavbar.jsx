@@ -7,8 +7,8 @@ import { Link } from "react-router-dom";
 export const IniNavbar = () => {
   return (
     <>
-      <div className="sticky-top">
-        <Navbar expand="md" className="mb-0" style={{ backdropFilter: "blur(8px)" }}>
+      <div>
+        <Navbar expand="md" className="fixed-top bg-body-tertiary shadow" style={{ backdropFilter: "blur(8px)" }}>
           <Container className="px-lg-4 px-md-3 px-4 d-flex align-items-center">
             <Navbar.Brand>
               <Link to="/">
