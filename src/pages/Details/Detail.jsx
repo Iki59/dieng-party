@@ -1,16 +1,14 @@
-import React from 'react';
-import { DetailVilla } from '../../components/Detail/DetailVilla';
-import { IniNavbar } from '../../components/Navbar/iniNavbar';
+import React from "react";
+import { DetailVilla } from "../../components/Detail/DetailVilla";
+// import { IniNavbar } from "../../components/Navbar/iniNavbar";
 
-const Detail = () => {
+export const Detail = () => {
   return (
     <>
-      <div>
-        <IniNavbar />
+      <div style={{ marginTop: "8rem" }}>
+        {/* <IniNavbar /> */}
         <DetailVilla />
       </div>
     </>
   );
 };
-
-export default Detail;
