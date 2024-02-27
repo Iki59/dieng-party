@@ -1,10 +1,10 @@
 import ListCard from "../../components/ListCard/ListCard";
-// import { IniNavbar } from "../../components/Navbar/iniNavbar";
+import { IniNavbar } from "../../components/Navbar/iniNavbar";
 
 export const ListVilla = () => {
   return (
     <>
-      {/* <IniNavbar /> */}
+      <IniNavbar />
       <div style={{ marginTop: "10rem" }}>
         <ListCard />
       </div>

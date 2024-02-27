@@ -14,7 +14,7 @@ import Primary from "../../assets/primary img.png";
 import Thumb01 from "../../assets/thumb 01.png";
 import Thumb03 from "../../assets/thumb 03.png";
 import Thumb02 from "../../assets/thumb 02.png";
-import BtnAll from "../../assets/btn-all.png";
+// import BtnAll from "../../assets/btn-all.png";
 import PropTypes from "prop-types";
 import { useMediaQuery } from "react-responsive";
 import { useNavigate } from "react-router-dom";
@@ -172,6 +172,9 @@ export const DetailVillaUp = ({ dataVilla }) => {
           <Carousel activeIndex={index} onSelect={handleSelect}>
             <Carousel.Item>
               <Image
+                onClick={() => {
+                  navigate(`/gallery/${dataVilla.id}`);
+                }}
                 src={`../${dataVilla.image}`}
                 style={{
                   width: "100%",
@@ -182,6 +185,9 @@ export const DetailVillaUp = ({ dataVilla }) => {
             </Carousel.Item>
             <Carousel.Item>
               <Image
+                onClick={() => {
+                  navigate(`/gallery/${dataVilla.id}`);
+                }}
                 src={`../${dataVilla.image2}`}
                 style={{
                   width: "100%",
@@ -192,6 +198,9 @@ export const DetailVillaUp = ({ dataVilla }) => {
             </Carousel.Item>
             <Carousel.Item>
               <Image
+                onClick={() => {
+                  navigate(`/gallery/${dataVilla.id}`);
+                }}
                 src={`../${dataVilla.image3}`}
                 style={{
                   width: "100%",
@@ -205,6 +214,9 @@ export const DetailVillaUp = ({ dataVilla }) => {
           <Row className="g-2">
             <Col md={10}>
               <Image
+                onClick={() => {
+                  navigate(`/gallery/${dataVilla.id}`);
+                }}
                 src={`../${dataVilla.image}`}
                 alt="primary"
                 style={{
@@ -213,7 +225,7 @@ export const DetailVillaUp = ({ dataVilla }) => {
                   borderRadius: "10px",
                 }}
               />
-              <img
+              {/* <img
                 onClick={() => {
                   navigate(`/gallery/${dataVilla.id}`);
                 }}
@@ -226,18 +238,39 @@ export const DetailVillaUp = ({ dataVilla }) => {
                   cursor: "pointer",
                   width: "170px",
                 }}
-              />
+              /> */}
             </Col>
             <Col md={2}>
               <div>
                 <div className="mb-2">
-                  <Image src={`../${dataVilla.image2}`} alt="thumb" style={{ width: "80%", borderRadius: "10px  " }} />
+                  <Image
+                    onClick={() => {
+                      navigate(`/gallery/${dataVilla.id}`);
+                    }}
+                    src={`../${dataVilla.image2}`}
+                    alt="thumb"
+                    style={{ width: "80%", borderRadius: "10px  " }}
+                  />
                 </div>
                 <div className="mb-2">
-                  <Image src={`../${dataVilla.image3}`} alt="thumb" style={{ width: "80%", borderRadius: "10px  " }} />
+                  <Image
+                    onClick={() => {
+                      navigate(`/gallery/${dataVilla.id}`);
+                    }}
+                    src={`../${dataVilla.image3}`}
+                    alt="thumb"
+                    style={{ width: "80%", borderRadius: "10px  " }}
+                  />
                 </div>
                 <div className="mb-2">
-                  <Image src={`../${dataVilla.image4}`} alt="thumb" style={{ width: "80%", borderRadius: "10px  " }} />
+                  <Image
+                    onClick={() => {
+                      navigate(`/gallery/${dataVilla.id}`);
+                    }}
+                    src={`../${dataVilla.image4}`}
+                    alt="thumb"
+                    style={{ width: "80%", borderRadius: "10px  " }}
+                  />
                 </div>
               </div>
             </Col>

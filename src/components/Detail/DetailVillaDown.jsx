@@ -262,18 +262,18 @@ export const DetailVillaDown = ({ dataVilla }) => {
                 </div>
               </div>
               <div>
-                <ReactWhatsapp number="+6281237339956" message={`Saya tertarik untuk memesan villa di ${dataVilla.title}`} className="btn btn-primary" style={{ width: "100%", marginTop: "15px" }}>
+                <ReactWhatsapp number="+6281237339956" message={`Saya tertarik untuk memesan villa di ${dataVilla.title}, Apakah masih tersedia?`} className="btn btn-primary" style={{ width: "100%", marginTop: "15px" }}>
                   <span style={{ fontWeight: "600" }}>
                     Booking <img src={Shopping} alt="shopping" />
                   </span>
                 </ReactWhatsapp>
               </div>
-              <div className="mt-3 d-flex justify-content-center">
+              {/* <div className="mt-3 d-flex justify-content-center">
                 <a href="#" style={{ textDecoration: "none", color: "grey" }}>
                   <img src={Mark} alt="mark" className="me-1" />
                   Report this property
                 </a>
-              </div>
+              </div> */}
             </div>
           </Col>
         </Row>
