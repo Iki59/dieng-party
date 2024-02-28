@@ -7,7 +7,7 @@ import Love from "../../assets/love.png";
 import More from "../../assets/more.png";
 import Close from "../../assets/close.png";
 import Avatar from "../../assets/avatar.png";
-import Star from "../../assets/Frame 855.png";
+import Star from "../../assets/ratingStar.png";
 import Shape from "../../assets/Shape.png";
 import Mark from "../../assets/Line.png";
 import Primary from "../../assets/primary img.png";
@@ -98,7 +98,16 @@ export const DetailVillaUp = ({ dataVilla }) => {
         </div>
         <div>
           <img src={Avatar} alt="ava" style={{ marginRight: "20px" }} />
-          <img src={Star} alt="star" />
+          <img src={Star} alt="star" style={{ width: "18px", marginTop: "-5px" }} />
+          <p
+            style={{
+              display: "inline-block",
+              marginLeft: "8px",
+              marginRight: "20px",
+              color: "grey",
+              fontWeight: "bold",
+            }}
+          >{`${dataVilla.ratings}`}</p>
           <p
             style={{
               display: "inline-block",

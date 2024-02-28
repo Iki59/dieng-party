@@ -9,7 +9,7 @@ import Shopping from "../../assets/shopping.png";
 import Avatar from "../../assets/avatar.png";
 import Shape from "../../assets/Shape.png";
 import Mark from "../../assets/Line.png";
-import Star from "../../assets/Frame 855.png";
+import Star from "../../assets/ratingStar.png";
 import PropTypes from "prop-types";
 import ReactWhatsapp from "react-whatsapp";
 import { useMediaQuery } from "react-responsive";
@@ -244,7 +244,16 @@ export const DetailVillaDown = ({ dataVilla }) => {
                     </p>
                   </div>
                   <div style={{ marginTop: "-0.7rem" }}>
-                    <img src={Star} alt="star" />
+                    <img src={Star} alt="star" style={{ width: "18px", marginTop: "-5px" }} />
+                    <p
+                      style={{
+                        display: "inline-block",
+                        marginLeft: "8px",
+                        marginRight: "20px",
+                        color: "grey",
+                        fontWeight: "bold",
+                      }}
+                    >{`${dataVilla.ratings}`}</p>
                     <p
                       style={{
                         display: "inline-block",
