@@ -1,9 +1,13 @@
 import React from "react";
 import { Row, Col, Image, Container } from "react-bootstrap";
-import Modem from "../../assets/modem.png";
-import Computer from "../../assets/computer.png";
-import Medical from "../../assets/medical.png";
-import Apple from "../../assets/apple.png";
+import Wifi from "../../assets/icon/wifi.svg";
+import Dispenser from "../../assets/icon/dispenser.svg";
+import TV from "../../assets/icon/tv.svg";
+import Dapur from "../../assets/icon/dapur.svg";
+import BestView from "../../assets/icon/bestview.svg";
+import Parkir from "../../assets/icon/parkir.svg";
+import HotWater from "../../assets/icon/shower.svg";
+import Strategis from "../../assets/icon/strategis.svg";
 import AvaCentang from "../../assets/avatarcentang.png";
 import Shopping from "../../assets/shopping.png";
 import Avatar from "../../assets/avatar.png";
@@ -53,7 +57,7 @@ export const DetailVillaDown = ({ dataVilla }) => {
                     color: "grey",
                   }}
                 >
-                  {`${dataVilla.guests} guests`}
+                  {`${dataVilla.guests} Tamu`}
                 </p>
                 <img src={Mark} alt="markjuga" />
                 <p
@@ -64,9 +68,9 @@ export const DetailVillaDown = ({ dataVilla }) => {
                     color: "grey",
                   }}
                 >
-                  {`${dataVilla.bedroom} bedroom`}
+                  {`${dataVilla.bedroom} Kamar`}
                 </p>
-                <img src={Mark} alt="markjuga" />
+                {/* <img src={Mark} alt="markjuga" />
                 <p
                   style={{
                     display: "inline-block",
@@ -76,7 +80,7 @@ export const DetailVillaDown = ({ dataVilla }) => {
                   }}
                 >
                   {`${dataVilla.privateBath} private bath`}
-                </p>
+                </p> */}
               </div>
             </div>
             <div className="mt-4" style={{ color: "grey", fontWeight: "semibold" }}>
@@ -85,12 +89,12 @@ export const DetailVillaDown = ({ dataVilla }) => {
               <p>{dataVilla.description3}</p>
             </div>
             <div className="mt-5">
-              <h4>Amenities</h4>
+              <h4>Fasilitas</h4>
               <Row className="mt-3">
                 <Col md={5}>
                   {dataVilla.wifi === true ? (
                     <div>
-                      <img src={Modem} alt="modem" style={{ marginRight: "25px" }} />
+                      <img src={Wifi} alt="wifi" style={{ marginRight: "25px", width: "1.5rem" }} />
                       <p
                         style={{
                           display: "inline-block",
@@ -98,7 +102,7 @@ export const DetailVillaDown = ({ dataVilla }) => {
                           color: "grey",
                         }}
                       >
-                        Free Wifi 24/7
+                        Free Wifi
                       </p>
                     </div>
                   ) : (
@@ -106,7 +110,7 @@ export const DetailVillaDown = ({ dataVilla }) => {
                   )}
                   {dataVilla.computer === true ? (
                     <div>
-                      <img src={Computer} alt="computer" style={{ marginRight: "25px" }} />
+                      <img src={TV} alt="TV" style={{ marginRight: "25px", width: "1.5rem" }} />
                       <p
                         style={{
                           display: "inline-block",
@@ -114,7 +118,7 @@ export const DetailVillaDown = ({ dataVilla }) => {
                           color: "grey",
                         }}
                       >
-                        Free Computer
+                        TV
                       </p>
                     </div>
                   ) : (
@@ -122,7 +126,7 @@ export const DetailVillaDown = ({ dataVilla }) => {
                   )}
                   {dataVilla.medical === true ? (
                     <div>
-                      <img src={Medical} alt="medical" style={{ marginRight: "25px" }} />
+                      <img src={BestView} alt="best view" style={{ marginRight: "25px", width: "2rem", marginLeft: "-6.5px" }} />
                       <p
                         style={{
                           display: "inline-block",
@@ -130,7 +134,7 @@ export const DetailVillaDown = ({ dataVilla }) => {
                           color: "grey",
                         }}
                       >
-                        Alat Kesehatan
+                        Best View
                       </p>
                     </div>
                   ) : (
@@ -138,7 +142,7 @@ export const DetailVillaDown = ({ dataVilla }) => {
                   )}
                   {dataVilla.grill === true ? (
                     <div>
-                      <img src={Apple} alt="apple" style={{ marginRight: "25px" }} />
+                      <img src={HotWater} alt="hotwater" style={{ marginRight: "25px", width: "2rem", marginLeft: "-8px" }} />
                       <p
                         style={{
                           display: "inline-block",
@@ -146,7 +150,7 @@ export const DetailVillaDown = ({ dataVilla }) => {
                           color: "grey",
                         }}
                       >
-                        Sedia Grill
+                        Hot Water
                       </p>
                     </div>
                   ) : (
@@ -162,7 +166,7 @@ export const DetailVillaDown = ({ dataVilla }) => {
                 <Col md={4}>
                   {dataVilla.wifi === true ? (
                     <div>
-                      <img src={Modem} alt="modem" style={{ marginRight: "25px" }} />
+                      <img src={Dispenser} alt="dispenser" style={{ marginRight: "25px", width: "2rem", marginLeft: "-8px" }} />
                       <p
                         style={{
                           display: "inline-block",
@@ -170,7 +174,7 @@ export const DetailVillaDown = ({ dataVilla }) => {
                           color: "grey",
                         }}
                       >
-                        Free Wifi 24/7
+                        Dispenser
                       </p>
                     </div>
                   ) : (
@@ -178,7 +182,7 @@ export const DetailVillaDown = ({ dataVilla }) => {
                   )}
                   {dataVilla.computer === true ? (
                     <div>
-                      <img src={Computer} alt="computer" style={{ marginRight: "25px" }} />
+                      <img src={Dapur} alt="dapur" style={{ marginRight: "25px", width: "2rem", marginLeft: "-8px" }} />
                       <p
                         style={{
                           display: "inline-block",
@@ -186,7 +190,7 @@ export const DetailVillaDown = ({ dataVilla }) => {
                           color: "grey",
                         }}
                       >
-                        Free Computer
+                        Dapur
                       </p>
                     </div>
                   ) : (
@@ -194,7 +198,7 @@ export const DetailVillaDown = ({ dataVilla }) => {
                   )}
                   {dataVilla.medical === true ? (
                     <div>
-                      <img src={Medical} alt="medical" style={{ marginRight: "25px" }} />
+                      <img src={Parkir} alt="parkir" style={{ marginRight: "25px", width: "2rem", marginLeft: "-6px" }} />
                       <p
                         style={{
                           display: "inline-block",
@@ -202,7 +206,7 @@ export const DetailVillaDown = ({ dataVilla }) => {
                           color: "grey",
                         }}
                       >
-                        Alat Kesehatan
+                        Parkir Luas
                       </p>
                     </div>
                   ) : (
@@ -210,7 +214,7 @@ export const DetailVillaDown = ({ dataVilla }) => {
                   )}
                   {dataVilla.grill === true ? (
                     <div>
-                      <img src={Apple} alt="apple" style={{ marginRight: "25px" }} />
+                      <img src={Strategis} alt="Strategis" style={{ marginRight: "25px", width: "2rem", marginLeft: "-8px" }} />
                       <p
                         style={{
                           display: "inline-block",
@@ -218,7 +222,7 @@ export const DetailVillaDown = ({ dataVilla }) => {
                           color: "grey",
                         }}
                       >
-                        Sedia Grill
+                        Strategis
                       </p>
                     </div>
                   ) : (
