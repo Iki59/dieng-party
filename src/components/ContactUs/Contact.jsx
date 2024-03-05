@@ -27,19 +27,15 @@ export const Contact = () => {
     } else {
       if (send === '1') {
         event.preventDefault();
-        emailjs
-          .sendForm('service_6852cjr', 'template_0uwexia', form, {
+        try {
+          emailjs.sendForm('service_6852cjr', 'template_0uwexia', form, {
             publicKey: 'uMJ9DGnQynwlhNM0J',
-          })
-          .then(
-            () => {
-              successNotification('Email');
-            },
-            (error) => {
-              errorNotification('Email');
-              console.log(error);
-            }
-          );
+          });
+          successNotification('Email');
+        } catch (error) {
+          errorNotification('Email');
+          console.log(error);
+        }
       } else {
         const phone = '+628562593941';
         const message = `Saya ${data.name} berasal dari ${data.asal}. ${data.message} `;
@@ -70,11 +66,11 @@ export const Contact = () => {
   return (
     <>
       <Container className="px-lg-4 py-lg-5 px-md-3 py-md-3 px-4 py-5">
-        <div className="fs-3 fw-semibold mb-5 ">
+        <div className="fs-3 fw-semibold mb-2 ">
           <p>Contact</p>
         </div>
         <hr />
-        <div>
+        <div className="mt-3">
           <Form noValidate validated={validated} onSubmit={handleSubmit}>
             <div className="mb-3">
               <Form.Group>
@@ -196,7 +192,7 @@ export const Contact = () => {
                   style={{ resize: 'none', height: '10rem' }}
                 />
                 <Form.Control.Feedback type="invalid">
-                  Mohon isi pesan yang ingin disampaikan
+                  Mohon isi pesan kamu
                 </Form.Control.Feedback>
               </Form.Group>
             </div>

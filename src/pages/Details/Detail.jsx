@@ -1,12 +1,10 @@
 import React from 'react';
 import { DetailVilla } from '../../components/Detail/DetailVilla';
-import { IniNavbar } from '../../components/Navbar/iniNavbar';
 
 export const Detail = () => {
   return (
     <>
-      <div>
-        <IniNavbar />
+      <div className="h-100 min-100-vh mt-5">
         <DetailVilla />
       </div>
     </>
