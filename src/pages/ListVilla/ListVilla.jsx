@@ -1,13 +1,13 @@
 import ListCard from "../../components/ListCard/ListCard";
 import { IniNavbar } from "../../components/Navbar/iniNavbar";
 
-const ListVilla = () => {
+export const ListVilla = () => {
   return (
     <>
       <IniNavbar />
-      <ListCard />
+      <div style={{ marginTop: "10rem" }}>
+        <ListCard />
+      </div>
     </>
   );
 };
-
-export default ListVilla;

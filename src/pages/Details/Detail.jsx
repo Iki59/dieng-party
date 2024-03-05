@@ -1,10 +1,12 @@
 import React from 'react';
 import { DetailVilla } from '../../components/Detail/DetailVilla';
+import { IniNavbar } from '../../components/Navbar/iniNavbar';
 
 export const Detail = () => {
   return (
     <>
-      <div className="h-100 min-100-vh mt-5">
+      <div style={{ marginTop: '8rem' }}>
+        <IniNavbar />
         <DetailVilla />
       </div>
     </>

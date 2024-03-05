@@ -1,14 +1,14 @@
-import Logo from '../../assets/logo.png';
-import Container from 'react-bootstrap/Container';
-import Nav from 'react-bootstrap/Nav';
-import Navbar from 'react-bootstrap/Navbar';
-import { Link } from 'react-router-dom';
+import Logo from "../../assets/RY (1).png";
+import Container from "react-bootstrap/Container";
+import Nav from "react-bootstrap/Nav";
+import Navbar from "react-bootstrap/Navbar";
+import { Link } from "react-router-dom";
 
 export const IniNavbar = () => {
   return (
     <>
       <div>
-        <Navbar expand="md" className="fixed-top bg-body-tertiary shadow">
+        <Navbar expand="md" className="fixed-top shadow" style={{ backdropFilter: "blur(5px)" }}>
           <Container className="px-lg-4 px-md-3 px-4 d-flex align-items-center">
             <Navbar.Brand>
               <Link to="/">
@@ -27,11 +27,11 @@ export const IniNavbar = () => {
                 {/* <Nav.Link href="#">
                   <button
                     style={{
-                      border: '2px solid var(--Neutrals-6, #E6E8EC)',
-                      borderRadius: '80px',
-                      padding: '4px 15px',
-                      fontWeight: 'normal',
-                      backgroundColor: 'white',
+                      border: "2px solid var(--Neutrals-6, #E6E8EC)",
+                      borderRadius: "80px",
+                      padding: "4px 15px",
+                      fontWeight: "normal",
+                      backgroundColor: "white",
                     }}
                   >
                     Kontak

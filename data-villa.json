@@ -127,55 +127,165 @@
   },
   {
     "id": 19,
-    "image": "src/assets/villaex.jpg",
-    "image2": "src/assets/thumb 01.png",
-    "image3": "src/assets/thumb 03.png",
-    "image4": "src/assets/thumb 02.png",
-    "headTitle": "Spectacular Views of Dieng",
-    "title": "Villa Cemara",
-    "price": "Rp. 300.000/Night",
+    "image": "src/assets/cabin 1 tani house/tani house.jpg",
+    "image2": "src/assets/cabin 1 tani house/IMG_0179.JPG",
+    "image3": "src/assets/cabin 1 tani house/IMG_0199.JPG",
+    "image4": "src/assets/cabin 1 tani house/IMG_0207.JPG",
+    "headTitle": "CABIN TANI HOUSE 1",
+    "title": "Cabin Tani House 1",
+    "price": "Rp. 1.500.000/Night",
     "text": "19",
-    "ratings": "4.8",
-    "reviews": 10,
+    "ratings": "4.9",
+    "reviews": 100,
     "recomendation": true,
     "location": "Dieng, Indonesia",
     "host": "Techmas Solution",
-    "guests": 2,
-    "bedroom": 1,
+    "guests": 8,
+    "bedroom": 3,
     "privateBath": 1,
-    "description": "Described by Queenstown House & Garden magazine as having 'one of the best views we've ever seen' you will love relaxing in this newly built, architectural house sitting proudly on Queenstown Hill.",
-    "description2": "Enjoy breathtaking 180' views of Lake Wakatipu from your well appointed & privately accessed bedroom with modern en suite and floor-to-ceiling windows.",
-    "description3": "Your private patio takes in the afternoon sun, letting you soak up unparalleled lake and mountain views by day and the stars & city lights by night.",
+    "description": "Nikmati pengalaman menginap yang istimewa di Dieng Farmhouse Tani-1 , sebuah kabin yang terletak di Dieng, Kejajar, Wonosobo. Dengan kapasitas hingga 9 orang orang, kabin ini menawarkan 1 unit yang nyaman serta fasilitas standar seperti Free Wifi, Dapur dan peralatan masak, Parkir dan lain-lain",
+    "description2": "Para tamu dapat menikmati pemandangan spektakuler sambil bersantai di ruang tamu yang hangat . Dieng Farmhouse Tani-1 juga dekat dengan berbagai atraksi populer seperti Telaga Warna Dieng, Kawah Sikidang Dieng, Batu Ratapan Angin Dieng, View Point Bukit Sikapuk Dieng, Pemandian Air Hangat Dieng, Dieng Plateau Theater, dan lain-lain. Jadikan Dieng Farmhouse Tani-1 sebagai pilihan terbaik Anda untuk menginap di Dieng Kulon",
+    "description3": " ",
     "wifi": true,
-    "bathroom": true,
     "computer": true,
+    "bathroom": true,
     "breakfast": true,
     "atm": true,
     "nearbyCity": true,
     "medical": true,
-    "grill": true
+    "grill": true,
+    "gallery": [
+      {
+        "original": "../src/assets/cabin 1 tani house/tani house.jpg",
+        "thumbnail": "../src/assets/cabin 1 tani house/tani house.jpg"
+      },
+      {
+        "original": "../src/assets/cabin 1 tani house/IMG_0179.JPG",
+        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0179.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 1 tani house/IMG_0199.JPG",
+        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0199.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 1 tani house/IMG_0207.JPG",
+        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0207.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 1 tani house/IMG_0183.JPG",
+        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0183.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 1 tani house/IMG_0194.JPG",
+        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0194.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 1 tani house/IMG_0195.JPG",
+        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0195.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 1 tani house/IMG_0196.JPG",
+        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0196.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 1 tani house/IMG_0201.JPG",
+        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0201.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 1 tani house/IMG_0202.JPG",
+        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0202.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 1 tani house/IMG_0206.JPG",
+        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0206.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 1 tani house/IMG_0208.JPG",
+        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0208.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 1 tani house/IMG_0209.JPG",
+        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0209.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 1 tani house/IMG_0215.JPG",
+        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0215.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 1 tani house/IMG_0218.JPG",
+        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0218.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 1 tani house/IMG_0219.JPG",
+        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0219.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 1 tani house/IMG_0220.JPG",
+        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0220.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 1 tani house/IMG_0221.JPG",
+        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0221.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 1 tani house/IMG_0068.JPG",
+        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0223.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 1 tani house/IMG_0240.JPG",
+        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0240.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 1 tani house/IMG_0243.JPG",
+        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0243.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 1 tani house/IMG_0245.JPG",
+        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0245.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 1 tani house/IMG_0250.JPG",
+        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0250.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 1 tani house/IMG_0251.JPG",
+        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0251.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 1 tani house/IMG_0254.JPG",
+        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0254.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 1 tani house/IMG_0255.JPG",
+        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0255.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 1 tani house/IMG_0256.JPG",
+        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0256.JPG"
+      }
+    ]
   },
   {
     "id": 20,
-    "image": "src/assets/villa2.jpg",
-    "image2": "src/assets/thumb 01.png",
-    "image3": "src/assets/thumb 03.png",
-    "image4": "src/assets/thumb 02.png",
-    "headTitle": "Spectacular Views of Dieng",
-    "title": "Villa Cemara",
-    "price": "Rp. 300.000/Night",
+    "image": "src/assets/cabin 2 tani house/tani house2.jpg",
+    "image2": "src/assets/cabin 2 tani house/IMG_0136.JPG",
+    "image3": "src/assets/cabin 2 tani house/IMG_0126.JPG",
+    "image4": "src/assets/cabin 2 tani house/IMG_0090.JPG",
+    "headTitle": "CABIN TANI HOUSE 2",
+    "title": "Cabin Tani House 2",
+    "price": "Rp. 1.500.000/Night",
     "text": "20",
-    "ratings": "4.8",
+    "ratings": "4.9",
     "reviews": 10,
     "recomendation": true,
     "location": "Dieng, Indonesia",
     "host": "Techmas Solution",
-    "guests": 2,
-    "bedroom": 1,
+    "guests": 6,
+    "bedroom": 2,
     "privateBath": 1,
-    "description": "Described by Queenstown House & Garden magazine as having 'one of the best views we've ever seen' you will love relaxing in this newly built, architectural house sitting proudly on Queenstown Hill.",
-    "description2": "Enjoy breathtaking 180' views of Lake Wakatipu from your well appointed & privately accessed bedroom with modern en suite and floor-to-ceiling windows.",
-    "description3": "Your private patio takes in the afternoon sun, letting you soak up unparalleled lake and mountain views by day and the stars & city lights by night.",
+    "description": "Dieng Farmhouse Tani-2 adalah sebuah kabin yang nyaman di Dieng, Kejajar, Wonosobo. Dengan kapasitas untuk 6 orang orang, kabin ini menawarkan 1 unit yang luas dan dilengkapi dengan fasilitas standar seperti Free Wifi, Dapur dan alat masak, Parkir dan lain-lain.",
+    "description2": "Rasakan kehangatan tinggal di ruang tamu yang hangat sambil menikmati pemandangan spektakuler sekitarnya. Dieng Farmhouse Tani-2 juga dekat oleh wisata-wisata terdekat seperti Telaga Warna Dieng, Kawah Sikidang Dieng, Batu Ratapan Angin Dieng, View Point Bukit Sikapuk Dieng, Pemandian Air Hangat Dieng, Dieng Plateau Theater, dan lain-lain. Temukan pengalaman menginap yang istimewa di Dieng Farmhouse Tani-2.",
+    "description3": " ",
     "wifi": true,
     "bathroom": true,
     "computer": true,
@@ -183,19 +293,177 @@
     "atm": true,
     "nearbyCity": true,
     "medical": true,
-    "grill": true
+    "grill": true,
+    "gallery": [
+      {
+        "original": "../src/assets/cabin 2 tani house/tani house2.jpg",
+        "thumbnail": "../src/assets/cabin 2 tani house/tani house2.jpg"
+      },
+      {
+        "original": "../src/assets/cabin 2 tani house/IMG_0136.JPG",
+        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0136.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 2 tani house/IMG_0015.JPG",
+        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0015.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 2 tani house/IMG_0013.JPG",
+        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0013.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 2 tani house/IMG_0014.JPG",
+        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0014.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 2 tani house/IMG_0015.JPG",
+        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0015.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 2 tani house/IMG_0023.JPG",
+        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0023.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 2 tani house/IMG_0024.JPG",
+        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0024.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 2 tani house/IMG_0032.JPG",
+        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0032.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 2 tani house/IMG_0328.JPG",
+        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0049.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 2 tani house/IMG_0050.JPG",
+        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0050.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 2 tani house/IMG_0051.JPG",
+        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0051.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 2 tani house/IMG_0056.JPG",
+        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0056.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 2 tani house/IMG_0057.JPG",
+        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0057.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 2 tani house/IMG_0058.JPG",
+        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0058.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 2 tani house/IMG_0061.JPG",
+        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0061.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 2 tani house/IMG_0062.JPG",
+        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0062.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 2 tani house/IMG_0067.JPG",
+        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0067.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 2 tani house/IMG_0068.JPG",
+        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0068.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 2 tani house/IMG_0078.JPG",
+        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0078.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 2 tani house/IMG_0090.JPG",
+        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0090.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 2 tani house/IMG_0092.JPG",
+        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0092.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 2 tani house/IMG_0093.JPG",
+        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0093.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 2 tani house/IMG_0095.JPG",
+        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0095.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 2 tani house/IMG_0096.JPG",
+        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0096.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 2 tani house/IMG_0102.JPG",
+        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0102.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 2 tani house/IMG_0107.JPG",
+        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0107.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 2 tani house/IMG_0118.JPG",
+        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0118.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 2 tani house/IMG_0121.JPG",
+        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0121.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 2 tani house/IMG_0121.JPG",
+        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0121.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 2 tani house/IMG_0122.JPG",
+        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0122.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 2 tani house/IMG_0126.JPG",
+        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0126.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 2 tani house/IMG_0127.JPG",
+        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0127.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 2 tani house/IMG_0132.JPG",
+        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0132.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 2 tani house/IMG_0136.JPG",
+        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0136.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 2 tani house/IMG_0155.JPG",
+        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0155.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 2 tani house/IMG_0161.JPG",
+        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0161.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 2 tani house/IMG_0166.JPG",
+        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0166.JPG"
+      },
+      {
+        "original": "../src/assets/cabin 2 tani house/IMG_0167.JPG",
+        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0167.JPG"
+      }
+    ]
   },
   {
     "id": 21,
-    "image": "src/assets/villaex.jpg",
-    "image2": "src/assets/thumb 01.png",
-    "image3": "src/assets/thumb 03.png",
-    "image4": "src/assets/thumb 02.png",
-    "headTitle": "Spectacular Views of Dieng",
-    "title": "Villa Cemara",
-    "price": "Rp. 300.000/Night",
+    "image": "src/assets/cabin tani house 3/taniHouse3.jpg",
+    "image2": "src/assets/cabin tani house 3/IMG_0308.JPG",
+    "image3": "src/assets/cabin tani house 3/IMG_0352.JPG",
+    "image4": "src/assets/cabin tani house 3/IMG_0345.JPG",
+    "headTitle": "CABIN TANI HOUSE 3",
+    "title": "Cabin Tani House 3",
+    "price": "Rp. 1.500.000/Night",
     "text": "21",
-    "ratings": "4.8",
+    "ratings": "4.9",
     "reviews": 10,
     "recomendation": true,
     "location": "Dieng, Indonesia",
@@ -203,9 +471,9 @@
     "guests": 2,
     "bedroom": 1,
     "privateBath": 1,
-    "description": "Described by Queenstown House & Garden magazine as having 'one of the best views we've ever seen' you will love relaxing in this newly built, architectural house sitting proudly on Queenstown Hill.",
-    "description2": "Enjoy breathtaking 180' views of Lake Wakatipu from your well appointed & privately accessed bedroom with modern en suite and floor-to-ceiling windows.",
-    "description3": "Your private patio takes in the afternoon sun, letting you soak up unparalleled lake and mountain views by day and the stars & city lights by night.",
+    "description": "Dieng Farmhouse Tani-3 adalah sebuah kabin yang nyaman di Dieng, Kejajar, Wonosobo. Dengan kapasitas untuk 6 orang orang, kabin ini menawarkan 1 unit yang luas dan dilengkapi dengan fasilitas standar seperti Free Wifi, Dapur dan alat masak, Parkir dan lain-lain.",
+    "description2": "Rasakan kehangatan tinggal di ruang tamu yang hangat sambil menikmati pemandangan spektakuler sekitarnya. Dieng Farmhouse Tani-3 juga dekat oleh wisata-wisata terdekat seperti Telaga Warna Dieng, Kawah Sikidang Dieng, Batu Ratapan Angin Dieng, View Point Bukit Sikapuk Dieng, Pemandian Air Hangat Dieng, Dieng Plateau Theater, dan lain-lain. Temukan pengalaman menginap yang istimewa di Dieng Farmhouse Tani-3.",
+    "description3": " ",
     "wifi": true,
     "bathroom": true,
     "computer": true,
@@ -213,17 +481,171 @@
     "atm": true,
     "nearbyCity": true,
     "medical": true,
-    "grill": true
+    "grill": true,
+    "gallery": [
+      {
+        "original": "../src/assets/cabin tani house 3/tanihouse3.jpg",
+        "thumbnail": "../src/assets/cabin tani house 3/tanihouse3.jpg"
+      },
+      {
+        "original": "../src/assets/cabin tani house 3/IMG_0308.JPG",
+        "thumbnail": "../src/assets/cabin tani house 3/IMG_0308.JPG"
+      },
+      {
+        "original": "../src/assets/cabin tani house 3/IMG_0352.JPG",
+        "thumbnail": "../src/assets/cabin tani house 3/IMG_0352.JPG"
+      },
+      {
+        "original": "../src/assets/cabin tani house 3/IMG_0345.JPG",
+        "thumbnail": "../src/assets/cabin tani house 3/IMG_0345.JPG"
+      },
+      {
+        "original": "../src/assets/cabin tani house 3/IMG_0307.JPG",
+        "thumbnail": "../src/assets/cabin tani house 3/IMG_0307.JPG"
+      },
+      {
+        "original": "../src/assets/cabin tani house 3/IMG_0310.JPG",
+        "thumbnail": "../src/assets/cabin tani house 3/IMG_0310.JPG"
+      },
+      {
+        "original": "../src/assets/cabin tani house 3/IMG_0315.JPG",
+        "thumbnail": "../src/assets/cabin tani house 3/IMG_0315.JPG"
+      },
+      {
+        "original": "../src/assets/cabin tani house 3/IMG_0316.JPG",
+        "thumbnail": "../src/assets/cabin tani house 3/IMG_0316.JPG"
+      },
+      {
+        "original": "../src/assets/cabin tani house 3/IMG_0327.JPG",
+        "thumbnail": "../src/assets/cabin tani house 3/IMG_0327.JPG"
+      },
+      {
+        "original": "../src/assets/cabin tani house 3/IMG_0328.JPG",
+        "thumbnail": "../src/assets/cabin tani house 3/IMG_0328.JPG"
+      },
+      {
+        "original": "../src/assets/cabin tani house 3/IMG_0329.JPG",
+        "thumbnail": "../src/assets/cabin tani house 3/IMG_0329.JPG"
+      },
+      {
+        "original": "../src/assets/cabin tani house 3/IMG_0339.JPG",
+        "thumbnail": "../src/assets/cabin tani house 3/IMG_0339.JPG"
+      },
+      {
+        "original": "../src/assets/cabin tani house 3/IMG_0360.JPG",
+        "thumbnail": "../src/assets/cabin tani house 3/IMG_0360.JPG"
+      },
+      {
+        "original": "../src/assets/cabin tani house 3/IMG_0363.JPG",
+        "thumbnail": "../src/assets/cabin tani house 3/IMG_0363.JPG"
+      },
+      {
+        "original": "../src/assets/cabin tani house 3/IMG_0364.JPG",
+        "thumbnail": "../src/assets/cabin tani house 3/IMG_0364.JPG"
+      },
+      {
+        "original": "../src/assets/cabin tani house 3/IMG_0500.PNG",
+        "thumbnail": "../src/assets/cabin tani house 3/IMG_0500.PNG"
+      },
+      {
+        "original": "../src/assets/cabin tani house 3/IMG_0501.PNG",
+        "thumbnail": "../src/assets/cabin tani house 3/IMG_0501.PNG"
+      },
+      {
+        "original": "../src/assets/cabin tani house 3/IMG_0502.PNG",
+        "thumbnail": "../src/assets/cabin tani house 3/IMG_0502.PNG"
+      },
+      {
+        "original": "../src/assets/cabin tani house 3/IMG_0503.PNG",
+        "thumbnail": "../src/assets/cabin tani house 3/IMG_0503.PNG"
+      },
+      {
+        "original": "../src/assets/cabin tani house 3/IMG_0504.PNG",
+        "thumbnail": "../src/assets/cabin tani house 3/IMG_0504.PNG"
+      },
+      {
+        "original": "../src/assets/cabin tani house 3/IMG_0505.PNG",
+        "thumbnail": "../src/assets/cabin tani house 3/IMG_0505.PNG"
+      },
+      {
+        "original": "../src/assets/cabin tani house 3/IMG_0506.PNG",
+        "thumbnail": "../src/assets/cabin tani house 3/IMG_0506.PNG"
+      },
+      {
+        "original": "../src/assets/cabin tani house 3/IMG_0508.PNG",
+        "thumbnail": "../src/assets/cabin tani house 3/IMG_0508.PNG"
+      },
+      {
+        "original": "../src/assets/cabin tani house 3/IMG_9909.JPG",
+        "thumbnail": "../src/assets/cabin tani house 3/IMG_9909.JPG"
+      },
+      {
+        "original": "../src/assets/cabin tani house 3/IMG_9910.JPG",
+        "thumbnail": "../src/assets/cabin tani house 3/IMG_9910.JPG"
+      },
+      {
+        "original": "../src/assets/cabin tani house 3/IMG_9914.JPG",
+        "thumbnail": "../src/assets/cabin tani house 3/IMG_9914.JPG"
+      },
+      {
+        "original": "../src/assets/cabin tani house 3/IMG_9916.JPG",
+        "thumbnail": "../src/assets/cabin tani house 3/IMG_9916.JPG"
+      },
+      {
+        "original": "../src/assets/cabin tani house 3/IMG_9931.JPG",
+        "thumbnail": "../src/assets/cabin tani house 3/IMG_9931.JPG"
+      },
+      {
+        "original": "../src/assets/cabin tani house 3/IMG_9935.JPG",
+        "thumbnail": "../src/assets/cabin tani house 3/IMG_9935.JPG"
+      },
+      {
+        "original": "../src/assets/cabin tani house 3/IMG_9942.JPG",
+        "thumbnail": "../src/assets/cabin tani house 3/IMG_9942.JPG"
+      },
+      {
+        "original": "../src/assets/cabin tani house 3/IMG_9943.JPG",
+        "thumbnail": "../src/assets/cabin tani house 3/IMG_9943.JPG"
+      },
+      {
+        "original": "../src/assets/cabin tani house 3/IMG_9953.JPG",
+        "thumbnail": "../src/assets/cabin tani house 3/IMG_9953.JPG"
+      },
+      {
+        "original": "../src/assets/cabin tani house 3/IMG_9955.JPG",
+        "thumbnail": "../src/assets/cabin tani house 3/IMG_9955.JPG"
+      },
+      {
+        "original": "../src/assets/cabin tani house 3/IMG_9956.JPG",
+        "thumbnail": "../src/assets/cabin tani house 3/IMG_9956.JPG"
+      },
+      {
+        "original": "../src/assets/cabin tani house 3/IMG_9963.JPG",
+        "thumbnail": "../src/assets/cabin tani house 3/IMG_9963.JPG"
+      },
+      {
+        "original": "../src/assets/cabin tani house 3/IMG_9964.JPG",
+        "thumbnail": "../src/assets/cabin tani house 3/IMG_9964.JPG"
+      },
+      {
+        "original": "../src/assets/cabin tani house 3/IMG_9965.JPG",
+        "thumbnail": "../src/assets/cabin tani house 3/IMG_9965.JPG"
+      },
+      {
+        "original": "../src/assets/cabin tani house 3/IMG_9967.JPG",
+        "thumbnail": "../src/assets/cabin tani house 3/IMG_9967.JPG"
+      }
+    ]
   },
   {
     "id": 22,
-    "image": "src/assets/villa2.jpg",
-    "image2": "src/assets/thumb 01.png",
-    "image3": "src/assets/thumb 03.png",
-    "image4": "src/assets/thumb 02.png",
-    "headTitle": "Spectacular Views of Dieng",
-    "title": "Villa Cemara",
-    "price": "Rp. 300.000/Night",
+    "image": "src/assets/sanctuary/sanctuary.jpg",
+    "image2": "src/assets/sanctuary/IMG_0267.JPG",
+    "image3": "src/assets/sanctuary/IMG_0268.JPG",
+    "image4": "src/assets/sanctuary/IMG_0270.JPG",
+    "headTitle": "CABIN SANCTUARY",
+    "title": "Cabin Sanctuary",
+    "price": "Rp. 1.500.000/Night",
     "text": "22",
     "ratings": "4.8",
     "reviews": 10,
@@ -243,6 +665,988 @@
     "atm": true,
     "nearbyCity": true,
     "medical": true,
-    "grill": true
+    "grill": true,
+    "gallery": [
+      {
+        "original": "../src/assets/sanctuary/sanctuary.jpg",
+        "thumbnail": "../src/assets/sanctuary/sanctuary.jpg"
+      },
+      {
+        "original": "../src/assets/sanctuary/IMG_0267.JPG",
+        "thumbnail": "../src/assets/sanctuary/IMG_0267.JPG"
+      },
+      {
+        "original": "../src/assets/sanctuary/IMG_0268.JPG",
+        "thumbnail": "../src/assets/sanctuary/IMG_0268.JPG"
+      },
+      {
+        "original": "../src/assets/sanctuary/IMG_0270.JPG",
+        "thumbnail": "../src/assets/sanctuary/IMG_0270.JPG"
+      },
+      {
+        "original": "../src/assets/sanctuary/IMG_0271.JPG",
+        "thumbnail": "../src/assets/sanctuary/IMG_0271.JPG"
+      },
+      {
+        "original": "../src/assets/sanctuary/IMG_0286.JPG",
+        "thumbnail": "../src/assets/sanctuary/IMG_0286.JPG"
+      },
+      {
+        "original": "../src/assets/sanctuary/IMG_0293.JPG",
+        "thumbnail": "../src/assets/sanctuary/IMG_0293.JPG"
+      },
+      {
+        "original": "../src/assets/sanctuary/IMG_0294.JPG",
+        "thumbnail": "../src/assets/sanctuary/IMG_0294.JPG"
+      },
+      {
+        "original": "../src/assets/sanctuary/IMG_0295.JPG",
+        "thumbnail": "../src/assets/sanctuary/IMG_0295.JPG"
+      },
+      {
+        "original": "../src/assets/sanctuary/IMG_0296.JPG",
+        "thumbnail": "../src/assets/sanctuary/IMG_0296.JPG"
+      },
+      {
+        "original": "../src/assets/sanctuary/IMG_0297.JPG",
+        "thumbnail": "../src/assets/sanctuary/IMG_0297.JPG"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "image": "src/assets/bro cabin/12.jpg",
+    "image2": "src/assets/bro cabin/2.jpg",
+    "image3": "src/assets/bro cabin/3.jpg",
+    "image4": "src/assets/bro cabin/4.jpg",
+    "headTitle": "COTTAGE BERO DIENG",
+    "title": "Cottage Bero Dieng",
+    "price": "Rp. 1.100.000/Night",
+    "text": "22",
+    "ratings": "4.59",
+    "reviews": 10,
+    "recomendation": true,
+    "location": "Dieng, Indonesia",
+    "host": "Techmas Solution",
+    "guests": 2,
+    "bedroom": 1,
+    "privateBath": 1,
+    "description": "Cottage Bero Dieng. Cottage dekat tempat wisata Favorit dengan kebun bunga di depannya, Salah satu tipe akomodasi paling dicari di Dieng karena selain nyaman, view sekitar menarik, strategis dan harga affordable.",
+    "description2": " ",
+    "description3": " ",
+    "wifi": true,
+    "bathroom": true,
+    "computer": true,
+    "breakfast": true,
+    "atm": true,
+    "nearbyCity": true,
+    "medical": true,
+    "grill": true,
+    "gallery": [
+      {
+        "original": "../src/assets/bro cabin/12.jpg",
+        "thumbnail": "../src/assets/bro cabin/12.jpg"
+      },
+      {
+        "original": "../src/assets/bro cabin/2.jpg",
+        "thumbnail": "../src/assets/bro cabin/2.jpg"
+      },
+      {
+        "original": "../src/assets/bro cabin/3.jpg",
+        "thumbnail": "../src/assets/bro cabin/3.jpg"
+      },
+      {
+        "original": "../src/assets/bro cabin/4.jpg",
+        "thumbnail": "../src/assets/bro cabin/4.jpg"
+      },
+      {
+        "original": "../src/assets/bro cabin/5.jpg",
+        "thumbnail": "../src/assets/bro cabin/5.jpg"
+      },
+      {
+        "original": "../src/assets/bro cabin/6.jpg",
+        "thumbnail": "../src/assets/bro cabin/6.jpg"
+      },
+      {
+        "original": "../src/assets/bro cabin/7.jpg",
+        "thumbnail": "../src/assets/bro cabin/7.jpg"
+      },
+      {
+        "original": "../src/assets/bro cabin/8.jpg",
+        "thumbnail": "../src/assets/bro cabin/8.jpg"
+      },
+      {
+        "original": "../src/assets/bro cabin/22.jpg",
+        "thumbnail": "../src/assets/bro cabin/22.jpg"
+      },
+      {
+        "original": "../src/assets/bro cabin/32.jpg",
+        "thumbnail": "../src/assets/bro cabin/32.jpg"
+      },
+      {
+        "original": "../src/assets/bro cabin/42.jpg",
+        "thumbnail": "../src/assets/bro cabin/42.jpg"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "image": "src/assets/cabin salju/1.jpg",
+    "image2": "src/assets/cabin salju/2.jpg",
+    "image3": "src/assets/cabin salju/3.png",
+    "image4": "src/assets/cabin salju/4.png",
+    "headTitle": "SALJU COTTAGE BAWAH",
+    "title": "Salju Cottage Bawah",
+    "price": "Rp. 700.000/Night",
+    "text": "22",
+    "ratings": "4.7",
+    "reviews": 10,
+    "recomendation": true,
+    "location": "Dieng, Indonesia",
+    "host": "Techmas Solution",
+    "guests": 2,
+    "bedroom": 1,
+    "privateBath": 1,
+    "description": "Nikmati alam Dieng Kulon dengan menginap di Salju Cottage bawah, sebuah kabin yang nyaman. Dengan kapasitas untuk 4 orang orang, kabin ini menyediakan 1 unit yang nyaman dan fasilitas lengkap seperti Free Wifi, Welcome Drink, Teh, Gula, Kopi, Parking Lot dan lain-lain.",
+    "description2": "Rasakan kehangatan tinggal di ruang tamu yang hangat sambil menikmati pemandangan luar biasa di sekitarnya. Jelajahi atraksi populer seperti Telaga Warna Dieng, Kawah Sikidang Dieng, Batu Ratapan Angin Dieng, View Point Bukit Sikapuk Dieng, Pemandian Air Hangat Dieng, Dieng Plateau Theater, dan lain-lain yang berjarak dekat. Salju Cottage bawah menjadi tempat ideal untuk melarikan diri dan menikmati ketenangan alam Dieng Kulon.",
+    "description3": " ",
+    "wifi": true,
+    "bathroom": true,
+    "computer": true,
+    "breakfast": true,
+    "atm": true,
+    "nearbyCity": true,
+    "medical": true,
+    "grill": true,
+    "gallery": [
+      {
+        "original": "../src/assets/cabin salju/1.jpg",
+        "thumbnail": "../src/assets/cabin salju/1.jpg"
+      },
+      {
+        "original": "../src/assets/cabin salju/2.jpg",
+        "thumbnail": "../src/assets/cabin salju/2.jpg"
+      },
+      {
+        "original": "../src/assets/cabin salju/3.png",
+        "thumbnail": "../src/assets/cabin salju/3.png"
+      },
+      {
+        "original": "../src/assets/cabin salju/4.png",
+        "thumbnail": "../src/assets/cabin salju/4.png"
+      },
+      {
+        "original": "../src/assets/cabin salju/5.png",
+        "thumbnail": "../src/assets/cabin salju/5.png"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "image": "src/assets/cozy cabin/1.jpg",
+    "image2": "src/assets/cozy cabin/2.jpg",
+    "image3": "src/assets/cozy cabin/3.jpg",
+    "image4": "src/assets/cozy cabin/4.jpg",
+    "headTitle": "VILLA CABANA DIENG",
+    "title": "Villa Cabana Dieng",
+    "price": "Rp. 1.100.000/Night",
+    "text": "22",
+    "ratings": "4.66",
+    "reviews": 10,
+    "recomendation": true,
+    "location": "Dieng, Indonesia",
+    "host": "Techmas Solution",
+    "guests": 2,
+    "bedroom": 1,
+    "privateBath": 1,
+    "description": "Villa Cabana Dieng, sebuah cottage yang menawan di lokasi Dieng Kulon, Batur, Banjarnegara. Dengan kapasitas hingga 6 orang, cottage ini memiliki 2 unit yang nyaman dan dilengkapi dengan berbagai fasilitas seperti Dapur dan peralatan masak, Kamar mandi dengan water heater, Dispenser + Free Teh Gula Kopi, Free Wifi, Parkir dan lain-lain.",
+    "description2": "Nikmati kehangatan tinggal di kamar-kamar yang indah dengan 1 kamar mandi. Villa Cabana Dieng juga dekat dengan atraksi populer seperti Telaga Warna Dieng, Kawah Sikidang Dieng, Batu Ratapan Angin Dieng, View Point Bukit Sikapuk Dieng, Pemandian Air Hangat Dieng, Dieng Plateau Theater, dan lain-lain.",
+    "description3": " ",
+    "wifi": true,
+    "bathroom": true,
+    "computer": true,
+    "breakfast": true,
+    "atm": true,
+    "nearbyCity": true,
+    "medical": true,
+    "grill": true,
+    "gallery": [
+      {
+        "original": "../src/assets/cozy cabin/1.jpg",
+        "thumbnail": "../src/assets/cozy cabin/1.jpg"
+      },
+      {
+        "original": "../src/assets/cozy cabin/2.jpg",
+        "thumbnail": "../src/assets/cozy cabin/2.jpg"
+      },
+      {
+        "original": "../src/assets/cozy cabin/3.jpg",
+        "thumbnail": "../src/assets/cozy cabin/3.jpg"
+      },
+      {
+        "original": "../src/assets/cozy cabin/4.jpg",
+        "thumbnail": "../src/assets/cozy cabin/4.jpg"
+      },
+      {
+        "original": "../src/assets/cozy cabin/5.jpg",
+        "thumbnail": "../src/assets/cozy cabin/5.jpg"
+      },
+      {
+        "original": "../src/assets/cozy cabin/6.jpg",
+        "thumbnail": "../src/assets/cozy cabin/6.jpg"
+      },
+      {
+        "original": "../src/assets/cozy cabin/7.jpg",
+        "thumbnail": "../src/assets/cozy cabin/7.jpg"
+      },
+      {
+        "original": "../src/assets/cozy cabin/8.jpg",
+        "thumbnail": "../src/assets/cozy cabin/8.jpg"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "image": "src/assets/d martos farmhouse/13.jpg",
+    "image2": "src/assets/d martos farmhouse/2.jpg",
+    "image3": "src/assets/d martos farmhouse/3.jpg",
+    "image4": "src/assets/d martos farmhouse/4.jpg",
+    "headTitle": "D MARTOS FARMHOUSE",
+    "title": "D Martos Farmhouse",
+    "price": "Rp. 1.100.000/Night",
+    "text": "22",
+    "ratings": "4.66",
+    "reviews": 10,
+    "recomendation": true,
+    "location": "Dieng, Indonesia",
+    "host": "Techmas Solution",
+    "guests": 2,
+    "bedroom": 1,
+    "privateBath": 1,
+    "description": "D Martos Farmhouse, sebuah kabin yang menawan di Dieng Kulon, Batur, Banjarnegara, menawarkan pengalaman menginap yang tak terlupakan. Dengan kapasitas hingga 6 orang orang, kabin ini dilengkapi dengan 2 unit yang nyaman dan fasilitas lengkap seperti Sofa, Kamar mandi dengan water heater, LED TV, Free Teh, Gula, Kopi dan lain-lain.",
+    "description2": "Bersantailah di ruang tamu yang nyaman sambil menikmati pemandangan alam yang memesona. D Martos Farmhouse juga terletak dekat dengan objek wisata terkenal seperti Telaga Warna Dieng, Kawah Sikidang Dieng, Batu Ratapan Angin Dieng, View Point Bukit Sikapuk Dieng, Pemandian Air Hangat Dieng, Dieng Plateau Theater, dan lain-lain. Jadikan D Martos Farmhouse sebagai tempat menginap pilihan Anda saat berlibur di Dieng Kulon.",
+    "description3": " ",
+    "wifi": true,
+    "bathroom": true,
+    "computer": true,
+    "breakfast": true,
+    "atm": true,
+    "nearbyCity": true,
+    "medical": true,
+    "grill": true,
+    "gallery": [
+      {
+        "original": "../src/assets/d martos farmhouse/13.jpg",
+        "thumbnail": "../src/assets/d martos farmhouse/13.jpg"
+      },
+      {
+        "original": "../src/assets/d martos farmhouse/2.jpg",
+        "thumbnail": "../src/assets/d martos farmhouse/2.jpg"
+      },
+      {
+        "original": "../src/assets/d martos farmhouse/3.jpg",
+        "thumbnail": "../src/assets/d martos farmhouse/3.jpg"
+      },
+      {
+        "original": "../src/assets/d martos farmhouse/4.jpg",
+        "thumbnail": "../src/assets/d martos farmhouse/4.jpg"
+      },
+      {
+        "original": "../src/assets/d martos farmhouse/5.jpg",
+        "thumbnail": "../src/assets/d martos farmhouse/5.jpg"
+      },
+      {
+        "original": "../src/assets/d martos farmhouse/6.jpg",
+        "thumbnail": "../src/assets/d martos farmhouse/6.jpg"
+      },
+      {
+        "original": "../src/assets/d martos farmhouse/7.jpg",
+        "thumbnail": "../src/assets/d martos farmhouse/7.jpg"
+      },
+      {
+        "original": "../src/assets/d martos farmhouse/8.jpg",
+        "thumbnail": "../src/assets/d martos farmhouse/8.jpg"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "image": "src/assets/daniel cabin/cabin1.jpg",
+    "image2": "src/assets/daniel cabin/cabin2.jpg",
+    "image3": "src/assets/daniel cabin/cabin3.jpg",
+    "image4": "src/assets/daniel cabin/cabin4.jpg",
+    "headTitle": "CABIN DIENG DN SKOTER",
+    "title": "Cabin Dieng DN Skoter",
+    "price": "Rp. 1.100.000/Night",
+    "text": "22",
+    "ratings": "4.32",
+    "reviews": 10,
+    "recomendation": true,
+    "location": "Dieng, Indonesia",
+    "host": "Techmas Solution",
+    "guests": 2,
+    "bedroom": 1,
+    "privateBath": 1,
+    "description": "Cabin Dieng DN skoter merupakan sebuah kabin yang menawan di lokasi Dieng Kulon, Batur, Banjarnegara. Dengan kapasitas hingga 6 orang orang, kabin ini memiliki 1 unit yang nyaman dan dilengkapi dengan berbagai fasilitas seperti Water Heater di Kamar mandi, Living Room, Dispenser, Free Wifi, Parking Lot dan lain-lain.",
+    "description2": "Nikmati pemandangan indah dan santai di ruang tamu yang nyaman. Cabin Dieng DN skoter juga strategis terletak dekat dengan objek wisata terkenal seperti Telaga Warna Dieng, Kawah Sikidang Dieng, Batu Ratapan Angin Dieng, View Point Bukit Sikapuk Dieng, Pemandian Air Hangat Dieng, Dieng Plateau Theater, dan lain-lain. Buat momen berharga di Cabin Dieng DN skoter, pilihan akomodasi terbaik Anda di Dieng Kulon.",
+    "description3": " ",
+    "wifi": true,
+    "bathroom": true,
+    "computer": true,
+    "breakfast": true,
+    "atm": true,
+    "nearbyCity": true,
+    "medical": true,
+    "grill": true,
+    "gallery": [
+      {
+        "original": "../src/assets/daniel cabin/cabin1.jpg",
+        "thumbnail": "../src/assets/daniel cabin/cabin1.jpg"
+      },
+      {
+        "original": "../src/assets/daniel cabin/cabin2.jpg",
+        "thumbnail": "../src/assets/daniel cabin/cabin2.jpg"
+      },
+      {
+        "original": "../src/assets/daniel cabin/cabin3.jpg",
+        "thumbnail": "../src/assets/daniel cabin/cabin3.jpg"
+      },
+      {
+        "original": "../src/assets/daniel cabin/cabin4.jpg",
+        "thumbnail": "../src/assets/daniel cabin/cabin4.jpg"
+      },
+      {
+        "original": "../src/assets/daniel cabin/cabin5.jpg",
+        "thumbnail": "../src/assets/daniel cabin/cabin5.jpg"
+      },
+      {
+        "original": "../src/assets/daniel cabin/cabin6.jpg",
+        "thumbnail": "../src/assets/daniel cabin/cabin6.jpg"
+      },
+      {
+        "original": "../src/assets/daniel cabin/cabin7.jpg",
+        "thumbnail": "../src/assets/daniel cabin/cabin7.jpg"
+      },
+      {
+        "original": "../src/assets/daniel cabin/cabin8.jpg",
+        "thumbnail": "../src/assets/daniel cabin/cabin8.jpg"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "image": "src/assets/dringo 1 cabin/14.jpg",
+    "image2": "src/assets/dringo 1 cabin/2.jpg",
+    "image3": "src/assets/dringo 1 cabin/3.jpg",
+    "image4": "src/assets/dringo 1 cabin/6.jpg",
+    "headTitle": "CABIN DIENG ALVI~DRINGO",
+    "title": "Cabin Dieng Alvi~Dringo",
+    "price": "Rp. 1.350.000/Night",
+    "text": "22",
+    "ratings": "4.86",
+    "reviews": 10,
+    "recomendation": true,
+    "location": "Dieng, Indonesia",
+    "host": "Techmas Solution",
+    "guests": 2,
+    "bedroom": 1,
+    "privateBath": 1,
+    "description": "Cabin Dieng Alvi~Dringo, sebuah kabin yang menawan di Dieng Kulon, Batur, Banjarnegara, menawarkan pengalaman menginap yang tak terlupakan. Dengan kapasitas hingga 8 orang orang, kabin ini dilengkapi dengan 1 unit yang nyaman dan fasilitas lengkap seperti Free Wifi, Ruang TV, Ruang Tamu, Parkir dan lain-lain.",
+    "description2": "Bersantailah di ruang tamu yang nyaman sambil menikmati pemandangan alam yang memesona. Cabin Dieng Alvi~Dringo juga terletak dekat dengan objek wisata terkenal seperti Telaga Warna Dieng, Kawah Sikidang Dieng, Batu Ratapan Angin Dieng, View Point Bukit Sikapuk Dieng, Pemandian Air Hangat Dieng, Dieng Plateau Theater, dan lain-lain. Jadikan Cabin Dieng Alvi~Dringo sebagai tempat menginap pilihan Anda saat berlibur di Dieng Kulon.",
+    "description3": " ",
+    "wifi": true,
+    "bathroom": true,
+    "computer": true,
+    "breakfast": true,
+    "atm": true,
+    "nearbyCity": true,
+    "medical": true,
+    "grill": true,
+    "gallery": [
+      {
+        "original": "../src/assets/dringo 1 cabin/14.jpg",
+        "thumbnail": "../src/assets/dringo 1 cabin/14.jpg"
+      },
+      {
+        "original": "../src/assets/dringo 1 cabin/2.jpg",
+        "thumbnail": "../src/assets/dringo 1 cabin/2.jpg"
+      },
+      {
+        "original": "../src/assets/dringo 1 cabin/3.jpg",
+        "thumbnail": "../src/assets/dringo 1 cabin/3.jpg"
+      },
+      {
+        "original": "../src/assets/dringo 1 cabin/6.jpg",
+        "thumbnail": "../src/assets/dringo 1 cabin/6.jpg"
+      },
+      {
+        "original": "../src/assets/dringo 1 cabin/4.jpg",
+        "thumbnail": "../src/assets/dringo 1 cabin/4.jpg"
+      },
+      {
+        "original": "../src/assets/dringo 1 cabin/5.jpg",
+        "thumbnail": "../src/assets/dringo 1 cabin/5.jpg"
+      },
+      {
+        "original": "../src/assets/dringo 1 cabin/7.jpg",
+        "thumbnail": "../src/assets/dringo 1 cabin/7.jpg"
+      },
+      {
+        "original": "../src/assets/dringo 1 cabin/8.jpg",
+        "thumbnail": "../src/assets/dringo 1 cabin/8.jpg"
+      },
+      {
+        "original": "../src/assets/dringo 1 cabin/9.jpg",
+        "thumbnail": "../src/assets/dringo 1 cabin/9.jpg"
+      },
+      {
+        "original": "../src/assets/dringo 1 cabin/10.jpg",
+        "thumbnail": "../src/assets/dringo 1 cabin/10.jpg"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "image": "src/assets/ira 1 cabin/1.jpg",
+    "image2": "src/assets/ira 1 cabin/2.jpg",
+    "image3": "src/assets/ira 1 cabin/3.jpg",
+    "image4": "src/assets/ira 1 cabin/4.jpg",
+    "headTitle": "CABIN IRA 2",
+    "title": "Cabin Ira 2",
+    "price": "Rp. 1.100.000/Night",
+    "text": "22",
+    "ratings": "4.59",
+    "reviews": 10,
+    "recomendation": true,
+    "location": "Dieng, Indonesia",
+    "host": "Techmas Solution",
+    "guests": 2,
+    "bedroom": 1,
+    "privateBath": 1,
+    "description": "Cabin ira 2 adalah sebuah kabin yang nyaman di Dieng Kulon, Batur, Banjarnegara. Dengan kapasitas untuk 6 orang orang, kabin ini menawarkan 1 unit yang luas dan dilengkapi dengan fasilitas standar seperti Kamar mandi dengan water Heater, Dispenser, Parking Lot dan lain-lain.",
+    "description2": "Rasakan kehangatan tinggal di ruang tamu yang hangat sambil menikmati pemandangan spektakuler sekitarnya. Cabin ira 2 juga dekat oleh wisata-wisata terdekat seperti Telaga Warna Dieng, Kawah Sikidang Dieng, Batu Ratapan Angin Dieng, View Point Bukit Sikapuk Dieng, Pemandian Air Hangat Dieng, Dieng Plateau Theater, dan lain-lain. Temukan pengalaman menginap yang istimewa di Cabin ira 2.",
+    "description3": " ",
+    "wifi": true,
+    "bathroom": true,
+    "computer": true,
+    "breakfast": true,
+    "atm": true,
+    "nearbyCity": true,
+    "medical": true,
+    "grill": true,
+    "gallery": [
+      {
+        "original": "../src/assets/ira 1 cabin/1.jpg",
+        "thumbnail": "../src/assets/ira 1 cabin/1.jpg"
+      },
+      {
+        "original": "../src/assets/ira 1 cabin/2.jpg",
+        "thumbnail": "../src/assets/ira 1 cabin/2.jpg"
+      },
+      {
+        "original": "../src/assets/ira 1 cabin/3.jpg",
+        "thumbnail": "../src/assets/ira 1 cabin/3.jpg"
+      },
+      {
+        "original": "../src/assets/ira 1 cabin/4.jpg",
+        "thumbnail": "../src/assets/ira 1 cabin/4.jpg"
+      },
+      {
+        "original": "../src/assets/ira 1 cabin/5.jpg",
+        "thumbnail": "../src/assets/ira 1 cabin/5.jpg"
+      },
+      {
+        "original": "../src/assets/ira 1 cabin/6.jpg",
+        "thumbnail": "../src/assets/ira 1 cabin/6.jpg"
+      },
+      {
+        "original": "../src/assets/ira 1 cabin/7.jpg",
+        "thumbnail": "../src/assets/ira 1 cabin/7.jpg"
+      },
+      {
+        "original": "../src/assets/ira 1 cabin/8.jpg",
+        "thumbnail": "../src/assets/ira 1 cabin/8.jpg"
+      },
+      {
+        "original": "../src/assets/ira 1 cabin/9.jpg",
+        "thumbnail": "../src/assets/ira 1 cabin/9.jpg"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "image": "src/assets/ira 2 cabin/1.jpg",
+    "image2": "src/assets/ira 2 cabin/2.jpg",
+    "image3": "src/assets/ira 2 cabin/3.jpg",
+    "image4": "src/assets/ira 2 cabin/4.jpg",
+    "headTitle": "CABIN IRA DIENG",
+    "title": "Cabin Ira Dieng",
+    "price": "Rp. 850.000/Night",
+    "text": "22",
+    "ratings": "4.84",
+    "reviews": 10,
+    "recomendation": true,
+    "location": "Dieng, Indonesia",
+    "host": "Techmas Solution",
+    "guests": 2,
+    "bedroom": 1,
+    "privateBath": 1,
+    "description": "Nikmati pengalaman menginap yang istimewa di Cabin Ira Dieng, sebuah kabin yang terletak di Dieng Kulon, Batur, Banjarnegara. Dengan kapasitas hingga 4 orang orang, kabin ini menawarkan 2 unit yang nyaman serta fasilitas standar seperti Kamar mandi dengan water heater, Dispenser, Parkir, Free WIFI dan lain-lain.",
+    "description2": "Para tamu dapat menikmati pemandangan spektakuler sambil bersantai di ruang tamu yang hangat . Cabin Ira Dieng juga dekat dengan berbagai atraksi populer seperti Telaga Warna Dieng, Kawah Sikidang Dieng, Batu Ratapan Angin Dieng, View Point Bukit Sikapuk Dieng, Pemandian Air Hangat Dieng, Dieng Plateau Theater, dan lain-lain. Jadikan Cabin Ira Dieng sebagai pilihan terbaik Anda untuk menginap di Dieng Kulon.",
+    "description3": " ",
+    "wifi": true,
+    "bathroom": true,
+    "computer": true,
+    "breakfast": true,
+    "atm": true,
+    "nearbyCity": true,
+    "medical": true,
+    "grill": true,
+    "gallery": [
+      {
+        "original": "../src/assets/ira 2 cabin/1.jpg",
+        "thumbnail": "../src/assets/ira 2 cabin/1.jpg"
+      },
+      {
+        "original": "../src/assets/ira 2 cabin/2.jpg",
+        "thumbnail": "../src/assets/ira 2 cabin/2.jpg"
+      },
+      {
+        "original": "../src/assets/ira 2 cabin/3.jpg",
+        "thumbnail": "../src/assets/ira 2 cabin/3.jpg"
+      },
+      {
+        "original": "../src/assets/ira 2 cabin/4.jpg",
+        "thumbnail": "../src/assets/ira 2 cabin/4.jpg"
+      },
+      {
+        "original": "../src/assets/ira 2 cabin/5.jpg",
+        "thumbnail": "../src/assets/ira 2 cabin/5.jpg"
+      },
+      {
+        "original": "../src/assets/ira 2 cabin/6.jpg",
+        "thumbnail": "../src/assets/ira 2 cabin/6.jpg"
+      },
+      {
+        "original": "../src/assets/ira 2 cabin/8.jpg",
+        "thumbnail": "../src/assets/ira 2 cabin/8.jpg"
+      },
+      {
+        "original": "../src/assets/ira 2 cabin/9.jpg",
+        "thumbnail": "../src/assets/ira 2 cabin/9.jpg"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "image": "src/assets/kayu manis/13.jpg",
+    "image2": "src/assets/kayu manis/5.jpg",
+    "image3": "src/assets/kayu manis/6.jpg",
+    "image4": "src/assets/kayu manis/8.jpg",
+    "headTitle": "COTTAGE LUMBUNG KAYUMANIS SKOTER",
+    "title": "Cottage Lumbung Kayumanis Skoter",
+    "price": "Rp. 1.000.000/Night",
+    "text": "22",
+    "ratings": "4.57",
+    "reviews": 10,
+    "recomendation": true,
+    "location": "Dieng, Indonesia",
+    "host": "Techmas Solution",
+    "guests": 2,
+    "bedroom": 1,
+    "privateBath": 1,
+    "description": "Cottage Lumbung Kayumanis Skoter, sebuah kabin yang menawan, terletak di Dieng Kulon, Batur, Banjarnegara. Dengan kapasitas untuk 6 orang orang, kabin ini menawarkan 2 unit yang nyaman dan dilengkapi dengan fasilitas standar seperti Parkir, Kamar bawah 1 bed queen, Kamar atas 2 bed queen dan lain-lain.",
+    "description2": "Para tamu dapat menikmati pemandangan indah sambil bersantai di ruang tamu yang nyaman. Cottage Lumbung Kayumanis Skoter juga berdekatan dengan objek wisata populer seperti Telaga Warna Dieng, Kawah Sikidang Dieng, Batu Ratapan Angin Dieng, View Point Bukit Sikapuk Dieng, Pemandian Air Hangat Dieng, Dieng Plateau Theater, dan lain-lain. Jadikan Cottage Lumbung Kayumanis Skoter sebagai pilihan akomodasi terbaik Anda di Dieng Kulon.",
+    "description3": " ",
+    "wifi": true,
+    "bathroom": true,
+    "computer": true,
+    "breakfast": true,
+    "atm": true,
+    "nearbyCity": true,
+    "medical": true,
+    "grill": true,
+    "gallery": [
+      {
+        "original": "../src/assets/kayu manis/13.jpg",
+        "thumbnail": "../src/assets/kayu manis/13.jpg"
+      },
+      {
+        "original": "../src/assets/kayu manis/5.jpg",
+        "thumbnail": "../src/assets/kayu manis/5.jpg"
+      },
+      {
+        "original": "../src/assets/kayu manis/6.jpg",
+        "thumbnail": "../src/assets/kayu manis/6.jpg"
+      },
+      {
+        "original": "../src/assets/kayu manis/8.jpg",
+        "thumbnail": "../src/assets/kayu manis/8.jpg"
+      },
+      {
+        "original": "../src/assets/kayu manis/2.jpg",
+        "thumbnail": "../src/assets/kayu manis/2.jpg"
+      },
+      {
+        "original": "../src/assets/kayu manis/3.jpg",
+        "thumbnail": "../src/assets/kayu manis/3.jpg"
+      },
+      {
+        "original": "../src/assets/kayu manis/4.jpg",
+        "thumbnail": "../src/assets/kayu manis/4.jpg"
+      },
+      {
+        "original": "../src/assets/kayu manis/.jpg",
+        "thumbnail": "../src/assets/kayu manis/.jpg"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "image": "src/assets/lazio cottage dieng/1.jpeg",
+    "image2": "src/assets/lazio cottage dieng/2.jpeg",
+    "image3": "src/assets/lazio cottage dieng/3.jpeg",
+    "image4": "src/assets/lazio cottage dieng/4.jpeg",
+    "headTitle": "LAZIO COTTAGE DIENG",
+    "title": "Lazio Cottage Dieng",
+    "price": "Rp. 1.100.000/Night",
+    "text": "22",
+    "ratings": "4.81",
+    "reviews": 10,
+    "recomendation": true,
+    "location": "Dieng, Indonesia",
+    "host": "Techmas Solution",
+    "guests": 2,
+    "bedroom": 1,
+    "privateBath": 1,
+    "description": "Lazio Cottage Dieng adalah kabin yang ideal untuk melarikan diri dari hiruk-pikuk kehidupan sehari-hari. Terletak di Dieng Kulon, Batur, Banjarnegara, kabin ini memiliki kapasitas untuk 6 orang orang dan menawarkan 3 unit yang nyaman.",
+    "description2": "Fasilitas standar seperti Living room, Dispenser, Free WIFI, Parking Lot, Smart TV dan lain-lain juga tersedia untuk kehangatan Anda. Dapatkan pengalaman menginap yang istimewa di ruang tamu yang luas dan nikmati pemandangan menakjubkan sekitarnya. Jelajahi atraksi populer seperti Telaga Warna Dieng, Kawah Sikidang Dieng, Batu Ratapan Angin Dieng, View Point Bukit Sikapuk Dieng, Pemandian Air Hangat Dieng, Dieng Plateau Theater, dan lain-lain yang berdekatan dengan Lazio Cottage Dieng.",
+    "description3": " ",
+    "wifi": true,
+    "bathroom": true,
+    "computer": true,
+    "breakfast": true,
+    "atm": true,
+    "nearbyCity": true,
+    "medical": true,
+    "grill": true,
+    "gallery": [
+      {
+        "original": "../src/assets/lazio cottage dieng/1.jpeg",
+        "thumbnail": "../src/assets/lazio cottage dieng/1.jpeg"
+      },
+      {
+        "original": "../src/assets/lazio cottage dieng/2.jpeg",
+        "thumbnail": "../src/assets/lazio cottage dieng/2.jpeg"
+      },
+      {
+        "original": "../src/assets/lazio cottage dieng/3.jpeg",
+        "thumbnail": "../src/assets/lazio cottage dieng/3.jpeg"
+      },
+      {
+        "original": "../src/assets/lazio cottage dieng/4.jpeg",
+        "thumbnail": "../src/assets/lazio cottage dieng/4.jpeg"
+      },
+      {
+        "original": "../src/assets/lazio cottage dieng/5.jpeg",
+        "thumbnail": "../src/assets/lazio cottage dieng/5.jpeg"
+      },
+      {
+        "original": "../src/assets/lazio cottage dieng/6.jpeg",
+        "thumbnail": "../src/assets/lazio cottage dieng/6.jpeg"
+      },
+      {
+        "original": "../src/assets/lazio cottage dieng/7.jpeg",
+        "thumbnail": "../src/assets/lazio cottage dieng/7.jpeg"
+      },
+      {
+        "original": "../src/assets/lazio cottage dieng/8.jpeg",
+        "thumbnail": "../src/assets/lazio cottage dieng/8.jpeg"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "image": "src/assets/oemar cabin/2.jpg",
+    "image2": "src/assets/oemar cabin/3.jpg",
+    "image3": "src/assets/oemar cabin/4.jpg",
+    "image4": "src/assets/oemar cabin/7.jpg",
+    "headTitle": "OEMAR CABIN DIENG",
+    "title": "Oemar Cabin Dieng",
+    "price": "Rp. 1.050.000/Night",
+    "text": "22",
+    "ratings": "4.36",
+    "reviews": 10,
+    "recomendation": true,
+    "location": "Dieng, Indonesia",
+    "host": "Techmas Solution",
+    "guests": 2,
+    "bedroom": 1,
+    "privateBath": 1,
+    "description": "Oemar Cabin Dieng adalah sebuah kabin cantik yang berlokasi di Dieng Kulon, Batur, Banjarnegara. Dengan kapasitas hingga 6 orang orang, kabin ini memiliki 3 unit yang nyaman dan dilengkapi dengan berbagai fasilitas seperti Dapur dan peralatan masak, Sofa, Kamar mandi dengan water heater, LED TV dan lain-lain.",
+    "description2": "Para tamu dapat menikmati pemandangan terbaik dan bersantai di ruang tamu yang nyaman. Terletak dekat dengan atraksi populer seperti Telaga Warna Dieng, Kawah Sikidang Dieng, Batu Ratapan Angin Dieng, View Point Bukit Sikapuk Dieng, Pemandian Air Hangat Dieng, Dieng Plateau Theater, dan lain-lain. Oemar Cabin Dieng adalah tempat menginap yang sempurna untuk liburan Anda di Dieng Kulon.",
+    "description3": " ",
+    "wifi": true,
+    "bathroom": true,
+    "computer": true,
+    "breakfast": true,
+    "atm": true,
+    "nearbyCity": true,
+    "medical": true,
+    "grill": true,
+    "gallery": [
+      {
+        "original": "../src/assets/oemar cabin/2.jpg",
+        "thumbnail": "../src/assets/oemar cabin/2.jpg"
+      },
+      {
+        "original": "../src/assets/oemar cabin/3.jpg",
+        "thumbnail": "../src/assets/oemar cabin/3.jpg"
+      },
+      {
+        "original": "../src/assets/oemar cabin/4.jpg",
+        "thumbnail": "../src/assets/oemar cabin/4.jpg"
+      },
+      {
+        "original": "../src/assets/oemar cabin/7.jpg",
+        "thumbnail": "../src/assets/oemar cabin/7.jpg"
+      },
+      {
+        "original": "../src/assets/oemar cabin/5.jpg",
+        "thumbnail": "../src/assets/oemar cabin/5.jpg"
+      },
+      {
+        "original": "../src/assets/oemar cabin/6.jpg",
+        "thumbnail": "../src/assets/oemar cabin/6.jpg"
+      },
+      {
+        "original": "../src/assets/oemar cabin/8.jpg",
+        "thumbnail": "../src/assets/oemar cabin/8.jpg"
+      },
+      {
+        "original": "../src/assets/oemar cabin/9.jpg",
+        "thumbnail": "../src/assets/oemar cabin/9.jpg"
+      },
+      {
+        "original": "../src/assets/oemar cabin/10.jpg",
+        "thumbnail": "../src/assets/oemar cabin/10.jpg"
+      },
+      {
+        "original": "../src/assets/oemar cabin/11.jpg",
+        "thumbnail": "../src/assets/oemar cabin/11.jpg"
+      },
+      {
+        "original": "../src/assets/oemar cabin/12.jpg",
+        "thumbnail": "../src/assets/oemar cabin/12.jpg"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "image": "src/assets/villio 1/13.jpg",
+    "image2": "src/assets/villio 1/2.jpg",
+    "image3": "src/assets/villio 1/11.jpg",
+    "image4": "src/assets/villio 1/5.jpg",
+    "headTitle": "VILIO CABIN DIENG",
+    "title": "Vilio Cabin Dieng",
+    "price": "Rp. 1.050.000/Night",
+    "text": "22",
+    "ratings": "4.48",
+    "reviews": 10,
+    "recomendation": true,
+    "location": "Dieng, Indonesia",
+    "host": "Techmas Solution",
+    "guests": 2,
+    "bedroom": 1,
+    "privateBath": 1,
+    "description": "Nikmati kehangatan tinggal di Vilio Cabin Dieng, sebuah kabin yang terletak di Dieng Kulon, Batur, Banjarnegara. Dengan kapasitas untuk 6 orang orang, kabin ini menawarkan 3 unit yang luas dan fasilitas lengkap seperti Dapur dan peralatan masak, Ruang Tamu, Dispenser + Free Teh/ Kopi Gula,Free Wifi, Parkir dan lain-lain.Free Wifi, Parkir dan lain-lain.",
+    "description2": "Nikmati pemandangan terbaik sambil bersantai di ruang tamu yang nyaman. Vilio Cabin Dieng juga dekat oleh tempat-tempat wisata terkenal seperti Telaga Warna Dieng, Kawah Sikidang Dieng, Batu Ratapan Angin Dieng, View Point Bukit Sikapuk Dieng, Pemandian Air Hangat Dieng, Dieng Plateau Theater, dan lain-lain. Temukan pengalaman menginap yang tak terlupakan di Vilio Cabin Dieng.",
+    "description3": " ",
+    "wifi": true,
+    "bathroom": true,
+    "computer": true,
+    "breakfast": true,
+    "atm": true,
+    "nearbyCity": true,
+    "medical": true,
+    "grill": true,
+    "gallery": [
+      {
+        "original": "../src/assets/villio 1/13.jpg",
+        "thumbnail": "../src/assets/villio 1/13.jpg"
+      },
+      {
+        "original": "../src/assets/villio 1/2.jpg",
+        "thumbnail": "../src/assets/villio 1/2.jpg"
+      },
+      {
+        "original": "../src/assets/villio 1/11.jpg",
+        "thumbnail": "../src/assets/villio 1/11.jpg"
+      },
+      {
+        "original": "../src/assets/villio 1/5.jpg",
+        "thumbnail": "../src/assets/villio 1/5.jpg"
+      },
+      {
+        "original": "../src/assets/villio 1/4.jpg",
+        "thumbnail": "../src/assets/villio 1/4.jpg"
+      },
+      {
+        "original": "../src/assets/villio 1/7.jpg",
+        "thumbnail": "../src/assets/villio 1/7.jpg"
+      },
+      {
+        "original": "../src/assets/villio 1/8.jpg",
+        "thumbnail": "../src/assets/villio 1/8.jpg"
+      },
+      {
+        "original": "../src/assets/villio 1/10.jpg",
+        "thumbnail": "../src/assets/villio 1/10.jpg"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "image": "src/assets/villio 2 cabin/15.jpg",
+    "image2": "src/assets/villio 2 cabin/2.jpg",
+    "image3": "src/assets/villio 2 cabin/4.jpg",
+    "image4": "src/assets/villio 2 cabin/11.jpg",
+    "headTitle": "CABIN DIENG VILIO 2",
+    "title": "Cabin Dieng Vilio 2",
+    "price": "Rp. 1.100.000/Night",
+    "text": "22",
+    "ratings": "4.33",
+    "reviews": 10,
+    "recomendation": true,
+    "location": "Dieng, Indonesia",
+    "host": "Techmas Solution",
+    "guests": 2,
+    "bedroom": 1,
+    "privateBath": 1,
+    "description": "Cabin Dieng Vilio 2, sebuah kabin yang menawan, terletak di Dieng Kulon, Batur, Banjarnegara. Dengan kapasitas untuk 6 orang orang, kabin ini menawarkan 3 unit yang nyaman dan dilengkapi dengan fasilitas standar seperti Kamar mandi dengan water heater, Dispenser+Free gula kopi, Free Wifi, Parkir dan lain-lain.",
+    "description2": "Para tamu dapat menikmati pemandangan indah sambil bersantai di ruang tamu yang nyaman. Cabin Dieng Vilio 2 juga berdekatan dengan objek wisata populer seperti Telaga Warna Dieng, Kawah Sikidang Dieng, Batu Ratapan Angin Dieng, View Point Bukit Sikapuk Dieng, Pemandian Air Hangat Dieng, Dieng Plateau Theater, dan lain-lain. Jadikan Cabin Dieng Vilio 2 sebagai pilihan akomodasi terbaik Anda di Dieng Kulon.",
+    "description3": " ",
+    "wifi": true,
+    "bathroom": true,
+    "computer": true,
+    "breakfast": true,
+    "atm": true,
+    "nearbyCity": true,
+    "medical": true,
+    "grill": true,
+    "gallery": [
+      {
+        "original": "../src/assets/villio 2 cabin/15.jpg",
+        "thumbnail": "../src/assets/villio 2 cabin/15.jpg"
+      },
+      {
+        "original": "../src/assets/villio 2 cabin/2.jpg",
+        "thumbnail": "../src/assets/villio 2 cabin/2.jpg"
+      },
+      {
+        "original": "../src/assets/villio 2 cabin/4.jpg",
+        "thumbnail": "../src/assets/villio 2 cabin/4.jpg"
+      },
+      {
+        "original": "../src/assets/villio 2 cabin/11.jpg",
+        "thumbnail": "../src/assets/villio 2 cabin/11.jpg"
+      },
+      {
+        "original": "../src/assets/villio 2 cabin/3.jpg",
+        "thumbnail": "../src/assets/villio 2 cabin/3.jpg"
+      },
+      {
+        "original": "../src/assets/villio 2 cabin/5.jpg",
+        "thumbnail": "../src/assets/villio 2 cabin/5.jpg"
+      },
+      {
+        "original": "../src/assets/villio 2 cabin/6.jpg",
+        "thumbnail": "../src/assets/villio 2 cabin/6.jpg"
+      },
+      {
+        "original": "../src/assets/villio 2 cabin/7.jpg",
+        "thumbnail": "../src/assets/villio 2 cabin/7.jpg"
+      },
+      {
+        "original": "../src/assets/villio 2 cabin/8.jpg",
+        "thumbnail": "../src/assets/villio 2 cabin/8.jpg"
+      },
+      {
+        "original": "../src/assets/villio 2 cabin/9.jpg",
+        "thumbnail": "../src/assets/villio 2 cabin/9.jpg"
+      },
+      {
+        "original": "../src/assets/villio 2 cabin/10.jpg",
+        "thumbnail": "../src/assets/villio 2 cabin/10.jpg"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "image": "src/assets/yayan cabin/1.jpg",
+    "image2": "src/assets/yayan cabin/2.jpg",
+    "image3": "src/assets/yayan cabin/3.jpg",
+    "image4": "src/assets/yayan cabin/4.jpg",
+    "headTitle": "COTTAGE DIENG YAYAN",
+    "title": "Cottage Dieng Yayan",
+    "price": "Rp. 1.100.000/Night",
+    "text": "22",
+    "ratings": "4.36",
+    "reviews": 10,
+    "recomendation": true,
+    "location": "Dieng, Indonesia",
+    "host": "Techmas Solution",
+    "guests": 2,
+    "bedroom": 1,
+    "privateBath": 1,
+    "description": "Menikmati liburan di Dieng Kulon menjadi lebih berkesan dengan menginap di Cottage Dieng Yayan, sebuah kabin yang memukau. Dengan kapasitas hingga 6 orang orang, kabin ini menawarkan 5 unit yang nyaman dan fasilitas lengkap seperti Dapur dan peralatan masak, Ruang Tamu, Dispenser + Teh Gula Kopi, Free Wifi, Parkir dan lain-lain.",
+    "description2": "Menikmati liburan di Dieng Kulon menjadi lebih berkesan dengan menginap di Cottage Dieng Yayan, sebuah kabin yang memukau. Dengan kapasitas hingga 6 orang orang, kabin ini menawarkan 5 unit yang nyaman dan fasilitas lengkap seperti Dapur dan peralatan masak, Ruang Tamu, Dispenser + Teh Gula Kopi, Free Wifi, Parkir dan lain-lain.",
+    "description3": " ",
+    "wifi": true,
+    "bathroom": true,
+    "computer": true,
+    "breakfast": true,
+    "atm": true,
+    "nearbyCity": true,
+    "medical": true,
+    "grill": true,
+    "gallery": [
+      {
+        "original": "../src/assets/yayan cabin/1.jpg",
+        "thumbnail": "../src/assets/yayan cabin/1.jpg"
+      },
+      {
+        "original": "../src/assets/yayan cabin/2.jpg",
+        "thumbnail": "../src/assets/yayan cabin/2.jpg"
+      },
+      {
+        "original": "../src/assets/yayan cabin/3.jpg",
+        "thumbnail": "../src/assets/yayan cabin/3.jpg"
+      },
+      {
+        "original": "../src/assets/yayan cabin/4.jpg",
+        "thumbnail": "../src/assets/yayan cabin/4.jpg"
+      },
+      {
+        "original": "../src/assets/yayan cabin/5.jpg",
+        "thumbnail": "../src/assets/yayan cabin/5.jpg"
+      },
+      {
+        "original": "../src/assets/yayan cabin/6.jpg",
+        "thumbnail": "../src/assets/yayan cabin/6.jpg"
+      },
+      {
+        "original": "../src/assets/yayan cabin/7.jpg",
+        "thumbnail": "../src/assets/yayan cabin/7.jpg"
+      },
+      {
+        "original": "../src/assets/yayan cabin/8.jpg",
+        "thumbnail": "../src/assets/yayan cabin/8.jpg"
+      },
+      {
+        "original": "../src/assets/yayan cabin/9.jpg",
+        "thumbnail": "../src/assets/yayan cabin/9.jpg"
+      }
+    ]
   }
 ]
