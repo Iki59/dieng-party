@@ -62,50 +62,51 @@ export const Contact = () => {
 
   return (
     <>
-      <Container className="px-lg-4 py-lg-5 px-md-3 py-md-3 px-4 py-5">
-        <div className="fs-3 fw-semibold mb-5 ">
-          <p>Contact</p>
-        </div>
-        <hr />
-        <div>
-          <Form noValidate validated={validated} onSubmit={handleSubmit}>
-            <div className="mb-3">
-              <Form.Group>
-                <Form.Label className="form-label">Nama Kamu</Form.Label>
-                <Form.Control required type="text" className="form-control" id="name" name="name" onChange={handleChange} />
-                <Form.Control.Feedback type="invalid">Mohon isi nama kamu</Form.Control.Feedback>
-              </Form.Group>
-            </div>
-            <div className="mb-3">
-              <Form.Group>
-                <Form.Label className="form-label">Send Via</Form.Label>
-                <Form.Select size="sm" className="form-control" onChange={(e) => handleSelect(e)}>
-                  <option value="1">Email</option>
-                  <option value="2">Whatsapp</option>
-                </Form.Select>
-              </Form.Group>
-            </div>
-            {showEmail && (
-              <div className="d-flex ">
-                <div className="mb-3 fade-in" style={{ width: "50%", marginRight: "10px" }}>
-                  <Form.Group>
-                    <Form.Label className="form-label">Email</Form.Label>
-                    <Form.Control required type="email" className="form-control" id="email" name="email" onChange={handleChange} />
-                    <Form.Control.Feedback type="invalid">Mohon isi email kamu</Form.Control.Feedback>
-                  </Form.Group>
-                </div>
-                <div className="mb-3 fade-in" style={{ width: "50%" }}>
-                  <Form.Group>
-                    <Form.Label className="form-label">Asal</Form.Label>
-                    <Form.Control required type="text" className="form-control" id="asal" name="asal" onChange={handleChange} />
-                    <Form.Control.Feedback type="invalid">Mohon isi asal kamu</Form.Control.Feedback>
-                  </Form.Group>
-                </div>
+      <div id="contact">
+        <Container className="px-lg-4 py-lg-5 px-md-3 py-md-3 px-4 py-5">
+          <div className="fs-3 fw-semibold mb-5 ">
+            <p>Contact</p>
+          </div>
+          <hr />
+          <div>
+            <Form noValidate validated={validated} onSubmit={handleSubmit}>
+              <div className="mb-3">
+                <Form.Group>
+                  <Form.Label className="form-label">Nama Kamu</Form.Label>
+                  <Form.Control required type="text" className="form-control" id="name" name="name" onChange={handleChange} />
+                  <Form.Control.Feedback type="invalid">Mohon isi nama kamu</Form.Control.Feedback>
+                </Form.Group>
               </div>
-            )}
-            {showPhone && (
-              <>
-                {/* <div className="mb-3 fade-in">
+              <div className="mb-3">
+                <Form.Group>
+                  <Form.Label className="form-label">Send Via</Form.Label>
+                  <Form.Select size="sm" className="form-control" onChange={(e) => handleSelect(e)}>
+                    <option value="1">Email</option>
+                    <option value="2">Whatsapp</option>
+                  </Form.Select>
+                </Form.Group>
+              </div>
+              {showEmail && (
+                <div className="d-flex ">
+                  <div className="mb-3 fade-in" style={{ width: "50%", marginRight: "10px" }}>
+                    <Form.Group>
+                      <Form.Label className="form-label">Email</Form.Label>
+                      <Form.Control required type="email" className="form-control" id="email" name="email" onChange={handleChange} />
+                      <Form.Control.Feedback type="invalid">Mohon isi email kamu</Form.Control.Feedback>
+                    </Form.Group>
+                  </div>
+                  <div className="mb-3 fade-in" style={{ width: "50%" }}>
+                    <Form.Group>
+                      <Form.Label className="form-label">Asal</Form.Label>
+                      <Form.Control required type="text" className="form-control" id="asal" name="asal" onChange={handleChange} />
+                      <Form.Control.Feedback type="invalid">Mohon isi asal kamu</Form.Control.Feedback>
+                    </Form.Group>
+                  </div>
+                </div>
+              )}
+              {showPhone && (
+                <>
+                  {/* <div className="mb-3 fade-in">
                   <Form.Group>
                     <Form.Label className="form-label">WhatsApp</Form.Label>
                     <Form.Control
@@ -121,30 +122,31 @@ export const Contact = () => {
                     </Form.Control.Feedback>
                   </Form.Group>
                 </div> */}
-                <div className="mb-3 fade-in">
-                  <Form.Group>
-                    <Form.Label className="form-label">Asal</Form.Label>
-                    <Form.Control required type="text" className="form-control" id="asal" name="asal" onChange={handleChange} />
-                    <Form.Control.Feedback type="invalid">Mohon isi asal kamu</Form.Control.Feedback>
-                  </Form.Group>
-                </div>
-              </>
-            )}
-            <div className="mb-3">
-              <Form.Group>
-                <Form.Label htmlFor="pesan" className="fs-5 fw-semibold">
-                  Pesanmu
-                </Form.Label>
-                <Form.Control required as="textarea" className="form-control" placeholder="Assalamualaikum" id="message" name="message" onChange={handleChange} style={{ resize: "none", height: "10rem" }} />
-                <Form.Control.Feedback type="invalid">Mohon isi pesan yang ingin disampaikan</Form.Control.Feedback>
-              </Form.Group>
-            </div>
-            <Button type="submit" className="btn btn-primary fw-semibold" style={{ borderRadius: "50px", padding: "3px 20px" }}>
-              Send
-            </Button>
-          </Form>
-        </div>
-      </Container>
+                  <div className="mb-3 fade-in">
+                    <Form.Group>
+                      <Form.Label className="form-label">Asal</Form.Label>
+                      <Form.Control required type="text" className="form-control" id="asal" name="asal" onChange={handleChange} />
+                      <Form.Control.Feedback type="invalid">Mohon isi asal kamu</Form.Control.Feedback>
+                    </Form.Group>
+                  </div>
+                </>
+              )}
+              <div className="mb-3">
+                <Form.Group>
+                  <Form.Label htmlFor="pesan" className="fs-5 fw-semibold">
+                    Pesanmu
+                  </Form.Label>
+                  <Form.Control required as="textarea" className="form-control" placeholder="Assalamualaikum" id="message" name="message" onChange={handleChange} style={{ resize: "none", height: "10rem" }} />
+                  <Form.Control.Feedback type="invalid">Mohon isi pesan yang ingin disampaikan</Form.Control.Feedback>
+                </Form.Group>
+              </div>
+              <Button type="submit" className="btn btn-primary fw-semibold" style={{ borderRadius: "50px", padding: "3px 20px" }}>
+                Send
+              </Button>
+            </Form>
+          </div>
+        </Container>
+      </div>
     </>
   );
 };
