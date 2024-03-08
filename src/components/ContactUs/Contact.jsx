@@ -65,7 +65,6 @@ export const Contact = () => {
 
   return (
     <>
-<<<<<<< HEAD
       <div id="contact">
         <Container className="px-lg-4 py-lg-5 px-md-3 py-md-3 px-4 py-5">
           <div className="fs-3 fw-semibold mb-5 ">
@@ -77,89 +76,27 @@ export const Contact = () => {
               <div className="mb-3">
                 <Form.Group>
                   <Form.Label className="form-label">Nama Kamu</Form.Label>
-                  <Form.Control required type="text" className="form-control" id="name" name="name" onChange={handleChange} />
-                  <Form.Control.Feedback type="invalid">Mohon isi nama kamu</Form.Control.Feedback>
+                  <Form.Control
+                    required
+                    type="text"
+                    className="form-control"
+                    id="name"
+                    name="name"
+                    onChange={handleChange}
+                  />
+                  <Form.Control.Feedback type="invalid">
+                    Mohon isi nama kamu
+                  </Form.Control.Feedback>
                 </Form.Group>
-=======
-      <Container className="px-lg-4 py-lg-5 px-md-3 py-md-3 px-4 py-5">
-        <div className="fs-3 fw-semibold mb-2 ">
-          <p>Contact</p>
-        </div>
-        <hr />
-        <div className="mt-3">
-          <Form noValidate validated={validated} onSubmit={handleSubmit}>
-            <div className="mb-3">
-              <Form.Group>
-                <Form.Label className="form-label">Nama Kamu</Form.Label>
-                <Form.Control
-                  required
-                  type="text"
-                  className="form-control"
-                  id="name"
-                  name="name"
-                  onChange={handleChange}
-                />
-                <Form.Control.Feedback type="invalid">
-                  Mohon isi nama kamu
-                </Form.Control.Feedback>
-              </Form.Group>
-            </div>
-            <div className="mb-3">
-              <Form.Group>
-                <Form.Label className="form-label">Send Via</Form.Label>
-                <Form.Select
-                  size="sm"
-                  className="form-control"
-                  onChange={(e) => handleSelect(e)}
-                >
-                  <option value="1">Email</option>
-                  <option value="2">Whatsapp</option>
-                </Form.Select>
-              </Form.Group>
-            </div>
-            {showEmail && (
-              <div className="d-flex ">
-                <div
-                  className="mb-3 fade-in"
-                  style={{ width: '50%', marginRight: '10px' }}
-                >
-                  <Form.Group>
-                    <Form.Label className="form-label">Email</Form.Label>
-                    <Form.Control
-                      required
-                      type="email"
-                      className="form-control"
-                      id="email"
-                      name="email"
-                      onChange={handleChange}
-                    />
-                    <Form.Control.Feedback type="invalid">
-                      Mohon isi email kamu
-                    </Form.Control.Feedback>
-                  </Form.Group>
-                </div>
-                <div className="mb-3 fade-in" style={{ width: '50%' }}>
-                  <Form.Group>
-                    <Form.Label className="form-label">Asal</Form.Label>
-                    <Form.Control
-                      required
-                      type="text"
-                      className="form-control"
-                      id="asal"
-                      name="asal"
-                      onChange={handleChange}
-                    />
-                    <Form.Control.Feedback type="invalid">
-                      Mohon isi asal kamu
-                    </Form.Control.Feedback>
-                  </Form.Group>
-                </div>
->>>>>>> 8d7f941b82707784bc189f3d047486d187022b7f
               </div>
               <div className="mb-3">
                 <Form.Group>
                   <Form.Label className="form-label">Send Via</Form.Label>
-                  <Form.Select size="sm" className="form-control" onChange={(e) => handleSelect(e)}>
+                  <Form.Select
+                    size="sm"
+                    className="form-control"
+                    onChange={(e) => handleSelect(e)}
+                  >
                     <option value="1">Email</option>
                     <option value="2">Whatsapp</option>
                   </Form.Select>
@@ -167,18 +104,39 @@ export const Contact = () => {
               </div>
               {showEmail && (
                 <div className="d-flex ">
-                  <div className="mb-3 fade-in" style={{ width: "50%", marginRight: "10px" }}>
+                  <div
+                    className="mb-3 fade-in"
+                    style={{ width: '50%', marginRight: '10px' }}
+                  >
                     <Form.Group>
                       <Form.Label className="form-label">Email</Form.Label>
-                      <Form.Control required type="email" className="form-control" id="email" name="email" onChange={handleChange} />
-                      <Form.Control.Feedback type="invalid">Mohon isi email kamu</Form.Control.Feedback>
+                      <Form.Control
+                        required
+                        type="email"
+                        className="form-control"
+                        id="email"
+                        name="email"
+                        onChange={handleChange}
+                      />
+                      <Form.Control.Feedback type="invalid">
+                        Mohon isi email kamu
+                      </Form.Control.Feedback>
                     </Form.Group>
                   </div>
-                  <div className="mb-3 fade-in" style={{ width: "50%" }}>
+                  <div className="mb-3 fade-in" style={{ width: '50%' }}>
                     <Form.Group>
                       <Form.Label className="form-label">Asal</Form.Label>
-                      <Form.Control required type="text" className="form-control" id="asal" name="asal" onChange={handleChange} />
-                      <Form.Control.Feedback type="invalid">Mohon isi asal kamu</Form.Control.Feedback>
+                      <Form.Control
+                        required
+                        type="text"
+                        className="form-control"
+                        id="asal"
+                        name="asal"
+                        onChange={handleChange}
+                      />
+                      <Form.Control.Feedback type="invalid">
+                        Mohon isi asal kamu
+                      </Form.Control.Feedback>
                     </Form.Group>
                   </div>
                 </div>
@@ -201,12 +159,20 @@ export const Contact = () => {
                     </Form.Control.Feedback>
                   </Form.Group>
                 </div> */}
-<<<<<<< HEAD
                   <div className="mb-3 fade-in">
                     <Form.Group>
                       <Form.Label className="form-label">Asal</Form.Label>
-                      <Form.Control required type="text" className="form-control" id="asal" name="asal" onChange={handleChange} />
-                      <Form.Control.Feedback type="invalid">Mohon isi asal kamu</Form.Control.Feedback>
+                      <Form.Control
+                        required
+                        type="text"
+                        className="form-control"
+                        id="asal"
+                        name="asal"
+                        onChange={handleChange}
+                      />
+                      <Form.Control.Feedback type="invalid">
+                        Mohon isi asal kamu
+                      </Form.Control.Feedback>
                     </Form.Group>
                   </div>
                 </>
@@ -216,65 +182,32 @@ export const Contact = () => {
                   <Form.Label htmlFor="pesan" className="fs-5 fw-semibold">
                     Pesanmu
                   </Form.Label>
-                  <Form.Control required as="textarea" className="form-control" placeholder="Assalamualaikum" id="message" name="message" onChange={handleChange} style={{ resize: "none", height: "10rem" }} />
-                  <Form.Control.Feedback type="invalid">Mohon isi pesan yang ingin disampaikan</Form.Control.Feedback>
+                  <Form.Control
+                    required
+                    as="textarea"
+                    className="form-control"
+                    placeholder="Assalamualaikum"
+                    id="message"
+                    name="message"
+                    onChange={handleChange}
+                    style={{ resize: 'none', height: '10rem' }}
+                  />
+                  <Form.Control.Feedback type="invalid">
+                    Mohon isi pesan yang ingin disampaikan
+                  </Form.Control.Feedback>
                 </Form.Group>
               </div>
-              <Button type="submit" className="btn btn-primary fw-semibold" style={{ borderRadius: "50px", padding: "3px 20px" }}>
+              <Button
+                type="submit"
+                className="btn btn-primary fw-semibold"
+                style={{ borderRadius: '50px', padding: '3px 20px' }}
+              >
                 Send
               </Button>
             </Form>
           </div>
         </Container>
       </div>
-=======
-                <div className="mb-3 fade-in">
-                  <Form.Group>
-                    <Form.Label className="form-label">Asal</Form.Label>
-                    <Form.Control
-                      required
-                      type="text"
-                      className="form-control"
-                      id="asal"
-                      name="asal"
-                      onChange={handleChange}
-                    />
-                    <Form.Control.Feedback type="invalid">
-                      Mohon isi asal kamu
-                    </Form.Control.Feedback>
-                  </Form.Group>
-                </div>
-              </>
-            )}
-            <div className="mb-3">
-              <Form.Group>
-                <Form.Label className="fs-5 fw-semibold">Pesanmu</Form.Label>
-                <Form.Control
-                  required
-                  as="textarea"
-                  className="form-control"
-                  placeholder="Assalamualaikum"
-                  id="message"
-                  name="message"
-                  onChange={handleChange}
-                  style={{ resize: 'none', height: '10rem' }}
-                />
-                <Form.Control.Feedback type="invalid">
-                  Mohon isi pesan kamu
-                </Form.Control.Feedback>
-              </Form.Group>
-            </div>
-            <Button
-              type="submit"
-              className="btn btn-primary fw-semibold"
-              style={{ borderRadius: '50px', padding: '3px 20px' }}
-            >
-              Send
-            </Button>
-          </Form>
-        </div>
-      </Container>
->>>>>>> 8d7f941b82707784bc189f3d047486d187022b7f
     </>
   );
 };
