@@ -341,82 +341,84 @@ const UserTestimonials = () => {
 
   return (
     <>
-      <Container className="px-lg-4 px-md-3 px-4">
-        <Row className="g-5">
-          <Col xs={12} md={6} className="d-flex align-items-center justify-content-left">
-            {selectedContent && (
-              <div>
-                <p>{selectedContent.content}</p>
-                <div className="d-flex" style={{ marginLeft: "35px" }}>
-                  <Image src={quote} alt="quote" className="me-2 fade-in" style={{ width: "24px", height: "24px" }} />
-                  <span
-                    className="fade-in"
-                    style={{
-                      fontFamily: "Poppins",
-                      fontSize: "14px",
-                      fontWeight: "500",
-                      lineHeight: "24px",
-                    }}
-                  >
-                    {selectedContent.textName}
-                  </span>
-                </div>
-              </div>
-            )}
-          </Col>
-          <Col xs={12} md={6} className="d-flex justify-content-center">
-            {selectedContent && (
-              <Image
-                className="img-fluid w-100"
-                src={selectedContent.testimonialImage}
-                style={{
-                  height: "20rem",
-                  padding: "0px",
-                  borderRadius: "22px",
-                  objectFit: "cover",
-                }}
-              />
-            )}
-          </Col>
-        </Row>
-      </Container>
-      <Container className="mt-4 mb-5">
-        <div className="d-flex justify-content-end me-3">
-          <img onClick={isPrevDisabled ? null : handlePrev} disabled={startIndex === 0} className="me-2" src={LeftArrow} alt="Left Arrow" />
-          <img onClick={isNextDisabled ? null : handleNext} disabled={startIndex + cardsPerPage >= dataTesti.length} src={RightArrow} alt="Right Arrow" />
-        </div>
-        <Carousel
-          activeIndex={startIndex}
-          onSelect={() => {}}
-          // interval={null}
-          // controls={false}
-        >
-          {[...Array(Math.ceil(dataTesti.length / cardsPerPage))].map((item, index) => {
-            const start = index * cardsPerPage;
-            const end = start + cardsPerPage;
-            const testiSubset = dataTesti.slice(start, end);
-
-            return (
-              <Carousel.Item key={index}>
-                <Tabs defaultActiveKey={1} id="justify-tab-example" className="mb-3" justify onSelect={handleTabClick}>
-                  {testiSubset.map((item) => (
-                    <Tab
-                      key={item.key}
-                      eventKey={item.key}
-                      title={item.name}
+      <div id="testimonial">
+        <Container className="px-lg-4 px-md-3 px-4">
+          <Row className="g-5">
+            <Col xs={12} md={6} className="d-flex align-items-center justify-content-left">
+              {selectedContent && (
+                <div>
+                  <p>{selectedContent.content}</p>
+                  <div className="d-flex" style={{ marginLeft: "35px" }}>
+                    <Image src={quote} alt="quote" className="me-2 fade-in" style={{ width: "24px", height: "24px" }} />
+                    <span
+                      className="fade-in"
                       style={{
-                        paddingRight: 0,
+                        fontFamily: "Poppins",
+                        fontSize: "14px",
+                        fontWeight: "500",
+                        lineHeight: "24px",
                       }}
                     >
-                      {/* {item.content} */}
-                    </Tab>
-                  ))}
-                </Tabs>
-              </Carousel.Item>
-            );
-          })}
-        </Carousel>
-      </Container>
+                      {selectedContent.textName}
+                    </span>
+                  </div>
+                </div>
+              )}
+            </Col>
+            <Col xs={12} md={6} className="d-flex justify-content-center">
+              {selectedContent && (
+                <Image
+                  className="img-fluid w-100"
+                  src={selectedContent.testimonialImage}
+                  style={{
+                    height: "20rem",
+                    padding: "0px",
+                    borderRadius: "22px",
+                    objectFit: "cover",
+                  }}
+                />
+              )}
+            </Col>
+          </Row>
+        </Container>
+        <Container className="mt-4 mb-5">
+          <div className="d-flex justify-content-end me-3">
+            <img onClick={isPrevDisabled ? null : handlePrev} disabled={startIndex === 0} className="me-2" src={LeftArrow} alt="Left Arrow" />
+            <img onClick={isNextDisabled ? null : handleNext} disabled={startIndex + cardsPerPage >= dataTesti.length} src={RightArrow} alt="Right Arrow" />
+          </div>
+          <Carousel
+            activeIndex={startIndex}
+            onSelect={() => {}}
+            // interval={null}
+            // controls={false}
+          >
+            {[...Array(Math.ceil(dataTesti.length / cardsPerPage))].map((item, index) => {
+              const start = index * cardsPerPage;
+              const end = start + cardsPerPage;
+              const testiSubset = dataTesti.slice(start, end);
+
+              return (
+                <Carousel.Item key={index}>
+                  <Tabs defaultActiveKey={1} id="justify-tab-example" className="mb-3" justify onSelect={handleTabClick}>
+                    {testiSubset.map((item) => (
+                      <Tab
+                        key={item.key}
+                        eventKey={item.key}
+                        title={item.name}
+                        style={{
+                          paddingRight: 0,
+                        }}
+                      >
+                        {/* {item.content} */}
+                      </Tab>
+                    ))}
+                  </Tabs>
+                </Carousel.Item>
+              );
+            })}
+          </Carousel>
+        </Container>
+      </div>
     </>
   );
 };
