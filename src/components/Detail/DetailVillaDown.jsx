@@ -1,49 +1,54 @@
-import React from "react";
-import { Row, Col, Image, Container } from "react-bootstrap";
-import Wifi from "../../assets/icon/wifi.svg";
-import Dispenser from "../../assets/icon/dispenser.svg";
-import TV from "../../assets/icon/tv.svg";
-import Dapur from "../../assets/icon/dapur.svg";
-import BestView from "../../assets/icon/bestview.svg";
-import Parkir from "../../assets/icon/parkir.svg";
-import HotWater from "../../assets/icon/shower.svg";
-import Strategis from "../../assets/icon/strategis.svg";
-import AvaCentang from "../../assets/avatarcentang.png";
-import Shopping from "../../assets/shopping.png";
-import Avatar from "../../assets/avatar.png";
-import Shape from "../../assets/Shape.png";
-import Mark from "../../assets/Line.png";
-import Star from "../../assets/ratingStar.png";
-import PropTypes from "prop-types";
-import ReactWhatsapp from "react-whatsapp";
-import { useMediaQuery } from "react-responsive";
+import React from 'react';
+import { Row, Col, Image, Container } from 'react-bootstrap';
+import Wifi from '../../assets/icon/wifi.svg';
+import AvaCentang from '../../assets/avatarcentang.png';
+import Shopping from '../../assets/shopping.png';
+import Avatar from '../../assets/avatar.png';
+import Shape from '../../assets/Shape.png';
+import Mark from '../../assets/Line.png';
+import Star from '../../assets/ratingStar.png';
+import PropTypes from 'prop-types';
+import ReactWhatsapp from 'react-whatsapp';
+import { useMediaQuery } from 'react-responsive';
 
 export const DetailVillaDown = ({ dataVilla }) => {
-  const isMobile = useMediaQuery({ query: "(max-width: 767px)" });
+  const facilities = dataVilla?.facilities;
+  const isMobile = useMediaQuery({ query: '(max-width: 767px)' });
   const isTablet = useMediaQuery({
-    query: "(min-width: 768px) and (max-width: 991px)",
+    query: '(min-width: 768px) and (max-width: 991px)',
   });
+
   return (
     <>
-      <Container className="px-lg-4 py-lg-3 px-md-3 py-md-1 px-4 py-3" style={{ marginTop: isTablet ? "-10rem" : isMobile ? "0rem" : "-15rem" }}>
+      <Container
+        className="px-lg-4 py-lg-3 px-md-3 py-md-1 px-4 py-3"
+        style={{
+          marginTop: isTablet ? '-10rem' : isMobile ? '0rem' : '-15rem',
+        }}
+      >
         <Row>
           <Col sm={8} md={7}>
             <div>
               <h2>{dataVilla.title}</h2>
             </div>
             <div>
-              <p style={{ color: "grey" }}>
-                Hosted by{" "}
-                <span style={{ color: "black" }}>
-                  <img src={Avatar} alt="ava" style={{ marginRight: "4px", marginLeft: "3px" }} /> {dataVilla.host}
+              <p style={{ color: 'grey' }}>
+                Hosted by{' '}
+                <span style={{ color: 'black' }}>
+                  <img
+                    src={Avatar}
+                    alt="ava"
+                    style={{ marginRight: '4px', marginLeft: '3px' }}
+                  />{' '}
+                  {dataVilla.host}
                 </span>
               </p>
             </div>
             <hr
               style={{
-                marginTop: "24px",
-                color: "#abb1b8",
-                border: "1px solid #abb1b8",
+                marginTop: '24px',
+                color: '#abb1b8',
+                border: '1px solid #abb1b8',
               }}
             />
             <div className="mt-4">
@@ -51,10 +56,10 @@ export const DetailVillaDown = ({ dataVilla }) => {
                 <img src={Shape} alt="mini home" />
                 <p
                   style={{
-                    display: "inline-block",
-                    marginLeft: "6px",
-                    marginRight: "10px",
-                    color: "grey",
+                    display: 'inline-block',
+                    marginLeft: '6px',
+                    marginRight: '10px',
+                    color: 'grey',
                   }}
                 >
                   {`${dataVilla.guests} Tamu`}
@@ -62,10 +67,10 @@ export const DetailVillaDown = ({ dataVilla }) => {
                 <img src={Mark} alt="markjuga" />
                 <p
                   style={{
-                    display: "inline-block",
-                    marginLeft: "6px",
-                    marginRight: "10px",
-                    color: "grey",
+                    display: 'inline-block',
+                    marginLeft: '6px',
+                    marginRight: '10px',
+                    color: 'grey',
                   }}
                 >
                   {`${dataVilla.bedroom} Kamar`}
@@ -83,7 +88,10 @@ export const DetailVillaDown = ({ dataVilla }) => {
                 </p> */}
               </div>
             </div>
-            <div className="mt-4" style={{ color: "grey", fontWeight: "semibold" }}>
+            <div
+              className="mt-4"
+              style={{ color: 'grey', fontWeight: 'semibold' }}
+            >
               <p>{dataVilla.description}</p>
               <p>{dataVilla.description2}</p>
               <p>{dataVilla.description3}</p>
@@ -91,179 +99,63 @@ export const DetailVillaDown = ({ dataVilla }) => {
             <div className="mt-5">
               <h4>Fasilitas</h4>
               <Row className="mt-3">
-                <Col md={5}>
-                  {dataVilla.wifi === true ? (
-                    <div>
-                      <img src={Wifi} alt="wifi" style={{ marginRight: "25px", width: "1.5rem" }} />
-                      <p
-                        style={{
-                          display: "inline-block",
-                          fontWeight: "500",
-                          color: "grey",
-                        }}
-                      >
-                        Free Wifi
-                      </p>
-                    </div>
-                  ) : (
-                    ""
-                  )}
-                  {dataVilla.computer === true ? (
-                    <div>
-                      <img src={TV} alt="TV" style={{ marginRight: "25px", width: "1.5rem" }} />
-                      <p
-                        style={{
-                          display: "inline-block",
-                          fontWeight: "500",
-                          color: "grey",
-                        }}
-                      >
-                        TV
-                      </p>
-                    </div>
-                  ) : (
-                    ""
-                  )}
-                  {dataVilla.medical === true ? (
-                    <div>
-                      <img src={BestView} alt="best view" style={{ marginRight: "25px", width: "2rem", marginLeft: "-6.5px" }} />
-                      <p
-                        style={{
-                          display: "inline-block",
-                          fontWeight: "500",
-                          color: "grey",
-                        }}
-                      >
-                        Best View
-                      </p>
-                    </div>
-                  ) : (
-                    ""
-                  )}
-                  {dataVilla.grill === true ? (
-                    <div>
-                      <img src={HotWater} alt="hotwater" style={{ marginRight: "25px", width: "2rem", marginLeft: "-8px" }} />
-                      <p
-                        style={{
-                          display: "inline-block",
-                          fontWeight: "500",
-                          color: "grey",
-                        }}
-                      >
-                        Hot Water
-                      </p>
-                    </div>
-                  ) : (
-                    ""
-                  )}
-                </Col>
-                {/* <Col md={3}>
-                <div
-                  className="d-flex justify-content-center"
-                  style={{ borderLeft: '2px solid #dfe3e8', height: '100%' }}
-                ></div>
-              </Col> */}
-                <Col md={4}>
-                  {dataVilla.wifi === true ? (
-                    <div>
-                      <img src={Dispenser} alt="dispenser" style={{ marginRight: "25px", width: "2rem", marginLeft: "-8px" }} />
-                      <p
-                        style={{
-                          display: "inline-block",
-                          fontWeight: "500",
-                          color: "grey",
-                        }}
-                      >
-                        Dispenser
-                      </p>
-                    </div>
-                  ) : (
-                    ""
-                  )}
-                  {dataVilla.computer === true ? (
-                    <div>
-                      <img src={Dapur} alt="dapur" style={{ marginRight: "25px", width: "2rem", marginLeft: "-8px" }} />
-                      <p
-                        style={{
-                          display: "inline-block",
-                          fontWeight: "500",
-                          color: "grey",
-                        }}
-                      >
-                        Dapur
-                      </p>
-                    </div>
-                  ) : (
-                    ""
-                  )}
-                  {dataVilla.medical === true ? (
-                    <div>
-                      <img src={Parkir} alt="parkir" style={{ marginRight: "25px", width: "2rem", marginLeft: "-6px" }} />
-                      <p
-                        style={{
-                          display: "inline-block",
-                          fontWeight: "500",
-                          color: "grey",
-                        }}
-                      >
-                        Parkir Luas
-                      </p>
-                    </div>
-                  ) : (
-                    ""
-                  )}
-                  {dataVilla.grill === true ? (
-                    <div>
-                      <img src={Strategis} alt="Strategis" style={{ marginRight: "25px", width: "2rem", marginLeft: "-8px" }} />
-                      <p
-                        style={{
-                          display: "inline-block",
-                          fontWeight: "500",
-                          color: "grey",
-                        }}
-                      >
-                        Strategis
-                      </p>
-                    </div>
-                  ) : (
-                    ""
-                  )}
-                </Col>
+                {facilities.map((item, index) => (
+                  <Col xs={6} md={5} key={index}>
+                    <img
+                      src={item?.image}
+                      alt="wifi"
+                      style={{ marginRight: '25px', width: '1.5rem' }}
+                    />
+                    <p
+                      style={{
+                        display: 'inline-block',
+                        fontWeight: '500',
+                        color: 'grey',
+                      }}
+                    >
+                      {item?.name}
+                    </p>
+                  </Col>
+                ))}
               </Row>
             </div>
           </Col>
           <Col sm={4} md={5}>
             <div
               style={{
-                border: "1px solid #dfe3e8",
-                padding: "30px",
-                borderRadius: "30px",
+                border: '1px solid #dfe3e8',
+                padding: '30px',
+                borderRadius: '30px',
               }}
             >
-              <div style={{ display: "flex", justifyContent: "space-between" }}>
+              <div style={{ display: 'flex', justifyContent: 'space-between' }}>
                 <div>
                   <div>
-                    <p style={{ fontWeight: "700" }} className="fs-3">
+                    <p style={{ fontWeight: '700' }} className="fs-3">
                       {dataVilla.price}
                     </p>
                   </div>
-                  <div style={{ marginTop: "-0.7rem" }}>
-                    <img src={Star} alt="star" style={{ width: "18px", marginTop: "-5px" }} />
+                  <div style={{ marginTop: '-0.7rem' }}>
+                    <img
+                      src={Star}
+                      alt="star"
+                      style={{ width: '18px', marginTop: '-5px' }}
+                    />
                     <p
                       style={{
-                        display: "inline-block",
-                        marginLeft: "8px",
-                        marginRight: "20px",
-                        color: "grey",
-                        fontWeight: "bold",
+                        display: 'inline-block',
+                        marginLeft: '8px',
+                        marginRight: '20px',
+                        color: 'grey',
+                        fontWeight: 'bold',
                       }}
                     >{`${dataVilla.ratings}`}</p>
                     <p
                       style={{
-                        display: "inline-block",
-                        marginLeft: "5px",
-                        marginRight: "20px",
-                        color: "grey",
+                        display: 'inline-block',
+                        marginLeft: '5px',
+                        marginRight: '20px',
+                        color: 'grey',
                       }}
                     >
                       ({`${dataVilla.reviews} reviews`})
@@ -275,8 +167,13 @@ export const DetailVillaDown = ({ dataVilla }) => {
                 </div>
               </div>
               <div>
-                <ReactWhatsapp number="+6281237339956" message={`Saya tertarik untuk memesan villa di ${dataVilla.title}, Apakah masih tersedia?`} className="btn btn-primary" style={{ width: "100%", marginTop: "15px" }}>
-                  <span style={{ fontWeight: "600" }}>
+                <ReactWhatsapp
+                  number="+6281237339956"
+                  message={`Saya tertarik untuk memesan villa di ${dataVilla.title}, Apakah masih tersedia?`}
+                  className="btn btn-primary"
+                  style={{ width: '100%', marginTop: '15px' }}
+                >
+                  <span style={{ fontWeight: '600' }}>
                     Booking <img src={Shopping} alt="shopping" />
                   </span>
                 </ReactWhatsapp>

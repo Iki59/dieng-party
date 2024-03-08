@@ -1,132 +1,6 @@
 [
   {
     "id": 1,
-    "image": "src/assets/villa3.jpeg",
-    "title": "Villa Kayu Pemandangan Bukit",
-    "price": "Rp. 300.000,-/Night",
-    "text": "1"
-  },
-  {
-    "id": 2,
-    "image": "src/assets/villa3.jpeg",
-    "title": "Villa Kayu Pemandangan Bukit",
-    "price": "Rp. 300.000,-/Night",
-    "text": "2"
-  },
-  {
-    "id": 3,
-    "image": "src/assets/villa3.jpeg",
-    "title": "Villa Kayu Pemandangan Bukit",
-    "price": "Rp. 300.000,-/Night",
-    "text": "3"
-  },
-  {
-    "id": 4,
-    "image": "src/assets/villa3.jpeg",
-    "title": "Villa Kayu Pemandangan Bukit",
-    "price": "Rp. 300.000,-/Night",
-    "text": "4"
-  },
-  {
-    "id": 5,
-    "image": "src/assets/villa3.jpeg",
-    "title": "Villa Kayu Pemandangan Bukit",
-    "price": "Rp. 300.000,-/Night",
-    "text": "5"
-  },
-  {
-    "id": 6,
-    "image": "src/assets/villa3.jpeg",
-    "title": "Villa Kayu Pemandangan Bukit",
-    "price": "Rp. 300.000,-/Night",
-    "text": "6"
-  },
-  {
-    "id": 7,
-    "image": "src/assets/villa3.jpeg",
-    "title": "Villa Kayu Pemandangan Bukit",
-    "price": "Rp. 300.000,-/Night",
-    "text": "7"
-  },
-  {
-    "id": 8,
-    "image": "src/assets/villa3.jpeg",
-    "title": "Villa Kayu Pemandangan Bukit",
-    "price": "Rp. 300.000,-/Night",
-    "text": "8"
-  },
-  {
-    "id": 9,
-    "image": "src/assets/villa3.jpeg",
-    "title": "Villa Kayu Pemandangan Bukit",
-    "price": "Rp. 300.000,-/Night",
-    "text": "9"
-  },
-  {
-    "id": 10,
-    "image": "src/assets/villa3.jpeg",
-    "title": "Villa Kayu Pemandangan Bukit",
-    "price": "Rp. 300.000,-/Night",
-    "text": "10"
-  },
-  {
-    "id": 11,
-    "image": "../src/assets/villa3.jpeg",
-    "title": "Villa Kayu Pemandangan Bukit",
-    "price": "Rp. 300.000,-/Night",
-    "text": "11"
-  },
-  {
-    "id": 12,
-    "image": "src/assets/villa3.jpeg",
-    "title": "Villa Kayu Pemandangan Bukit",
-    "price": "Rp. 300.000,-/Night",
-    "text": "12"
-  },
-  {
-    "id": 13,
-    "image": "src/assets/villa3.jpeg",
-    "title": "Villa Kayu Pemandangan Bukit",
-    "price": "Rp. 300.000,-/Night",
-    "text": "13"
-  },
-  {
-    "id": 14,
-    "image": "src/assets/villa3.jpeg",
-    "title": "Villa Kayu Pemandangan Bukit",
-    "price": "Rp. 300.000,-/Night",
-    "text": "14"
-  },
-  {
-    "id": 15,
-    "image": "src/assets/villa3.jpeg",
-    "title": "Villa Kayu Pemandangan Bukit",
-    "price": "Rp. 300.000,-/Night",
-    "text": "15"
-  },
-  {
-    "id": 16,
-    "image": "src/assets/villa3.jpeg",
-    "title": "Villa Kayu Pemandangan Bukit",
-    "price": "Rp. 300.000,-/Night",
-    "text": "16"
-  },
-  {
-    "id": 17,
-    "image": "src/assets/villa3.jpeg",
-    "title": "Villa Kayu Pemandangan Bukit",
-    "price": "Rp. 300.000,-/Night",
-    "text": "17"
-  },
-  {
-    "id": 18,
-    "image": "src/assets/villa3.jpeg",
-    "title": "Villa Kayu Pemandangan Bukit",
-    "price": "Rp. 300.000,-/Night",
-    "text": "18"
-  },
-  {
-    "id": 19,
     "image": "src/assets/cabin 1 tani house/tani house.jpg",
     "image2": "src/assets/cabin 1 tani house/IMG_0179.JPG",
     "image3": "src/assets/cabin 1 tani house/IMG_0199.JPG",
@@ -146,14 +20,40 @@
     "description": "Nikmati pengalaman menginap yang istimewa di Dieng Farmhouse Tani-1 , sebuah kabin yang terletak di Dieng, Kejajar, Wonosobo. Dengan kapasitas hingga 9 orang orang, kabin ini menawarkan 1 unit yang nyaman serta fasilitas standar seperti Free Wifi, Dapur dan peralatan masak, Parkir dan lain-lain",
     "description2": "Para tamu dapat menikmati pemandangan spektakuler sambil bersantai di ruang tamu yang hangat . Dieng Farmhouse Tani-1 juga dekat dengan berbagai atraksi populer seperti Telaga Warna Dieng, Kawah Sikidang Dieng, Batu Ratapan Angin Dieng, View Point Bukit Sikapuk Dieng, Pemandian Air Hangat Dieng, Dieng Plateau Theater, dan lain-lain. Jadikan Dieng Farmhouse Tani-1 sebagai pilihan terbaik Anda untuk menginap di Dieng Kulon",
     "description3": " ",
-    "wifi": true,
-    "computer": true,
-    "bathroom": true,
-    "breakfast": true,
-    "atm": true,
-    "nearbyCity": true,
-    "medical": true,
-    "grill": true,
+    "facilities": [
+      {
+        "name": "Wifi",
+        "image": "../src/assets/icon/wifi.svg"
+      },
+      {
+        "name": "TV",
+        "image": "../src/assets/icon/tv.svg"
+      },
+      {
+        "name": "Best View",
+        "image": "../src/assets/icon/bestview.svg"
+      },
+      {
+        "name": "Dispenser",
+        "image": "../src/assets/icon/dispenser.svg"
+      },
+      {
+        "name": "Dapur",
+        "image": "../src/assets/icon/dapur.svg"
+      },
+      {
+        "name": "Hot Water",
+        "image": "../src/assets/icon/shower.svg"
+      },
+      {
+        "name": "Parkir",
+        "image": "../src/assets/icon/parkir.svg"
+      },
+      {
+        "name": "Strategis",
+        "image": "../src/assets/icon/strategis.svg"
+      }
+    ],
     "gallery": [
       {
         "original": "../src/assets/cabin 1 tani house/tani house.jpg",
@@ -266,7 +166,7 @@
     ]
   },
   {
-    "id": 20,
+    "id": 2,
     "image": "src/assets/cabin 2 tani house/tani house2.jpg",
     "image2": "src/assets/cabin 2 tani house/IMG_0136.JPG",
     "image3": "src/assets/cabin 2 tani house/IMG_0126.JPG",
@@ -294,6 +194,40 @@
     "nearbyCity": true,
     "medical": true,
     "grill": true,
+    "facilities": [
+      {
+        "name": "Wifi",
+        "image": "../src/assets/icon/wifi.svg"
+      },
+      {
+        "name": "TV",
+        "image": "../src/assets/icon/tv.svg"
+      },
+      {
+        "name": "Best View",
+        "image": "../src/assets/icon/bestview.svg"
+      },
+      {
+        "name": "Dispenser",
+        "image": "../src/assets/icon/dispenser.svg"
+      },
+      {
+        "name": "Dapur",
+        "image": "../src/assets/icon/dapur.svg"
+      },
+      {
+        "name": "Hot Water",
+        "image": "../src/assets/icon/shower.svg"
+      },
+      {
+        "name": "Parkir",
+        "image": "../src/assets/icon/parkir.svg"
+      },
+      {
+        "name": "Strategis",
+        "image": "../src/assets/icon/strategis.svg"
+      }
+    ],
     "gallery": [
       {
         "original": "../src/assets/cabin 2 tani house/tani house2.jpg",
@@ -454,7 +388,7 @@
     ]
   },
   {
-    "id": 21,
+    "id": 3,
     "image": "src/assets/cabin tani house 3/taniHouse3.jpg",
     "image2": "src/assets/cabin tani house 3/IMG_0308.JPG",
     "image3": "src/assets/cabin tani house 3/IMG_0352.JPG",
@@ -482,6 +416,40 @@
     "nearbyCity": true,
     "medical": true,
     "grill": true,
+    "facilities": [
+      {
+        "name": "Wifi",
+        "image": "../src/assets/icon/wifi.svg"
+      },
+      {
+        "name": "TV",
+        "image": "../src/assets/icon/tv.svg"
+      },
+      {
+        "name": "Best View",
+        "image": "../src/assets/icon/bestview.svg"
+      },
+      {
+        "name": "Dispenser",
+        "image": "../src/assets/icon/dispenser.svg"
+      },
+      {
+        "name": "Dapur",
+        "image": "../src/assets/icon/dapur.svg"
+      },
+      {
+        "name": "Hot Water",
+        "image": "../src/assets/icon/shower.svg"
+      },
+      {
+        "name": "Parkir",
+        "image": "../src/assets/icon/parkir.svg"
+      },
+      {
+        "name": "Strategis",
+        "image": "../src/assets/icon/strategis.svg"
+      }
+    ],
     "gallery": [
       {
         "original": "../src/assets/cabin tani house 3/tanihouse3.jpg",
@@ -638,7 +606,7 @@
     ]
   },
   {
-    "id": 22,
+    "id": 4,
     "image": "src/assets/sanctuary/sanctuary.jpg",
     "image2": "src/assets/sanctuary/IMG_0267.JPG",
     "image3": "src/assets/sanctuary/IMG_0268.JPG",
@@ -666,6 +634,40 @@
     "nearbyCity": true,
     "medical": true,
     "grill": true,
+    "facilities": [
+      {
+        "name": "Wifi",
+        "image": "../src/assets/icon/wifi.svg"
+      },
+      {
+        "name": "TV",
+        "image": "../src/assets/icon/tv.svg"
+      },
+      {
+        "name": "Best View",
+        "image": "../src/assets/icon/bestview.svg"
+      },
+      {
+        "name": "Dispenser",
+        "image": "../src/assets/icon/dispenser.svg"
+      },
+      {
+        "name": "Dapur",
+        "image": "../src/assets/icon/dapur.svg"
+      },
+      {
+        "name": "Hot Water",
+        "image": "../src/assets/icon/shower.svg"
+      },
+      {
+        "name": "Parkir",
+        "image": "../src/assets/icon/parkir.svg"
+      },
+      {
+        "name": "Strategis",
+        "image": "../src/assets/icon/strategis.svg"
+      }
+    ],
     "gallery": [
       {
         "original": "../src/assets/sanctuary/sanctuary.jpg",
@@ -714,7 +716,7 @@
     ]
   },
   {
-    "id": 23,
+    "id": 5,
     "image": "src/assets/bro cabin/12.jpg",
     "image2": "src/assets/bro cabin/2.jpg",
     "image3": "src/assets/bro cabin/3.jpg",
@@ -742,6 +744,40 @@
     "nearbyCity": true,
     "medical": true,
     "grill": true,
+    "facilities": [
+      {
+        "name": "Wifi",
+        "image": "../src/assets/icon/wifi.svg"
+      },
+      {
+        "name": "TV",
+        "image": "../src/assets/icon/tv.svg"
+      },
+      {
+        "name": "Best View",
+        "image": "../src/assets/icon/bestview.svg"
+      },
+      {
+        "name": "Dispenser",
+        "image": "../src/assets/icon/dispenser.svg"
+      },
+      {
+        "name": "Dapur",
+        "image": "../src/assets/icon/dapur.svg"
+      },
+      {
+        "name": "Hot Water",
+        "image": "../src/assets/icon/shower.svg"
+      },
+      {
+        "name": "Parkir",
+        "image": "../src/assets/icon/parkir.svg"
+      },
+      {
+        "name": "Strategis",
+        "image": "../src/assets/icon/strategis.svg"
+      }
+    ],
     "gallery": [
       {
         "original": "../src/assets/bro cabin/12.jpg",
@@ -790,7 +826,7 @@
     ]
   },
   {
-    "id": 24,
+    "id": 6,
     "image": "src/assets/cabin salju/1.jpg",
     "image2": "src/assets/cabin salju/2.jpg",
     "image3": "src/assets/cabin salju/3.png",
@@ -818,6 +854,40 @@
     "nearbyCity": true,
     "medical": true,
     "grill": true,
+    "facilities": [
+      {
+        "name": "Wifi",
+        "image": "../src/assets/icon/wifi.svg"
+      },
+      {
+        "name": "TV",
+        "image": "../src/assets/icon/tv.svg"
+      },
+      {
+        "name": "Best View",
+        "image": "../src/assets/icon/bestview.svg"
+      },
+      {
+        "name": "Dispenser",
+        "image": "../src/assets/icon/dispenser.svg"
+      },
+      {
+        "name": "Dapur",
+        "image": "../src/assets/icon/dapur.svg"
+      },
+      {
+        "name": "Hot Water",
+        "image": "../src/assets/icon/shower.svg"
+      },
+      {
+        "name": "Parkir",
+        "image": "../src/assets/icon/parkir.svg"
+      },
+      {
+        "name": "Strategis",
+        "image": "../src/assets/icon/strategis.svg"
+      }
+    ],
     "gallery": [
       {
         "original": "../src/assets/cabin salju/1.jpg",
@@ -842,7 +912,7 @@
     ]
   },
   {
-    "id": 25,
+    "id": 7,
     "image": "src/assets/cozy cabin/1.jpg",
     "image2": "src/assets/cozy cabin/2.jpg",
     "image3": "src/assets/cozy cabin/3.jpg",
@@ -870,6 +940,40 @@
     "nearbyCity": true,
     "medical": true,
     "grill": true,
+    "facilities": [
+      {
+        "name": "Wifi",
+        "image": "../src/assets/icon/wifi.svg"
+      },
+      {
+        "name": "TV",
+        "image": "../src/assets/icon/tv.svg"
+      },
+      {
+        "name": "Best View",
+        "image": "../src/assets/icon/bestview.svg"
+      },
+      {
+        "name": "Dispenser",
+        "image": "../src/assets/icon/dispenser.svg"
+      },
+      {
+        "name": "Dapur",
+        "image": "../src/assets/icon/dapur.svg"
+      },
+      {
+        "name": "Hot Water",
+        "image": "../src/assets/icon/shower.svg"
+      },
+      {
+        "name": "Parkir",
+        "image": "../src/assets/icon/parkir.svg"
+      },
+      {
+        "name": "Strategis",
+        "image": "../src/assets/icon/strategis.svg"
+      }
+    ],
     "gallery": [
       {
         "original": "../src/assets/cozy cabin/1.jpg",
@@ -906,7 +1010,7 @@
     ]
   },
   {
-    "id": 26,
+    "id": 8,
     "image": "src/assets/d martos farmhouse/13.jpg",
     "image2": "src/assets/d martos farmhouse/2.jpg",
     "image3": "src/assets/d martos farmhouse/3.jpg",
@@ -934,6 +1038,40 @@
     "nearbyCity": true,
     "medical": true,
     "grill": true,
+    "facilities": [
+      {
+        "name": "Wifi",
+        "image": "../src/assets/icon/wifi.svg"
+      },
+      {
+        "name": "TV",
+        "image": "../src/assets/icon/tv.svg"
+      },
+      {
+        "name": "Best View",
+        "image": "../src/assets/icon/bestview.svg"
+      },
+      {
+        "name": "Dispenser",
+        "image": "../src/assets/icon/dispenser.svg"
+      },
+      {
+        "name": "Dapur",
+        "image": "../src/assets/icon/dapur.svg"
+      },
+      {
+        "name": "Hot Water",
+        "image": "../src/assets/icon/shower.svg"
+      },
+      {
+        "name": "Parkir",
+        "image": "../src/assets/icon/parkir.svg"
+      },
+      {
+        "name": "Strategis",
+        "image": "../src/assets/icon/strategis.svg"
+      }
+    ],
     "gallery": [
       {
         "original": "../src/assets/d martos farmhouse/13.jpg",
@@ -970,7 +1108,7 @@
     ]
   },
   {
-    "id": 27,
+    "id": 9,
     "image": "src/assets/daniel cabin/cabin1.jpg",
     "image2": "src/assets/daniel cabin/cabin2.jpg",
     "image3": "src/assets/daniel cabin/cabin3.jpg",
@@ -998,6 +1136,40 @@
     "nearbyCity": true,
     "medical": true,
     "grill": true,
+    "facilities": [
+      {
+        "name": "Wifi",
+        "image": "../src/assets/icon/wifi.svg"
+      },
+      {
+        "name": "TV",
+        "image": "../src/assets/icon/tv.svg"
+      },
+      {
+        "name": "Best View",
+        "image": "../src/assets/icon/bestview.svg"
+      },
+      {
+        "name": "Dispenser",
+        "image": "../src/assets/icon/dispenser.svg"
+      },
+      {
+        "name": "Dapur",
+        "image": "../src/assets/icon/dapur.svg"
+      },
+      {
+        "name": "Hot Water",
+        "image": "../src/assets/icon/shower.svg"
+      },
+      {
+        "name": "Parkir",
+        "image": "../src/assets/icon/parkir.svg"
+      },
+      {
+        "name": "Strategis",
+        "image": "../src/assets/icon/strategis.svg"
+      }
+    ],
     "gallery": [
       {
         "original": "../src/assets/daniel cabin/cabin1.jpg",
@@ -1034,7 +1206,7 @@
     ]
   },
   {
-    "id": 28,
+    "id": 10,
     "image": "src/assets/dringo 1 cabin/14.jpg",
     "image2": "src/assets/dringo 1 cabin/2.jpg",
     "image3": "src/assets/dringo 1 cabin/3.jpg",
@@ -1062,6 +1234,40 @@
     "nearbyCity": true,
     "medical": true,
     "grill": true,
+    "facilities": [
+      {
+        "name": "Wifi",
+        "image": "../src/assets/icon/wifi.svg"
+      },
+      {
+        "name": "TV",
+        "image": "../src/assets/icon/tv.svg"
+      },
+      {
+        "name": "Best View",
+        "image": "../src/assets/icon/bestview.svg"
+      },
+      {
+        "name": "Dispenser",
+        "image": "../src/assets/icon/dispenser.svg"
+      },
+      {
+        "name": "Dapur",
+        "image": "../src/assets/icon/dapur.svg"
+      },
+      {
+        "name": "Hot Water",
+        "image": "../src/assets/icon/shower.svg"
+      },
+      {
+        "name": "Parkir",
+        "image": "../src/assets/icon/parkir.svg"
+      },
+      {
+        "name": "Strategis",
+        "image": "../src/assets/icon/strategis.svg"
+      }
+    ],
     "gallery": [
       {
         "original": "../src/assets/dringo 1 cabin/14.jpg",
@@ -1106,7 +1312,7 @@
     ]
   },
   {
-    "id": 29,
+    "id": 11,
     "image": "src/assets/ira 1 cabin/1.jpg",
     "image2": "src/assets/ira 1 cabin/2.jpg",
     "image3": "src/assets/ira 1 cabin/3.jpg",
@@ -1134,6 +1340,40 @@
     "nearbyCity": true,
     "medical": true,
     "grill": true,
+    "facilities": [
+      {
+        "name": "Wifi",
+        "image": "../src/assets/icon/wifi.svg"
+      },
+      {
+        "name": "TV",
+        "image": "../src/assets/icon/tv.svg"
+      },
+      {
+        "name": "Best View",
+        "image": "../src/assets/icon/bestview.svg"
+      },
+      {
+        "name": "Dispenser",
+        "image": "../src/assets/icon/dispenser.svg"
+      },
+      {
+        "name": "Dapur",
+        "image": "../src/assets/icon/dapur.svg"
+      },
+      {
+        "name": "Hot Water",
+        "image": "../src/assets/icon/shower.svg"
+      },
+      {
+        "name": "Parkir",
+        "image": "../src/assets/icon/parkir.svg"
+      },
+      {
+        "name": "Strategis",
+        "image": "../src/assets/icon/strategis.svg"
+      }
+    ],
     "gallery": [
       {
         "original": "../src/assets/ira 1 cabin/1.jpg",
@@ -1174,7 +1414,7 @@
     ]
   },
   {
-    "id": 30,
+    "id": 12,
     "image": "src/assets/ira 2 cabin/1.jpg",
     "image2": "src/assets/ira 2 cabin/2.jpg",
     "image3": "src/assets/ira 2 cabin/3.jpg",
@@ -1202,6 +1442,40 @@
     "nearbyCity": true,
     "medical": true,
     "grill": true,
+    "facilities": [
+      {
+        "name": "Wifi",
+        "image": "../src/assets/icon/wifi.svg"
+      },
+      {
+        "name": "TV",
+        "image": "../src/assets/icon/tv.svg"
+      },
+      {
+        "name": "Best View",
+        "image": "../src/assets/icon/bestview.svg"
+      },
+      {
+        "name": "Dispenser",
+        "image": "../src/assets/icon/dispenser.svg"
+      },
+      {
+        "name": "Dapur",
+        "image": "../src/assets/icon/dapur.svg"
+      },
+      {
+        "name": "Hot Water",
+        "image": "../src/assets/icon/shower.svg"
+      },
+      {
+        "name": "Parkir",
+        "image": "../src/assets/icon/parkir.svg"
+      },
+      {
+        "name": "Strategis",
+        "image": "../src/assets/icon/strategis.svg"
+      }
+    ],
     "gallery": [
       {
         "original": "../src/assets/ira 2 cabin/1.jpg",
@@ -1238,7 +1512,7 @@
     ]
   },
   {
-    "id": 31,
+    "id": 13,
     "image": "src/assets/kayu manis/13.jpg",
     "image2": "src/assets/kayu manis/5.jpg",
     "image3": "src/assets/kayu manis/6.jpg",
@@ -1266,6 +1540,40 @@
     "nearbyCity": true,
     "medical": true,
     "grill": true,
+    "facilities": [
+      {
+        "name": "Wifi",
+        "image": "../src/assets/icon/wifi.svg"
+      },
+      {
+        "name": "TV",
+        "image": "../src/assets/icon/tv.svg"
+      },
+      {
+        "name": "Best View",
+        "image": "../src/assets/icon/bestview.svg"
+      },
+      {
+        "name": "Dispenser",
+        "image": "../src/assets/icon/dispenser.svg"
+      },
+      {
+        "name": "Dapur",
+        "image": "../src/assets/icon/dapur.svg"
+      },
+      {
+        "name": "Hot Water",
+        "image": "../src/assets/icon/shower.svg"
+      },
+      {
+        "name": "Parkir",
+        "image": "../src/assets/icon/parkir.svg"
+      },
+      {
+        "name": "Strategis",
+        "image": "../src/assets/icon/strategis.svg"
+      }
+    ],
     "gallery": [
       {
         "original": "../src/assets/kayu manis/13.jpg",
@@ -1302,7 +1610,7 @@
     ]
   },
   {
-    "id": 32,
+    "id": 14,
     "image": "src/assets/lazio cottage dieng/1.jpeg",
     "image2": "src/assets/lazio cottage dieng/2.jpeg",
     "image3": "src/assets/lazio cottage dieng/3.jpeg",
@@ -1330,6 +1638,40 @@
     "nearbyCity": true,
     "medical": true,
     "grill": true,
+    "facilities": [
+      {
+        "name": "Wifi",
+        "image": "../src/assets/icon/wifi.svg"
+      },
+      {
+        "name": "TV",
+        "image": "../src/assets/icon/tv.svg"
+      },
+      {
+        "name": "Best View",
+        "image": "../src/assets/icon/bestview.svg"
+      },
+      {
+        "name": "Dispenser",
+        "image": "../src/assets/icon/dispenser.svg"
+      },
+      {
+        "name": "Dapur",
+        "image": "../src/assets/icon/dapur.svg"
+      },
+      {
+        "name": "Hot Water",
+        "image": "../src/assets/icon/shower.svg"
+      },
+      {
+        "name": "Parkir",
+        "image": "../src/assets/icon/parkir.svg"
+      },
+      {
+        "name": "Strategis",
+        "image": "../src/assets/icon/strategis.svg"
+      }
+    ],
     "gallery": [
       {
         "original": "../src/assets/lazio cottage dieng/1.jpeg",
@@ -1366,7 +1708,7 @@
     ]
   },
   {
-    "id": 33,
+    "id": 15,
     "image": "src/assets/oemar cabin/2.jpg",
     "image2": "src/assets/oemar cabin/3.jpg",
     "image3": "src/assets/oemar cabin/4.jpg",
@@ -1394,6 +1736,40 @@
     "nearbyCity": true,
     "medical": true,
     "grill": true,
+    "facilities": [
+      {
+        "name": "Wifi",
+        "image": "../src/assets/icon/wifi.svg"
+      },
+      {
+        "name": "TV",
+        "image": "../src/assets/icon/tv.svg"
+      },
+      {
+        "name": "Best View",
+        "image": "../src/assets/icon/bestview.svg"
+      },
+      {
+        "name": "Dispenser",
+        "image": "../src/assets/icon/dispenser.svg"
+      },
+      {
+        "name": "Dapur",
+        "image": "../src/assets/icon/dapur.svg"
+      },
+      {
+        "name": "Hot Water",
+        "image": "../src/assets/icon/shower.svg"
+      },
+      {
+        "name": "Parkir",
+        "image": "../src/assets/icon/parkir.svg"
+      },
+      {
+        "name": "Strategis",
+        "image": "../src/assets/icon/strategis.svg"
+      }
+    ],
     "gallery": [
       {
         "original": "../src/assets/oemar cabin/2.jpg",
@@ -1442,7 +1818,7 @@
     ]
   },
   {
-    "id": 34,
+    "id": 16,
     "image": "src/assets/villio 1/13.jpg",
     "image2": "src/assets/villio 1/2.jpg",
     "image3": "src/assets/villio 1/11.jpg",
@@ -1470,6 +1846,40 @@
     "nearbyCity": true,
     "medical": true,
     "grill": true,
+    "facilities": [
+      {
+        "name": "Wifi",
+        "image": "../src/assets/icon/wifi.svg"
+      },
+      {
+        "name": "TV",
+        "image": "../src/assets/icon/tv.svg"
+      },
+      {
+        "name": "Best View",
+        "image": "../src/assets/icon/bestview.svg"
+      },
+      {
+        "name": "Dispenser",
+        "image": "../src/assets/icon/dispenser.svg"
+      },
+      {
+        "name": "Dapur",
+        "image": "../src/assets/icon/dapur.svg"
+      },
+      {
+        "name": "Hot Water",
+        "image": "../src/assets/icon/shower.svg"
+      },
+      {
+        "name": "Parkir",
+        "image": "../src/assets/icon/parkir.svg"
+      },
+      {
+        "name": "Strategis",
+        "image": "../src/assets/icon/strategis.svg"
+      }
+    ],
     "gallery": [
       {
         "original": "../src/assets/villio 1/13.jpg",
@@ -1506,7 +1916,7 @@
     ]
   },
   {
-    "id": 35,
+    "id": 17,
     "image": "src/assets/villio 2 cabin/15.jpg",
     "image2": "src/assets/villio 2 cabin/2.jpg",
     "image3": "src/assets/villio 2 cabin/4.jpg",
@@ -1534,6 +1944,40 @@
     "nearbyCity": true,
     "medical": true,
     "grill": true,
+    "facilities": [
+      {
+        "name": "Wifi",
+        "image": "../src/assets/icon/wifi.svg"
+      },
+      {
+        "name": "TV",
+        "image": "../src/assets/icon/tv.svg"
+      },
+      {
+        "name": "Best View",
+        "image": "../src/assets/icon/bestview.svg"
+      },
+      {
+        "name": "Dispenser",
+        "image": "../src/assets/icon/dispenser.svg"
+      },
+      {
+        "name": "Dapur",
+        "image": "../src/assets/icon/dapur.svg"
+      },
+      {
+        "name": "Hot Water",
+        "image": "../src/assets/icon/shower.svg"
+      },
+      {
+        "name": "Parkir",
+        "image": "../src/assets/icon/parkir.svg"
+      },
+      {
+        "name": "Strategis",
+        "image": "../src/assets/icon/strategis.svg"
+      }
+    ],
     "gallery": [
       {
         "original": "../src/assets/villio 2 cabin/15.jpg",
@@ -1582,7 +2026,7 @@
     ]
   },
   {
-    "id": 36,
+    "id": 18,
     "image": "src/assets/yayan cabin/1.jpg",
     "image2": "src/assets/yayan cabin/2.jpg",
     "image3": "src/assets/yayan cabin/3.jpg",
@@ -1610,6 +2054,40 @@
     "nearbyCity": true,
     "medical": true,
     "grill": true,
+    "facilities": [
+      {
+        "name": "Wifi",
+        "image": "../src/assets/icon/wifi.svg"
+      },
+      {
+        "name": "TV",
+        "image": "../src/assets/icon/tv.svg"
+      },
+      {
+        "name": "Best View",
+        "image": "../src/assets/icon/bestview.svg"
+      },
+      {
+        "name": "Dispenser",
+        "image": "../src/assets/icon/dispenser.svg"
+      },
+      {
+        "name": "Dapur",
+        "image": "../src/assets/icon/dapur.svg"
+      },
+      {
+        "name": "Hot Water",
+        "image": "../src/assets/icon/shower.svg"
+      },
+      {
+        "name": "Parkir",
+        "image": "../src/assets/icon/parkir.svg"
+      },
+      {
+        "name": "Strategis",
+        "image": "../src/assets/icon/strategis.svg"
+      }
+    ],
     "gallery": [
       {
         "original": "../src/assets/yayan cabin/1.jpg",

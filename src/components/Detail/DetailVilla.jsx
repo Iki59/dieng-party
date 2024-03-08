@@ -14,7 +14,6 @@ import { useMediaQuery } from 'react-responsive';
 
 export const DetailVilla = () => {
   const { id } = useParams();
-  console.log('ini id nya', id);
 
   const isMobile = useMediaQuery({ query: '(max-width: 767px)' });
 
