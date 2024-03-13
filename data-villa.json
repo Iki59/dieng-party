@@ -770,8 +770,8 @@
         "image": "../src/assets/icon/shower.svg"
       },
       {
-        "name": "Parkir",
-        "image": "../src/assets/icon/parkir.svg"
+        "name": "Welcome Drink",
+        "image": "../src/assets/icon/drink.svg"
       },
       {
         "name": "Strategis",
@@ -1048,14 +1048,6 @@
         "image": "../src/assets/icon/tv.svg"
       },
       {
-        "name": "Best View",
-        "image": "../src/assets/icon/bestview.svg"
-      },
-      {
-        "name": "Dispenser",
-        "image": "../src/assets/icon/dispenser.svg"
-      },
-      {
         "name": "Dapur",
         "image": "../src/assets/icon/dapur.svg"
       },
@@ -1064,8 +1056,8 @@
         "image": "../src/assets/icon/shower.svg"
       },
       {
-        "name": "Parkir",
-        "image": "../src/assets/icon/parkir.svg"
+        "name": "Welcome Drink",
+        "image": "../src/assets/icon/drink.svg"
       },
       {
         "name": "Strategis",
@@ -1144,10 +1136,6 @@
       {
         "name": "TV",
         "image": "../src/assets/icon/tv.svg"
-      },
-      {
-        "name": "Best View",
-        "image": "../src/assets/icon/bestview.svg"
       },
       {
         "name": "Dispenser",
@@ -1248,16 +1236,8 @@
         "image": "../src/assets/icon/bestview.svg"
       },
       {
-        "name": "Dispenser",
-        "image": "../src/assets/icon/dispenser.svg"
-      },
-      {
         "name": "Dapur",
         "image": "../src/assets/icon/dapur.svg"
-      },
-      {
-        "name": "Hot Water",
-        "image": "../src/assets/icon/shower.svg"
       },
       {
         "name": "Parkir",
@@ -1350,10 +1330,6 @@
         "image": "../src/assets/icon/tv.svg"
       },
       {
-        "name": "Best View",
-        "image": "../src/assets/icon/bestview.svg"
-      },
-      {
         "name": "Dispenser",
         "image": "../src/assets/icon/dispenser.svg"
       },
@@ -1370,8 +1346,8 @@
         "image": "../src/assets/icon/parkir.svg"
       },
       {
-        "name": "Strategis",
-        "image": "../src/assets/icon/strategis.svg"
+        "name": "Welcome Drink",
+        "image": "../src/assets/icon/drink.svg"
       }
     ],
     "gallery": [
@@ -1452,10 +1428,6 @@
         "image": "../src/assets/icon/tv.svg"
       },
       {
-        "name": "Best View",
-        "image": "../src/assets/icon/bestview.svg"
-      },
-      {
         "name": "Dispenser",
         "image": "../src/assets/icon/dispenser.svg"
       },
@@ -1472,8 +1444,8 @@
         "image": "../src/assets/icon/parkir.svg"
       },
       {
-        "name": "Strategis",
-        "image": "../src/assets/icon/strategis.svg"
+        "name": "Welcome Drink",
+        "image": "../src/assets/icon/drink.svg"
       }
     ],
     "gallery": [
@@ -1568,10 +1540,6 @@
       {
         "name": "Parkir",
         "image": "../src/assets/icon/parkir.svg"
-      },
-      {
-        "name": "Strategis",
-        "image": "../src/assets/icon/strategis.svg"
       }
     ],
     "gallery": [
@@ -1648,8 +1616,8 @@
         "image": "../src/assets/icon/tv.svg"
       },
       {
-        "name": "Best View",
-        "image": "../src/assets/icon/bestview.svg"
+        "name": "Welcome Drink",
+        "image": "../src/assets/icon/drink.svg"
       },
       {
         "name": "Dispenser",
@@ -1746,28 +1714,12 @@
         "image": "../src/assets/icon/tv.svg"
       },
       {
-        "name": "Best View",
-        "image": "../src/assets/icon/bestview.svg"
-      },
-      {
-        "name": "Dispenser",
-        "image": "../src/assets/icon/dispenser.svg"
-      },
-      {
         "name": "Dapur",
         "image": "../src/assets/icon/dapur.svg"
       },
       {
         "name": "Hot Water",
         "image": "../src/assets/icon/shower.svg"
-      },
-      {
-        "name": "Parkir",
-        "image": "../src/assets/icon/parkir.svg"
-      },
-      {
-        "name": "Strategis",
-        "image": "../src/assets/icon/strategis.svg"
       }
     ],
     "gallery": [
@@ -1856,8 +1808,8 @@
         "image": "../src/assets/icon/tv.svg"
       },
       {
-        "name": "Best View",
-        "image": "../src/assets/icon/bestview.svg"
+        "name": "Welcome Drink",
+        "image": "../src/assets/icon/drink.svg"
       },
       {
         "name": "Dispenser",
@@ -1954,8 +1906,8 @@
         "image": "../src/assets/icon/tv.svg"
       },
       {
-        "name": "Best View",
-        "image": "../src/assets/icon/bestview.svg"
+        "name": "Welcome Drink",
+        "image": "../src/assets/icon/drink.svg"
       },
       {
         "name": "Dispenser",
