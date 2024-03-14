@@ -24,9 +24,6 @@ export const IniNavbar = () => {
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">
               <Nav className="ms-auto fs-5 fw-semibold text-center">
-                <div onClick={() => scrollToSection("home")} style={{ cursor: "pointer", marginRight: "0.5rem" }}>
-                  <p className="">Home</p>
-                </div>
                 <div onClick={() => scrollToSection("villa")} style={{ cursor: "pointer", marginRight: "0.5rem" }}>
                   <p className="">Cabin</p>
                 </div>

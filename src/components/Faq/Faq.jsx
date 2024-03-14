@@ -1,26 +1,26 @@
-import React from 'react';
-import { Container, Form } from 'react-bootstrap';
-import Accordion from 'react-bootstrap/Accordion';
+import React from "react";
+import { Container, Form } from "react-bootstrap";
+import Accordion from "react-bootstrap/Accordion";
 
 export const Faq = () => {
   const style = {
     Btn: {
-      border: 'none',
-      padding: '3px 15px',
-      backgroundColor: 'white',
-      color: 'black',
-      cursor: 'pointer',
-      transition: 'salmon 0.3s ease',
+      border: "none",
+      padding: "3px 15px",
+      backgroundColor: "white",
+      color: "black",
+      cursor: "pointer",
+      transition: "salmon 0.3s ease",
     },
     BtnHover: {
-      backgroundColor: 'salmon',
-      color: 'white',
+      backgroundColor: "salmon",
+      color: "white",
     },
     Accordion: {
-      borderBottom: '1px solid #E6E8EC',
-      borderTop: 'none',
-      borderLeft: 'none',
-      borderRight: 'none',
+      borderBottom: "1px solid #E6E8EC",
+      borderTop: "none",
+      borderLeft: "none",
+      borderRight: "none",
     },
   };
 
@@ -53,66 +53,41 @@ export const Faq = () => {
         <div>
           <Accordion defaultActiveKey="0">
             <Accordion.Item eventKey="0" style={style.Accordion}>
-              <Accordion.Header>01 How Does It work?</Accordion.Header>
+              <Accordion.Header>Apa saja tempat wisata yang populer di Dieng?</Accordion.Header>
               <Accordion.Body>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
-                in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-                nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-                sunt in culpa qui officia deserunt mollit anim id est laborum.
+                Dataran Tinggi Dieng: Pemandangan alam yang indah dengan hamparan bunga daisy dan telaga yang menawan. Gunung Prau: Pendakian gunung dengan pemandangan sunrise yang menakjubkan. Telaga Warna: Telaga dengan air yang
+                berwarna-warni karena kandungan belerang. Kawah Sikidang: Kawah aktif dengan asap belerang yang mengepul. Candi Arjuna: Kompleks candi Hindu peninggalan Kerajaan Mataram Kuno. Telaga Cebong: Telaga kecil dengan banyak
+                kecebong yang lucu. Batu Pandang Ratapan Angin: Spot foto dengan pemandangan alam yang indah. Gardu Pandang Tieng: Tempat terbaik untuk melihat sunrise dan sunset. Dieng Culture Festival: Festival budaya tahunan yang
+                menampilkan berbagai pertunjukan seni dan budaya.
               </Accordion.Body>
             </Accordion.Item>
             <Accordion.Item eventKey="1" style={style.Accordion}>
-              <Accordion.Header>
-                02 How can i set up a new website
-              </Accordion.Header>
-              <Accordion.Body>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
-                in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-                nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-                sunt in culpa qui officia deserunt mollit anim id est laborum.
-              </Accordion.Body>
+              <Accordion.Header>Kapan waktu terbaik untuk mengunjungi Dieng?</Accordion.Header>
+              <Accordion.Body>Musim kemarau (April-Oktober): Cuaca cerah dan tidak hujan, cocok untuk pendakian dan wisata alam. Musim penghujan (November-Maret): Bunga daisy bermekaran, pemandangan lebih hijau dan asri.</Accordion.Body>
             </Accordion.Item>
             <Accordion.Item eventKey="2" style={style.Accordion}>
-              <Accordion.Header>03 How does it work?</Accordion.Header>
+              <Accordion.Header>Bagaimana cara menuju Dieng?</Accordion.Header>
               <Accordion.Body>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
-                in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-                nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-                sunt in culpa qui officia deserunt mollit anim id est laborum.
+                Dari Jakarta: Jika naik bus, langsung turun di terminal Mendolo Wonosobo, kemudian naik bus atau angkutan ke Dieng. Dari Yogyakarta: Naik bus atau mobil ke Wonosobo, kemudian naik bus atau angkutan ke Dieng.
               </Accordion.Body>
             </Accordion.Item>
             <Accordion.Item eventKey="3" style={style.Accordion}>
-              <Accordion.Header>04 How does it work?</Accordion.Header>
+              <Accordion.Header>Apa saja pilihan homestay, vila, dan cabin di Dieng?</Accordion.Header>
               <Accordion.Body>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
-                in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-                nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-                sunt in culpa qui officia deserunt mollit anim id est laborum.
+                Homestay: Pilihan yang ekonomis dengan suasana yang ramah dan dekat dengan penduduk lokal. Vila: Pilihan yang lebih privat dan nyaman dengan fasilitas yang lengkap. Cabin: Pilihan yang unik dan romantis dengan suasana yang
+                tenang dan dekat dengan alam.
               </Accordion.Body>
             </Accordion.Item>
             <Accordion.Item eventKey="4" style={style.Accordion}>
-              <Accordion.Header>05 How does it work?</Accordion.Header>
+              <Accordion.Header>Bagaimana cara memesan homestay, vila, dan cabin di Dieng?</Accordion.Header>
               <Accordion.Body>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
-                in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-                nulla pariatur. Excepteur sint occaecat cupidatat non proident,
-                sunt in culpa qui officia deserunt mollit anim id est laborum.
+                Pesan online: Melalui situs web atau aplikasi pemesanan hotel seperti Booking.com, Agoda, atau Traveloka. Pesan langsung: melewati website terkait dan atau Menghubungi pemilik homestay, vila, atau cabin melalui telepon atau
+                email.
               </Accordion.Body>
+            </Accordion.Item>
+            <Accordion.Item eventKey="5" style={style.Accordion}>
+              <Accordion.Header>Berapa harga homestay, vila, dan cabin di Dieng?</Accordion.Header>
+              <Accordion.Body>Homestay: Rp 100.000 - Rp 300.000 per malam. Vila: Rp 300.000 - Rp 1.000.000 per malam. Cabin: Rp 500.000 - Rp 2.000.000 per malam.</Accordion.Body>
             </Accordion.Item>
           </Accordion>
         </div>

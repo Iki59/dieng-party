@@ -9,7 +9,7 @@ import Close from "../../assets/close.png";
 import Avatar from "../../assets/avatar.png";
 import Star from "../../assets/ratingStar.png";
 import Shape from "../../assets/Shape.png";
-import Mark from "../../assets/Line.png";
+import Mark from "../../assets/maps.png";
 import Primary from "../../assets/primary img.png";
 import Thumb01 from "../../assets/thumb 01.png";
 import Thumb03 from "../../assets/thumb 03.png";
@@ -135,7 +135,14 @@ export const DetailVillaUp = ({ dataVilla }) => {
           ) : (
             ""
           )}
-          <img src={Mark} alt="mark" />
+          <img
+            src={Mark}
+            alt="mark"
+            style={{
+              width: "1.8rem",
+              height: "1.8rem",
+            }}
+          />
           <p
             style={{
               display: "inline-block",
