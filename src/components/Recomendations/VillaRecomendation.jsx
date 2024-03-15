@@ -13,7 +13,7 @@ const VillaRecomendation = () => {
   const navigate = useNavigate();
 
   const cards = dataVilla.filter((item) => item.recomendation === true);
-  console.log('ini cards', cards);
+  console.log('ini cards yaaa', cards);
 
   const isMobile = useMediaQuery({ query: '(max-width: 767px)' });
   const isTablet = useMediaQuery({
