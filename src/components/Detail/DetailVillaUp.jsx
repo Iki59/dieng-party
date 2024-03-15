@@ -128,7 +128,14 @@ export const DetailVillaUp = ({ dataVilla }) => {
           ) : (
             ''
           )}
-          <img src={Mark} alt="mark" />
+          <img
+            src={Mark}
+            alt="mark"
+            style={{
+              width: "1.8rem",
+              height: "1.8rem",
+            }}
+          />
           <p
             style={{
               display: 'inline-block',

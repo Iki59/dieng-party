@@ -12,9 +12,9 @@
     "ratings": "4.9",
     "reviews": 100,
     "recomendation": true,
-    "location": "Dieng, Indonesia",
+    "location": "Sikunang Dieng, Kejajar, Wonosobo, Jawa Tengah",
     "host": "Techmas Solution",
-    "guests": 8,
+    "guests": "3-8",
     "bedroom": 3,
     "privateBath": 1,
     "description": "Nikmati pengalaman menginap yang istimewa di Dieng Farmhouse Tani-1 , sebuah kabin yang terletak di Dieng, Kejajar, Wonosobo. Dengan kapasitas hingga 9 orang orang, kabin ini menawarkan 1 unit yang nyaman serta fasilitas standar seperti Free Wifi, Dapur dan peralatan masak, Parkir dan lain-lain",
@@ -52,6 +52,10 @@
       {
         "name": "Strategis",
         "image": "../src/assets/icon/strategis.svg"
+      },
+      {
+        "name": "Free Breakfast",
+        "image": "../src/assets/icon/sarapan.png"
       }
     ],
     "gallery": [
@@ -178,9 +182,9 @@
     "ratings": "4.9",
     "reviews": 10,
     "recomendation": true,
-    "location": "Dieng, Indonesia",
+    "location": "Sikunang Dieng, Kejajar, Wonosobo, Jawa Tengah",
     "host": "Techmas Solution",
-    "guests": 6,
+    "guests": "3-6",
     "bedroom": 2,
     "privateBath": 1,
     "description": "Dieng Farmhouse Tani-2 adalah sebuah kabin yang nyaman di Dieng, Kejajar, Wonosobo. Dengan kapasitas untuk 6 orang orang, kabin ini menawarkan 1 unit yang luas dan dilengkapi dengan fasilitas standar seperti Free Wifi, Dapur dan alat masak, Parkir dan lain-lain.",
@@ -226,6 +230,10 @@
       {
         "name": "Strategis",
         "image": "../src/assets/icon/strategis.svg"
+      },
+      {
+        "name": "Free Breakfast",
+        "image": "../src/assets/icon/sarapan.png"
       }
     ],
     "gallery": [
@@ -400,10 +408,10 @@
     "ratings": "4.9",
     "reviews": 10,
     "recomendation": true,
-    "location": "Dieng, Indonesia",
+    "location": "Sikunang Dieng, Kejajar, Wonosobo, Jawa Tengah",
     "host": "Techmas Solution",
-    "guests": 2,
-    "bedroom": 1,
+    "guests": "3-6",
+    "bedroom": 2,
     "privateBath": 1,
     "description": "Dieng Farmhouse Tani-3 adalah sebuah kabin yang nyaman di Dieng, Kejajar, Wonosobo. Dengan kapasitas untuk 6 orang orang, kabin ini menawarkan 1 unit yang luas dan dilengkapi dengan fasilitas standar seperti Free Wifi, Dapur dan alat masak, Parkir dan lain-lain.",
     "description2": "Rasakan kehangatan tinggal di ruang tamu yang hangat sambil menikmati pemandangan spektakuler sekitarnya. Dieng Farmhouse Tani-3 juga dekat oleh wisata-wisata terdekat seperti Telaga Warna Dieng, Kawah Sikidang Dieng, Batu Ratapan Angin Dieng, View Point Bukit Sikapuk Dieng, Pemandian Air Hangat Dieng, Dieng Plateau Theater, dan lain-lain. Temukan pengalaman menginap yang istimewa di Dieng Farmhouse Tani-3.",
@@ -448,6 +456,10 @@
       {
         "name": "Strategis",
         "image": "../src/assets/icon/strategis.svg"
+      },
+      {
+        "name": "Free Breakfast",
+        "image": "../src/assets/icon/sarapan.png"
       }
     ],
     "gallery": [
@@ -618,14 +630,14 @@
     "ratings": "4.8",
     "reviews": 10,
     "recomendation": true,
-    "location": "Dieng, Indonesia",
+    "location": "Sikunang Dieng, Kejajar, Wonosobo, Jawa Tengah",
     "host": "Techmas Solution",
-    "guests": 6,
+    "guests": "3-6",
     "bedroom": 2,
     "privateBath": 1,
-    "description": "Described by Queenstown House & Garden magazine as having 'one of the best views we've ever seen' you will love relaxing in this newly built, architectural house sitting proudly on Queenstown Hill.",
-    "description2": "Enjoy breathtaking 180' views of Lake Wakatipu from your well appointed & privately accessed bedroom with modern en suite and floor-to-ceiling windows.",
-    "description3": "Your private patio takes in the afternoon sun, letting you soak up unparalleled lake and mountain views by day and the stars & city lights by night.",
+    "description": "Cabin Sanctuary adalah sebuah kabin yang nyaman di Dieng, Kejajar, Wonosobo. Dengan kapasitas untuk 6 orang orang, kabin ini menawarkan 1 unit yang luas dan dilengkapi dengan fasilitas standar seperti Free Wifi, Dapur dan alat masak, Parkir dan lain-lain.",
+    "description2": "Rasakan kehangatan tinggal di ruang tamu yang hangat sambil menikmati pemandangan spektakuler sekitarnya. Cabin Sanctuary juga dekat oleh wisata-wisata terdekat seperti Telaga Warna Dieng, Kawah Sikidang Dieng, Batu Ratapan Angin Dieng, View Point Bukit Sikapuk Dieng, Pemandian Air Hangat Dieng, Dieng Plateau Theater, dan lain-lain. Temukan pengalaman menginap yang istimewa di Cabin Sanctuary.",
+    "description3": " ",
     "wifi": true,
     "bathroom": true,
     "computer": true,
@@ -666,6 +678,10 @@
       {
         "name": "Strategis",
         "image": "../src/assets/icon/strategis.svg"
+      },
+      {
+        "name": "Free Breakfast",
+        "image": "../src/assets/icon/sarapan.png"
       }
     ],
     "gallery": [
@@ -728,10 +744,10 @@
     "ratings": "4.59",
     "reviews": 10,
     "recomendation": true,
-    "location": "Dieng, Indonesia",
+    "location": "Dieng Kulon, Batur, Banjarnegara",
     "host": "Techmas Solution",
-    "guests": 2,
-    "bedroom": 1,
+    "guests": "3-6",
+    "bedroom": 2,
     "privateBath": 1,
     "description": "Cottage Bero Dieng. Cottage dekat tempat wisata Favorit dengan kebun bunga di depannya, Salah satu tipe akomodasi paling dicari di Dieng karena selain nyaman, view sekitar menarik, strategis dan harga affordable.",
     "description2": " ",
@@ -770,8 +786,8 @@
         "image": "../src/assets/icon/shower.svg"
       },
       {
-        "name": "Parkir",
-        "image": "../src/assets/icon/parkir.svg"
+        "name": "Welcome Drink",
+        "image": "../src/assets/icon/drink.svg"
       },
       {
         "name": "Strategis",
@@ -838,9 +854,9 @@
     "ratings": "4.7",
     "reviews": 10,
     "recomendation": true,
-    "location": "Dieng, Indonesia",
+    "location": "Dieng, Batur, Banjarnegara, Jawa Tengah",
     "host": "Techmas Solution",
-    "guests": 2,
+    "guests": "2-4",
     "bedroom": 1,
     "privateBath": 1,
     "description": "Nikmati alam Dieng Kulon dengan menginap di Salju Cottage bawah, sebuah kabin yang nyaman. Dengan kapasitas untuk 4 orang orang, kabin ini menyediakan 1 unit yang nyaman dan fasilitas lengkap seperti Free Wifi, Welcome Drink, Teh, Gula, Kopi, Parking Lot dan lain-lain.",
@@ -924,10 +940,10 @@
     "ratings": "4.66",
     "reviews": 10,
     "recomendation": true,
-    "location": "Dieng, Indonesia",
+    "location": "Dieng, Batur, Banjarnegara, Jawa Tengah",
     "host": "Techmas Solution",
-    "guests": 2,
-    "bedroom": 1,
+    "guests": "3-6",
+    "bedroom": 2,
     "privateBath": 1,
     "description": "Villa Cabana Dieng, sebuah cottage yang menawan di lokasi Dieng Kulon, Batur, Banjarnegara. Dengan kapasitas hingga 6 orang, cottage ini memiliki 2 unit yang nyaman dan dilengkapi dengan berbagai fasilitas seperti Dapur dan peralatan masak, Kamar mandi dengan water heater, Dispenser + Free Teh Gula Kopi, Free Wifi, Parkir dan lain-lain.",
     "description2": "Nikmati kehangatan tinggal di kamar-kamar yang indah dengan 1 kamar mandi. Villa Cabana Dieng juga dekat dengan atraksi populer seperti Telaga Warna Dieng, Kawah Sikidang Dieng, Batu Ratapan Angin Dieng, View Point Bukit Sikapuk Dieng, Pemandian Air Hangat Dieng, Dieng Plateau Theater, dan lain-lain.",
@@ -1022,10 +1038,10 @@
     "ratings": "4.66",
     "reviews": 10,
     "recomendation": true,
-    "location": "Dieng, Indonesia",
+    "location": "Sikunang, Dieng, Jawa Tengah",
     "host": "Techmas Solution",
-    "guests": 2,
-    "bedroom": 1,
+    "guests": "3-6",
+    "bedroom": 2,
     "privateBath": 1,
     "description": "D Martos Farmhouse, sebuah kabin yang menawan di Dieng Kulon, Batur, Banjarnegara, menawarkan pengalaman menginap yang tak terlupakan. Dengan kapasitas hingga 6 orang orang, kabin ini dilengkapi dengan 2 unit yang nyaman dan fasilitas lengkap seperti Sofa, Kamar mandi dengan water heater, LED TV, Free Teh, Gula, Kopi dan lain-lain.",
     "description2": "Bersantailah di ruang tamu yang nyaman sambil menikmati pemandangan alam yang memesona. D Martos Farmhouse juga terletak dekat dengan objek wisata terkenal seperti Telaga Warna Dieng, Kawah Sikidang Dieng, Batu Ratapan Angin Dieng, View Point Bukit Sikapuk Dieng, Pemandian Air Hangat Dieng, Dieng Plateau Theater, dan lain-lain. Jadikan D Martos Farmhouse sebagai tempat menginap pilihan Anda saat berlibur di Dieng Kulon.",
@@ -1048,14 +1064,6 @@
         "image": "../src/assets/icon/tv.svg"
       },
       {
-        "name": "Best View",
-        "image": "../src/assets/icon/bestview.svg"
-      },
-      {
-        "name": "Dispenser",
-        "image": "../src/assets/icon/dispenser.svg"
-      },
-      {
         "name": "Dapur",
         "image": "../src/assets/icon/dapur.svg"
       },
@@ -1064,8 +1072,8 @@
         "image": "../src/assets/icon/shower.svg"
       },
       {
-        "name": "Parkir",
-        "image": "../src/assets/icon/parkir.svg"
+        "name": "Welcome Drink",
+        "image": "../src/assets/icon/drink.svg"
       },
       {
         "name": "Strategis",
@@ -1120,10 +1128,10 @@
     "ratings": "4.32",
     "reviews": 10,
     "recomendation": true,
-    "location": "Dieng, Indonesia",
+    "location": "Dieng, Batur, Jawa Tengah",
     "host": "Techmas Solution",
-    "guests": 2,
-    "bedroom": 1,
+    "guests": "3-6",
+    "bedroom": 2,
     "privateBath": 1,
     "description": "Cabin Dieng DN skoter merupakan sebuah kabin yang menawan di lokasi Dieng Kulon, Batur, Banjarnegara. Dengan kapasitas hingga 6 orang orang, kabin ini memiliki 1 unit yang nyaman dan dilengkapi dengan berbagai fasilitas seperti Water Heater di Kamar mandi, Living Room, Dispenser, Free Wifi, Parking Lot dan lain-lain.",
     "description2": "Nikmati pemandangan indah dan santai di ruang tamu yang nyaman. Cabin Dieng DN skoter juga strategis terletak dekat dengan objek wisata terkenal seperti Telaga Warna Dieng, Kawah Sikidang Dieng, Batu Ratapan Angin Dieng, View Point Bukit Sikapuk Dieng, Pemandian Air Hangat Dieng, Dieng Plateau Theater, dan lain-lain. Buat momen berharga di Cabin Dieng DN skoter, pilihan akomodasi terbaik Anda di Dieng Kulon.",
@@ -1144,10 +1152,6 @@
       {
         "name": "TV",
         "image": "../src/assets/icon/tv.svg"
-      },
-      {
-        "name": "Best View",
-        "image": "../src/assets/icon/bestview.svg"
       },
       {
         "name": "Dispenser",
@@ -1218,10 +1222,10 @@
     "ratings": "4.86",
     "reviews": 10,
     "recomendation": true,
-    "location": "Dieng, Indonesia",
+    "location": "Dieng Kulon, Batur, Banjarnegara, Jawatengah",
     "host": "Techmas Solution",
-    "guests": 2,
-    "bedroom": 1,
+    "guests": "4-8",
+    "bedroom": 2,
     "privateBath": 1,
     "description": "Cabin Dieng Alvi~Dringo, sebuah kabin yang menawan di Dieng Kulon, Batur, Banjarnegara, menawarkan pengalaman menginap yang tak terlupakan. Dengan kapasitas hingga 8 orang orang, kabin ini dilengkapi dengan 1 unit yang nyaman dan fasilitas lengkap seperti Free Wifi, Ruang TV, Ruang Tamu, Parkir dan lain-lain.",
     "description2": "Bersantailah di ruang tamu yang nyaman sambil menikmati pemandangan alam yang memesona. Cabin Dieng Alvi~Dringo juga terletak dekat dengan objek wisata terkenal seperti Telaga Warna Dieng, Kawah Sikidang Dieng, Batu Ratapan Angin Dieng, View Point Bukit Sikapuk Dieng, Pemandian Air Hangat Dieng, Dieng Plateau Theater, dan lain-lain. Jadikan Cabin Dieng Alvi~Dringo sebagai tempat menginap pilihan Anda saat berlibur di Dieng Kulon.",
@@ -1248,16 +1252,8 @@
         "image": "../src/assets/icon/bestview.svg"
       },
       {
-        "name": "Dispenser",
-        "image": "../src/assets/icon/dispenser.svg"
-      },
-      {
         "name": "Dapur",
         "image": "../src/assets/icon/dapur.svg"
-      },
-      {
-        "name": "Hot Water",
-        "image": "../src/assets/icon/shower.svg"
       },
       {
         "name": "Parkir",
@@ -1266,6 +1262,10 @@
       {
         "name": "Strategis",
         "image": "../src/assets/icon/strategis.svg"
+      },
+      {
+        "name": "Free Breakfast",
+        "image": "../src/assets/icon/sarapan.png"
       }
     ],
     "gallery": [
@@ -1324,10 +1324,10 @@
     "ratings": "4.59",
     "reviews": 10,
     "recomendation": true,
-    "location": "Dieng, Indonesia",
+    "location": "Karang sari dieng kulon rt 1 rw 4 batur banjarnegara jawa tengah",
     "host": "Techmas Solution",
-    "guests": 2,
-    "bedroom": 1,
+    "guests": "3-6",
+    "bedroom": 2,
     "privateBath": 1,
     "description": "Cabin ira 2 adalah sebuah kabin yang nyaman di Dieng Kulon, Batur, Banjarnegara. Dengan kapasitas untuk 6 orang orang, kabin ini menawarkan 1 unit yang luas dan dilengkapi dengan fasilitas standar seperti Kamar mandi dengan water Heater, Dispenser, Parking Lot dan lain-lain.",
     "description2": "Rasakan kehangatan tinggal di ruang tamu yang hangat sambil menikmati pemandangan spektakuler sekitarnya. Cabin ira 2 juga dekat oleh wisata-wisata terdekat seperti Telaga Warna Dieng, Kawah Sikidang Dieng, Batu Ratapan Angin Dieng, View Point Bukit Sikapuk Dieng, Pemandian Air Hangat Dieng, Dieng Plateau Theater, dan lain-lain. Temukan pengalaman menginap yang istimewa di Cabin ira 2.",
@@ -1350,10 +1350,6 @@
         "image": "../src/assets/icon/tv.svg"
       },
       {
-        "name": "Best View",
-        "image": "../src/assets/icon/bestview.svg"
-      },
-      {
         "name": "Dispenser",
         "image": "../src/assets/icon/dispenser.svg"
       },
@@ -1370,8 +1366,8 @@
         "image": "../src/assets/icon/parkir.svg"
       },
       {
-        "name": "Strategis",
-        "image": "../src/assets/icon/strategis.svg"
+        "name": "Welcome Drink",
+        "image": "../src/assets/icon/drink.svg"
       }
     ],
     "gallery": [
@@ -1426,9 +1422,9 @@
     "ratings": "4.84",
     "reviews": 10,
     "recomendation": true,
-    "location": "Dieng, Indonesia",
+    "location": "Dieng, Batur, Banjarnegara, Jawa Tengah",
     "host": "Techmas Solution",
-    "guests": 2,
+    "guests": "2-4",
     "bedroom": 1,
     "privateBath": 1,
     "description": "Nikmati pengalaman menginap yang istimewa di Cabin Ira Dieng, sebuah kabin yang terletak di Dieng Kulon, Batur, Banjarnegara. Dengan kapasitas hingga 4 orang orang, kabin ini menawarkan 2 unit yang nyaman serta fasilitas standar seperti Kamar mandi dengan water heater, Dispenser, Parkir, Free WIFI dan lain-lain.",
@@ -1452,10 +1448,6 @@
         "image": "../src/assets/icon/tv.svg"
       },
       {
-        "name": "Best View",
-        "image": "../src/assets/icon/bestview.svg"
-      },
-      {
         "name": "Dispenser",
         "image": "../src/assets/icon/dispenser.svg"
       },
@@ -1472,8 +1464,8 @@
         "image": "../src/assets/icon/parkir.svg"
       },
       {
-        "name": "Strategis",
-        "image": "../src/assets/icon/strategis.svg"
+        "name": "Welcome Drink",
+        "image": "../src/assets/icon/drink.svg"
       }
     ],
     "gallery": [
@@ -1524,9 +1516,9 @@
     "ratings": "4.57",
     "reviews": 10,
     "recomendation": true,
-    "location": "Dieng, Indonesia",
+    "location": "Dieng Kulon, Batur, Banjarnegara",
     "host": "Techmas Solution",
-    "guests": 2,
+    "guests": "3-6",
     "bedroom": 1,
     "privateBath": 1,
     "description": "Cottage Lumbung Kayumanis Skoter, sebuah kabin yang menawan, terletak di Dieng Kulon, Batur, Banjarnegara. Dengan kapasitas untuk 6 orang orang, kabin ini menawarkan 2 unit yang nyaman dan dilengkapi dengan fasilitas standar seperti Parkir, Kamar bawah 1 bed queen, Kamar atas 2 bed queen dan lain-lain.",
@@ -1568,10 +1560,6 @@
       {
         "name": "Parkir",
         "image": "../src/assets/icon/parkir.svg"
-      },
-      {
-        "name": "Strategis",
-        "image": "../src/assets/icon/strategis.svg"
       }
     ],
     "gallery": [
@@ -1622,10 +1610,10 @@
     "ratings": "4.81",
     "reviews": 10,
     "recomendation": true,
-    "location": "Dieng, Indonesia",
+    "location": "Dieng, Batur, Banjarnegara, Jawa Tengah",
     "host": "Techmas Solution",
-    "guests": 2,
-    "bedroom": 1,
+    "guests": "3-6",
+    "bedroom": 2,
     "privateBath": 1,
     "description": "Lazio Cottage Dieng adalah kabin yang ideal untuk melarikan diri dari hiruk-pikuk kehidupan sehari-hari. Terletak di Dieng Kulon, Batur, Banjarnegara, kabin ini memiliki kapasitas untuk 6 orang orang dan menawarkan 3 unit yang nyaman.",
     "description2": "Fasilitas standar seperti Living room, Dispenser, Free WIFI, Parking Lot, Smart TV dan lain-lain juga tersedia untuk kehangatan Anda. Dapatkan pengalaman menginap yang istimewa di ruang tamu yang luas dan nikmati pemandangan menakjubkan sekitarnya. Jelajahi atraksi populer seperti Telaga Warna Dieng, Kawah Sikidang Dieng, Batu Ratapan Angin Dieng, View Point Bukit Sikapuk Dieng, Pemandian Air Hangat Dieng, Dieng Plateau Theater, dan lain-lain yang berdekatan dengan Lazio Cottage Dieng.",
@@ -1648,8 +1636,8 @@
         "image": "../src/assets/icon/tv.svg"
       },
       {
-        "name": "Best View",
-        "image": "../src/assets/icon/bestview.svg"
+        "name": "Welcome Drink",
+        "image": "../src/assets/icon/drink.svg"
       },
       {
         "name": "Dispenser",
@@ -1720,10 +1708,10 @@
     "ratings": "4.36",
     "reviews": 10,
     "recomendation": true,
-    "location": "Dieng, Indonesia",
+    "location": "Jl. Arjuna Dieng, Karangsari, Dieng Kulon, Batur, Banjarnegara, Jawa Tengah",
     "host": "Techmas Solution",
-    "guests": 2,
-    "bedroom": 1,
+    "guests": "3-6",
+    "bedroom": 2,
     "privateBath": 1,
     "description": "Oemar Cabin Dieng adalah sebuah kabin cantik yang berlokasi di Dieng Kulon, Batur, Banjarnegara. Dengan kapasitas hingga 6 orang orang, kabin ini memiliki 3 unit yang nyaman dan dilengkapi dengan berbagai fasilitas seperti Dapur dan peralatan masak, Sofa, Kamar mandi dengan water heater, LED TV dan lain-lain.",
     "description2": "Para tamu dapat menikmati pemandangan terbaik dan bersantai di ruang tamu yang nyaman. Terletak dekat dengan atraksi populer seperti Telaga Warna Dieng, Kawah Sikidang Dieng, Batu Ratapan Angin Dieng, View Point Bukit Sikapuk Dieng, Pemandian Air Hangat Dieng, Dieng Plateau Theater, dan lain-lain. Oemar Cabin Dieng adalah tempat menginap yang sempurna untuk liburan Anda di Dieng Kulon.",
@@ -1746,28 +1734,12 @@
         "image": "../src/assets/icon/tv.svg"
       },
       {
-        "name": "Best View",
-        "image": "../src/assets/icon/bestview.svg"
-      },
-      {
-        "name": "Dispenser",
-        "image": "../src/assets/icon/dispenser.svg"
-      },
-      {
         "name": "Dapur",
         "image": "../src/assets/icon/dapur.svg"
       },
       {
         "name": "Hot Water",
         "image": "../src/assets/icon/shower.svg"
-      },
-      {
-        "name": "Parkir",
-        "image": "../src/assets/icon/parkir.svg"
-      },
-      {
-        "name": "Strategis",
-        "image": "../src/assets/icon/strategis.svg"
       }
     ],
     "gallery": [
@@ -1830,10 +1802,10 @@
     "ratings": "4.48",
     "reviews": 10,
     "recomendation": true,
-    "location": "Dieng, Indonesia",
+    "location": "Dieng Kulon, Kec. Batur, Kab. Banjarnegara, Jawa Tengah",
     "host": "Techmas Solution",
-    "guests": 2,
-    "bedroom": 1,
+    "guests": "3-6",
+    "bedroom": 2,
     "privateBath": 1,
     "description": "Nikmati kehangatan tinggal di Vilio Cabin Dieng, sebuah kabin yang terletak di Dieng Kulon, Batur, Banjarnegara. Dengan kapasitas untuk 6 orang orang, kabin ini menawarkan 3 unit yang luas dan fasilitas lengkap seperti Dapur dan peralatan masak, Ruang Tamu, Dispenser + Free Teh/ Kopi Gula,Free Wifi, Parkir dan lain-lain.Free Wifi, Parkir dan lain-lain.",
     "description2": "Nikmati pemandangan terbaik sambil bersantai di ruang tamu yang nyaman. Vilio Cabin Dieng juga dekat oleh tempat-tempat wisata terkenal seperti Telaga Warna Dieng, Kawah Sikidang Dieng, Batu Ratapan Angin Dieng, View Point Bukit Sikapuk Dieng, Pemandian Air Hangat Dieng, Dieng Plateau Theater, dan lain-lain. Temukan pengalaman menginap yang tak terlupakan di Vilio Cabin Dieng.",
@@ -1856,8 +1828,8 @@
         "image": "../src/assets/icon/tv.svg"
       },
       {
-        "name": "Best View",
-        "image": "../src/assets/icon/bestview.svg"
+        "name": "Welcome Drink",
+        "image": "../src/assets/icon/drink.svg"
       },
       {
         "name": "Dispenser",
@@ -1928,10 +1900,10 @@
     "ratings": "4.33",
     "reviews": 10,
     "recomendation": true,
-    "location": "Dieng, Indonesia",
+    "location": "Jl. Dieng, Karangsari, Dieng Kulon, Kec. Batur, Kab. Banjarnegara, Jawa Tengah",
     "host": "Techmas Solution",
-    "guests": 2,
-    "bedroom": 1,
+    "guests": "3-6",
+    "bedroom": 2,
     "privateBath": 1,
     "description": "Cabin Dieng Vilio 2, sebuah kabin yang menawan, terletak di Dieng Kulon, Batur, Banjarnegara. Dengan kapasitas untuk 6 orang orang, kabin ini menawarkan 3 unit yang nyaman dan dilengkapi dengan fasilitas standar seperti Kamar mandi dengan water heater, Dispenser+Free gula kopi, Free Wifi, Parkir dan lain-lain.",
     "description2": "Para tamu dapat menikmati pemandangan indah sambil bersantai di ruang tamu yang nyaman. Cabin Dieng Vilio 2 juga berdekatan dengan objek wisata populer seperti Telaga Warna Dieng, Kawah Sikidang Dieng, Batu Ratapan Angin Dieng, View Point Bukit Sikapuk Dieng, Pemandian Air Hangat Dieng, Dieng Plateau Theater, dan lain-lain. Jadikan Cabin Dieng Vilio 2 sebagai pilihan akomodasi terbaik Anda di Dieng Kulon.",
@@ -1954,8 +1926,8 @@
         "image": "../src/assets/icon/tv.svg"
       },
       {
-        "name": "Best View",
-        "image": "../src/assets/icon/bestview.svg"
+        "name": "Welcome Drink",
+        "image": "../src/assets/icon/drink.svg"
       },
       {
         "name": "Dispenser",
@@ -2038,10 +2010,10 @@
     "ratings": "4.36",
     "reviews": 10,
     "recomendation": true,
-    "location": "Dieng, Indonesia",
+    "location": "Dieng, Batur, Banjarnegara, Jawa Tengah",
     "host": "Techmas Solution",
-    "guests": 2,
-    "bedroom": 1,
+    "guests": "3-6",
+    "bedroom": 2,
     "privateBath": 1,
     "description": "Menikmati liburan di Dieng Kulon menjadi lebih berkesan dengan menginap di Cottage Dieng Yayan, sebuah kabin yang memukau. Dengan kapasitas hingga 6 orang orang, kabin ini menawarkan 5 unit yang nyaman dan fasilitas lengkap seperti Dapur dan peralatan masak, Ruang Tamu, Dispenser + Teh Gula Kopi, Free Wifi, Parkir dan lain-lain.",
     "description2": "Menikmati liburan di Dieng Kulon menjadi lebih berkesan dengan menginap di Cottage Dieng Yayan, sebuah kabin yang memukau. Dengan kapasitas hingga 6 orang orang, kabin ini menawarkan 5 unit yang nyaman dan fasilitas lengkap seperti Dapur dan peralatan masak, Ruang Tamu, Dispenser + Teh Gula Kopi, Free Wifi, Parkir dan lain-lain.",
