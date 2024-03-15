@@ -1,6 +1,4 @@
-import React from 'react';
 import { Row, Col, Image, Container } from 'react-bootstrap';
-import Wifi from '../../assets/icon/wifi.svg';
 import AvaCentang from '../../assets/avatarcentang.png';
 import Shopping from '../../assets/shopping.png';
 import Avatar from '../../assets/avatar.png';

@@ -4,9 +4,26 @@ import { Detail } from './pages/Details/Detail';
 import { Gallerys } from './pages/Details/Gallerys';
 import { HomePage } from './pages/home/Index';
 import { ListVilla } from './pages/ListVilla/ListVilla';
+import { useEffect, useState } from 'react';
 // import { IniNavbar } from "./components/Navbar/iniNavbar";
 
 function App() {
+  const [data, setData] = useState([]);
+
+  const fetchData = async () => {
+    try {
+      const response = await fetch('../data-villa.json');
+      const jsonData = await response.json();
+      setData(jsonData);
+    } catch (error) {
+      console.error('Error fetching data:', error);
+    }
+  };
+
+  useEffect(() => {
+    fetchData();
+  }, []);
+  console.log('ini data', data);
   return (
     <BrowserRouter>
       {/* <IniNavbar /> */}

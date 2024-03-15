@@ -1,67 +1,11 @@
 import { Button, Card, Col, Container, ListGroup, Row } from 'react-bootstrap';
-import Villa3 from '../../assets/villa3.jpeg';
 import Wifi from '../../assets/wifi.svg';
 import Breakfast from '../../assets/breakfast.svg';
 import { useNavigate } from 'react-router-dom';
+import dataVilla from '../../../data-villa.json';
 
 const VillaCard = () => {
   const navigate = useNavigate();
-  const cards = [
-    {
-      image: Villa3,
-      title: ' Villa Kayu Pemandangan Bukit',
-      price: 'Rp. 300.000,-/Night',
-      text: '1',
-    },
-    {
-      image: Villa3,
-      title: ' Villa Kayu Pemandangan Bukit',
-      price: 'Rp. 300.000,-/Night',
-      text: '2',
-    },
-    {
-      image: Villa3,
-      title: ' Villa Kayu Pemandangan Bukit',
-      price: 'Rp. 300.000,-/Night',
-      text: '3',
-    },
-    {
-      image: Villa3,
-      title: ' Villa Kayu Pemandangan Bukit',
-      price: 'Rp. 300.000,-/Night',
-      text: '4',
-    },
-    {
-      image: Villa3,
-      title: ' Villa Kayu Pemandangan Bukit',
-      price: 'Rp. 300.000,-/Night',
-      text: '5',
-    },
-    {
-      image: Villa3,
-      title: ' Villa Kayu Pemandangan Bukit',
-      price: 'Rp. 300.000,-/Night',
-      text: '6',
-    },
-    {
-      image: Villa3,
-      title: ' Villa Kayu Pemandangan Bukit',
-      price: 'Rp. 300.000,-/Night',
-      text: '7',
-    },
-    {
-      image: Villa3,
-      title: ' Villa Kayu Pemandangan Bukit',
-      price: 'Rp. 300.000,-/Night',
-      text: '8',
-    },
-    {
-      image: Villa3,
-      title: ' Villa Kayu Pemandangan Bukit',
-      price: 'Rp. 300.000,-/Night',
-      text: '9',
-    },
-  ];
 
   return (
     <div className="min-vh-100" id="homestay">
@@ -100,10 +44,13 @@ const VillaCard = () => {
           </div>
         </Row>
         <Row className="g-3 g-md-3">
-          {cards.map((item, index) => (
+          {dataVilla.splice(0, 9).map((item, index) => (
             <Col md={4} key={index}>
               <Card
                 className="w-100"
+                onClick={() => {
+                  navigate(`/detail/${item.id}`);
+                }}
                 style={{
                   border: '1px solid #E6E8EC',
                   borderRadius: '22px',
