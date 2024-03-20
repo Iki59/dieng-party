@@ -8,7 +8,16 @@ import Breakfast from "../../assets/breakfast.svg";
 import Star from "../../assets/Star.svg";
 
 const ListCard = () => {
+  // const [villaData, setVillaData] = useState([]);
+  // const [loading, setLoading] = useState(true);
   const [visible, setVisible] = useState(9);
+  // useEffect(() => {
+  //   const fetchData = async () => {
+  //     setVillaData(dataVilla);
+  //     setLoading(false);
+  //   };
+  //   fetchData();
+  // }, []); // []
 
   const showMoreCards = () => {
     setVisible((prevValue) => prevValue + 9);
@@ -21,12 +30,7 @@ const ListCard = () => {
       <div className="min-vh-100">
         <Container className="mt-3 px-lg-4 px-md-3 px-4">
           <div>
-            <Image
-              src={Wonosobo}
-              alt="Wonosobo"
-              className="img-fluid"
-              //   style={{ width: '1080px', height: '387px', objectFit: 'cover' }}
-            />
+            <Image src={Wonosobo} alt="Wonosobo" className="img-fluid" />
           </div>
           <div className="mt-5">
             <div className="mb-4">

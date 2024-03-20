@@ -1,5 +1,4 @@
-import React from "react";
-import { Gallery } from "../../components/Detail/Gallery";
+import { Gallery } from '../../components/Detail/Gallery';
 
 export const Gallerys = () => {
   return (
