@@ -132,8 +132,8 @@ export const DetailVillaUp = ({ dataVilla }) => {
             src={Mark}
             alt="mark"
             style={{
-              width: "1.8rem",
-              height: "1.8rem",
+              width: '1.8rem',
+              height: '1.8rem',
             }}
           />
           <p

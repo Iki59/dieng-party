@@ -1,19 +1,17 @@
 import { Container } from 'react-bootstrap';
 import { DetailVillaDown } from './DetailVillaDown';
 import { DetailVillaUp } from './DetailVillaUp';
-import VillaRecomendation from '../Recomendations/VillaRecomendation';
 import UserTestimonials from '../Testimonials/UserTestimonials';
 import { Faq } from '../Faq/Faq';
 import { Contact } from '../ContactUs/Contact';
 import { Footer } from '../Footer/Footer';
 import { MobileTestimonials } from '../Testimonials/MobileTestimonials';
 import { useMediaQuery } from 'react-responsive';
-import PropTypes from 'prop-types'
+import PropTypes from 'prop-types';
+import { VillaRecomendation } from '../Recomendations/VillaRecomendation';
 
-export const DetailVilla = ({data}) => {
+export const DetailVilla = ({ data }) => {
   const isMobile = useMediaQuery({ query: '(max-width: 767px)' });
-
-  console.log('ini villa 2', data)
 
   return (
     <>

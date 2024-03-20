@@ -7,13 +7,12 @@ import homeIcon from '../../assets/home.svg';
 import { useState } from 'react';
 import { useMediaQuery } from 'react-responsive';
 import { useNavigate } from 'react-router-dom';
-import PropTypes from 'prop-types';
+import dataVilla from '../../../data-villa.json';
 
-const VillaRecomendation = ({data}) => {
+export const VillaRecomendation = () => {
   const navigate = useNavigate();
 
-  const cards = data.filter((item) => item.recomendation === true);
-  console.log('ini cards yaaa', data);
+  const cards = dataVilla.filter((item) => item.recomendation === true);
 
   const isMobile = useMediaQuery({ query: '(max-width: 767px)' });
   const isTablet = useMediaQuery({
@@ -183,10 +182,4 @@ const VillaRecomendation = ({data}) => {
       </div>
     </>
   );
-};
-
-export default VillaRecomendation;
-
-VillaRecomendation.propTypes = {
-  data: PropTypes.any,
 };
