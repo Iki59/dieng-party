@@ -200,7 +200,11 @@ export const Contact = () => {
               <Button
                 type="submit"
                 className="btn btn-primary fw-semibold"
-                style={{ width:'100%',borderRadius: '50px', padding: '3px 20px' }}
+                style={{
+                  width: '100%',
+                  borderRadius: '50px',
+                  padding: '3px 20px',
+                }}
               >
                 Send
               </Button>
