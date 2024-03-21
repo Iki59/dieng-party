@@ -112,6 +112,7 @@ export const VillaRecomendation = () => {
                                   style={{
                                     height: '14rem',
                                     borderRadius: '10%',
+                                    objectFit: 'cover',
                                   }}
                                   variant="top"
                                   src={`../${card.image}`}

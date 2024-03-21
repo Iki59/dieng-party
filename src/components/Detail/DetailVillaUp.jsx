@@ -232,6 +232,8 @@ export const DetailVillaUp = ({ dataVilla }) => {
                   width: '98%',
                   height: isMobile ? '100%' : '64%',
                   borderRadius: '10px',
+                  objectFit: 'cover',
+                  overflow: 'hidden',
                 }}
               />
               {/* <img
@@ -258,7 +260,12 @@ export const DetailVillaUp = ({ dataVilla }) => {
                     }}
                     src={`../${dataVilla.image2}`}
                     alt="thumb"
-                    style={{ width: '80%', borderRadius: '10px  ' }}
+                    style={{
+                      width: '80%',
+                      borderRadius: '10px',
+                      objectFit: 'cover',
+                      overflow: 'hidden',
+                    }}
                   />
                 </div>
                 <div className="mb-2">
@@ -268,7 +275,12 @@ export const DetailVillaUp = ({ dataVilla }) => {
                     }}
                     src={`../${dataVilla.image3}`}
                     alt="thumb"
-                    style={{ width: '80%', borderRadius: '10px  ' }}
+                    style={{
+                      width: '80%',
+                      borderRadius: '10px',
+                      objectFit: 'cover',
+                      overflow: 'hidden',
+                    }}
                   />
                 </div>
                 <div className="mb-2">
@@ -278,7 +290,12 @@ export const DetailVillaUp = ({ dataVilla }) => {
                     }}
                     src={`../${dataVilla.image4}`}
                     alt="thumb"
-                    style={{ width: '80%', borderRadius: '10px  ' }}
+                    style={{
+                      width: '80%',
+                      borderRadius: '10px',
+                      objectFit: 'cover',
+                      overflow: 'hidden',
+                    }}
                   />
                 </div>
               </div>

@@ -47,6 +47,7 @@ const ListCard = () => {
                         border: '1px solid #E6E8EC',
                         borderRadius: '22px',
                         overflow: 'hidden',
+                        objectFit: 'cover',
                       }}
                     >
                       <Card.Img
