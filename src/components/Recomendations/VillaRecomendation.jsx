@@ -12,7 +12,11 @@ import dataVilla from '../../../data-villa.json';
 export const VillaRecomendation = () => {
   const navigate = useNavigate();
 
-  const cards = dataVilla.filter((item) => item.recomendation === true);
+  const cards = dataVilla.filter((villa) => {
+    return villa.recomendation === true;
+  });
+
+  console.log('ini list rekomen', dataVilla);
 
   const isMobile = useMediaQuery({ query: '(max-width: 767px)' });
   const isTablet = useMediaQuery({
@@ -29,12 +33,11 @@ export const VillaRecomendation = () => {
 
   const handleNext = () => {
     const nextIndex = (startIndex + 1) % cards.length;
-    console.log('ini nextindex', nextIndex);
     setStartIndex(nextIndex);
 
-    const remainingCards = cards.length - (nextIndex + cardsPerPage);
+    const remainingCards = Math.floor(cards.length / cardsPerPage);
 
-    if (remainingCards <= 0) {
+    if (remainingCards <= nextIndex) {
       setIsNextDisabled(true);
     }
 
