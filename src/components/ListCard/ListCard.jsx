@@ -11,8 +11,10 @@ import {
 import dataVilla from '../../../data-villa.json';
 import Wonosobo from '../../assets/Wonosobo.png';
 import Star from '../../assets/Star.svg';
+import { useNavigate } from 'react-router-dom';
 
 const ListCard = () => {
+  const navigate = useNavigate();
   const [visible, setVisible] = useState(9);
 
   const showMoreCards = () => {
@@ -38,6 +40,9 @@ const ListCard = () => {
                   <Col md={4} key={index}>
                     <Card
                       className="w-100"
+                      onClick={() => {
+                        navigate(`/detail/${item.id}`);
+                      }}
                       style={{
                         border: '1px solid #E6E8EC',
                         borderRadius: '22px',

@@ -5,7 +5,6 @@ import { useParams } from 'react-router-dom';
 import dataVilla from '../../../data-villa.json';
 
 export const DetailVilla = () => {
-  console.log('ini data detail', dataVilla);
   const { id } = useParams();
   const villa = dataVilla.find((item) => item.id == id);
 

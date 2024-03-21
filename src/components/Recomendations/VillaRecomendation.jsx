@@ -16,8 +16,6 @@ export const VillaRecomendation = () => {
     return villa.recomendation === true;
   });
 
-  console.log('ini list rekomen', dataVilla);
-
   const isMobile = useMediaQuery({ query: '(max-width: 767px)' });
   const isTablet = useMediaQuery({
     query: '(min-width: 768px) and (max-width: 991px)',
@@ -29,15 +27,14 @@ export const VillaRecomendation = () => {
     startIndex + cardsPerPage >= cards.length
   );
 
-  console.log(isNextDisabled);
-
   const handleNext = () => {
     const nextIndex = (startIndex + 1) % cards.length;
     setStartIndex(nextIndex);
 
     const remainingCards = Math.floor(cards.length / cardsPerPage);
+    const limit = isMobile ? nextIndex + 1 : nextIndex;
 
-    if (remainingCards <= nextIndex) {
+    if (remainingCards <= limit) {
       setIsNextDisabled(true);
     }
 
@@ -54,7 +51,6 @@ export const VillaRecomendation = () => {
 
     setIsNextDisabled(false);
   };
-  console.log('ini start', startIndex);
 
   return (
     <>
@@ -164,21 +160,20 @@ export const VillaRecomendation = () => {
             </Col>
           </Row>
           <div className="d-md-none ms-3">
-            <img
-              onClick={isPrevDisabled ? null : handlePrev}
-              disabled={startIndex === 0}
-              className="me-2"
-              src={LeftArrow}
-              alt="Left Arrow"
-              style={{ cursor: 'pointer' }}
-            />
-            <img
-              onClick={isNextDisabled ? null : handleNext}
-              disabled={startIndex + cardsPerPage >= cards.length}
-              src={RightArrow}
-              alt="Right Arrow"
-              style={{ cursor: 'pointer' }}
-            />
+            <Button
+              className="me-2 button"
+              onClick={handlePrev}
+              disabled={isPrevDisabled}
+            >
+              <img src={LeftArrow} alt="Left Arrow" />
+            </Button>
+            <Button
+              className="button"
+              onClick={handleNext}
+              disabled={isNextDisabled}
+            >
+              <img src={RightArrow} alt="Right Arrow" />
+            </Button>
           </div>
         </Container>
       </div>

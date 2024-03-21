@@ -334,10 +334,8 @@ const UserTestimonials = () => {
   ];
 
   const handleTabClick = (key) => {
-    console.log('ini key', key);
     const foundItem = dataTesti[key - 1];
     if (foundItem) {
-      console.log('foundItem', foundItem);
       setSelectedContent(foundItem);
       setSelectedTestimonial(key);
     } else {

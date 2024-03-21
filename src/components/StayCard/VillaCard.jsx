@@ -4,7 +4,7 @@ import Breakfast from '../../assets/breakfast.svg';
 import { useNavigate } from 'react-router-dom';
 import PropTypes from 'prop-types';
 
-const VillaCard = ({data}) => {
+const VillaCard = ({ data }) => {
   const navigate = useNavigate();
 
   return (
