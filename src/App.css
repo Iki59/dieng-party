@@ -116,6 +116,20 @@
   }
 }
 
+.button {
+  display: inline-block;
+  transition: all 0.2s;
+  cursor: pointer;
+  border: 2px solid #777e91 !important;
+  padding: 2px 3px !important;
+  border-radius: 30px !important;
+  background-color: white !important;
+}
+
+.button:active {
+  transform: translateY(3px);
+}
+
 /* #photoArray {
   display: grid;
   grid-gap: 0.5em;

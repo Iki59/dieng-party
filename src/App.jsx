@@ -8,7 +8,7 @@ import { ListVilla } from "./pages/ListVilla/ListVilla";
 
 function App() {
   return (
-    <BrowserRouter>
+    <>
       {/* <IniNavbar /> */}
       <Routes>
         <Route path="/" element={<HomePage />} />
@@ -16,7 +16,7 @@ function App() {
         <Route path="/detail/:id" element={<Detail />} />
         <Route path="/gallery/:id" element={<Gallerys />} />
       </Routes>
-    </BrowserRouter>
+    </>
   );
 }
 

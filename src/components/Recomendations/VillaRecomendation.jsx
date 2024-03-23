@@ -1,4 +1,4 @@
-import { Card, Carousel, Col, Container, Row } from 'react-bootstrap';
+import { Button, Card, Carousel, Col, Container, Row } from 'react-bootstrap';
 // import VillaEx from '../../assets/villaex.jpg';
 // import Villa2 from '../../assets/villa2.jpg';
 import LeftArrow from '../../assets/arrowLeft.svg';
@@ -12,7 +12,9 @@ import dataVilla from '../../../data-villa.json';
 export const VillaRecomendation = () => {
   const navigate = useNavigate();
 
-  const cards = dataVilla.filter((item) => item.recomendation === true);
+  const cards = dataVilla.filter((villa) => {
+    return villa.recomendation === true;
+  });
 
   const isMobile = useMediaQuery({ query: '(max-width: 767px)' });
   const isTablet = useMediaQuery({
@@ -25,16 +27,14 @@ export const VillaRecomendation = () => {
     startIndex + cardsPerPage >= cards.length
   );
 
-  console.log(isNextDisabled);
-
   const handleNext = () => {
     const nextIndex = (startIndex + 1) % cards.length;
-    console.log('ini nextindex', nextIndex);
     setStartIndex(nextIndex);
 
-    const remainingCards = cards.length - (nextIndex + cardsPerPage);
+    const remainingCards = Math.floor(cards.length / cardsPerPage);
+    const limit = isMobile ? nextIndex + 1 : nextIndex;
 
-    if (remainingCards <= 0) {
+    if (remainingCards <= limit) {
       setIsNextDisabled(true);
     }
 
@@ -51,36 +51,34 @@ export const VillaRecomendation = () => {
 
     setIsNextDisabled(false);
   };
-  console.log('ini start', startIndex);
 
   return (
     <>
       <div id="villa">
         <Container className="px-lg-4 py-lg-5 px-md-3 py-md-3 px-4 py-5">
           <Row>
-            <Col xs={12} md={10} lg={11}>
+            <Col xs={12} md={10} lg={10}>
               <h1>Rekomendasi Villa Terbaik</h1>
               <p className="text-muted">
                 Yang terbaik selalu bisa bikin kangen
               </p>
             </Col>
-            <Col xs={3} md={2} lg={1}>
-              <div className="d-none d-sm-block">
-                <img
-                  onClick={isPrevDisabled ? null : handlePrev}
-                  disabled={startIndex === 0}
-                  className="me-2"
-                  src={LeftArrow}
-                  alt="Left Arrow"
-                  style={{ cursor: 'pointer' }}
-                />
-                <img
-                  onClick={isNextDisabled ? null : handleNext}
-                  disabled={startIndex + cardsPerPage >= cards.length}
-                  src={RightArrow}
-                  alt="Right Arrow"
-                  style={{ cursor: 'pointer' }}
-                />
+            <Col xs={3} md={2} lg={2} className="d-flex justify-content-end">
+              <div className="d-none d-sm-block d-flex">
+                <Button
+                  className="me-2 button"
+                  onClick={handlePrev}
+                  disabled={isPrevDisabled}
+                >
+                  <img src={LeftArrow} alt="Left Arrow" />
+                </Button>
+                <Button
+                  className="button"
+                  onClick={handleNext}
+                  disabled={isNextDisabled}
+                >
+                  <img src={RightArrow} alt="Right Arrow" />
+                </Button>
               </div>
             </Col>
           </Row>
@@ -114,6 +112,7 @@ export const VillaRecomendation = () => {
                                   style={{
                                     height: '14rem',
                                     borderRadius: '10%',
+                                    objectFit: 'cover',
                                   }}
                                   variant="top"
                                   src={`../${card.image}`}
@@ -162,21 +161,20 @@ export const VillaRecomendation = () => {
             </Col>
           </Row>
           <div className="d-md-none ms-3">
-            <img
-              onClick={isPrevDisabled ? null : handlePrev}
-              disabled={startIndex === 0}
-              className="me-2"
-              src={LeftArrow}
-              alt="Left Arrow"
-              style={{ cursor: 'pointer' }}
-            />
-            <img
-              onClick={isNextDisabled ? null : handleNext}
-              disabled={startIndex + cardsPerPage >= cards.length}
-              src={RightArrow}
-              alt="Right Arrow"
-              style={{ cursor: 'pointer' }}
-            />
+            <Button
+              className="me-2 button"
+              onClick={handlePrev}
+              disabled={isPrevDisabled}
+            >
+              <img src={LeftArrow} alt="Left Arrow" />
+            </Button>
+            <Button
+              className="button"
+              onClick={handleNext}
+              disabled={isNextDisabled}
+            >
+              <img src={RightArrow} alt="Right Arrow" />
+            </Button>
           </div>
         </Container>
       </div>

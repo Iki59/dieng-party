@@ -1,34 +1,19 @@
 import { Container } from 'react-bootstrap';
 import { DetailVillaDown } from './DetailVillaDown';
 import { DetailVillaUp } from './DetailVillaUp';
-import UserTestimonials from '../Testimonials/UserTestimonials';
-import { Faq } from '../Faq/Faq';
-import { Contact } from '../ContactUs/Contact';
-import { Footer } from '../Footer/Footer';
-import { MobileTestimonials } from '../Testimonials/MobileTestimonials';
-import { useMediaQuery } from 'react-responsive';
-import PropTypes from 'prop-types';
-import { VillaRecomendation } from '../Recomendations/VillaRecomendation';
+import { useParams } from 'react-router-dom';
+import dataVilla from '../../../data-villa.json';
 
-export const DetailVilla = ({ data }) => {
-  const isMobile = useMediaQuery({ query: '(max-width: 767px)' });
+export const DetailVilla = () => {
+  const { id } = useParams();
+  const villa = dataVilla.find((item) => item.id == id);
 
   return (
     <>
       <Container>
-        <DetailVillaUp dataVilla={data} />
-        <DetailVillaDown dataVilla={data} />
-        {isMobile && <MobileTestimonials />}
-        <VillaRecomendation />
-        <UserTestimonials />
-        <Faq />
-        <Contact />
-        <Footer />
+        <DetailVillaUp dataVilla={villa} />
+        <DetailVillaDown dataVilla={villa} />
       </Container>
     </>
   );
-};
-
-DetailVilla.propTypes = {
-  data: PropTypes.any,
 };

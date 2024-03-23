@@ -1,19 +1,27 @@
 import React from 'react';
 import { DetailVilla } from '../../components/Detail/DetailVilla';
 import { IniNavbar } from '../../components/Navbar/iniNavbar';
-import { useParams } from 'react-router-dom';
-import dataVilla from '../../../data-villa.json';
+import { VillaRecomendation } from '../../components/Recomendations/VillaRecomendation';
+import UserTestimonials from '../../components/Testimonials/UserTestimonials';
+import { Faq } from '../../components/Faq/Faq';
+import { Contact } from '../../components/ContactUs/Contact';
+import { Footer } from '../../components/Footer/Footer';
+import { useMediaQuery } from 'react-responsive';
+import MobileTestimonials from '../../components/Testimonials/MobileTestimonials';
 
 export const Detail = () => {
-  const { id } = useParams();
-  const villa = dataVilla.find((item) => item.id == id);
-  console.log('ini villa 1', villa);
-
+  const isMobile = useMediaQuery({ query: '(max-width: 767px)' });
   return (
     <>
       <div style={{ marginTop: '8rem' }}>
         <IniNavbar />
-        <DetailVilla data={villa} />
+        <DetailVilla />
+        {isMobile && <MobileTestimonials />}
+        <VillaRecomendation />
+        <UserTestimonials />
+        <Faq />
+        <Contact />
+        <Footer />
       </div>
     </>
   );
