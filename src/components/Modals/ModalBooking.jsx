@@ -22,6 +22,7 @@ export const ModalBooking = ({ show, handleClose, name }) => {
               <Datepicker
                 selected={selectedFrom}
                 onChange={(date) => setSelectedFrom(date)}
+                minDate={getCurrentDate()}
                 dateFormat="dd-MM-YYYY"
               />
             </div>
@@ -30,6 +31,7 @@ export const ModalBooking = ({ show, handleClose, name }) => {
               <Datepicker
                 selected={selectedTo}
                 onChange={(date) => setSelectedTo(date)}
+                minDate={getCurrentDate()}
                 dateFormat="dd-MM-YYYY"
               />
             </div>
