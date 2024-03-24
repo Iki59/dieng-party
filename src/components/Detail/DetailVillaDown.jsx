@@ -1,4 +1,4 @@
-import { Row, Col, Image, Container } from 'react-bootstrap';
+import { Row, Col, Image, Container, Button } from 'react-bootstrap';
 import AvaCentang from '../../assets/avatarcentang.png';
 import Shopping from '../../assets/shopping.png';
 import Avatar from '../../assets/avatar.png';
@@ -6,10 +6,12 @@ import Shape from '../../assets/Shape.png';
 import Mark from '../../assets/Line.png';
 import Star from '../../assets/ratingStar.png';
 import PropTypes from 'prop-types';
-import ReactWhatsapp from 'react-whatsapp';
 import { useMediaQuery } from 'react-responsive';
+import { useState } from 'react';
+import { ModalBooking } from '../Modals/ModalBooking';
 
 export const DetailVillaDown = ({ dataVilla }) => {
+  const [show, setShow] = useState(false);
   const facilities = dataVilla?.facilities;
   const isMobile = useMediaQuery({ query: '(max-width: 767px)' });
   const isTablet = useMediaQuery({
@@ -18,6 +20,11 @@ export const DetailVillaDown = ({ dataVilla }) => {
 
   return (
     <>
+      <ModalBooking
+        show={show}
+        handleClose={() => setShow(false)}
+        name={dataVilla.title}
+      />
       <Container
         className="px-lg-4 py-lg-3 px-md-3 py-md-1 px-4 py-3"
         style={{
@@ -165,16 +172,13 @@ export const DetailVillaDown = ({ dataVilla }) => {
                 </div>
               </div>
               <div>
-                <ReactWhatsapp
-                  number="+6281237339956"
-                  message={`Saya tertarik untuk memesan villa di ${dataVilla.title}, Apakah masih tersedia?`}
-                  className="btn btn-primary"
-                  style={{ width: '100%', marginTop: '15px' }}
+                <Button
+                  type="btn-primary"
+                  className="w-100"
+                  onClick={() => setShow(true)}
                 >
-                  <span style={{ fontWeight: '600' }}>
-                    Booking <img src={Shopping} alt="shopping" />
-                  </span>
-                </ReactWhatsapp>
+                  Booking <img src={Shopping} alt="shopping" />
+                </Button>
               </div>
               {/* <div className="mt-3 d-flex justify-content-center">
                 <a href="#" style={{ textDecoration: "none", color: "grey" }}>
