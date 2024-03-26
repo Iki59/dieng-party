@@ -58,7 +58,7 @@ export const VillaRecomendation = () => {
         <Container className="px-lg-4 py-lg-5 px-md-3 py-md-3 px-4 py-5">
           <Row>
             <Col xs={12} md={10} lg={10}>
-              <h1>Rekomendasi Villa Terbaik</h1>
+              <h1>Rekomendasi Terbaik</h1>
               <p className="text-muted">
                 Yang terbaik selalu bisa bikin kangen
               </p>

@@ -11,7 +11,7 @@ const VillaCard = () => {
       <Container className="px-lg-4 py-lg-5 px-md-3 py-md-3 px-4 py-5">
         <Row className="mb-3">
           <Col md={9} lg={10}>
-            <h1 className="fs-1 fw-bold">Homestay</h1>
+            <h1 className="fs-1 fw-bold">Villa</h1>
           </Col>
           <Col md={3} lg={2} className="d-none d-sm-block">
             <Button
