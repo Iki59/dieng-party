@@ -2,9 +2,8 @@ import { Button, Card, Col, Container, ListGroup, Row } from 'react-bootstrap';
 import Wifi from '../../assets/wifi.svg';
 import Breakfast from '../../assets/breakfast.svg';
 import { useNavigate } from 'react-router-dom';
-import PropTypes from 'prop-types';
-
-const VillaCard = ({ data }) => {
+import data from '../../../data-villa.json';
+const VillaCard = () => {
   const navigate = useNavigate();
 
   return (
@@ -44,7 +43,7 @@ const VillaCard = ({ data }) => {
           </div>
         </Row>
         <Row className="g-3 g-md-3">
-          {data.splice(0, 9).map((item, index) => (
+          {data.slice(0, 9).map((item, index) => (
             <Col md={4} key={index}>
               <Card
                 className="w-100"
@@ -174,7 +173,3 @@ const VillaCard = ({ data }) => {
 };
 
 export default VillaCard;
-
-VillaCard.propTypes = {
-  data: PropTypes.any,
-};
