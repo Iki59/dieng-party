@@ -6,7 +6,6 @@ import { IniNavbar } from '../../components/Navbar/iniNavbar';
 import { VillaRecomendation } from '../../components/Recomendations/VillaRecomendation';
 import VillaCard from '../../components/StayCard/VillaCard';
 import UserTestimonials from '../../components/Testimonials/UserTestimonials';
-import dataVilla from '../../../data-villa.json';
 
 export const HomePage = () => {
   return (
@@ -16,7 +15,7 @@ export const HomePage = () => {
         <LandingPage />
         <VillaRecomendation />
         {/* <Wisata /> */}
-        <VillaCard data={dataVilla} />
+        <VillaCard />
         <UserTestimonials />
         <Faq />
         <Contact />
