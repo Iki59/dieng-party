@@ -155,7 +155,7 @@ export const DetailVillaDown = ({ dataVilla }) => {
                         fontWeight: 'bold',
                       }}
                     >{`${dataVilla.ratings}`}</p>
-                    <p
+                    {/* <p
                       style={{
                         display: 'inline-block',
                         marginLeft: '5px',
@@ -164,7 +164,7 @@ export const DetailVillaDown = ({ dataVilla }) => {
                       }}
                     >
                       ({`${dataVilla.reviews} reviews`})
-                    </p>
+                    </p> */}
                   </div>
                 </div>
                 <div>

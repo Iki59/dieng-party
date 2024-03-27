@@ -29,7 +29,7 @@ export const IniNavbar = () => {
                 <div onClick={() => scrollToSection("home")} style={{ cursor: "pointer", marginRight: "0.5rem" }}>
                   <p className="">Home</p>
                 </div>
-                <div onClick={() => scrollToSection("homestay")} style={{ cursor: "pointer", marginRight: "0.5rem" }}>
+                <div onClick={() => scrollToSection("villa")} style={{ cursor: "pointer", marginRight: "0.5rem" }}>
                   <p className="">Villa</p>
                 </div>
                 {/* <div
