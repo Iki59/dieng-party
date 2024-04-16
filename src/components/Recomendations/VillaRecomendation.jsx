@@ -102,7 +102,7 @@ export const VillaRecomendation = () => {
                           {cardSubset.map((card, cardIndex) => (
                             <Col key={cardIndex} md={4} lg={3}>
                               <Card
-                                className="w-100"
+                                className="w-100 card-villa"
                                 style={{ border: 'none' }}
                                 onClick={() => {
                                   navigate(`/detail/${card.id}`);

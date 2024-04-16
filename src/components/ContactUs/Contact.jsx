@@ -199,7 +199,7 @@ export const Contact = () => {
               </div>
               <Button
                 type="submit"
-                className="btn btn-primary fw-semibold"
+                className="btn btn-primary fw-semibold btn-hover"
                 style={{
                   width: '100%',
                   borderRadius: '50px',
