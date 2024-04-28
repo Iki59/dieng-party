@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Carousel, Col, Container, Image, Row } from "react-bootstrap";
 import GoHome from "../../assets/button.png";
-import Avatar from "../../assets/avatar.png";
+import Avatar from "../../assets/rifkiProfile.jpg";
 import Star from "../../assets/ratingStar.png";
 import Shape from "../../assets/Shape.png";
 import Mark from "../../assets/Line.png";
@@ -26,9 +26,7 @@ export const DetailVillaUp = ({ dataVilla }) => {
         <Row>
           <Col>
             <div className="mt-3">
-              <a href="#">
-                <img src={GoHome} alt="button" />
-              </a>
+              <img src={GoHome} alt="button" onClick={() => navigate(`/`)}/>
             </div>
           </Col>
           {/* <Col>
@@ -86,7 +84,7 @@ export const DetailVillaUp = ({ dataVilla }) => {
           <h2 className="fs-1">{dataVilla.headTitle}</h2>
         </div>
         <div>
-          <img src={Avatar} alt="ava" style={{ marginRight: "20px" }} />
+          <img src={Avatar} alt="ava" style={{ marginRight: "20px", width: "2rem", height: "2rem", borderRadius: "80px" }} />
           <img src={Star} alt="star" style={{ width: "18px", marginTop: "-5px" }} />
           <p
             style={{
