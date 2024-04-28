@@ -5,6 +5,8 @@ import {
   errorNotification,
   successNotification,
 } from '../../utils/Notifications';
+const { VITE_SERVICE, VITE_TEMPLATE, VITE_PUBLIC_KEY, VITE_PHONE } = import.meta
+  .env;
 
 export const Contact = () => {
   const [validated, setValidated] = useState(false);
@@ -28,8 +30,8 @@ export const Contact = () => {
       if (send === '1') {
         event.preventDefault();
         try {
-          emailjs.sendForm('service_6852cjr', 'template_0uwexia', form, {
-            publicKey: 'uMJ9DGnQynwlhNM0J',
+          emailjs.sendForm(VITE_SERVICE, VITE_TEMPLATE, form, {
+            publicKey: VITE_PUBLIC_KEY,
           });
           successNotification('Email');
         } catch (error) {
@@ -37,7 +39,7 @@ export const Contact = () => {
           console.log(error);
         }
       } else {
-        const phone = '+628562593941';
+        const phone = VITE_PHONE;
         const message = `Saya ${data.name} berasal dari ${data.asal}. ${data.message} `;
         const whatsappURL = `https://wa.me/${phone}?text=${encodeURIComponent(
           message
@@ -199,7 +201,7 @@ export const Contact = () => {
               </div>
               <Button
                 type="submit"
-                className="btn btn-primary fw-semibold"
+                className="btn btn-primary fw-semibold btn-hover"
                 style={{
                   width: '100%',
                   borderRadius: '50px',

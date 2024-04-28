@@ -152,7 +152,15 @@ export const DetailVillaDown = ({ dataVilla }) => {
                 </div>
               </div>
               <div>
+<<<<<<< HEAD
                 <Button type="btn-primary" className="w-100" onClick={() => setShow(true)}>
+=======
+                <Button
+                  type="btn-primary"
+                  className="w-100 btn-hover"
+                  onClick={() => setShow(true)}
+                >
+>>>>>>> 80b32b07be5007a382798885ff1df6ecfe5fcad9
                   Booking <img src={Shopping} alt="shopping" />
                 </Button>
               </div>

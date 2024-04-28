@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import { useState } from "react";
 import { Carousel, Col, Container, Image, Row } from "react-bootstrap";
 import GoHome from "../../assets/button.png";
@@ -8,6 +9,18 @@ import Mark from "../../assets/Line.png";
 import PropTypes from "prop-types";
 import { useMediaQuery } from "react-responsive";
 import { useNavigate } from "react-router-dom";
+=======
+import { useState } from 'react';
+import { Carousel, Col, Container, Image, Row } from 'react-bootstrap';
+import GoHome from '../../assets/button.png';
+import Avatar from '../../assets/avatar.png';
+import Star from '../../assets/ratingStar.png';
+import Shape from '../../assets/Shape.png';
+import Mark from '../../assets/Line.png';
+import PropTypes from 'prop-types';
+import { useMediaQuery } from 'react-responsive';
+import { useNavigate } from 'react-router-dom';
+>>>>>>> 80b32b07be5007a382798885ff1df6ecfe5fcad9
 
 export const DetailVillaUp = ({ dataVilla }) => {
   const navigate = useNavigate();
@@ -16,7 +29,7 @@ export const DetailVillaUp = ({ dataVilla }) => {
   const handleSelect = (selectedIndex) => {
     setIndex(selectedIndex);
   };
-  const isMobile = useMediaQuery({ query: "(max-width: 767px)" });
+  const isMobile = useMediaQuery({ query: '(max-width: 767px)' });
   // const isTablet = useMediaQuery({
   //   query: '(min-width: 768px) and (max-width: 991px)',
   // });
@@ -84,15 +97,24 @@ export const DetailVillaUp = ({ dataVilla }) => {
           <h2 className="fs-1">{dataVilla.headTitle}</h2>
         </div>
         <div>
+<<<<<<< HEAD
           <img src={Avatar} alt="ava" style={{ marginRight: "20px", width: "2rem", height: "2rem", borderRadius: "80px" }} />
           <img src={Star} alt="star" style={{ width: "18px", marginTop: "-5px" }} />
+=======
+          <img src={Avatar} alt="ava" style={{ marginRight: '20px' }} />
+          <img
+            src={Star}
+            alt="star"
+            style={{ width: '18px', marginTop: '-5px' }}
+          />
+>>>>>>> 80b32b07be5007a382798885ff1df6ecfe5fcad9
           <p
             style={{
-              display: "inline-block",
-              marginLeft: "8px",
-              marginRight: "20px",
-              color: "grey",
-              fontWeight: "bold",
+              display: 'inline-block',
+              marginLeft: '8px',
+              marginRight: '20px',
+              color: 'grey',
+              fontWeight: 'bold',
             }}
           >{`${dataVilla.ratings}`}</p>
           {/* <p
@@ -110,32 +132,32 @@ export const DetailVillaUp = ({ dataVilla }) => {
               <img src={Shape} alt="home" />
               <p
                 style={{
-                  display: "inline-block",
-                  marginLeft: "5px",
-                  marginRight: "20px",
-                  color: "grey",
+                  display: 'inline-block',
+                  marginLeft: '5px',
+                  marginRight: '20px',
+                  color: 'grey',
                 }}
               >
                 Rekomendasi
               </p>
             </>
           ) : (
-            ""
+            ''
           )}
           <img
             src={Mark}
             alt="mark"
             style={{
-              width: "1.8rem",
-              height: "1.8rem",
+              width: '1.8rem',
+              height: '1.8rem',
             }}
           />
           <p
             style={{
-              display: "inline-block",
-              marginLeft: "5px",
-              marginRight: "20px",
-              color: "grey",
+              display: 'inline-block',
+              marginLeft: '5px',
+              marginRight: '20px',
+              color: 'grey',
             }}
           >
             {dataVilla.location}
@@ -180,9 +202,9 @@ export const DetailVillaUp = ({ dataVilla }) => {
                 }}
                 src={`../${dataVilla.image}`}
                 style={{
-                  width: "100%",
-                  height: "250px",
-                  objectFit: "cover",
+                  width: '100%',
+                  height: '250px',
+                  objectFit: 'cover',
                 }}
               />
             </Carousel.Item>
@@ -193,9 +215,9 @@ export const DetailVillaUp = ({ dataVilla }) => {
                 }}
                 src={`../${dataVilla.image2}`}
                 style={{
-                  width: "100%",
-                  height: "250px",
-                  objectFit: "cover",
+                  width: '100%',
+                  height: '250px',
+                  objectFit: 'cover',
                 }}
               />
             </Carousel.Item>
@@ -206,9 +228,9 @@ export const DetailVillaUp = ({ dataVilla }) => {
                 }}
                 src={`../${dataVilla.image3}`}
                 style={{
-                  width: "100%",
-                  height: "250px",
-                  objectFit: "cover",
+                  width: '100%',
+                  height: '250px',
+                  objectFit: 'cover',
                 }}
               />
             </Carousel.Item>
@@ -223,12 +245,13 @@ export const DetailVillaUp = ({ dataVilla }) => {
                 src={`../${dataVilla.image}`}
                 alt="primary"
                 style={{
-                  width: "98%",
-                  height: isMobile ? "100%" : "64%",
-                  borderRadius: "10px",
-                  objectFit: "cover",
-                  overflow: "hidden",
+                  width: '98%',
+                  height: isMobile ? '100%' : '64%',
+                  borderRadius: '10px',
+                  objectFit: 'cover',
+                  overflow: 'hidden',
                 }}
+                className="card-villa"
               />
               {/* <img
                 onClick={() => {
@@ -255,11 +278,12 @@ export const DetailVillaUp = ({ dataVilla }) => {
                     src={`../${dataVilla.image2}`}
                     alt="thumb"
                     style={{
-                      width: "80%",
-                      borderRadius: "10px",
-                      objectFit: "cover",
-                      overflow: "hidden",
+                      width: '80%',
+                      borderRadius: '10px',
+                      objectFit: 'cover',
+                      overflow: 'hidden',
                     }}
+                    className="card-villa"
                   />
                 </div>
                 <div className="mb-2">
@@ -270,11 +294,12 @@ export const DetailVillaUp = ({ dataVilla }) => {
                     src={`../${dataVilla.image3}`}
                     alt="thumb"
                     style={{
-                      width: "80%",
-                      borderRadius: "10px",
-                      objectFit: "cover",
-                      overflow: "hidden",
+                      width: '80%',
+                      borderRadius: '10px',
+                      objectFit: 'cover',
+                      overflow: 'hidden',
                     }}
+                    className="card-villa"
                   />
                 </div>
                 <div className="mb-2">
@@ -285,11 +310,12 @@ export const DetailVillaUp = ({ dataVilla }) => {
                     src={`../${dataVilla.image4}`}
                     alt="thumb"
                     style={{
-                      width: "80%",
-                      borderRadius: "10px",
-                      objectFit: "cover",
-                      overflow: "hidden",
+                      width: '80%',
+                      borderRadius: '10px',
+                      objectFit: 'cover',
+                      overflow: 'hidden',
                     }}
+                    className="card-villa"
                   />
                 </div>
               </div>

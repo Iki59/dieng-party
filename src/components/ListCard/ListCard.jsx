@@ -12,6 +12,8 @@ import dataVilla from '../../../data-villa.json';
 import Wonosobo from '../../assets/Wonosobo.png';
 import Star from '../../assets/Star.svg';
 import { useNavigate } from 'react-router-dom';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faStar } from '@fortawesome/free-solid-svg-icons';
 
 const ListCard = () => {
   const navigate = useNavigate();
@@ -39,7 +41,7 @@ const ListCard = () => {
                 {dataVilla.slice(0, visible).map((item, index) => (
                   <Col md={4} key={index}>
                     <Card
-                      className="w-100"
+                      className="w-100 card-villa"
                       onClick={() => {
                         navigate(`/detail/${item.id}`);
                       }}
@@ -166,20 +168,21 @@ const ListCard = () => {
                 ))}
               </Row>
             </div>
-            <div className="d-flex justify-content-center mb-5">
+            <div className="d-flex justify-content-center mb-5 mt-3">
               {visible < dataVillaLength && (
                 <Button
                   onClick={showMoreCards}
-                  className="bg-white text-black fw-bold border-secondary rounded-5"
+                  className="bg-white text-black fw-bold border-secondary rounded-5 btn-hover"
                   style={{
                     marginTop: '0px',
                     marginBottom: '2px',
                     padding: '7px 20px',
                     fontSize: '14px',
                     border: '1px solid',
+                    color: '#23262F',
                   }}
                 >
-                  <Image src={Star} alt="star" className="me-2 mb-1" />
+                  <FontAwesomeIcon icon={faStar} className="me-2" />
                   Show more
                 </Button>
               )}
