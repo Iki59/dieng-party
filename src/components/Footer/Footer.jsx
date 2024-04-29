@@ -30,15 +30,15 @@ export const Footer = () => {
             </Col>
             <Col md={2} className="d-sm-block d-flex">
               <p className="me-5" style={{ marginBottom: "2rem" }}>
-                Villa
+                {" "}
               </p>
-              <p>Paket Wisata</p>
+              <p> </p>
             </Col>
             <Col md={2} className="d-sm-block d-flex">
               <p className="me-5" style={{ marginBottom: "2rem" }}>
-                Villa
+                {" "}
               </p>
-              <p>Paket Wisata</p>
+              <p> </p>
             </Col>
             <Col md={2} className="d-sm-block d-flex">
               <p className="me-5" style={{ marginBottom: "2rem" }}>
