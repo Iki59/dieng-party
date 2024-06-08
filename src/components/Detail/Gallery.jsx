@@ -18,7 +18,7 @@ export const Gallery = () => {
       <div>
         <img
           onClick={() => {
-            navigate(`/detail/${villa.id}`);
+            navigate(`${villa.id}`);
           }}
           src={Arrow}
           alt="arrow"

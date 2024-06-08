@@ -3,8 +3,8 @@
     "id": 1,
     "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716074232/dieng/tanihousedieng1/hqcef9wvwpmhmqmprkv3.jpg",
     "image2": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716074229/dieng/tanihousedieng1/rvewxnhzh6huuyzqwtgl.jpg",
-    "image3": "src/assets/cabin 1 tani house/IMG_0199.JPG",
-    "image4": "src/assets/cabin 1 tani house/IMG_0207.JPG",
+    "image3": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716074225/dieng/tanihousedieng1/sach6sn7jki1uvkyjjbn.jpg",
+    "image4": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716074223/dieng/tanihousedieng1/j8fpdk1kkpv4e9g8nbqa.jpg",
     "headTitle": "CABIN TANI HOUSE 1",
     "title": "Cabin Tani House 1",
     "price": "Rp. 1.500.000/Night",
@@ -60,121 +60,57 @@
     ],
     "gallery": [
       {
-        "original": "../src/assets/cabin 1 tani house/tani house.jpg",
-        "thumbnail": "../src/assets/cabin 1 tani house/tani house.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716074232/dieng/tanihousedieng1/hqcef9wvwpmhmqmprkv3.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716074232/dieng/tanihousedieng1/hqcef9wvwpmhmqmprkv3.jpg"
       },
       {
-        "original": "../src/assets/cabin 1 tani house/IMG_0179.JPG",
-        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0179.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716074229/dieng/tanihousedieng1/rvewxnhzh6huuyzqwtgl.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716074229/dieng/tanihousedieng1/rvewxnhzh6huuyzqwtgl.jpg"
       },
       {
-        "original": "../src/assets/cabin 1 tani house/IMG_0199.JPG",
-        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0199.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716074225/dieng/tanihousedieng1/sach6sn7jki1uvkyjjbn.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716074225/dieng/tanihousedieng1/sach6sn7jki1uvkyjjbn.jpg"
       },
       {
-        "original": "../src/assets/cabin 1 tani house/IMG_0207.JPG",
-        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0207.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716074223/dieng/tanihousedieng1/j8fpdk1kkpv4e9g8nbqa.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716074223/dieng/tanihousedieng1/j8fpdk1kkpv4e9g8nbqa.jpg"
       },
       {
-        "original": "../src/assets/cabin 1 tani house/IMG_0183.JPG",
-        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0183.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716074216/dieng/tanihousedieng1/yzemg7qmlt0adfziapab.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716074216/dieng/tanihousedieng1/yzemg7qmlt0adfziapab.jpg"
       },
       {
-        "original": "../src/assets/cabin 1 tani house/IMG_0194.JPG",
-        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0194.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716074237/dieng/tanihousedieng1/tzl57xp9k4lbmuzzt0cj.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716074237/dieng/tanihousedieng1/tzl57xp9k4lbmuzzt0cj.jpg"
       },
       {
-        "original": "../src/assets/cabin 1 tani house/IMG_0195.JPG",
-        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0195.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716074216/dieng/tanihousedieng1/y7n8rleljnk0eefxdaui.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716074216/dieng/tanihousedieng1/y7n8rleljnk0eefxdaui.jpg"
       },
       {
-        "original": "../src/assets/cabin 1 tani house/IMG_0196.JPG",
-        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0196.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716074206/dieng/tanihousedieng1/aaxb3e587tshm4w6xegj.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716074206/dieng/tanihousedieng1/aaxb3e587tshm4w6xegj.jpg"
       },
       {
-        "original": "../src/assets/cabin 1 tani house/IMG_0201.JPG",
-        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0201.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716074209/dieng/tanihousedieng1/r4099xozhpzg5xobdfsg.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716074209/dieng/tanihousedieng1/r4099xozhpzg5xobdfsg.jpg"
       },
       {
-        "original": "../src/assets/cabin 1 tani house/IMG_0202.JPG",
-        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0202.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716074199/dieng/tanihousedieng1/jqr0xrfsfrx6lfe30um2.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716074199/dieng/tanihousedieng1/jqr0xrfsfrx6lfe30um2.jpg"
       },
       {
-        "original": "../src/assets/cabin 1 tani house/IMG_0206.JPG",
-        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0206.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 1 tani house/IMG_0208.JPG",
-        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0208.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 1 tani house/IMG_0209.JPG",
-        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0209.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 1 tani house/IMG_0215.JPG",
-        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0215.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 1 tani house/IMG_0218.JPG",
-        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0218.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 1 tani house/IMG_0219.JPG",
-        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0219.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 1 tani house/IMG_0220.JPG",
-        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0220.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 1 tani house/IMG_0221.JPG",
-        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0221.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 1 tani house/IMG_0068.JPG",
-        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0223.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 1 tani house/IMG_0240.JPG",
-        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0240.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 1 tani house/IMG_0243.JPG",
-        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0243.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 1 tani house/IMG_0245.JPG",
-        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0245.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 1 tani house/IMG_0250.JPG",
-        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0250.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 1 tani house/IMG_0251.JPG",
-        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0251.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 1 tani house/IMG_0254.JPG",
-        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0254.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 1 tani house/IMG_0255.JPG",
-        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0255.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 1 tani house/IMG_0256.JPG",
-        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0256.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716074203/dieng/tanihousedieng1/hvqqhvgt9lqk0ive3kr9.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716074203/dieng/tanihousedieng1/hvqqhvgt9lqk0ive3kr9.jpg"
       }
     ]
   },
   {
     "id": 2,
-    "image": "src/assets/cabin 2 tani house/tani house2.jpg",
-    "image2": "src/assets/cabin 2 tani house/IMG_0136.JPG",
-    "image3": "src/assets/cabin 2 tani house/IMG_0126.JPG",
-    "image4": "src/assets/cabin 2 tani house/IMG_0090.JPG",
+    "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125204/dieng/tanihouse2/tani_house2_yxc5eb.jpg",
+    "image2": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125197/dieng/tanihouse2/IMG_0122_r85d53.jpg",
+    "image3": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125188/dieng/tanihouse2/IMG_0132_l4srml.jpg",
+    "image4": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125177/dieng/tanihouse2/IMG_0107_fea0ou.jpg",
     "headTitle": "CABIN TANI HOUSE 2",
     "title": "Cabin Tani House 2",
     "price": "Rp. 1.500.000/Night",
@@ -238,169 +174,53 @@
     ],
     "gallery": [
       {
-        "original": "../src/assets/cabin 2 tani house/tani house2.jpg",
-        "thumbnail": "../src/assets/cabin 2 tani house/tani house2.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125204/dieng/tanihouse2/tani_house2_yxc5eb.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125204/dieng/tanihouse2/tani_house2_yxc5eb.jpg"
       },
       {
-        "original": "../src/assets/cabin 2 tani house/IMG_0136.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0136.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125197/dieng/tanihouse2/IMG_0122_r85d53.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125197/dieng/tanihouse2/IMG_0122_r85d53.jpg"
       },
       {
-        "original": "../src/assets/cabin 2 tani house/IMG_0015.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0015.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125188/dieng/tanihouse2/IMG_0132_l4srml.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125188/dieng/tanihouse2/IMG_0132_l4srml.jpg"
       },
       {
-        "original": "../src/assets/cabin 2 tani house/IMG_0013.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0013.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125177/dieng/tanihouse2/IMG_0107_fea0ou.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125177/dieng/tanihouse2/IMG_0107_fea0ou.jpg"
       },
       {
-        "original": "../src/assets/cabin 2 tani house/IMG_0014.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0014.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125164/dieng/tanihouse2/IMG_0068_tmvf5r.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125164/dieng/tanihouse2/IMG_0068_tmvf5r.jpg"
       },
       {
-        "original": "../src/assets/cabin 2 tani house/IMG_0015.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0015.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125171/dieng/tanihouse2/IMG_0102_df78mg.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125171/dieng/tanihouse2/IMG_0102_df78mg.jpg"
       },
       {
-        "original": "../src/assets/cabin 2 tani house/IMG_0023.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0023.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125130/dieng/tanihouse2/IMG_0051_wwsrcm.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125130/dieng/tanihouse2/IMG_0051_wwsrcm.jpg"
       },
       {
-        "original": "../src/assets/cabin 2 tani house/IMG_0024.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0024.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125120/dieng/tanihouse2/IMG_0024_i5gvia.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125120/dieng/tanihouse2/IMG_0024_i5gvia.jpg"
       },
       {
-        "original": "../src/assets/cabin 2 tani house/IMG_0032.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0032.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125124/dieng/tanihouse2/IMG_0023_wetzkd.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125124/dieng/tanihouse2/IMG_0023_wetzkd.jpg"
       },
       {
-        "original": "../src/assets/cabin 2 tani house/IMG_0328.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0049.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0050.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0050.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0051.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0051.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0056.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0056.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0057.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0057.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0058.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0058.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0061.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0061.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0062.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0062.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0067.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0067.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0068.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0068.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0078.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0078.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0090.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0090.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0092.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0092.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0093.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0093.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0095.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0095.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0096.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0096.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0102.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0102.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0107.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0107.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0118.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0118.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0121.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0121.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0121.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0121.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0122.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0122.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0126.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0126.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0127.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0127.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0132.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0132.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0136.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0136.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0155.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0155.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0161.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0161.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0166.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0166.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0167.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0167.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125179/dieng/tanihouse2/IMG_0121_pk64ze.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125179/dieng/tanihouse2/IMG_0121_pk64ze.jpg"
       }
     ]
   },
   {
     "id": 3,
-    "image": "src/assets/cabin tani house 3/taniHouse3.jpg",
-    "image2": "src/assets/cabin tani house 3/IMG_0308.JPG",
-    "image3": "src/assets/cabin tani house 3/IMG_0352.JPG",
-    "image4": "src/assets/cabin tani house 3/IMG_0345.JPG",
+    "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716126358/dieng/tanihouse3/kcrftrpk1yjz067g3cgp.jpg",
+    "image2": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716126352/dieng/tanihouse3/sejmi5gspfdonsfesste.jpg",
+    "image3": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716126341/dieng/tanihouse3/pudlsxaisbnkqzyrwjls.jpg",
+    "image4": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716126334/dieng/tanihouse3/de2abtytseql5zff97lc.jpg",
     "headTitle": "CABIN TANI HOUSE 3",
     "title": "Cabin Tani House 3",
     "price": "Rp. 1.500.000/Night",
