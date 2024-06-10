@@ -1,13 +1,13 @@
-import { useState } from 'react';
-import { Carousel, Col, Container, Image, Row } from 'react-bootstrap';
-import GoHome from '../../assets/button.png';
-import Avatar from '../../assets/rifkiProfile.jpg';
-import Star from '../../assets/ratingStar.png';
-import Shape from '../../assets/Shape.png';
-import Mark from '../../assets/Line.png';
-import PropTypes from 'prop-types';
-import { useMediaQuery } from 'react-responsive';
-import { useNavigate } from 'react-router-dom';
+import { useState } from "react";
+import { Carousel, Col, Container, Image, Row } from "react-bootstrap";
+import GoHome from "../../assets/button.png";
+import Avatar from "../../assets/rifkiProfile.jpg";
+import Star from "../../assets/ratingStar.png";
+import Shape from "../../assets/Shape.png";
+import Mark from "../../assets/Line.png";
+import PropTypes from "prop-types";
+import { useMediaQuery } from "react-responsive";
+import { useNavigate } from "react-router-dom";
 
 export const DetailVillaUp = ({ dataVilla }) => {
   const navigate = useNavigate();
@@ -16,7 +16,7 @@ export const DetailVillaUp = ({ dataVilla }) => {
   const handleSelect = (selectedIndex) => {
     setIndex(selectedIndex);
   };
-  const isMobile = useMediaQuery({ query: '(max-width: 767px)' });
+  const isMobile = useMediaQuery({ query: "(max-width: 767px)" });
   // const isTablet = useMediaQuery({
   //   query: '(min-width: 768px) and (max-width: 991px)',
   // });
