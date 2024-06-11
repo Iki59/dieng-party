@@ -228,7 +228,7 @@ export const DetailVillaUp = ({ dataVilla }) => {
           </Carousel>
         ) : (
           <Row className="g-2">
-            <Col md={10}>
+            <Col sm={10}>
               <Image
                 onClick={() => {
                   navigate(`/gallery/${dataVilla.id}`);
@@ -236,7 +236,7 @@ export const DetailVillaUp = ({ dataVilla }) => {
                 src={`${dataVilla.image}`}
                 alt="primary"
                 style={{
-                  width: '98%',
+                  width: '100%',
                   height: isMobile ? '100%' : '64%',
                   borderRadius: '10px',
                   objectFit: 'cover',
