@@ -2925,7 +2925,7 @@
     "id": 30,
     "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261807/dieng/homestay-anamc/1_zscvmz.png",
     "image2": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261807/dieng/homestay-anamc/2_awdioq.png",
-    "image3": "src/assets/homestay/villa anam c/3.png",
+    "image3": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261812/dieng/homestay-anamc/3_ljdex8.png",
     "image4": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261811/dieng/homestay-anamc/4_a5hr2v.png",
     "headTitle": "VILLA ANAM C",
     "title": "Villa Anam C",
@@ -2986,8 +2986,8 @@
         "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261807/dieng/homestay-anamc/2_awdioq.png"
       },
       {
-        "original": "../src/assets/homestay/villa anam c/3.png",
-        "thumbnail": "../src/assets/homestay/villa anam c/3.png"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261812/dieng/homestay-anamc/3_ljdex8.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261812/dieng/homestay-anamc/3_ljdex8.png"
       },
       {
         "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261811/dieng/homestay-anamc/4_a5hr2v.png",
