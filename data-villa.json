@@ -23,7 +23,7 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "../../assets/icon/wifi.svg"
       },
       {
         "name": "TV",
@@ -137,7 +137,7 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "../../assets/icon/wifi.svg"
       },
       {
         "name": "TV",
@@ -247,7 +247,7 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "../../assets/icon/wifi.svg"
       },
       {
         "name": "TV",
@@ -365,7 +365,7 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "../../assets/icon/wifi.svg"
       },
       {
         "name": "TV",
@@ -479,7 +479,7 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "../../assets/icon/wifi.svg"
       },
       {
         "name": "TV",
@@ -589,7 +589,7 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "../../assets/icon/wifi.svg"
       },
       {
         "name": "TV",
@@ -675,7 +675,7 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "../../assets/icon/wifi.svg"
       },
       {
         "name": "TV",
@@ -773,7 +773,7 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "../../assets/icon/wifi.svg"
       },
       {
         "name": "TV",
@@ -863,7 +863,7 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "../../assets/icon/wifi.svg"
       },
       {
         "name": "TV",
@@ -953,7 +953,7 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "../../assets/icon/wifi.svg"
       },
       {
         "name": "TV",
@@ -1055,7 +1055,7 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "../../assets/icon/wifi.svg"
       },
       {
         "name": "TV",
@@ -1153,7 +1153,7 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "../../assets/icon/wifi.svg"
       },
       {
         "name": "TV",
@@ -1247,7 +1247,7 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "../../assets/icon/wifi.svg"
       },
       {
         "name": "TV",
@@ -1341,7 +1341,7 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "../../assets/icon/wifi.svg"
       },
       {
         "name": "TV",
@@ -1439,7 +1439,7 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "../../assets/icon/wifi.svg"
       },
       {
         "name": "TV",
@@ -1533,7 +1533,7 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "../../assets/icon/wifi.svg"
       },
       {
         "name": "TV",
@@ -1631,7 +1631,7 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "../../assets/icon/wifi.svg"
       },
       {
         "name": "TV",
@@ -1741,7 +1741,7 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "../../assets/icon/wifi.svg"
       },
       {
         "name": "TV",
@@ -1843,7 +1843,7 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "../../assets/icon/wifi.svg"
       },
       {
         "name": "TV",
@@ -1945,7 +1945,7 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "../../assets/icon/wifi.svg"
       },
       {
         "name": "TV",
@@ -2027,7 +2027,7 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "../../assets/icon/wifi.svg"
       },
       {
         "name": "TV",
@@ -2133,7 +2133,7 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "../../assets/icon/wifi.svg"
       },
       {
         "name": "TV",
@@ -2223,7 +2223,7 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "../../assets/icon/wifi.svg"
       },
       {
         "name": "TV",
@@ -2357,7 +2357,7 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "../../assets/icon/wifi.svg"
       },
       {
         "name": "TV",
@@ -2455,7 +2455,7 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "../../assets/icon/wifi.svg"
       },
       {
         "name": "TV",
@@ -2553,7 +2553,7 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "../../assets/icon/wifi.svg"
       },
       {
         "name": "TV",
@@ -2647,7 +2647,7 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "../../assets/icon/wifi.svg"
       },
       {
         "name": "TV",
@@ -2745,7 +2745,7 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "../../assets/icon/wifi.svg"
       },
       {
         "name": "TV",
@@ -2843,7 +2843,7 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "../../assets/icon/wifi.svg"
       },
       {
         "name": "TV",
@@ -2953,7 +2953,7 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "../../assets/icon/wifi.svg"
       },
       {
         "name": "TV",
@@ -3043,7 +3043,7 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "../../assets/icon/wifi.svg"
       },
       {
         "name": "TV",
@@ -3125,7 +3125,7 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "../../assets/icon/wifi.svg"
       },
       {
         "name": "TV",
@@ -3267,7 +3267,7 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "../../assets/icon/wifi.svg"
       },
       {
         "name": "TV",
@@ -3381,7 +3381,7 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "../../assets/icon/wifi.svg"
       },
       {
         "name": "TV",
@@ -3475,7 +3475,7 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "../../assets/icon/wifi.svg"
       },
       {
         "name": "TV",
@@ -3577,7 +3577,7 @@
       },
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "../../assets/icon/wifi.svg"
       },
       {
         "name": "TV",
