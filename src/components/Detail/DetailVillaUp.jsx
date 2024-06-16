@@ -1,13 +1,13 @@
-import { useState } from 'react';
-import { Carousel, Col, Container, Image, Row } from 'react-bootstrap';
-import GoHome from '../../assets/button.png';
-import Avatar from '../../assets/rifkiProfile.jpg';
-import Star from '../../assets/ratingStar.png';
-import Shape from '../../assets/Shape.png';
-import Mark from '../../assets/Line.png';
-import PropTypes from 'prop-types';
-import { useMediaQuery } from 'react-responsive';
-import { useNavigate } from 'react-router-dom';
+import { useState } from "react";
+import { Carousel, Col, Container, Image, Row } from "react-bootstrap";
+import GoHome from "../../assets/button.png";
+import Avatar from "../../assets/rifkiProfile.jpg";
+import Star from "../../assets/ratingStar.png";
+import Shape from "../../assets/Shape.png";
+import Mark from "../../assets/Line.png";
+import PropTypes from "prop-types";
+import { useMediaQuery } from "react-responsive";
+import { useNavigate } from "react-router-dom";
 
 export const DetailVillaUp = ({ dataVilla }) => {
   const navigate = useNavigate();
@@ -16,7 +16,7 @@ export const DetailVillaUp = ({ dataVilla }) => {
   const handleSelect = (selectedIndex) => {
     setIndex(selectedIndex);
   };
-  const isMobile = useMediaQuery({ query: '(max-width: 767px)' });
+  const isMobile = useMediaQuery({ query: "(max-width: 767px)" });
   // const isTablet = useMediaQuery({
   //   query: '(min-width: 768px) and (max-width: 991px)',
   // });
@@ -191,7 +191,7 @@ export const DetailVillaUp = ({ dataVilla }) => {
                 onClick={() => {
                   navigate(`/gallery/${dataVilla.id}`);
                 }}
-                src={`../${dataVilla.image}`}
+                src={`${dataVilla.image}`}
                 style={{
                   width: '100%',
                   height: '250px',
@@ -204,7 +204,7 @@ export const DetailVillaUp = ({ dataVilla }) => {
                 onClick={() => {
                   navigate(`/gallery/${dataVilla.id}`);
                 }}
-                src={`../${dataVilla.image2}`}
+                src={`${dataVilla.image2}`}
                 style={{
                   width: '100%',
                   height: '250px',
@@ -217,7 +217,7 @@ export const DetailVillaUp = ({ dataVilla }) => {
                 onClick={() => {
                   navigate(`/gallery/${dataVilla.id}`);
                 }}
-                src={`../${dataVilla.image3}`}
+                src={`${dataVilla.image3}`}
                 style={{
                   width: '100%',
                   height: '250px',
@@ -228,15 +228,15 @@ export const DetailVillaUp = ({ dataVilla }) => {
           </Carousel>
         ) : (
           <Row className="g-2">
-            <Col md={10}>
+            <Col sm={10}>
               <Image
                 onClick={() => {
                   navigate(`/gallery/${dataVilla.id}`);
                 }}
-                src={`../${dataVilla.image}`}
+                src={`${dataVilla.image}`}
                 alt="primary"
                 style={{
-                  width: '98%',
+                  width: '100%',
                   height: isMobile ? '100%' : '64%',
                   borderRadius: '10px',
                   objectFit: 'cover',
@@ -266,7 +266,7 @@ export const DetailVillaUp = ({ dataVilla }) => {
                     onClick={() => {
                       navigate(`/gallery/${dataVilla.id}`);
                     }}
-                    src={`../${dataVilla.image2}`}
+                    src={`${dataVilla.image2}`}
                     alt="thumb"
                     style={{
                       width: '80%',
@@ -282,7 +282,7 @@ export const DetailVillaUp = ({ dataVilla }) => {
                     onClick={() => {
                       navigate(`/gallery/${dataVilla.id}`);
                     }}
-                    src={`../${dataVilla.image3}`}
+                    src={`${dataVilla.image3}`}
                     alt="thumb"
                     style={{
                       width: '80%',
@@ -298,7 +298,7 @@ export const DetailVillaUp = ({ dataVilla }) => {
                     onClick={() => {
                       navigate(`/gallery/${dataVilla.id}`);
                     }}
-                    src={`../${dataVilla.image4}`}
+                    src={`${dataVilla.image4}`}
                     alt="thumb"
                     style={{
                       width: '80%',

@@ -1,10 +1,10 @@
 [
   {
     "id": 1,
-    "image": "src/assets/cabin 1 tani house/tani house.jpg",
-    "image2": "src/assets/cabin 1 tani house/IMG_0179.JPG",
-    "image3": "src/assets/cabin 1 tani house/IMG_0199.JPG",
-    "image4": "src/assets/cabin 1 tani house/IMG_0207.JPG",
+    "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716074232/dieng/tanihousedieng1/hqcef9wvwpmhmqmprkv3.jpg",
+    "image2": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716074229/dieng/tanihousedieng1/rvewxnhzh6huuyzqwtgl.jpg",
+    "image3": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716074225/dieng/tanihousedieng1/sach6sn7jki1uvkyjjbn.jpg",
+    "image4": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716074223/dieng/tanihousedieng1/j8fpdk1kkpv4e9g8nbqa.jpg",
     "headTitle": "CABIN TANI HOUSE 1",
     "title": "Cabin Tani House 1",
     "price": "Rp. 1.500.000/Night",
@@ -60,121 +60,57 @@
     ],
     "gallery": [
       {
-        "original": "../src/assets/cabin 1 tani house/tani house.jpg",
-        "thumbnail": "../src/assets/cabin 1 tani house/tani house.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716074232/dieng/tanihousedieng1/hqcef9wvwpmhmqmprkv3.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716074232/dieng/tanihousedieng1/hqcef9wvwpmhmqmprkv3.jpg"
       },
       {
-        "original": "../src/assets/cabin 1 tani house/IMG_0179.JPG",
-        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0179.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716074229/dieng/tanihousedieng1/rvewxnhzh6huuyzqwtgl.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716074229/dieng/tanihousedieng1/rvewxnhzh6huuyzqwtgl.jpg"
       },
       {
-        "original": "../src/assets/cabin 1 tani house/IMG_0199.JPG",
-        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0199.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716074225/dieng/tanihousedieng1/sach6sn7jki1uvkyjjbn.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716074225/dieng/tanihousedieng1/sach6sn7jki1uvkyjjbn.jpg"
       },
       {
-        "original": "../src/assets/cabin 1 tani house/IMG_0207.JPG",
-        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0207.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716074223/dieng/tanihousedieng1/j8fpdk1kkpv4e9g8nbqa.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716074223/dieng/tanihousedieng1/j8fpdk1kkpv4e9g8nbqa.jpg"
       },
       {
-        "original": "../src/assets/cabin 1 tani house/IMG_0183.JPG",
-        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0183.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716074216/dieng/tanihousedieng1/yzemg7qmlt0adfziapab.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716074216/dieng/tanihousedieng1/yzemg7qmlt0adfziapab.jpg"
       },
       {
-        "original": "../src/assets/cabin 1 tani house/IMG_0194.JPG",
-        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0194.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716074237/dieng/tanihousedieng1/tzl57xp9k4lbmuzzt0cj.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716074237/dieng/tanihousedieng1/tzl57xp9k4lbmuzzt0cj.jpg"
       },
       {
-        "original": "../src/assets/cabin 1 tani house/IMG_0195.JPG",
-        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0195.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716074216/dieng/tanihousedieng1/y7n8rleljnk0eefxdaui.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716074216/dieng/tanihousedieng1/y7n8rleljnk0eefxdaui.jpg"
       },
       {
-        "original": "../src/assets/cabin 1 tani house/IMG_0196.JPG",
-        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0196.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716074206/dieng/tanihousedieng1/aaxb3e587tshm4w6xegj.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716074206/dieng/tanihousedieng1/aaxb3e587tshm4w6xegj.jpg"
       },
       {
-        "original": "../src/assets/cabin 1 tani house/IMG_0201.JPG",
-        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0201.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716074209/dieng/tanihousedieng1/r4099xozhpzg5xobdfsg.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716074209/dieng/tanihousedieng1/r4099xozhpzg5xobdfsg.jpg"
       },
       {
-        "original": "../src/assets/cabin 1 tani house/IMG_0202.JPG",
-        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0202.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716074199/dieng/tanihousedieng1/jqr0xrfsfrx6lfe30um2.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716074199/dieng/tanihousedieng1/jqr0xrfsfrx6lfe30um2.jpg"
       },
       {
-        "original": "../src/assets/cabin 1 tani house/IMG_0206.JPG",
-        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0206.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 1 tani house/IMG_0208.JPG",
-        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0208.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 1 tani house/IMG_0209.JPG",
-        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0209.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 1 tani house/IMG_0215.JPG",
-        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0215.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 1 tani house/IMG_0218.JPG",
-        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0218.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 1 tani house/IMG_0219.JPG",
-        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0219.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 1 tani house/IMG_0220.JPG",
-        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0220.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 1 tani house/IMG_0221.JPG",
-        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0221.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 1 tani house/IMG_0068.JPG",
-        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0223.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 1 tani house/IMG_0240.JPG",
-        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0240.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 1 tani house/IMG_0243.JPG",
-        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0243.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 1 tani house/IMG_0245.JPG",
-        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0245.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 1 tani house/IMG_0250.JPG",
-        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0250.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 1 tani house/IMG_0251.JPG",
-        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0251.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 1 tani house/IMG_0254.JPG",
-        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0254.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 1 tani house/IMG_0255.JPG",
-        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0255.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 1 tani house/IMG_0256.JPG",
-        "thumbnail": "../src/assets/cabin 1 tani house/IMG_0256.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716074203/dieng/tanihousedieng1/hvqqhvgt9lqk0ive3kr9.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716074203/dieng/tanihousedieng1/hvqqhvgt9lqk0ive3kr9.jpg"
       }
     ]
   },
   {
     "id": 2,
-    "image": "src/assets/cabin 2 tani house/tani house2.jpg",
-    "image2": "src/assets/cabin 2 tani house/IMG_0136.JPG",
-    "image3": "src/assets/cabin 2 tani house/IMG_0126.JPG",
-    "image4": "src/assets/cabin 2 tani house/IMG_0090.JPG",
+    "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125204/dieng/tanihouse2/tani_house2_yxc5eb.jpg",
+    "image2": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125197/dieng/tanihouse2/IMG_0122_r85d53.jpg",
+    "image3": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125188/dieng/tanihouse2/IMG_0132_l4srml.jpg",
+    "image4": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125177/dieng/tanihouse2/IMG_0107_fea0ou.jpg",
     "headTitle": "CABIN TANI HOUSE 2",
     "title": "Cabin Tani House 2",
     "price": "Rp. 1.500.000/Night",
@@ -238,169 +174,53 @@
     ],
     "gallery": [
       {
-        "original": "../src/assets/cabin 2 tani house/tani house2.jpg",
-        "thumbnail": "../src/assets/cabin 2 tani house/tani house2.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125204/dieng/tanihouse2/tani_house2_yxc5eb.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125204/dieng/tanihouse2/tani_house2_yxc5eb.jpg"
       },
       {
-        "original": "../src/assets/cabin 2 tani house/IMG_0136.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0136.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125197/dieng/tanihouse2/IMG_0122_r85d53.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125197/dieng/tanihouse2/IMG_0122_r85d53.jpg"
       },
       {
-        "original": "../src/assets/cabin 2 tani house/IMG_0015.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0015.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125188/dieng/tanihouse2/IMG_0132_l4srml.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125188/dieng/tanihouse2/IMG_0132_l4srml.jpg"
       },
       {
-        "original": "../src/assets/cabin 2 tani house/IMG_0013.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0013.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125177/dieng/tanihouse2/IMG_0107_fea0ou.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125177/dieng/tanihouse2/IMG_0107_fea0ou.jpg"
       },
       {
-        "original": "../src/assets/cabin 2 tani house/IMG_0014.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0014.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125164/dieng/tanihouse2/IMG_0068_tmvf5r.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125164/dieng/tanihouse2/IMG_0068_tmvf5r.jpg"
       },
       {
-        "original": "../src/assets/cabin 2 tani house/IMG_0015.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0015.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125171/dieng/tanihouse2/IMG_0102_df78mg.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125171/dieng/tanihouse2/IMG_0102_df78mg.jpg"
       },
       {
-        "original": "../src/assets/cabin 2 tani house/IMG_0023.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0023.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125130/dieng/tanihouse2/IMG_0051_wwsrcm.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125130/dieng/tanihouse2/IMG_0051_wwsrcm.jpg"
       },
       {
-        "original": "../src/assets/cabin 2 tani house/IMG_0024.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0024.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125120/dieng/tanihouse2/IMG_0024_i5gvia.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125120/dieng/tanihouse2/IMG_0024_i5gvia.jpg"
       },
       {
-        "original": "../src/assets/cabin 2 tani house/IMG_0032.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0032.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125124/dieng/tanihouse2/IMG_0023_wetzkd.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125124/dieng/tanihouse2/IMG_0023_wetzkd.jpg"
       },
       {
-        "original": "../src/assets/cabin 2 tani house/IMG_0328.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0049.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0050.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0050.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0051.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0051.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0056.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0056.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0057.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0057.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0058.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0058.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0061.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0061.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0062.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0062.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0067.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0067.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0068.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0068.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0078.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0078.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0090.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0090.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0092.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0092.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0093.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0093.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0095.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0095.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0096.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0096.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0102.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0102.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0107.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0107.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0118.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0118.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0121.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0121.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0121.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0121.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0122.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0122.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0126.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0126.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0127.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0127.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0132.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0132.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0136.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0136.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0155.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0155.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0161.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0161.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0166.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0166.JPG"
-      },
-      {
-        "original": "../src/assets/cabin 2 tani house/IMG_0167.JPG",
-        "thumbnail": "../src/assets/cabin 2 tani house/IMG_0167.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125179/dieng/tanihouse2/IMG_0121_pk64ze.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125179/dieng/tanihouse2/IMG_0121_pk64ze.jpg"
       }
     ]
   },
   {
     "id": 3,
-    "image": "src/assets/cabin tani house 3/taniHouse3.jpg",
-    "image2": "src/assets/cabin tani house 3/IMG_0308.JPG",
-    "image3": "src/assets/cabin tani house 3/IMG_0352.JPG",
-    "image4": "src/assets/cabin tani house 3/IMG_0345.JPG",
+    "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716126358/dieng/tanihouse3/kcrftrpk1yjz067g3cgp.jpg",
+    "image2": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716126352/dieng/tanihouse3/sejmi5gspfdonsfesste.jpg",
+    "image3": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716126341/dieng/tanihouse3/pudlsxaisbnkqzyrwjls.jpg",
+    "image4": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716126334/dieng/tanihouse3/de2abtytseql5zff97lc.jpg",
     "headTitle": "CABIN TANI HOUSE 3",
     "title": "Cabin Tani House 3",
     "price": "Rp. 1.500.000/Night",
@@ -464,165 +284,61 @@
     ],
     "gallery": [
       {
-        "original": "../src/assets/cabin tani house 3/tanihouse3.jpg",
-        "thumbnail": "../src/assets/cabin tani house 3/tanihouse3.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716126358/dieng/tanihouse3/kcrftrpk1yjz067g3cgp.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716126358/dieng/tanihouse3/kcrftrpk1yjz067g3cgp.jpg"
       },
       {
-        "original": "../src/assets/cabin tani house 3/IMG_0308.JPG",
-        "thumbnail": "../src/assets/cabin tani house 3/IMG_0308.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716126352/dieng/tanihouse3/sejmi5gspfdonsfesste.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716126352/dieng/tanihouse3/sejmi5gspfdonsfesste.jpg"
       },
       {
-        "original": "../src/assets/cabin tani house 3/IMG_0352.JPG",
-        "thumbnail": "../src/assets/cabin tani house 3/IMG_0352.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716126341/dieng/tanihouse3/pudlsxaisbnkqzyrwjls.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716126341/dieng/tanihouse3/pudlsxaisbnkqzyrwjls.jpg"
       },
       {
-        "original": "../src/assets/cabin tani house 3/IMG_0345.JPG",
-        "thumbnail": "../src/assets/cabin tani house 3/IMG_0345.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716126334/dieng/tanihouse3/de2abtytseql5zff97lc.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716126334/dieng/tanihouse3/de2abtytseql5zff97lc.jpg"
       },
       {
-        "original": "../src/assets/cabin tani house 3/IMG_0307.JPG",
-        "thumbnail": "../src/assets/cabin tani house 3/IMG_0307.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716126332/dieng/tanihouse3/stouy5w9lbspqp7klf4l.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716126332/dieng/tanihouse3/stouy5w9lbspqp7klf4l.jpg"
       },
       {
-        "original": "../src/assets/cabin tani house 3/IMG_0310.JPG",
-        "thumbnail": "../src/assets/cabin tani house 3/IMG_0310.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716126330/dieng/tanihouse3/xvlalx7tzmxic9wxztyw.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716126330/dieng/tanihouse3/xvlalx7tzmxic9wxztyw.jpg"
       },
       {
-        "original": "../src/assets/cabin tani house 3/IMG_0315.JPG",
-        "thumbnail": "../src/assets/cabin tani house 3/IMG_0315.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716126327/dieng/tanihouse3/w6et2fkzjgurgk0ntndq.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716126327/dieng/tanihouse3/w6et2fkzjgurgk0ntndq.jpg"
       },
       {
-        "original": "../src/assets/cabin tani house 3/IMG_0316.JPG",
-        "thumbnail": "../src/assets/cabin tani house 3/IMG_0316.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716126327/dieng/tanihouse3/d5ohesl6dju279cd8ikq.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716126327/dieng/tanihouse3/d5ohesl6dju279cd8ikq.jpg"
       },
       {
-        "original": "../src/assets/cabin tani house 3/IMG_0327.JPG",
-        "thumbnail": "../src/assets/cabin tani house 3/IMG_0327.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716126338/dieng/tanihouse3/avokv2nfnftoe2ypjmht.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716126338/dieng/tanihouse3/avokv2nfnftoe2ypjmht.jpg"
       },
       {
-        "original": "../src/assets/cabin tani house 3/IMG_0328.JPG",
-        "thumbnail": "../src/assets/cabin tani house 3/IMG_0328.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716126340/dieng/tanihouse3/vevxvgtiwool8iatyqzw.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716126340/dieng/tanihouse3/vevxvgtiwool8iatyqzw.jpg"
       },
       {
-        "original": "../src/assets/cabin tani house 3/IMG_0329.JPG",
-        "thumbnail": "../src/assets/cabin tani house 3/IMG_0329.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716126340/dieng/tanihouse3/qfvnqsuxjuzgkebzqcnq.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716126340/dieng/tanihouse3/qfvnqsuxjuzgkebzqcnq.jpg"
       },
       {
-        "original": "../src/assets/cabin tani house 3/IMG_0339.JPG",
-        "thumbnail": "../src/assets/cabin tani house 3/IMG_0339.JPG"
-      },
-      {
-        "original": "../src/assets/cabin tani house 3/IMG_0360.JPG",
-        "thumbnail": "../src/assets/cabin tani house 3/IMG_0360.JPG"
-      },
-      {
-        "original": "../src/assets/cabin tani house 3/IMG_0363.JPG",
-        "thumbnail": "../src/assets/cabin tani house 3/IMG_0363.JPG"
-      },
-      {
-        "original": "../src/assets/cabin tani house 3/IMG_0364.JPG",
-        "thumbnail": "../src/assets/cabin tani house 3/IMG_0364.JPG"
-      },
-      {
-        "original": "../src/assets/cabin tani house 3/IMG_0500.PNG",
-        "thumbnail": "../src/assets/cabin tani house 3/IMG_0500.PNG"
-      },
-      {
-        "original": "../src/assets/cabin tani house 3/IMG_0501.PNG",
-        "thumbnail": "../src/assets/cabin tani house 3/IMG_0501.PNG"
-      },
-      {
-        "original": "../src/assets/cabin tani house 3/IMG_0502.PNG",
-        "thumbnail": "../src/assets/cabin tani house 3/IMG_0502.PNG"
-      },
-      {
-        "original": "../src/assets/cabin tani house 3/IMG_0503.PNG",
-        "thumbnail": "../src/assets/cabin tani house 3/IMG_0503.PNG"
-      },
-      {
-        "original": "../src/assets/cabin tani house 3/IMG_0504.PNG",
-        "thumbnail": "../src/assets/cabin tani house 3/IMG_0504.PNG"
-      },
-      {
-        "original": "../src/assets/cabin tani house 3/IMG_0505.PNG",
-        "thumbnail": "../src/assets/cabin tani house 3/IMG_0505.PNG"
-      },
-      {
-        "original": "../src/assets/cabin tani house 3/IMG_0506.PNG",
-        "thumbnail": "../src/assets/cabin tani house 3/IMG_0506.PNG"
-      },
-      {
-        "original": "../src/assets/cabin tani house 3/IMG_0508.PNG",
-        "thumbnail": "../src/assets/cabin tani house 3/IMG_0508.PNG"
-      },
-      {
-        "original": "../src/assets/cabin tani house 3/IMG_9909.JPG",
-        "thumbnail": "../src/assets/cabin tani house 3/IMG_9909.JPG"
-      },
-      {
-        "original": "../src/assets/cabin tani house 3/IMG_9910.JPG",
-        "thumbnail": "../src/assets/cabin tani house 3/IMG_9910.JPG"
-      },
-      {
-        "original": "../src/assets/cabin tani house 3/IMG_9914.JPG",
-        "thumbnail": "../src/assets/cabin tani house 3/IMG_9914.JPG"
-      },
-      {
-        "original": "../src/assets/cabin tani house 3/IMG_9916.JPG",
-        "thumbnail": "../src/assets/cabin tani house 3/IMG_9916.JPG"
-      },
-      {
-        "original": "../src/assets/cabin tani house 3/IMG_9931.JPG",
-        "thumbnail": "../src/assets/cabin tani house 3/IMG_9931.JPG"
-      },
-      {
-        "original": "../src/assets/cabin tani house 3/IMG_9935.JPG",
-        "thumbnail": "../src/assets/cabin tani house 3/IMG_9935.JPG"
-      },
-      {
-        "original": "../src/assets/cabin tani house 3/IMG_9942.JPG",
-        "thumbnail": "../src/assets/cabin tani house 3/IMG_9942.JPG"
-      },
-      {
-        "original": "../src/assets/cabin tani house 3/IMG_9943.JPG",
-        "thumbnail": "../src/assets/cabin tani house 3/IMG_9943.JPG"
-      },
-      {
-        "original": "../src/assets/cabin tani house 3/IMG_9953.JPG",
-        "thumbnail": "../src/assets/cabin tani house 3/IMG_9953.JPG"
-      },
-      {
-        "original": "../src/assets/cabin tani house 3/IMG_9955.JPG",
-        "thumbnail": "../src/assets/cabin tani house 3/IMG_9955.JPG"
-      },
-      {
-        "original": "../src/assets/cabin tani house 3/IMG_9956.JPG",
-        "thumbnail": "../src/assets/cabin tani house 3/IMG_9956.JPG"
-      },
-      {
-        "original": "../src/assets/cabin tani house 3/IMG_9963.JPG",
-        "thumbnail": "../src/assets/cabin tani house 3/IMG_9963.JPG"
-      },
-      {
-        "original": "../src/assets/cabin tani house 3/IMG_9964.JPG",
-        "thumbnail": "../src/assets/cabin tani house 3/IMG_9964.JPG"
-      },
-      {
-        "original": "../src/assets/cabin tani house 3/IMG_9965.JPG",
-        "thumbnail": "../src/assets/cabin tani house 3/IMG_9965.JPG"
-      },
-      {
-        "original": "../src/assets/cabin tani house 3/IMG_9967.JPG",
-        "thumbnail": "../src/assets/cabin tani house 3/IMG_9967.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716126343/dieng/tanihouse3/qewxb9glytwezognldmr.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716126343/dieng/tanihouse3/qewxb9glytwezognldmr.jpg"
       }
     ]
   },
   {
     "id": 4,
-    "image": "src/assets/sanctuary/sanctuary.jpg",
-    "image2": "src/assets/sanctuary/IMG_0267.JPG",
-    "image3": "src/assets/sanctuary/IMG_0268.JPG",
-    "image4": "src/assets/sanctuary/IMG_0270.JPG",
+    "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716127969/dieng/sanctuary/sanctuary_lbnvy1.jpg",
+    "image2": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716127947/dieng/sanctuary/IMG_0270_i6ww2n.jpg",
+    "image3": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716127955/dieng/sanctuary/IMG_0268_p9srw1.jpg",
+    "image4": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716127980/dieng/sanctuary/IMG_0271_jcka1v.jpg",
     "headTitle": "CABIN SANCTUARY",
     "title": "Cabin Sanctuary",
     "price": "Rp. 1.500.000/Night",
@@ -686,57 +402,57 @@
     ],
     "gallery": [
       {
-        "original": "../src/assets/sanctuary/sanctuary.jpg",
-        "thumbnail": "../src/assets/sanctuary/sanctuary.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716127969/dieng/sanctuary/sanctuary_lbnvy1.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716127969/dieng/sanctuary/sanctuary_lbnvy1.jpg"
       },
       {
-        "original": "../src/assets/sanctuary/IMG_0267.JPG",
-        "thumbnail": "../src/assets/sanctuary/IMG_0267.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716127947/dieng/sanctuary/IMG_0270_i6ww2n.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716127947/dieng/sanctuary/IMG_0270_i6ww2n.jpg"
       },
       {
-        "original": "../src/assets/sanctuary/IMG_0268.JPG",
-        "thumbnail": "../src/assets/sanctuary/IMG_0268.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716127955/dieng/sanctuary/IMG_0268_p9srw1.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716127955/dieng/sanctuary/IMG_0268_p9srw1.jpg"
       },
       {
-        "original": "../src/assets/sanctuary/IMG_0270.JPG",
-        "thumbnail": "../src/assets/sanctuary/IMG_0270.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716127980/dieng/sanctuary/IMG_0271_jcka1v.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716127980/dieng/sanctuary/IMG_0271_jcka1v.jpg"
       },
       {
-        "original": "../src/assets/sanctuary/IMG_0271.JPG",
-        "thumbnail": "../src/assets/sanctuary/IMG_0271.JPG"
+        "original": ".https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716128001/dieng/sanctuary/IMG_0296_geraxg.jpg",
+        "thumbnail": ".https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716128001/dieng/sanctuary/IMG_0296_geraxg.jpg"
       },
       {
-        "original": "../src/assets/sanctuary/IMG_0286.JPG",
-        "thumbnail": "../src/assets/sanctuary/IMG_0286.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716127991/dieng/sanctuary/IMG_0295_lggjvi.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716127991/dieng/sanctuary/IMG_0295_lggjvi.jpg"
       },
       {
-        "original": "../src/assets/sanctuary/IMG_0293.JPG",
-        "thumbnail": "../src/assets/sanctuary/IMG_0293.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716127980/dieng/sanctuary/IMG_0294_etc0rm.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716127980/dieng/sanctuary/IMG_0294_etc0rm.jpg"
       },
       {
-        "original": "../src/assets/sanctuary/IMG_0294.JPG",
-        "thumbnail": "../src/assets/sanctuary/IMG_0294.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716127976/dieng/sanctuary/IMG_0297_qnhcxq.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716127976/dieng/sanctuary/IMG_0297_qnhcxq.jpg"
       },
       {
-        "original": "../src/assets/sanctuary/IMG_0295.JPG",
-        "thumbnail": "../src/assets/sanctuary/IMG_0295.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716127966/dieng/sanctuary/IMG_0293_s7nbyb.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716127966/dieng/sanctuary/IMG_0293_s7nbyb.jpg"
       },
       {
-        "original": "../src/assets/sanctuary/IMG_0296.JPG",
-        "thumbnail": "../src/assets/sanctuary/IMG_0296.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716127955/dieng/sanctuary/IMG_0267_i0hqrs.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716127955/dieng/sanctuary/IMG_0267_i0hqrs.jpg"
       },
       {
-        "original": "../src/assets/sanctuary/IMG_0297.JPG",
-        "thumbnail": "../src/assets/sanctuary/IMG_0297.JPG"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716127935/dieng/sanctuary/IMG_0286_yehwmk.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716127935/dieng/sanctuary/IMG_0286_yehwmk.jpg"
       }
     ]
   },
   {
     "id": 5,
-    "image": "src/assets/bro cabin/12.jpg",
-    "image2": "src/assets/bro cabin/2.jpg",
-    "image3": "src/assets/bro cabin/3.jpg",
-    "image4": "src/assets/bro cabin/4.jpg",
+    "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716128287/dieng/brocabin/12_movwt5.jpg",
+    "image2": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716128309/dieng/brocabin/22_zpqgsz.png",
+    "image3": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716128286/dieng/brocabin/4_pdjee8.png",
+    "image4": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716128288/dieng/brocabin/6_tbigac.png",
     "headTitle": "COTTAGE BERO DIENG",
     "title": "Cottage Bero Dieng",
     "price": "Rp. 1.100.000/Night",
@@ -796,57 +512,57 @@
     ],
     "gallery": [
       {
-        "original": "../src/assets/bro cabin/12.jpg",
-        "thumbnail": "../src/assets/bro cabin/12.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716128287/dieng/brocabin/12_movwt5.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716128287/dieng/brocabin/12_movwt5.jpg"
       },
       {
-        "original": "../src/assets/bro cabin/2.jpg",
-        "thumbnail": "../src/assets/bro cabin/2.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716128309/dieng/brocabin/22_zpqgsz.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716128309/dieng/brocabin/22_zpqgsz.png"
       },
       {
-        "original": "../src/assets/bro cabin/3.jpg",
-        "thumbnail": "../src/assets/bro cabin/3.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716128286/dieng/brocabin/4_pdjee8.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716128286/dieng/brocabin/4_pdjee8.png"
       },
       {
-        "original": "../src/assets/bro cabin/4.jpg",
-        "thumbnail": "../src/assets/bro cabin/4.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716128288/dieng/brocabin/6_tbigac.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716128288/dieng/brocabin/6_tbigac.png"
       },
       {
-        "original": "../src/assets/bro cabin/5.jpg",
-        "thumbnail": "../src/assets/bro cabin/5.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716128296/dieng/brocabin/8_bhso6p.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716128296/dieng/brocabin/8_bhso6p.png"
       },
       {
-        "original": "../src/assets/bro cabin/6.jpg",
-        "thumbnail": "../src/assets/bro cabin/6.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716128296/dieng/brocabin/32_rgdfk8.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716128296/dieng/brocabin/32_rgdfk8.png"
       },
       {
-        "original": "../src/assets/bro cabin/7.jpg",
-        "thumbnail": "../src/assets/bro cabin/7.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716128290/dieng/brocabin/42_hr5ksk.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716128290/dieng/brocabin/42_hr5ksk.png"
       },
       {
-        "original": "../src/assets/bro cabin/8.jpg",
-        "thumbnail": "../src/assets/bro cabin/8.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716128289/dieng/brocabin/7_kedpea.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716128289/dieng/brocabin/7_kedpea.png"
       },
       {
-        "original": "../src/assets/bro cabin/22.jpg",
-        "thumbnail": "../src/assets/bro cabin/22.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716128287/dieng/brocabin/5_qx5wfc.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716128287/dieng/brocabin/5_qx5wfc.png"
       },
       {
-        "original": "../src/assets/bro cabin/32.jpg",
-        "thumbnail": "../src/assets/bro cabin/32.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716128285/dieng/brocabin/2_kdqlhg.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716128285/dieng/brocabin/2_kdqlhg.jpg"
       },
       {
-        "original": "../src/assets/bro cabin/42.jpg",
-        "thumbnail": "../src/assets/bro cabin/42.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716128286/dieng/brocabin/3_ojeoba.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716128286/dieng/brocabin/3_ojeoba.png"
       }
     ]
   },
   {
     "id": 6,
-    "image": "src/assets/cabin salju/1.jpg",
-    "image2": "src/assets/cabin salju/2.jpg",
-    "image3": "src/assets/cabin salju/3.png",
-    "image4": "src/assets/cabin salju/4.png",
+    "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716128454/dieng/cabinsalju/1_lhesde.jpg",
+    "image2": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716128455/dieng/cabinsalju/2_vwvgsm.jpg",
+    "image3": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716128460/dieng/cabinsalju/3_c3fyhd.png",
+    "image4": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716128467/dieng/cabinsalju/4_ssr8ow.png",
     "headTitle": "SALJU COTTAGE BAWAH",
     "title": "Salju Cottage Bawah",
     "price": "Rp. 700.000/Night",
@@ -906,33 +622,33 @@
     ],
     "gallery": [
       {
-        "original": "../src/assets/cabin salju/1.jpg",
-        "thumbnail": "../src/assets/cabin salju/1.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716128454/dieng/cabinsalju/1_lhesde.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716128454/dieng/cabinsalju/1_lhesde.jpg"
       },
       {
-        "original": "../src/assets/cabin salju/2.jpg",
-        "thumbnail": "../src/assets/cabin salju/2.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716128455/dieng/cabinsalju/2_vwvgsm.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716128455/dieng/cabinsalju/2_vwvgsm.jpg"
       },
       {
-        "original": "../src/assets/cabin salju/3.png",
-        "thumbnail": "../src/assets/cabin salju/3.png"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716128460/dieng/cabinsalju/3_c3fyhd.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716128460/dieng/cabinsalju/3_c3fyhd.png"
       },
       {
-        "original": "../src/assets/cabin salju/4.png",
-        "thumbnail": "../src/assets/cabin salju/4.png"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716128467/dieng/cabinsalju/4_ssr8ow.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716128467/dieng/cabinsalju/4_ssr8ow.png"
       },
       {
-        "original": "../src/assets/cabin salju/5.png",
-        "thumbnail": "../src/assets/cabin salju/5.png"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716128464/dieng/cabinsalju/5_sf0fum.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716128464/dieng/cabinsalju/5_sf0fum.png"
       }
     ]
   },
   {
     "id": 7,
-    "image": "src/assets/cozy cabin/1.jpg",
-    "image2": "src/assets/cozy cabin/2.jpg",
-    "image3": "src/assets/cozy cabin/3.jpg",
-    "image4": "src/assets/cozy cabin/4.jpg",
+    "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170474/dieng/cozycabin/1_hodsve.jpg",
+    "image2": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170474/dieng/cozycabin/6_emy94z.jpg",
+    "image3": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170474/dieng/cozycabin/4_qmc0da.jpg",
+    "image4": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170474/dieng/cozycabin/8_fd12au.jpg",
     "headTitle": "VILLA CABANA DIENG",
     "title": "Villa Cabana Dieng",
     "price": "Rp. 1.100.000/Night",
@@ -992,45 +708,45 @@
     ],
     "gallery": [
       {
-        "original": "../src/assets/cozy cabin/1.jpg",
-        "thumbnail": "../src/assets/cozy cabin/1.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170474/dieng/cozycabin/1_hodsve.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170474/dieng/cozycabin/1_hodsve.jpg"
       },
       {
-        "original": "../src/assets/cozy cabin/2.jpg",
-        "thumbnail": "../src/assets/cozy cabin/2.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170474/dieng/cozycabin/6_emy94z.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170474/dieng/cozycabin/6_emy94z.jpg"
       },
       {
-        "original": "../src/assets/cozy cabin/3.jpg",
-        "thumbnail": "../src/assets/cozy cabin/3.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170474/dieng/cozycabin/4_qmc0da.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170474/dieng/cozycabin/4_qmc0da.jpg"
       },
       {
-        "original": "../src/assets/cozy cabin/4.jpg",
-        "thumbnail": "../src/assets/cozy cabin/4.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170474/dieng/cozycabin/8_fd12au.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170474/dieng/cozycabin/8_fd12au.jpg"
       },
       {
-        "original": "../src/assets/cozy cabin/5.jpg",
-        "thumbnail": "../src/assets/cozy cabin/5.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170474/dieng/cozycabin/7_tced9i.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170474/dieng/cozycabin/7_tced9i.jpg"
       },
       {
-        "original": "../src/assets/cozy cabin/6.jpg",
-        "thumbnail": "../src/assets/cozy cabin/6.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170474/dieng/cozycabin/2_yu65ge.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170474/dieng/cozycabin/2_yu65ge.jpg"
       },
       {
-        "original": "../src/assets/cozy cabin/7.jpg",
-        "thumbnail": "../src/assets/cozy cabin/7.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170474/dieng/cozycabin/3_j157sv.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170474/dieng/cozycabin/3_j157sv.jpg"
       },
       {
-        "original": "../src/assets/cozy cabin/8.jpg",
-        "thumbnail": "../src/assets/cozy cabin/8.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170473/dieng/cozycabin/5_qbfebf.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170473/dieng/cozycabin/5_qbfebf.jpg"
       }
     ]
   },
   {
     "id": 8,
-    "image": "src/assets/d martos farmhouse/13.jpg",
-    "image2": "src/assets/d martos farmhouse/2.jpg",
-    "image3": "src/assets/d martos farmhouse/3.jpg",
-    "image4": "src/assets/d martos farmhouse/4.jpg",
+    "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170549/dieng/martosdfarmhouse/13_vd1ftz.jpg",
+    "image2": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170549/dieng/martosdfarmhouse/8_driqxv.jpg",
+    "image3": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170548/dieng/martosdfarmhouse/5_nhfka7.jpg",
+    "image4": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170547/dieng/martosdfarmhouse/2_t1s18r.jpg",
     "headTitle": "D MARTOS FARMHOUSE",
     "title": "D Martos Farmhouse",
     "price": "Rp. 1.100.000/Night",
@@ -1082,45 +798,45 @@
     ],
     "gallery": [
       {
-        "original": "../src/assets/d martos farmhouse/13.jpg",
-        "thumbnail": "../src/assets/d martos farmhouse/13.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170549/dieng/martosdfarmhouse/13_vd1ftz.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170549/dieng/martosdfarmhouse/13_vd1ftz.jpg"
       },
       {
-        "original": "../src/assets/d martos farmhouse/2.jpg",
-        "thumbnail": "../src/assets/d martos farmhouse/2.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170549/dieng/martosdfarmhouse/8_driqxv.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170549/dieng/martosdfarmhouse/8_driqxv.jpg"
       },
       {
-        "original": "../src/assets/d martos farmhouse/3.jpg",
-        "thumbnail": "../src/assets/d martos farmhouse/3.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170548/dieng/martosdfarmhouse/5_nhfka7.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170548/dieng/martosdfarmhouse/5_nhfka7.jpg"
       },
       {
-        "original": "../src/assets/d martos farmhouse/4.jpg",
-        "thumbnail": "../src/assets/d martos farmhouse/4.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170547/dieng/martosdfarmhouse/2_t1s18r.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170547/dieng/martosdfarmhouse/2_t1s18r.jpg"
       },
       {
-        "original": "../src/assets/d martos farmhouse/5.jpg",
-        "thumbnail": "../src/assets/d martos farmhouse/5.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170548/dieng/martosdfarmhouse/7_bkdrm2.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170548/dieng/martosdfarmhouse/7_bkdrm2.jpg"
       },
       {
-        "original": "../src/assets/d martos farmhouse/6.jpg",
-        "thumbnail": "../src/assets/d martos farmhouse/6.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170547/dieng/martosdfarmhouse/4_vncljs.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170547/dieng/martosdfarmhouse/4_vncljs.jpg"
       },
       {
-        "original": "../src/assets/d martos farmhouse/7.jpg",
-        "thumbnail": "../src/assets/d martos farmhouse/7.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170547/dieng/martosdfarmhouse/3_ctjozu.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170547/dieng/martosdfarmhouse/3_ctjozu.jpg"
       },
       {
-        "original": "../src/assets/d martos farmhouse/8.jpg",
-        "thumbnail": "../src/assets/d martos farmhouse/8.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170547/dieng/martosdfarmhouse/4_vncljs.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170547/dieng/martosdfarmhouse/4_vncljs.jpg"
       }
     ]
   },
   {
     "id": 9,
-    "image": "src/assets/daniel cabin/cabin1.jpg",
-    "image2": "src/assets/daniel cabin/cabin2.jpg",
-    "image3": "src/assets/daniel cabin/cabin3.jpg",
-    "image4": "src/assets/daniel cabin/cabin4.jpg",
+    "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170675/dieng/dnskuter/cabin1_lyphle.jpg",
+    "image2": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170677/dieng/dnskuter/cabin6_g6suta.jpg",
+    "image3": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170676/dieng/dnskuter/cabin4_jg4myy.jpg",
+    "image4": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170677/dieng/dnskuter/cabin7_rcnson.jpg",
     "headTitle": "CABIN DIENG DN SKOTER",
     "title": "Cabin Dieng DN Skoter",
     "price": "Rp. 1.100.000/Night",
@@ -1176,45 +892,41 @@
     ],
     "gallery": [
       {
-        "original": "../src/assets/daniel cabin/cabin1.jpg",
-        "thumbnail": "../src/assets/daniel cabin/cabin1.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170675/dieng/dnskuter/cabin1_lyphle.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170675/dieng/dnskuter/cabin1_lyphle.jpg"
       },
       {
-        "original": "../src/assets/daniel cabin/cabin2.jpg",
-        "thumbnail": "../src/assets/daniel cabin/cabin2.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170677/dieng/dnskuter/cabin6_g6suta.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170677/dieng/dnskuter/cabin6_g6suta.jpg"
       },
       {
-        "original": "../src/assets/daniel cabin/cabin3.jpg",
-        "thumbnail": "../src/assets/daniel cabin/cabin3.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170676/dieng/dnskuter/cabin4_jg4myy.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170676/dieng/dnskuter/cabin4_jg4myy.jpg"
       },
       {
-        "original": "../src/assets/daniel cabin/cabin4.jpg",
-        "thumbnail": "../src/assets/daniel cabin/cabin4.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170677/dieng/dnskuter/cabin7_rcnson.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170677/dieng/dnskuter/cabin7_rcnson.jpg"
       },
       {
-        "original": "../src/assets/daniel cabin/cabin5.jpg",
-        "thumbnail": "../src/assets/daniel cabin/cabin5.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170676/dieng/dnskuter/cabin5_ckesrq.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170676/dieng/dnskuter/cabin5_ckesrq.jpg"
       },
       {
-        "original": "../src/assets/daniel cabin/cabin6.jpg",
-        "thumbnail": "../src/assets/daniel cabin/cabin6.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170675/dieng/dnskuter/cabin3_apkhtp.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170675/dieng/dnskuter/cabin3_apkhtp.jpg"
       },
       {
-        "original": "../src/assets/daniel cabin/cabin7.jpg",
-        "thumbnail": "../src/assets/daniel cabin/cabin7.jpg"
-      },
-      {
-        "original": "../src/assets/daniel cabin/cabin8.jpg",
-        "thumbnail": "../src/assets/daniel cabin/cabin8.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170675/dieng/dnskuter/cabin2_lkkxwq.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170675/dieng/dnskuter/cabin2_lkkxwq.jpg"
       }
     ]
   },
   {
     "id": 10,
-    "image": "src/assets/dringo 1 cabin/14.jpg",
-    "image2": "src/assets/dringo 1 cabin/2.jpg",
-    "image3": "src/assets/dringo 1 cabin/3.jpg",
-    "image4": "src/assets/dringo 1 cabin/6.jpg",
+    "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172531/dieng/dringo/14_exjopf.jpg",
+    "image2": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172527/dieng/dringo/2_vcog78.jpg",
+    "image3": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172526/dieng/dringo/3_qu7ep4.jpg",
+    "image4": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172528/dieng/dringo/6_xopgfl.jpg",
     "headTitle": "CABIN DIENG ALVI~DRINGO",
     "title": "Cabin Dieng Alvi~Dringo",
     "price": "Rp. 1.350.000/Night",
@@ -1270,53 +982,53 @@
     ],
     "gallery": [
       {
-        "original": "../src/assets/dringo 1 cabin/14.jpg",
-        "thumbnail": "../src/assets/dringo 1 cabin/14.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172531/dieng/dringo/14_exjopf.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172531/dieng/dringo/14_exjopf.jpg"
       },
       {
-        "original": "../src/assets/dringo 1 cabin/2.jpg",
-        "thumbnail": "../src/assets/dringo 1 cabin/2.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172527/dieng/dringo/2_vcog78.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172527/dieng/dringo/2_vcog78.jpg"
       },
       {
-        "original": "../src/assets/dringo 1 cabin/3.jpg",
-        "thumbnail": "../src/assets/dringo 1 cabin/3.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172526/dieng/dringo/3_qu7ep4.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172526/dieng/dringo/3_qu7ep4.jpg"
       },
       {
-        "original": "../src/assets/dringo 1 cabin/6.jpg",
-        "thumbnail": "../src/assets/dringo 1 cabin/6.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172528/dieng/dringo/6_xopgfl.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172528/dieng/dringo/6_xopgfl.jpg"
       },
       {
-        "original": "../src/assets/dringo 1 cabin/4.jpg",
-        "thumbnail": "../src/assets/dringo 1 cabin/4.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172527/dieng/dringo/4_eklnap.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172527/dieng/dringo/4_eklnap.jpg"
       },
       {
-        "original": "../src/assets/dringo 1 cabin/5.jpg",
-        "thumbnail": "../src/assets/dringo 1 cabin/5.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172527/dieng/dringo/5_nvcoix.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172527/dieng/dringo/5_nvcoix.jpg"
       },
       {
-        "original": "../src/assets/dringo 1 cabin/7.jpg",
-        "thumbnail": "../src/assets/dringo 1 cabin/7.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172528/dieng/dringo/7_r6iscl.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172528/dieng/dringo/7_r6iscl.jpg"
       },
       {
-        "original": "../src/assets/dringo 1 cabin/8.jpg",
-        "thumbnail": "../src/assets/dringo 1 cabin/8.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172528/dieng/dringo/8_sqxr3n.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172528/dieng/dringo/8_sqxr3n.jpg"
       },
       {
-        "original": "../src/assets/dringo 1 cabin/9.jpg",
-        "thumbnail": "../src/assets/dringo 1 cabin/9.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172528/dieng/dringo/9_ar90l2.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172528/dieng/dringo/9_ar90l2.jpg"
       },
       {
-        "original": "../src/assets/dringo 1 cabin/10.jpg",
-        "thumbnail": "../src/assets/dringo 1 cabin/10.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172529/dieng/dringo/10_drmewy.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172529/dieng/dringo/10_drmewy.jpg"
       }
     ]
   },
   {
     "id": 11,
-    "image": "src/assets/ira 1 cabin/1.jpg",
-    "image2": "src/assets/ira 1 cabin/2.jpg",
-    "image3": "src/assets/ira 1 cabin/3.jpg",
-    "image4": "src/assets/ira 1 cabin/4.jpg",
+    "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172566/dieng/ira1/1_yqezcs.jpg",
+    "image2": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172567/dieng/ira1/2_t4xqwd.jpg",
+    "image3": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172567/dieng/ira1/3_xspdsk.jpg",
+    "image4": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172569/dieng/ira1/4_samrkk.jpg",
     "headTitle": "CABIN IRA 2",
     "title": "Cabin Ira 2",
     "price": "Rp. 1.100.000/Night",
@@ -1372,49 +1084,49 @@
     ],
     "gallery": [
       {
-        "original": "../src/assets/ira 1 cabin/1.jpg",
-        "thumbnail": "../src/assets/ira 1 cabin/1.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172566/dieng/ira1/1_yqezcs.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172566/dieng/ira1/1_yqezcs.jpg"
       },
       {
-        "original": "../src/assets/ira 1 cabin/2.jpg",
-        "thumbnail": "../src/assets/ira 1 cabin/2.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172567/dieng/ira1/2_t4xqwd.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172567/dieng/ira1/2_t4xqwd.jpg"
       },
       {
-        "original": "../src/assets/ira 1 cabin/3.jpg",
-        "thumbnail": "../src/assets/ira 1 cabin/3.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172567/dieng/ira1/3_xspdsk.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172567/dieng/ira1/3_xspdsk.jpg"
       },
       {
-        "original": "../src/assets/ira 1 cabin/4.jpg",
-        "thumbnail": "../src/assets/ira 1 cabin/4.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172569/dieng/ira1/4_samrkk.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172569/dieng/ira1/4_samrkk.jpg"
       },
       {
-        "original": "../src/assets/ira 1 cabin/5.jpg",
-        "thumbnail": "../src/assets/ira 1 cabin/5.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172569/dieng/ira1/5_ovn5zs.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172569/dieng/ira1/5_ovn5zs.jpg"
       },
       {
-        "original": "../src/assets/ira 1 cabin/6.jpg",
-        "thumbnail": "../src/assets/ira 1 cabin/6.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172571/dieng/ira1/6_pky1iy.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172571/dieng/ira1/6_pky1iy.jpg"
       },
       {
-        "original": "../src/assets/ira 1 cabin/7.jpg",
-        "thumbnail": "../src/assets/ira 1 cabin/7.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172570/dieng/ira1/7_mwyfdq.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172570/dieng/ira1/7_mwyfdq.jpg"
       },
       {
-        "original": "../src/assets/ira 1 cabin/8.jpg",
-        "thumbnail": "../src/assets/ira 1 cabin/8.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172571/dieng/ira1/8_oish3n.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172571/dieng/ira1/8_oish3n.jpg"
       },
       {
-        "original": "../src/assets/ira 1 cabin/9.jpg",
-        "thumbnail": "../src/assets/ira 1 cabin/9.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172572/dieng/ira1/9_jqyuyw.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172572/dieng/ira1/9_jqyuyw.jpg"
       }
     ]
   },
   {
     "id": 12,
-    "image": "src/assets/ira 2 cabin/1.jpg",
-    "image2": "src/assets/ira 2 cabin/2.jpg",
-    "image3": "src/assets/ira 2 cabin/3.jpg",
-    "image4": "src/assets/ira 2 cabin/4.jpg",
+    "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172620/dieng/ira2/1_y9pqf0.jpg",
+    "image2": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172621/dieng/ira2/2_hqxalx.jpg",
+    "image3": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172622/dieng/ira2/3_ezgtva.jpg",
+    "image4": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172623/dieng/ira2/4_hnaomm.jpg",
     "headTitle": "CABIN IRA DIENG",
     "title": "Cabin Ira Dieng",
     "price": "Rp. 850.000/Night",
@@ -1470,45 +1182,45 @@
     ],
     "gallery": [
       {
-        "original": "../src/assets/ira 2 cabin/1.jpg",
-        "thumbnail": "../src/assets/ira 2 cabin/1.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172620/dieng/ira2/1_y9pqf0.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172620/dieng/ira2/1_y9pqf0.jpg"
       },
       {
-        "original": "../src/assets/ira 2 cabin/2.jpg",
-        "thumbnail": "../src/assets/ira 2 cabin/2.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172621/dieng/ira2/2_hqxalx.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172621/dieng/ira2/2_hqxalx.jpg"
       },
       {
-        "original": "../src/assets/ira 2 cabin/3.jpg",
-        "thumbnail": "../src/assets/ira 2 cabin/3.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172622/dieng/ira2/3_ezgtva.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172622/dieng/ira2/3_ezgtva.jpg"
       },
       {
-        "original": "../src/assets/ira 2 cabin/4.jpg",
-        "thumbnail": "../src/assets/ira 2 cabin/4.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172623/dieng/ira2/4_hnaomm.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172623/dieng/ira2/4_hnaomm.jpg"
       },
       {
-        "original": "../src/assets/ira 2 cabin/5.jpg",
-        "thumbnail": "../src/assets/ira 2 cabin/5.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172623/dieng/ira2/5_fsnxe1.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172623/dieng/ira2/5_fsnxe1.jpg"
       },
       {
-        "original": "../src/assets/ira 2 cabin/6.jpg",
-        "thumbnail": "../src/assets/ira 2 cabin/6.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172624/dieng/ira2/6_klwgap.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172624/dieng/ira2/6_klwgap.jpg"
       },
       {
-        "original": "../src/assets/ira 2 cabin/8.jpg",
-        "thumbnail": "../src/assets/ira 2 cabin/8.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172625/dieng/ira2/8_nf0iwk.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172625/dieng/ira2/8_nf0iwk.jpg"
       },
       {
-        "original": "../src/assets/ira 2 cabin/9.jpg",
-        "thumbnail": "../src/assets/ira 2 cabin/9.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172626/dieng/ira2/9_knzunm.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172626/dieng/ira2/9_knzunm.jpg"
       }
     ]
   },
   {
     "id": 13,
-    "image": "src/assets/kayu manis/13.jpg",
-    "image2": "src/assets/kayu manis/5.jpg",
-    "image3": "src/assets/kayu manis/6.jpg",
-    "image4": "src/assets/kayu manis/8.jpg",
+    "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172666/dieng/kayumanis/13_qib4xa.jpg",
+    "image2": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172662/dieng/kayumanis/5_xyts1t.jpg",
+    "image3": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172668/dieng/kayumanis/6_go3p58.png",
+    "image4": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172667/dieng/kayumanis/8_bdd3yt.png",
     "headTitle": "COTTAGE LUMBUNG KAYUMANIS SKOTER",
     "title": "Cottage Lumbung Kayumanis Skoter",
     "price": "Rp. 1.000.000/Night",
@@ -1564,45 +1276,45 @@
     ],
     "gallery": [
       {
-        "original": "../src/assets/kayu manis/13.jpg",
-        "thumbnail": "../src/assets/kayu manis/13.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172666/dieng/kayumanis/13_qib4xa.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172666/dieng/kayumanis/13_qib4xa.jpg"
       },
       {
-        "original": "../src/assets/kayu manis/5.jpg",
-        "thumbnail": "../src/assets/kayu manis/5.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172662/dieng/kayumanis/5_xyts1t.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172662/dieng/kayumanis/5_xyts1t.jpg"
       },
       {
-        "original": "../src/assets/kayu manis/6.jpg",
-        "thumbnail": "../src/assets/kayu manis/6.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172668/dieng/kayumanis/6_go3p58.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172668/dieng/kayumanis/6_go3p58.png"
       },
       {
-        "original": "../src/assets/kayu manis/8.jpg",
-        "thumbnail": "../src/assets/kayu manis/8.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172667/dieng/kayumanis/8_bdd3yt.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172667/dieng/kayumanis/8_bdd3yt.png"
       },
       {
-        "original": "../src/assets/kayu manis/2.jpg",
-        "thumbnail": "../src/assets/kayu manis/2.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172660/dieng/kayumanis/2_zlzegy.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172660/dieng/kayumanis/2_zlzegy.jpg"
       },
       {
-        "original": "../src/assets/kayu manis/3.jpg",
-        "thumbnail": "../src/assets/kayu manis/3.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172661/dieng/kayumanis/3_xlbhwv.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172661/dieng/kayumanis/3_xlbhwv.jpg"
       },
       {
-        "original": "../src/assets/kayu manis/4.jpg",
-        "thumbnail": "../src/assets/kayu manis/4.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172661/dieng/kayumanis/4_asgfqb.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172661/dieng/kayumanis/4_asgfqb.jpg"
       },
       {
-        "original": "../src/assets/kayu manis/.jpg",
-        "thumbnail": "../src/assets/kayu manis/.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172677/dieng/kayumanis/7_ysmdea.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172677/dieng/kayumanis/7_ysmdea.png"
       }
     ]
   },
   {
     "id": 14,
-    "image": "src/assets/lazio cottage dieng/1.jpeg",
-    "image2": "src/assets/lazio cottage dieng/2.jpeg",
-    "image3": "src/assets/lazio cottage dieng/3.jpeg",
-    "image4": "src/assets/lazio cottage dieng/4.jpeg",
+    "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174881/dieng/laziocottage/1_vjnfl2.jpg",
+    "image2": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174881/dieng/laziocottage/2_imrprm.jpg",
+    "image3": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174882/dieng/laziocottage/3_foqoay.jpg",
+    "image4": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174882/dieng/laziocottage/4_qjohv0.jpg",
     "headTitle": "LAZIO COTTAGE DIENG",
     "title": "Lazio Cottage Dieng",
     "price": "Rp. 1.100.000/Night",
@@ -1662,45 +1374,45 @@
     ],
     "gallery": [
       {
-        "original": "../src/assets/lazio cottage dieng/1.jpeg",
-        "thumbnail": "../src/assets/lazio cottage dieng/1.jpeg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174881/dieng/laziocottage/1_vjnfl2.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174881/dieng/laziocottage/1_vjnfl2.jpg"
       },
       {
-        "original": "../src/assets/lazio cottage dieng/2.jpeg",
-        "thumbnail": "../src/assets/lazio cottage dieng/2.jpeg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174881/dieng/laziocottage/2_imrprm.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174881/dieng/laziocottage/2_imrprm.jpg"
       },
       {
-        "original": "../src/assets/lazio cottage dieng/3.jpeg",
-        "thumbnail": "../src/assets/lazio cottage dieng/3.jpeg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174882/dieng/laziocottage/3_foqoay.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174882/dieng/laziocottage/3_foqoay.jpg"
       },
       {
-        "original": "../src/assets/lazio cottage dieng/4.jpeg",
-        "thumbnail": "../src/assets/lazio cottage dieng/4.jpeg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174882/dieng/laziocottage/4_qjohv0.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174882/dieng/laziocottage/4_qjohv0.jpg"
       },
       {
-        "original": "../src/assets/lazio cottage dieng/5.jpeg",
-        "thumbnail": "../src/assets/lazio cottage dieng/5.jpeg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174883/dieng/laziocottage/5_wswww2.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174883/dieng/laziocottage/5_wswww2.jpg"
       },
       {
-        "original": "../src/assets/lazio cottage dieng/6.jpeg",
-        "thumbnail": "../src/assets/lazio cottage dieng/6.jpeg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174884/dieng/laziocottage/6_zurjrl.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174884/dieng/laziocottage/6_zurjrl.jpg"
       },
       {
-        "original": "../src/assets/lazio cottage dieng/7.jpeg",
-        "thumbnail": "../src/assets/lazio cottage dieng/7.jpeg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174885/dieng/laziocottage/7_yewqym.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174885/dieng/laziocottage/7_yewqym.jpg"
       },
       {
-        "original": "../src/assets/lazio cottage dieng/8.jpeg",
-        "thumbnail": "../src/assets/lazio cottage dieng/8.jpeg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174886/dieng/laziocottage/8_ckemmx.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174886/dieng/laziocottage/8_ckemmx.jpg"
       }
     ]
   },
   {
     "id": 15,
-    "image": "src/assets/oemar cabin/2.jpg",
-    "image2": "src/assets/oemar cabin/3.jpg",
-    "image3": "src/assets/oemar cabin/4.jpg",
-    "image4": "src/assets/oemar cabin/7.jpg",
+    "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174932/dieng/oemarcabin/2_thj5kx.jpg",
+    "image2": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174933/dieng/oemarcabin/3_uq4sly.jpg",
+    "image3": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174934/dieng/oemarcabin/4_trhueq.jpg",
+    "image4": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174937/dieng/oemarcabin/7_bckgj3.jpg",
     "headTitle": "OEMAR CABIN DIENG",
     "title": "Oemar Cabin Dieng",
     "price": "Rp. 1.050.000/Night",
@@ -1744,57 +1456,57 @@
     ],
     "gallery": [
       {
-        "original": "../src/assets/oemar cabin/2.jpg",
-        "thumbnail": "../src/assets/oemar cabin/2.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174932/dieng/oemarcabin/2_thj5kx.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174932/dieng/oemarcabin/2_thj5kx.jpg"
       },
       {
-        "original": "../src/assets/oemar cabin/3.jpg",
-        "thumbnail": "../src/assets/oemar cabin/3.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174933/dieng/oemarcabin/3_uq4sly.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174933/dieng/oemarcabin/3_uq4sly.jpg"
       },
       {
-        "original": "../src/assets/oemar cabin/4.jpg",
-        "thumbnail": "../src/assets/oemar cabin/4.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174934/dieng/oemarcabin/4_trhueq.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174934/dieng/oemarcabin/4_trhueq.jpg"
       },
       {
-        "original": "../src/assets/oemar cabin/7.jpg",
-        "thumbnail": "../src/assets/oemar cabin/7.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174937/dieng/oemarcabin/7_bckgj3.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174937/dieng/oemarcabin/7_bckgj3.jpg"
       },
       {
-        "original": "../src/assets/oemar cabin/5.jpg",
-        "thumbnail": "../src/assets/oemar cabin/5.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174935/dieng/oemarcabin/5_vxqx9f.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174935/dieng/oemarcabin/5_vxqx9f.jpg"
       },
       {
-        "original": "../src/assets/oemar cabin/6.jpg",
-        "thumbnail": "../src/assets/oemar cabin/6.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174936/dieng/oemarcabin/6_vorurx.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174936/dieng/oemarcabin/6_vorurx.jpg"
       },
       {
-        "original": "../src/assets/oemar cabin/8.jpg",
-        "thumbnail": "../src/assets/oemar cabin/8.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174938/dieng/oemarcabin/8_nqj6fn.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174938/dieng/oemarcabin/8_nqj6fn.jpg"
       },
       {
-        "original": "../src/assets/oemar cabin/9.jpg",
-        "thumbnail": "../src/assets/oemar cabin/9.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174939/dieng/oemarcabin/9_mabbfj.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174939/dieng/oemarcabin/9_mabbfj.jpg"
       },
       {
-        "original": "../src/assets/oemar cabin/10.jpg",
-        "thumbnail": "../src/assets/oemar cabin/10.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174940/dieng/oemarcabin/10_z0bmq3.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174940/dieng/oemarcabin/10_z0bmq3.jpg"
       },
       {
-        "original": "../src/assets/oemar cabin/11.jpg",
-        "thumbnail": "../src/assets/oemar cabin/11.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174941/dieng/oemarcabin/11_otf8qw.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174941/dieng/oemarcabin/11_otf8qw.jpg"
       },
       {
-        "original": "../src/assets/oemar cabin/12.jpg",
-        "thumbnail": "../src/assets/oemar cabin/12.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174942/dieng/oemarcabin/12_y9wsmv.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174942/dieng/oemarcabin/12_y9wsmv.jpg"
       }
     ]
   },
   {
     "id": 16,
-    "image": "src/assets/villio 1/13.jpg",
-    "image2": "src/assets/villio 1/2.jpg",
-    "image3": "src/assets/villio 1/11.jpg",
-    "image4": "src/assets/villio 1/5.jpg",
+    "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175053/dieng/vilio/13_uvmexj.jpg",
+    "image2": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175046/dieng/vilio/2_osglii.png",
+    "image3": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175052/dieng/vilio/11_cxbqxr.jpg",
+    "image4": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175047/dieng/vilio/5_vf7we5.jpg",
     "headTitle": "VILIO CABIN DIENG",
     "title": "Vilio Cabin Dieng",
     "price": "Rp. 1.050.000/Night",
@@ -1854,45 +1566,45 @@
     ],
     "gallery": [
       {
-        "original": "../src/assets/villio 1/13.jpg",
-        "thumbnail": "../src/assets/villio 1/13.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175053/dieng/vilio/13_uvmexj.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175053/dieng/vilio/13_uvmexj.jpg"
       },
       {
-        "original": "../src/assets/villio 1/2.jpg",
-        "thumbnail": "../src/assets/villio 1/2.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175046/dieng/vilio/2_osglii.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175046/dieng/vilio/2_osglii.png"
       },
       {
-        "original": "../src/assets/villio 1/11.jpg",
-        "thumbnail": "../src/assets/villio 1/11.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175052/dieng/vilio/11_cxbqxr.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175052/dieng/vilio/11_cxbqxr.jpg"
       },
       {
-        "original": "../src/assets/villio 1/5.jpg",
-        "thumbnail": "../src/assets/villio 1/5.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175047/dieng/vilio/5_vf7we5.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175047/dieng/vilio/5_vf7we5.jpg"
       },
       {
-        "original": "../src/assets/villio 1/4.jpg",
-        "thumbnail": "../src/assets/villio 1/4.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175046/dieng/vilio/4_brbnfa.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175046/dieng/vilio/4_brbnfa.jpg"
       },
       {
-        "original": "../src/assets/villio 1/7.jpg",
-        "thumbnail": "../src/assets/villio 1/7.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175048/dieng/vilio/7_xxsujj.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175048/dieng/vilio/7_xxsujj.jpg"
       },
       {
-        "original": "../src/assets/villio 1/8.jpg",
-        "thumbnail": "../src/assets/villio 1/8.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175050/dieng/vilio/8_hi99o7.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175050/dieng/vilio/8_hi99o7.jpg"
       },
       {
-        "original": "../src/assets/villio 1/10.jpg",
-        "thumbnail": "../src/assets/villio 1/10.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175051/dieng/vilio/10_vbf9hx.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175051/dieng/vilio/10_vbf9hx.jpg"
       }
     ]
   },
   {
     "id": 17,
-    "image": "src/assets/villio 2 cabin/15.jpg",
-    "image2": "src/assets/villio 2 cabin/2.jpg",
-    "image3": "src/assets/villio 2 cabin/4.jpg",
-    "image4": "src/assets/villio 2 cabin/11.jpg",
+    "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175106/dieng/villio2/15_djqutx.jpg",
+    "image2": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175093/dieng/villio2/2_n8dbxw.jpg",
+    "image3": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175095/dieng/villio2/4_tnwoq1.jpg",
+    "image4": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175104/dieng/villio2/11_zsulv2.jpg",
     "headTitle": "CABIN DIENG VILIO 2",
     "title": "Cabin Dieng Vilio 2",
     "price": "Rp. 1.100.000/Night",
@@ -1952,57 +1664,57 @@
     ],
     "gallery": [
       {
-        "original": "../src/assets/villio 2 cabin/15.jpg",
-        "thumbnail": "../src/assets/villio 2 cabin/15.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175106/dieng/villio2/15_djqutx.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175106/dieng/villio2/15_djqutx.jpg"
       },
       {
-        "original": "../src/assets/villio 2 cabin/2.jpg",
-        "thumbnail": "../src/assets/villio 2 cabin/2.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175093/dieng/villio2/2_n8dbxw.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175093/dieng/villio2/2_n8dbxw.jpg"
       },
       {
-        "original": "../src/assets/villio 2 cabin/4.jpg",
-        "thumbnail": "../src/assets/villio 2 cabin/4.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175095/dieng/villio2/4_tnwoq1.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175095/dieng/villio2/4_tnwoq1.jpg"
       },
       {
-        "original": "../src/assets/villio 2 cabin/11.jpg",
-        "thumbnail": "../src/assets/villio 2 cabin/11.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175104/dieng/villio2/11_zsulv2.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175104/dieng/villio2/11_zsulv2.jpg"
       },
       {
-        "original": "../src/assets/villio 2 cabin/3.jpg",
-        "thumbnail": "../src/assets/villio 2 cabin/3.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175094/dieng/villio2/3_fbp2rl.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175094/dieng/villio2/3_fbp2rl.jpg"
       },
       {
-        "original": "../src/assets/villio 2 cabin/5.jpg",
-        "thumbnail": "../src/assets/villio 2 cabin/5.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175097/dieng/villio2/5_lgdmqt.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175097/dieng/villio2/5_lgdmqt.jpg"
       },
       {
-        "original": "../src/assets/villio 2 cabin/6.jpg",
-        "thumbnail": "../src/assets/villio 2 cabin/6.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175097/dieng/villio2/5_lgdmqt.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175097/dieng/villio2/5_lgdmqt.jpg"
       },
       {
-        "original": "../src/assets/villio 2 cabin/7.jpg",
-        "thumbnail": "../src/assets/villio 2 cabin/7.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175099/dieng/villio2/7_dkwfdy.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175099/dieng/villio2/7_dkwfdy.jpg"
       },
       {
-        "original": "../src/assets/villio 2 cabin/8.jpg",
-        "thumbnail": "../src/assets/villio 2 cabin/8.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175101/dieng/villio2/8_jepqyh.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175101/dieng/villio2/8_jepqyh.jpg"
       },
       {
-        "original": "../src/assets/villio 2 cabin/9.jpg",
-        "thumbnail": "../src/assets/villio 2 cabin/9.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175101/dieng/villio2/9_o9q7xx.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175101/dieng/villio2/9_o9q7xx.jpg"
       },
       {
-        "original": "../src/assets/villio 2 cabin/10.jpg",
-        "thumbnail": "../src/assets/villio 2 cabin/10.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175103/dieng/villio2/10_ffubdt.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175103/dieng/villio2/10_ffubdt.jpg"
       }
     ]
   },
   {
     "id": 18,
-    "image": "src/assets/yayan cabin/1.jpg",
-    "image2": "src/assets/yayan cabin/2.jpg",
-    "image3": "src/assets/yayan cabin/3.jpg",
-    "image4": "src/assets/yayan cabin/4.jpg",
+    "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175142/dieng/yayan/1_zxw9bt.jpg",
+    "image2": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175143/dieng/yayan/2_jkowbq.jpg",
+    "image3": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175145/dieng/yayan/3_u0fp4x.jpg",
+    "image4": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175146/dieng/yayan/4_akyb3n.jpg",
     "headTitle": "COTTAGE DIENG YAYAN",
     "title": "Cottage Dieng Yayan",
     "price": "Rp. 1.100.000/Night",
@@ -2062,49 +1774,49 @@
     ],
     "gallery": [
       {
-        "original": "../src/assets/yayan cabin/1.jpg",
-        "thumbnail": "../src/assets/yayan cabin/1.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175142/dieng/yayan/1_zxw9bt.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175142/dieng/yayan/1_zxw9bt.jpg"
       },
       {
-        "original": "../src/assets/yayan cabin/2.jpg",
-        "thumbnail": "../src/assets/yayan cabin/2.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175143/dieng/yayan/2_jkowbq.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175143/dieng/yayan/2_jkowbq.jpg"
       },
       {
-        "original": "../src/assets/yayan cabin/3.jpg",
-        "thumbnail": "../src/assets/yayan cabin/3.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175145/dieng/yayan/3_u0fp4x.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175145/dieng/yayan/3_u0fp4x.jpg"
       },
       {
-        "original": "../src/assets/yayan cabin/4.jpg",
-        "thumbnail": "../src/assets/yayan cabin/4.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175146/dieng/yayan/4_akyb3n.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175146/dieng/yayan/4_akyb3n.jpg"
       },
       {
-        "original": "../src/assets/yayan cabin/5.jpg",
-        "thumbnail": "../src/assets/yayan cabin/5.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175147/dieng/yayan/5_xsvbie.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175147/dieng/yayan/5_xsvbie.jpg"
       },
       {
-        "original": "../src/assets/yayan cabin/6.jpg",
-        "thumbnail": "../src/assets/yayan cabin/6.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175148/dieng/yayan/6_poaxr9.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175148/dieng/yayan/6_poaxr9.jpg"
       },
       {
-        "original": "../src/assets/yayan cabin/7.jpg",
-        "thumbnail": "../src/assets/yayan cabin/7.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175150/dieng/yayan/7_ko6fre.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175150/dieng/yayan/7_ko6fre.jpg"
       },
       {
-        "original": "../src/assets/yayan cabin/8.jpg",
-        "thumbnail": "../src/assets/yayan cabin/8.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175152/dieng/yayan/8_g4b2mq.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175152/dieng/yayan/8_g4b2mq.jpg"
       },
       {
-        "original": "../src/assets/yayan cabin/9.jpg",
-        "thumbnail": "../src/assets/yayan cabin/9.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175152/dieng/yayan/9_x5qoay.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175152/dieng/yayan/9_x5qoay.jpg"
       }
     ]
   },
   {
     "id": 19,
-    "image": "src/assets/homestay/cantigi/8.jpg",
-    "image2": "src/assets/homestay/cantigi/6.jpg",
-    "image3": "src/assets/homestay/cantigi/42.jpg",
-    "image4": "src/assets/homestay/cantigi/7.jpg",
+    "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175450/dieng/homestay-cantigi/8_qbp3af.jpg",
+    "image2": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175446/dieng/homestay-cantigi/6_supsok.jpg",
+    "image3": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175457/dieng/homestay-cantigi/42_lwxtry.jpg",
+    "image4": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175448/dieng/homestay-cantigi/7_uua7mi.jpg",
     "headTitle": "CANTIGI DIENG VILLA",
     "title": "Cantigi Dieng Villa",
     "price": "Rp. 1.200.000/Night",
@@ -2160,57 +1872,53 @@
     ],
     "gallery": [
       {
-        "original": "../src/assets/homestay/cantigi/8.jpg",
-        "thumbnail": "../src/assets/homestay/cantigi/8.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175450/dieng/homestay-cantigi/8_qbp3af.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175450/dieng/homestay-cantigi/8_qbp3af.jpg"
       },
       {
-        "original": "../src/assets/homestay/cantigi/6.jpg",
-        "thumbnail": "../src/assets/homestay/cantigi/6.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175446/dieng/homestay-cantigi/6_supsok.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175446/dieng/homestay-cantigi/6_supsok.jpg"
       },
       {
-        "original": "../src/assets/homestay/cantigi/42.jpg",
-        "thumbnail": "../src/assets/homestay/cantigi/42.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175457/dieng/homestay-cantigi/42_lwxtry.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175457/dieng/homestay-cantigi/42_lwxtry.jpg"
       },
       {
-        "original": "../src/assets/homestay/cantigi/42.jpg",
-        "thumbnail": "../src/assets/homestay/cantigi/42.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175448/dieng/homestay-cantigi/7_uua7mi.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175448/dieng/homestay-cantigi/7_uua7mi.jpg"
       },
       {
-        "original": "../src/assets/homestay/cantigi/7.jpg",
-        "thumbnail": "../src/assets/homestay/cantigi/7.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175451/dieng/homestay-cantigi/9_hfkfl6.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175451/dieng/homestay-cantigi/9_hfkfl6.jpg"
       },
       {
-        "original": "../src/assets/homestay/cantigi/9.jpg",
-        "thumbnail": "../src/assets/homestay/cantigi/9.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175452/dieng/homestay-cantigi/10_qy1ug4.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175452/dieng/homestay-cantigi/10_qy1ug4.jpg"
       },
       {
-        "original": "../src/assets/homestay/cantigi/10.jpg",
-        "thumbnail": "../src/assets/homestay/cantigi/10.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175454/dieng/homestay-cantigi/14_gysu7x.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175454/dieng/homestay-cantigi/14_gysu7x.jpg"
       },
       {
-        "original": "../src/assets/homestay/cantigi/14.jpg",
-        "thumbnail": "../src/assets/homestay/cantigi/14.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175454/dieng/homestay-cantigi/22_cwffae.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175454/dieng/homestay-cantigi/22_cwffae.jpg"
       },
       {
-        "original": "../src/assets/homestay/cantigi/22.jpg",
-        "thumbnail": "../src/assets/homestay/cantigi/22.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175456/dieng/homestay-cantigi/32_ogumya.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175456/dieng/homestay-cantigi/32_ogumya.jpg"
       },
       {
-        "original": "../src/assets/homestay/cantigi/32.jpg",
-        "thumbnail": "../src/assets/homestay/cantigi/32.jpg"
-      },
-      {
-        "original": "../src/assets/homestay/cantigi/52.jpg",
-        "thumbnail": "../src/assets/homestay/cantigi/52.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175459/dieng/homestay-cantigi/52_bbdt9r.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175459/dieng/homestay-cantigi/52_bbdt9r.jpg"
       }
     ]
   },
   {
     "id": 20,
-    "image": "src/assets/homestay/didin/15.jpg",
-    "image2": "src/assets/homestay/didin/22.jpg",
-    "image3": "src/assets/homestay/didin/32.jpg",
-    "image4": "src/assets/homestay/didin/42.jpg",
+    "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175620/dieng/homestay-didin/15_k7qotl.png",
+    "image2": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175624/dieng/homestay-didin/22_npxlpf.png",
+    "image3": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175622/dieng/homestay-didin/32_chmujz.png",
+    "image4": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175621/dieng/homestay-didin/42_vlcmva.png",
     "headTitle": "HOMESTAY DIDIN DIENG",
     "title": "Homestay Didin Dieng",
     "price": "Rp. 900.000/Night",
@@ -2266,33 +1974,33 @@
     ],
     "gallery": [
       {
-        "original": "../src/assets/homestay/didin/15.jpg",
-        "thumbnail": "../src/assets/homestay/didin/15.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175620/dieng/homestay-didin/15_k7qotl.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175620/dieng/homestay-didin/15_k7qotl.png"
       },
       {
-        "original": "../src/assets/homestay/didin/22.jpg",
-        "thumbnail": "../src/assets/homestay/didin/22.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175624/dieng/homestay-didin/22_npxlpf.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175624/dieng/homestay-didin/22_npxlpf.png"
       },
       {
-        "original": "../src/assets/homestay/didin/32.jpg",
-        "thumbnail": "../src/assets/homestay/didin/32.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175622/dieng/homestay-didin/32_chmujz.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175622/dieng/homestay-didin/32_chmujz.png"
       },
       {
-        "original": "../src/assets/homestay/didin/42.jpg",
-        "thumbnail": "../src/assets/homestay/didin/42.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175621/dieng/homestay-didin/42_vlcmva.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175621/dieng/homestay-didin/42_vlcmva.png"
       },
       {
-        "original": "../src/assets/homestay/didin/52.jpg",
-        "thumbnail": "../src/assets/homestay/didin/52.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175624/dieng/homestay-didin/52_kejbmn.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175624/dieng/homestay-didin/52_kejbmn.png"
       }
     ]
   },
   {
     "id": 21,
-    "image": "src/assets/homestay/homestay adi opi dieng/15.jpg",
-    "image2": "src/assets/homestay/homestay adi opi dieng/2.jpg",
-    "image3": "src/assets/homestay/homestay adi opi dieng/3.jpg",
-    "image4": "src/assets/homestay/homestay adi opi dieng/6.jpg",
+    "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175888/dieng/homestay-adiopi/15_oaxmvt.png",
+    "image2": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175877/dieng/homestay-adiopi/2_clfvdr.png",
+    "image3": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175881/dieng/homestay-adiopi/3_ca3way.png    ",
+    "image4": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175881/dieng/homestay-adiopi/6_foytez.png",
     "headTitle": "HOMESTAY ADI OPI DIENG",
     "title": "Homestay Adi Opi Dieng",
     "price": "Rp. 1.500.000/Night",
@@ -2348,57 +2056,57 @@
     ],
     "gallery": [
       {
-        "original": "../src/assets/homestay/homestay adi opi dieng/15.jpg",
-        "thumbnail": "../src/assets/homestay/homestay adi opi dieng/15.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175888/dieng/homestay-adiopi/15_oaxmvt.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175888/dieng/homestay-adiopi/15_oaxmvt.png"
       },
       {
-        "original": "../src/assets/homestay/homestay adi opi dieng/2.jpg",
-        "thumbnail": "../src/assets/homestay/homestay adi opi dieng/2.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175877/dieng/homestay-adiopi/2_clfvdr.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175877/dieng/homestay-adiopi/2_clfvdr.png"
       },
       {
-        "original": "../src/assets/homestay/homestay adi opi dieng/3.jpg",
-        "thumbnail": "../src/assets/homestay/homestay adi opi dieng/3.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175881/dieng/homestay-adiopi/3_ca3way.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175881/dieng/homestay-adiopi/3_ca3way.png"
       },
       {
-        "original": "../src/assets/homestay/homestay adi opi dieng/6.jpg",
-        "thumbnail": "../src/assets/homestay/homestay adi opi dieng/6.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175881/dieng/homestay-adiopi/6_foytez.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175881/dieng/homestay-adiopi/6_foytez.png"
       },
       {
-        "original": "../src/assets/homestay/homestay adi opi dieng/4.jpg",
-        "thumbnail": "../src/assets/homestay/homestay adi opi dieng/4.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175879/dieng/homestay-adiopi/4_zk6iri.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175879/dieng/homestay-adiopi/4_zk6iri.png"
       },
       {
-        "original": "../src/assets/homestay/homestay adi opi dieng/7.jpg",
-        "thumbnail": "../src/assets/homestay/homestay adi opi dieng/7.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175883/dieng/homestay-adiopi/7_jssb1q.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175883/dieng/homestay-adiopi/7_jssb1q.png"
       },
       {
-        "original": "../src/assets/homestay/homestay adi opi dieng/8.jpg",
-        "thumbnail": "../src/assets/homestay/homestay adi opi dieng/8.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175888/dieng/homestay-adiopi/8_ucyzic.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175888/dieng/homestay-adiopi/8_ucyzic.png"
       },
       {
-        "original": "../src/assets/homestay/homestay adi opi dieng/12.jpg",
-        "thumbnail": "../src/assets/homestay/homestay adi opi dieng/12.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175886/dieng/homestay-adiopi/12_peitpk.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175886/dieng/homestay-adiopi/12_peitpk.png"
       },
       {
-        "original": "../src/assets/homestay/homestay adi opi dieng/16.jpg",
-        "thumbnail": "../src/assets/homestay/homestay adi opi dieng/16.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175889/dieng/homestay-adiopi/16_poztm5.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175889/dieng/homestay-adiopi/16_poztm5.jpg"
       },
       {
-        "original": "../src/assets/homestay/homestay adi opi dieng/17.jpg",
-        "thumbnail": "../src/assets/homestay/homestay adi opi dieng/17.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175890/dieng/homestay-adiopi/17_qo6907.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175890/dieng/homestay-adiopi/17_qo6907.jpg"
       },
       {
-        "original": "../src/assets/homestay/homestay adi opi dieng/52.jpg",
-        "thumbnail": "../src/assets/homestay/homestay adi opi dieng/52.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175893/dieng/homestay-adiopi/52_sosmxv.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716175893/dieng/homestay-adiopi/52_sosmxv.png"
       }
     ]
   },
   {
     "id": 22,
-    "image": "src/assets/homestay/homestay anam 1/16.jpg",
-    "image2": "src/assets/homestay/homestay anam 1/22.jpg",
-    "image3": "src/assets/homestay/homestay anam 1/32.jpg",
-    "image4": "src/assets/homestay/homestay anam 1/7.jpg",
+    "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716176909/dieng/homestay-anam/16_hjrosm.png",
+    "image2": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716176914/dieng/homestay-anam/22_kiuxis.png",
+    "image3": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716176910/dieng/homestay-anam/32_i4ojla.png",
+    "image4": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716176910/dieng/homestay-anam/7_cnn2mx.png",
     "headTitle": "HOMESTAY ANAM 1 DIENG",
     "title": "Homestay Anam Dieng",
     "price": "Rp. 1.500.000/Night",
@@ -2450,45 +2158,45 @@
     ],
     "gallery": [
       {
-        "original": "../src/assets/homestay/homestay anam 1/16.jpg",
-        "thumbnail": "../src/assets/homestay/homestay anam 1/16.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716176909/dieng/homestay-anam/16_hjrosm.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716176909/dieng/homestay-anam/16_hjrosm.png"
       },
       {
-        "original": "../src/assets/homestay/homestay anam 1/22.jpg",
-        "thumbnail": "../src/assets/homestay/homestay anam 1/22.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716176914/dieng/homestay-anam/22_kiuxis.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716176914/dieng/homestay-anam/22_kiuxis.png"
       },
       {
-        "original": "../src/assets/homestay/homestay anam 1/32.jpg",
-        "thumbnail": "../src/assets/homestay/homestay anam 1/32.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716176910/dieng/homestay-anam/32_i4ojla.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716176910/dieng/homestay-anam/32_i4ojla.png"
       },
       {
-        "original": "../src/assets/homestay/homestay anam 1/7.jpg",
-        "thumbnail": "../src/assets/homestay/homestay anam 1/7.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716176910/dieng/homestay-anam/7_cnn2mx.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716176910/dieng/homestay-anam/7_cnn2mx.png"
       },
       {
-        "original": "../src/assets/homestay/homestay anam 1/6.jpg",
-        "thumbnail": "../src/assets/homestay/homestay anam 1/6.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716176903/dieng/homestay-anam/6_e5jlgo.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716176903/dieng/homestay-anam/6_e5jlgo.png"
       },
       {
-        "original": "../src/assets/homestay/homestay anam 1/8.jpg",
-        "thumbnail": "../src/assets/homestay/homestay anam 1/8.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716176909/dieng/homestay-anam/8_ie01jp.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716176909/dieng/homestay-anam/8_ie01jp.png"
       },
       {
-        "original": "../src/assets/homestay/homestay anam 1/42.jpg",
-        "thumbnail": "../src/assets/homestay/homestay anam 1/42.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716176916/dieng/homestay-anam/42_ckzxwv.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716176916/dieng/homestay-anam/42_ckzxwv.png"
       },
       {
-        "original": "../src/assets/homestay/homestay anam 1/52.jpg",
-        "thumbnail": "../src/assets/homestay/homestay anam 1/52.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716176916/dieng/homestay-anam/52_baaujd.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716176916/dieng/homestay-anam/52_baaujd.png"
       }
     ]
   },
   {
     "id": 23,
-    "image": "src/assets/homestay/homestay bon dieng/9.jpg",
-    "image2": "src/assets/homestay/homestay bon dieng/1.jpg",
-    "image3": "src/assets/homestay/homestay bon dieng/2.jpg",
-    "image4": "src/assets/homestay/homestay bon dieng/3.jpg",
+    "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177046/dieng/homestay-bondieng/9_biedcm.jpg",
+    "image2": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177029/dieng/homestay-bondieng/1_hpl5a1.jpg",
+    "image3": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177031/dieng/homestay-bondieng/2_sphnlm.jpg",
+    "image4": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177033/dieng/homestay-bondieng/3_nu9dun.jpg",
     "headTitle": "HOMESTAY PANGESTU DIENG",
     "title": "Homestay Pangestu Dieng",
     "price": "Rp. 1.700.000/Night",
@@ -2540,93 +2248,89 @@
     ],
     "gallery": [
       {
-        "original": "../src/assets/homestay/homestay bon dieng/9.jpg",
-        "thumbnail": "../src/assets/homestay/homestay bon dieng/9.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177046/dieng/homestay-bondieng/9_biedcm.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177046/dieng/homestay-bondieng/9_biedcm.jpg"
       },
       {
-        "original": "../src/assets/homestay/homestay bon dieng/1.jpg",
-        "thumbnail": "../src/assets/homestay/homestay bon dieng/1.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177029/dieng/homestay-bondieng/1_hpl5a1.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177029/dieng/homestay-bondieng/1_hpl5a1.jpg"
       },
       {
-        "original": "../src/assets/homestay/homestay bon dieng/2.jpg",
-        "thumbnail": "../src/assets/homestay/homestay bon dieng/2.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177031/dieng/homestay-bondieng/2_sphnlm.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177031/dieng/homestay-bondieng/2_sphnlm.jpg"
       },
       {
-        "original": "../src/assets/homestay/homestay bon dieng/3.jpg",
-        "thumbnail": "../src/assets/homestay/homestay bon dieng/3.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177033/dieng/homestay-bondieng/3_nu9dun.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177033/dieng/homestay-bondieng/3_nu9dun.jpg"
       },
       {
-        "original": "../src/assets/homestay/homestay bon dieng/4.jpg",
-        "thumbnail": "../src/assets/homestay/homestay bon dieng/4.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177035/dieng/homestay-bondieng/4_zp5l2e.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177035/dieng/homestay-bondieng/4_zp5l2e.jpg"
       },
       {
-        "original": "../src/assets/homestay/homestay bon dieng/5.jpg",
-        "thumbnail": "../src/assets/homestay/homestay bon dieng/5.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177036/dieng/homestay-bondieng/5_hjlmpq.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177036/dieng/homestay-bondieng/5_hjlmpq.jpg"
       },
       {
-        "original": "../src/assets/homestay/homestay bon dieng/6.jpg",
-        "thumbnail": "../src/assets/homestay/homestay bon dieng/6.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177038/dieng/homestay-bondieng/6_ehexbl.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177038/dieng/homestay-bondieng/6_ehexbl.jpg"
       },
       {
-        "original": "../src/assets/homestay/homestay bon dieng/7.jpg",
-        "thumbnail": "../src/assets/homestay/homestay bon dieng/7.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177040/dieng/homestay-bondieng/7_fmwv9b.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177040/dieng/homestay-bondieng/7_fmwv9b.jpg"
       },
       {
-        "original": "../src/assets/homestay/homestay bon dieng/8.jpg",
-        "thumbnail": "../src/assets/homestay/homestay bon dieng/8.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177041/dieng/homestay-bondieng/8_sa2tfn.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177041/dieng/homestay-bondieng/8_sa2tfn.jpg"
       },
       {
-        "original": "../src/assets/homestay/homestay bon dieng/10.jpg",
-        "thumbnail": "../src/assets/homestay/homestay bon dieng/10.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177045/dieng/homestay-bondieng/10_nldoy9.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177045/dieng/homestay-bondieng/10_nldoy9.jpg"
       },
       {
-        "original": "../src/assets/homestay/homestay bon dieng/10.jpg",
-        "thumbnail": "../src/assets/homestay/homestay bon dieng/10.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177050/dieng/homestay-bondieng/11_rvsqz0.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177050/dieng/homestay-bondieng/11_rvsqz0.jpg"
       },
       {
-        "original": "../src/assets/homestay/homestay bon dieng/11.jpg",
-        "thumbnail": "../src/assets/homestay/homestay bon dieng/11.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177050/dieng/homestay-bondieng/12_jozawh.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177050/dieng/homestay-bondieng/12_jozawh.jpg"
       },
       {
-        "original": "../src/assets/homestay/homestay bon dieng/12.jpg",
-        "thumbnail": "../src/assets/homestay/homestay bon dieng/12.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177050/dieng/homestay-bondieng/13_f44f5g.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177050/dieng/homestay-bondieng/13_f44f5g.jpg"
       },
       {
-        "original": "../src/assets/homestay/homestay bon dieng/13.jpg",
-        "thumbnail": "../src/assets/homestay/homestay bon dieng/13.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177055/dieng/homestay-bondieng/14_iey5su.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177055/dieng/homestay-bondieng/14_iey5su.jpg"
       },
       {
-        "original": "../src/assets/homestay/homestay bon dieng/14.jpg",
-        "thumbnail": "../src/assets/homestay/homestay bon dieng/14.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177055/dieng/homestay-bondieng/15_ognyl0.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177055/dieng/homestay-bondieng/15_ognyl0.jpg"
       },
       {
-        "original": "../src/assets/homestay/homestay bon dieng/15.jpg",
-        "thumbnail": "../src/assets/homestay/homestay bon dieng/15.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177058/dieng/homestay-bondieng/16_rqggbr.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177058/dieng/homestay-bondieng/16_rqggbr.jpg"
       },
       {
-        "original": "../src/assets/homestay/homestay bon dieng/16.jpg",
-        "thumbnail": "../src/assets/homestay/homestay bon dieng/16.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177060/dieng/homestay-bondieng/17_pixd6n.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177060/dieng/homestay-bondieng/17_pixd6n.jpg"
       },
       {
-        "original": "../src/assets/homestay/homestay bon dieng/17.jpg",
-        "thumbnail": "../src/assets/homestay/homestay bon dieng/17.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177064/dieng/homestay-bondieng/18_mvvp4t.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177064/dieng/homestay-bondieng/18_mvvp4t.jpg"
       },
       {
-        "original": "../src/assets/homestay/homestay bon dieng/18.jpg",
-        "thumbnail": "../src/assets/homestay/homestay bon dieng/18.jpg"
-      },
-      {
-        "original": "../src/assets/homestay/homestay bon dieng/19.jpg",
-        "thumbnail": "../src/assets/homestay/homestay bon dieng/19.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177064/dieng/homestay-bondieng/19_h4ylsw.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177064/dieng/homestay-bondieng/19_h4ylsw.jpg"
       }
     ]
   },
   {
     "id": 24,
-    "image": "src/assets/homestay/kembang/16.jpg",
-    "image2": "src/assets/homestay/kembang/7.jpg",
-    "image3": "src/assets/homestay/kembang/8.jpg",
-    "image4": "src/assets/homestay/kembang/13.jpg",
+    "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177416/dieng/homestay-kembang/16_lydkaa.png",
+    "image2": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177412/dieng/homestay-kembang/7_oan3jd.png",
+    "image3": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177412/dieng/homestay-kembang/8_mbytle.png",
+    "image4": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177413/dieng/homestay-kembang/13_e6tngq.png",
     "headTitle": "HOMESTAY KEMBANG DIENG",
     "title": "Homestay Kembang Dieng",
     "price": "Rp. 1.600.000/Night",
@@ -2686,45 +2390,45 @@
     ],
     "gallery": [
       {
-        "original": "../src/assets/homestay/homestay kembang/16.jpg",
-        "thumbnail": "../src/assets/homestay/homestay kembang/16.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177416/dieng/homestay-kembang/16_lydkaa.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177416/dieng/homestay-kembang/16_lydkaa.png"
       },
       {
-        "original": "../src/assets/homestay/homestay kembang/7.jpg",
-        "thumbnail": "../src/assets/homestay/homestay kembang/7.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177412/dieng/homestay-kembang/7_oan3jd.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177412/dieng/homestay-kembang/7_oan3jd.png"
       },
       {
-        "original": "../src/assets/homestay/homestay kembang/8.jpg",
-        "thumbnail": "../src/assets/homestay/homestay kembang/8.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177412/dieng/homestay-kembang/8_mbytle.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177412/dieng/homestay-kembang/8_mbytle.png"
       },
       {
-        "original": "../src/assets/homestay/homestay kembang/13.jpg",
-        "thumbnail": "../src/assets/homestay/homestay kembang/13.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177413/dieng/homestay-kembang/13_e6tngq.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177413/dieng/homestay-kembang/13_e6tngq.png"
       },
       {
-        "original": "../src/assets/homestay/homestay kembang/32.jpg",
-        "thumbnail": "../src/assets/homestay/homestay kembang/32.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177417/dieng/homestay-kembang/32_g2kryh.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177417/dieng/homestay-kembang/32_g2kryh.png"
       },
       {
-        "original": "../src/assets/homestay/homestay kembang/42.jpg",
-        "thumbnail": "../src/assets/homestay/homestay kembang/42.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177418/dieng/homestay-kembang/42_hpfark.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177418/dieng/homestay-kembang/42_hpfark.png"
       },
       {
-        "original": "../src/assets/homestay/homestay kembang/52.jpg",
-        "thumbnail": "../src/assets/homestay/homestay kembang/52.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177421/dieng/homestay-kembang/52_autdb1.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177421/dieng/homestay-kembang/52_autdb1.png"
       },
       {
-        "original": "../src/assets/homestay/homestay kembang/62.jpg",
-        "thumbnail": "../src/assets/homestay/homestay kembang/62.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177422/dieng/homestay-kembang/62_nr3cok.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716177422/dieng/homestay-kembang/62_nr3cok.png"
       }
     ]
   },
   {
     "id": 25,
-    "image": "src/assets/homestay/melia 1/14.jpg",
-    "image2": "src/assets/homestay/melia 1/2.jpg",
-    "image3": "src/assets/homestay/melia 1/3.jpg",
-    "image4": "src/assets/homestay/melia 1/6.jpg",
+    "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255531/dieng/melia1/14_pnqb5y.png",
+    "image2": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255530/dieng/melia1/2_nssjpc.png",
+    "image3": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255530/dieng/melia1/3_qmg6w3.png",
+    "image4": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255532/dieng/melia1/6_vyo775.png",
     "headTitle": "HOMESTAY MELIA 1 DIENG",
     "title": "Homestay Melia 1 Dieng",
     "price": "Rp. 3.100.000/Night",
@@ -2784,45 +2488,45 @@
     ],
     "gallery": [
       {
-        "original": "../src/assets/homestay/melia 1/14.jpg",
-        "thumbnail": "../src/assets/homestay/melia 1/14.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255531/dieng/melia1/14_pnqb5y.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255531/dieng/melia1/14_pnqb5y.png"
       },
       {
-        "original": "../src/assets/homestay/melia 1/2.jpg",
-        "thumbnail": "../src/assets/homestay/melia 1/2.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255530/dieng/melia1/2_nssjpc.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255530/dieng/melia1/2_nssjpc.png"
       },
       {
-        "original": "../src/assets/homestay/melia 1/3.jpg",
-        "thumbnail": "../src/assets/homestay/melia 1/3.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255530/dieng/melia1/3_qmg6w3.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255530/dieng/melia1/3_qmg6w3.png"
       },
       {
-        "original": "../src/assets/homestay/melia 1/6.jpg",
-        "thumbnail": "../src/assets/homestay/melia 1/6.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255532/dieng/melia1/6_vyo775.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255532/dieng/melia1/6_vyo775.png"
       },
       {
-        "original": "../src/assets/homestay/melia 1/4.jpg",
-        "thumbnail": "../src/assets/homestay/melia 1/4.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255533/dieng/melia1/4_giuwuc.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255533/dieng/melia1/4_giuwuc.png"
       },
       {
-        "original": "../src/assets/homestay/melia 1/7.jpg",
-        "thumbnail": "../src/assets/homestay/melia 1/7.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255532/dieng/melia1/7_yl7twx.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255532/dieng/melia1/7_yl7twx.png"
       },
       {
-        "original": "../src/assets/homestay/melia 1/8.jpg",
-        "thumbnail": "../src/assets/homestay/melia 1/8.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255530/dieng/melia1/8_yx4pdo.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255530/dieng/melia1/8_yx4pdo.png"
       },
       {
-        "original": "../src/assets/homestay/melia 1/52.jpg",
-        "thumbnail": "../src/assets/homestay/melia 1/52.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255532/dieng/melia1/52_evzisx.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255532/dieng/melia1/52_evzisx.png"
       }
     ]
   },
   {
     "id": 26,
-    "image": "src/assets/homestay/melia 4/1.png",
-    "image2": "src/assets/homestay/melia 4/2.png",
-    "image3": "src/assets/homestay/melia 4/3.png",
-    "image4": "src/assets/homestay/melia 4/5.png",
+    "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255716/dieng/melia4/1_tn5ljh.png",
+    "image2": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255712/dieng/melia4/2_aqxg8j.png",
+    "image3": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255713/dieng/melia4/3_v4lfoc.png",
+    "image4": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255714/dieng/melia4/5_andaos.png",
     "headTitle": "HOMESTAY MELIA 4 DIENG",
     "title": "Homestay Melia 4 Dieng",
     "price": "Rp. 3.100.000/Night",
@@ -2878,45 +2582,45 @@
     ],
     "gallery": [
       {
-        "original": "../src/assets/homestay/melia 4/1.png",
-        "thumbnail": "../src/assets/homestay/melia 4/1.png"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255716/dieng/melia4/1_tn5ljh.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255716/dieng/melia4/1_tn5ljh.png"
       },
       {
-        "original": "../src/assets/homestay/melia 4/2.png",
-        "thumbnail": "../src/assets/homestay/melia 4/2.png"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255712/dieng/melia4/2_aqxg8j.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255712/dieng/melia4/2_aqxg8j.png"
       },
       {
-        "original": "../src/assets/homestay/melia 4/3.png",
-        "thumbnail": "../src/assets/homestay/melia 4/3.png"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255713/dieng/melia4/3_v4lfoc.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255713/dieng/melia4/3_v4lfoc.png"
       },
       {
-        "original": "../src/assets/homestay/melia 4/5.png",
-        "thumbnail": "../src/assets/homestay/melia 4/5.png"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255714/dieng/melia4/5_andaos.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255714/dieng/melia4/5_andaos.png"
       },
       {
-        "original": "../src/assets/homestay/melia 4/4.png",
-        "thumbnail": "../src/assets/homestay/melia 4/4.png"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255715/dieng/melia4/4_ubvpnt.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255715/dieng/melia4/4_ubvpnt.png"
       },
       {
-        "original": "../src/assets/homestay/melia 4/6.png",
-        "thumbnail": "../src/assets/homestay/melia 4/6.png"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255715/dieng/melia4/6_o301xp.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255715/dieng/melia4/6_o301xp.png"
       },
       {
-        "original": "../src/assets/homestay/melia 4/7.png",
-        "thumbnail": "../src/assets/homestay/melia 4/7.png"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255716/dieng/melia4/7_xyfbby.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255716/dieng/melia4/7_xyfbby.png"
       },
       {
-        "original": "../src/assets/homestay/melia 4/8.png",
-        "thumbnail": "../src/assets/homestay/melia 4/8.png"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255716/dieng/melia4/8_j6betz.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255716/dieng/melia4/8_j6betz.png"
       }
     ]
   },
   {
     "id": 27,
-    "image": "src/assets/homestay/padi imah/17.jpg",
-    "image2": "src/assets/homestay/padi imah/2.jpg",
-    "image3": "src/assets/homestay/padi imah/7.jpg",
-    "image4": "src/assets/homestay/padi imah/8.jpg",
+    "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716256000/dieng/padiimah/17_oiaidy.jpg",
+    "image2": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255993/dieng/padiimah/2_btcawx.jpg",
+    "image3": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255994/dieng/padiimah/7_pllz65.jpg",
+    "image4": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255995/dieng/padiimah/8_ufrj76.jpg",
     "headTitle": "HOMESTAY PADI IMAH",
     "title": "Homestay Padi Imah",
     "price": "Rp. 1.500.000/Night",
@@ -2964,57 +2668,57 @@
     ],
     "gallery": [
       {
-        "original": "../src/assets/homestay/padi imah/17.jpg",
-        "thumbnail": "../src/assets/homestay/padi imah/17.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716256000/dieng/padiimah/17_oiaidy.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716256000/dieng/padiimah/17_oiaidy.jpg"
       },
       {
-        "original": "../src/assets/homestay/padi imah/2.jpg",
-        "thumbnail": "../src/assets/homestay/padi imah/2.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255993/dieng/padiimah/2_btcawx.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255993/dieng/padiimah/2_btcawx.jpg"
       },
       {
-        "original": "../src/assets/homestay/padi imah/7.jpg",
-        "thumbnail": "../src/assets/homestay/padi imah/7.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255994/dieng/padiimah/7_pllz65.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255994/dieng/padiimah/7_pllz65.jpg"
       },
       {
-        "original": "../src/assets/homestay/padi imah/8.jpg",
-        "thumbnail": "../src/assets/homestay/padi imah/8.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255995/dieng/padiimah/8_ufrj76.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255995/dieng/padiimah/8_ufrj76.jpg"
       },
       {
-        "original": "../src/assets/homestay/padi imah/6.jpg",
-        "thumbnail": "../src/assets/homestay/padi imah/6.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255994/dieng/padiimah/6_pnskqo.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255994/dieng/padiimah/6_pnskqo.jpg"
       },
       {
-        "original": "../src/assets/homestay/padi imah/10.jpg",
-        "thumbnail": "../src/assets/homestay/padi imah/10.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255996/dieng/padiimah/10_pdjkjl.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255996/dieng/padiimah/10_pdjkjl.jpg"
       },
       {
-        "original": "../src/assets/homestay/padi imah/11.jpg",
-        "thumbnail": "../src/assets/homestay/padi imah/11.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255997/dieng/padiimah/11_dmbnmx.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255997/dieng/padiimah/11_dmbnmx.jpg"
       },
       {
-        "original": "../src/assets/homestay/padi imah/12.jpg",
-        "thumbnail": "../src/assets/homestay/padi imah/12.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255998/dieng/padiimah/12_fhbobr.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255998/dieng/padiimah/12_fhbobr.jpg"
       },
       {
-        "original": "../src/assets/homestay/padi imah/13.jpg",
-        "thumbnail": "../src/assets/homestay/padi imah/13.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255998/dieng/padiimah/13_nqf6pg.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716255998/dieng/padiimah/13_nqf6pg.jpg"
       },
       {
-        "original": "../src/assets/homestay/padi imah/17.jpg",
-        "thumbnail": "../src/assets/homestay/padi imah/17.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716256000/dieng/padiimah/17_oiaidy.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716256000/dieng/padiimah/17_oiaidy.jpg"
       },
       {
-        "original": "../src/assets/homestay/padi imah/32.jpg",
-        "thumbnail": "../src/assets/homestay/padi imah/32.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716256001/dieng/padiimah/32_pl1z9z.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716256001/dieng/padiimah/32_pl1z9z.jpg"
       }
     ]
   },
   {
     "id": 28,
-    "image": "src/assets/homestay/prasti/17.jpg",
-    "image2": "src/assets/homestay/prasti/4.jpg",
-    "image3": "src/assets/homestay/prasti/5.jpg",
-    "image4": "src/assets/homestay/prasti/6.jpg",
+    "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716256702/dieng/homestay-prasti/17_o0d1rz.png",
+    "image2": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716256699/dieng/homestay-prasti/4_jv7cxs.png",
+    "image3": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716256696/dieng/homestay-prasti/22_w8gxme.png",
+    "image4": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716256695/dieng/homestay-prasti/32_kfwoyk.png",
     "headTitle": "HOMESTAY PRASTI DIENG",
     "title": "Homestay Prasti Dieng",
     "price": "Rp. 750.000/Night",
@@ -3074,45 +2778,45 @@
     ],
     "gallery": [
       {
-        "original": "../src/assets/homestay/prasti/17.jpg",
-        "thumbnail": "../src/assets/homestay/prasti/17.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716256702/dieng/homestay-prasti/17_o0d1rz.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716256702/dieng/homestay-prasti/17_o0d1rz.png"
       },
       {
-        "original": "../src/assets/homestay/prasti/4.jpg",
-        "thumbnail": "../src/assets/homestay/prasti/4.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716256699/dieng/homestay-prasti/4_jv7cxs.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716256699/dieng/homestay-prasti/4_jv7cxs.png"
       },
       {
-        "original": "../src/assets/homestay/prasti/5.jpg",
-        "thumbnail": "../src/assets/homestay/prasti/5.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716256690/dieng/homestay-prasti/5_hfalgb.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716256690/dieng/homestay-prasti/5_hfalgb.png"
       },
       {
-        "original": "../src/assets/homestay/prasti/6.jpg",
-        "thumbnail": "../src/assets/homestay/prasti/6.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716256691/dieng/homestay-prasti/6_f0izv7.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716256691/dieng/homestay-prasti/6_f0izv7.png"
       },
       {
-        "original": "../src/assets/homestay/prasti/7.jpg",
-        "thumbnail": "../src/assets/homestay/prasti/7.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716256692/dieng/homestay-prasti/7_hagmxb.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716256692/dieng/homestay-prasti/7_hagmxb.png"
       },
       {
-        "original": "../src/assets/homestay/prasti/8.jpg",
-        "thumbnail": "../src/assets/homestay/prasti/8.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716256694/dieng/homestay-prasti/8_amratv.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716256694/dieng/homestay-prasti/8_amratv.png"
       },
       {
-        "original": "../src/assets/homestay/prasti/22.jpg",
-        "thumbnail": "../src/assets/homestay/prasti/22.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716256696/dieng/homestay-prasti/22_w8gxme.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716256696/dieng/homestay-prasti/22_w8gxme.png"
       },
       {
-        "original": "../src/assets/homestay/prasti/32.jpg",
-        "thumbnail": "../src/assets/homestay/prasti/32.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716256695/dieng/homestay-prasti/32_kfwoyk.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716256695/dieng/homestay-prasti/32_kfwoyk.png"
       }
     ]
   },
   {
     "id": 29,
-    "image": "src/assets/homestay/sirin dieng/1.jpg",
-    "image2": "src/assets/homestay/sirin dieng/2.jpg",
-    "image3": "src/assets/homestay/sirin dieng/3.jpg",
-    "image4": "src/assets/homestay/sirin dieng/4.jpg",
+    "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261723/dieng/homestay-sirin/1_f5w5d4.jpg",
+    "image2": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261723/dieng/homestay-sirin/2_d0zsh5.jpg",
+    "image3": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261724/dieng/homestay-sirin/3_jhd8in.jpg",
+    "image4": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261724/dieng/homestay-sirin/4_h3w3os.jpg",
     "headTitle": "VILLA SIRIN DIENG",
     "title": "Villa Sirin Dieng",
     "price": "Rp. 1.600.000/Night",
@@ -3168,61 +2872,61 @@
     ],
     "gallery": [
       {
-        "original": "../src/assets/homestay/sirin dieng/1.jpg",
-        "thumbnail": "../src/assets/homestay/sirin dieng/1.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261723/dieng/homestay-sirin/1_f5w5d4.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261723/dieng/homestay-sirin/1_f5w5d4.jpg"
       },
       {
-        "original": "../src/assets/homestay/sirin dieng/2.jpg",
-        "thumbnail": "../src/assets/homestay/sirin dieng/2.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261723/dieng/homestay-sirin/2_d0zsh5.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261723/dieng/homestay-sirin/2_d0zsh5.jpg"
       },
       {
-        "original": "../src/assets/homestay/sirin dieng/3.jpg",
-        "thumbnail": "../src/assets/homestay/sirin dieng/3.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261724/dieng/homestay-sirin/3_jhd8in.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261724/dieng/homestay-sirin/3_jhd8in.jpg"
       },
       {
-        "original": "../src/assets/homestay/sirin dieng/4.jpg",
-        "thumbnail": "../src/assets/homestay/sirin dieng/4.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261724/dieng/homestay-sirin/4_h3w3os.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261724/dieng/homestay-sirin/4_h3w3os.jpg"
       },
       {
-        "original": "../src/assets/homestay/sirin dieng/5.jpg",
-        "thumbnail": "../src/assets/homestay/sirin dieng/5.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261727/dieng/homestay-sirin/5_c4ut3o.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261727/dieng/homestay-sirin/5_c4ut3o.jpg"
       },
       {
-        "original": "../src/assets/homestay/sirin dieng/6.jpg",
-        "thumbnail": "../src/assets/homestay/sirin dieng/6.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261727/dieng/homestay-sirin/6_fo0tzu.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261727/dieng/homestay-sirin/6_fo0tzu.jpg"
       },
       {
-        "original": "../src/assets/homestay/sirin dieng/7.jpg",
-        "thumbnail": "../src/assets/homestay/sirin dieng/7.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261728/dieng/homestay-sirin/7_dmh7iy.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261728/dieng/homestay-sirin/7_dmh7iy.jpg"
       },
       {
-        "original": "../src/assets/homestay/sirin dieng/8.jpg",
-        "thumbnail": "../src/assets/homestay/sirin dieng/8.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261729/dieng/homestay-sirin/8_e7jvkw.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261729/dieng/homestay-sirin/8_e7jvkw.jpg"
       },
       {
-        "original": "../src/assets/homestay/sirin dieng/9.jpg",
-        "thumbnail": "../src/assets/homestay/sirin dieng/9.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261731/dieng/homestay-sirin/9_xh7t1p.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261731/dieng/homestay-sirin/9_xh7t1p.jpg"
       },
       {
-        "original": "../src/assets/homestay/sirin dieng/10.jpg",
-        "thumbnail": "../src/assets/homestay/sirin dieng/10.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261732/dieng/homestay-sirin/10_erz4xw.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261732/dieng/homestay-sirin/10_erz4xw.jpg"
       },
       {
-        "original": "../src/assets/homestay/sirin dieng/14.jpg",
-        "thumbnail": "../src/assets/homestay/sirin dieng/14.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261733/dieng/homestay-sirin/14_nqbcmw.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261733/dieng/homestay-sirin/14_nqbcmw.jpg"
       },
       {
-        "original": "../src/assets/homestay/sirin dieng/15.jpg",
-        "thumbnail": "../src/assets/homestay/sirin dieng/15.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261735/dieng/homestay-sirin/15_mrjkai.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261735/dieng/homestay-sirin/15_mrjkai.png"
       }
     ]
   },
   {
     "id": 30,
-    "image": "src/assets/homestay/villa anam c/1.png",
-    "image2": "src/assets/homestay/villa anam c/2.png",
+    "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261807/dieng/homestay-anamc/1_zscvmz.png",
+    "image2": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261807/dieng/homestay-anamc/2_awdioq.png",
     "image3": "src/assets/homestay/villa anam c/3.png",
-    "image4": "src/assets/homestay/villa anam c/4.png",
+    "image4": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261811/dieng/homestay-anamc/4_a5hr2v.png",
     "headTitle": "VILLA ANAM C",
     "title": "Villa Anam C",
     "price": "Rp. 700.000/Night",
@@ -3274,45 +2978,45 @@
     ],
     "gallery": [
       {
-        "original": "../src/assets/homestay/villa anam c/1.png",
-        "thumbnail": "../src/assets/homestay/villa anam c/1.png"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261807/dieng/homestay-anamc/1_zscvmz.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261807/dieng/homestay-anamc/1_zscvmz.png"
       },
       {
-        "original": "../src/assets/homestay/villa anam c/2.png",
-        "thumbnail": "../src/assets/homestay/villa anam c/2.png"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261807/dieng/homestay-anamc/2_awdioq.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261807/dieng/homestay-anamc/2_awdioq.png"
       },
       {
         "original": "../src/assets/homestay/villa anam c/3.png",
         "thumbnail": "../src/assets/homestay/villa anam c/3.png"
       },
       {
-        "original": "../src/assets/homestay/villa anam c/4.png",
-        "thumbnail": "../src/assets/homestay/villa anam c/4.png"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261811/dieng/homestay-anamc/4_a5hr2v.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261811/dieng/homestay-anamc/4_a5hr2v.png"
       },
       {
-        "original": "../src/assets/homestay/villa anam c/5.png",
-        "thumbnail": "../src/assets/homestay/villa anam c/5.png"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261810/dieng/homestay-anamc/5_tsedj8.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261810/dieng/homestay-anamc/5_tsedj8.png"
       },
       {
-        "original": "../src/assets/homestay/villa anam c/6.png",
-        "thumbnail": "../src/assets/homestay/villa anam c/6.png"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261812/dieng/homestay-anamc/6_uqbtab.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261812/dieng/homestay-anamc/6_uqbtab.png"
       },
       {
-        "original": "../src/assets/homestay/villa anam c/7.png",
-        "thumbnail": "../src/assets/homestay/villa anam c/7.png"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261814/dieng/homestay-anamc/7_f4njql.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261814/dieng/homestay-anamc/7_f4njql.png"
       },
       {
-        "original": "../src/assets/homestay/villa anam c/8.png",
-        "thumbnail": "../src/assets/homestay/villa anam c/8.png"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261822/dieng/homestay-anamc/8_stuoyt.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261822/dieng/homestay-anamc/8_stuoyt.png"
       }
     ]
   },
   {
     "id": 31,
-    "image": "src/assets/homestay/villa dinda/1.jpg",
-    "image2": "src/assets/homestay/villa dinda/2.jpg",
-    "image3": "src/assets/homestay/villa dinda/3.jpg",
-    "image4": "src/assets/homestay/villa dinda/4.jpg",
+    "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716262223/dieng/homestay-villadinda/1_pzawqx.jpg",
+    "image2": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716262223/dieng/homestay-villadinda/2_hfcl98.jpg",
+    "image3": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716262225/dieng/homestay-villadinda/3_qsxa0w.jpg",
+    "image4": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716262225/dieng/homestay-villadinda/4_cpuat9.jpg",
     "headTitle": "VILLA DINDA",
     "title": "Villa Dinda",
     "price": "Rp. 700.000/Night",
@@ -3364,37 +3068,37 @@
     ],
     "gallery": [
       {
-        "original": "../src/assets/homestay/villa dinda/1.jpg",
-        "thumbnail": "../src/assets/homestay/villa dinda/1.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716262223/dieng/homestay-villadinda/1_pzawqx.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716262223/dieng/homestay-villadinda/1_pzawqx.jpg"
       },
       {
-        "original": "../src/assets/homestay/villa dinda/2.jpg",
-        "thumbnail": "../src/assets/homestay/villa dinda/2.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716262223/dieng/homestay-villadinda/2_hfcl98.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716262223/dieng/homestay-villadinda/2_hfcl98.jpg"
       },
       {
-        "original": "../src/assets/homestay/villa dinda/3.jpg",
-        "thumbnail": "../src/assets/homestay/villa dinda/3.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716262225/dieng/homestay-villadinda/3_qsxa0w.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716262225/dieng/homestay-villadinda/3_qsxa0w.jpg"
       },
       {
-        "original": "../src/assets/homestay/villa dinda/4.jpg",
-        "thumbnail": "../src/assets/homestay/villa dinda/4.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716262225/dieng/homestay-villadinda/4_cpuat9.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716262225/dieng/homestay-villadinda/4_cpuat9.jpg"
       },
       {
-        "original": "../src/assets/homestay/villa dinda/5.jpg",
-        "thumbnail": "../src/assets/homestay/villa dinda/5.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716262227/dieng/homestay-villadinda/5_qkvzno.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716262227/dieng/homestay-villadinda/5_qkvzno.jpg"
       },
       {
-        "original": "../src/assets/homestay/villa dinda/6.jpg",
-        "thumbnail": "../src/assets/homestay/villa dinda/6.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716262228/dieng/homestay-villadinda/6_ungatg.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716262228/dieng/homestay-villadinda/6_ungatg.jpg"
       }
     ]
   },
   {
     "id": 32,
-    "image": "src/assets/homestay/villa kembang 2/14.jpg",
-    "image2": "src/assets/homestay/villa kembang 2/3.jpg",
-    "image3": "src/assets/homestay/villa kembang 2/4.jpg",
-    "image4": "src/assets/homestay/villa kembang 2/6.jpg",
+    "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716617740/dieng/homestay-villakembang2/14_qcib3v.jpg",
+    "image2": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716617733/dieng/homestay-villakembang2/3_e8as2f.jpg",
+    "image3": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716617733/dieng/homestay-villakembang2/4_jk6jga.png",
+    "image4": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716617734/dieng/homestay-villakembang2/6_aqqtt4.jpg",
     "headTitle": "VILLA KEMBANG 2 (NEW)",
     "title": "Villa Kembang 2 (new)",
     "price": "Rp. 2.100.000/Night",
@@ -3454,89 +3158,89 @@
     ],
     "gallery": [
       {
-        "original": "../src/assets/homestay/villa kembang 2/14.jpg",
-        "thumbnail": "../src/assets/homestay/villa kembang 2/14.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716617740/dieng/homestay-villakembang2/14_qcib3v.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716617740/dieng/homestay-villakembang2/14_qcib3v.jpg"
       },
       {
-        "original": "../src/assets/homestay/villa kembang 2/3.jpg",
-        "thumbnail": "../src/assets/homestay/villa kembang 2/3.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716617733/dieng/homestay-villakembang2/3_e8as2f.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716617733/dieng/homestay-villakembang2/3_e8as2f.jpg"
       },
       {
-        "original": "../src/assets/homestay/villa kembang 2/4.jpg",
-        "thumbnail": "../src/assets/homestay/villa kembang 2/4.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716617733/dieng/homestay-villakembang2/4_jk6jga.png",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716617733/dieng/homestay-villakembang2/4_jk6jga.png"
       },
       {
-        "original": "../src/assets/homestay/villa kembang 2/6.jpg",
-        "thumbnail": "../src/assets/homestay/villa kembang 2/6.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716617734/dieng/homestay-villakembang2/6_aqqtt4.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716617734/dieng/homestay-villakembang2/6_aqqtt4.jpg"
       },
       {
-        "original": "../src/assets/homestay/villa kembang 2/7.jpg",
-        "thumbnail": "../src/assets/homestay/villa kembang 2/7.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716617735/dieng/homestay-villakembang2/7_qrkszd.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716617735/dieng/homestay-villakembang2/7_qrkszd.jpg"
       },
       {
-        "original": "../src/assets/homestay/villa kembang 2/10.jpg",
-        "thumbnail": "../src/assets/homestay/villa kembang 2/10.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716617737/dieng/homestay-villakembang2/10_sicd6e.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716617737/dieng/homestay-villakembang2/10_sicd6e.jpg"
       },
       {
-        "original": "../src/assets/homestay/villa kembang 2/11.jpg",
-        "thumbnail": "../src/assets/homestay/villa kembang 2/11.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716617739/dieng/homestay-villakembang2/11_s5lbnh.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716617739/dieng/homestay-villakembang2/11_s5lbnh.jpg"
       },
       {
-        "original": "../src/assets/homestay/villa kembang 2/15.jpg",
-        "thumbnail": "../src/assets/homestay/villa kembang 2/15.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716617742/dieng/homestay-villakembang2/15_lynwxw.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716617742/dieng/homestay-villakembang2/15_lynwxw.jpg"
       },
       {
-        "original": "../src/assets/homestay/villa kembang 2/16.jpg",
-        "thumbnail": "../src/assets/homestay/villa kembang 2/16.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716617744/dieng/homestay-villakembang2/16_kea0xc.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716617744/dieng/homestay-villakembang2/16_kea0xc.jpg"
       },
       {
-        "original": "../src/assets/homestay/villa kembang 2/17.jpg",
-        "thumbnail": "../src/assets/homestay/villa kembang 2/17.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716617745/dieng/homestay-villakembang2/17_xdwsiw.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716617745/dieng/homestay-villakembang2/17_xdwsiw.jpg"
       },
       {
-        "original": "../src/assets/homestay/villa kembang 2/18.jpg",
-        "thumbnail": "../src/assets/homestay/villa kembang 2/18.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716617747/dieng/homestay-villakembang2/18_mkvwmf.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716617747/dieng/homestay-villakembang2/18_mkvwmf.jpg"
       },
       {
-        "original": "../src/assets/homestay/villa kembang 2/19.jpg",
-        "thumbnail": "../src/assets/homestay/villa kembang 2/19.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716617749/dieng/homestay-villakembang2/19_d43x19.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716617749/dieng/homestay-villakembang2/19_d43x19.jpg"
       },
       {
-        "original": "../src/assets/homestay/villa kembang 2/22.jpg",
-        "thumbnail": "../src/assets/homestay/villa kembang 2/22.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716617751/dieng/homestay-villakembang2/22_rrn23m.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716617751/dieng/homestay-villakembang2/22_rrn23m.jpg"
       },
       {
-        "original": "../src/assets/homestay/villa kembang 2/32.jpg",
-        "thumbnail": "../src/assets/homestay/villa kembang 2/32.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716617752/dieng/homestay-villakembang2/32_eny5r8.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716617752/dieng/homestay-villakembang2/32_eny5r8.jpg"
       },
       {
-        "original": "../src/assets/homestay/villa kembang 2/43.jpg",
-        "thumbnail": "../src/assets/homestay/villa kembang 2/43.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716617754/dieng/homestay-villakembang2/43_rcamyp.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716617754/dieng/homestay-villakembang2/43_rcamyp.jpg"
       },
       {
-        "original": "../src/assets/homestay/villa kembang 2/52.jpg",
-        "thumbnail": "../src/assets/homestay/villa kembang 2/52.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716617756/dieng/homestay-villakembang2/52_xnagsg.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716617756/dieng/homestay-villakembang2/52_xnagsg.jpg"
       },
       {
-        "original": "../src/assets/homestay/villa kembang 2/122.jpg",
-        "thumbnail": "../src/assets/homestay/villa kembang 2/122.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716617758/dieng/homestay-villakembang2/122_hz4ufy.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716617758/dieng/homestay-villakembang2/122_hz4ufy.jpg"
       },
       {
-        "original": "../src/assets/homestay/villa kembang 2/132.jpg",
-        "thumbnail": "../src/assets/homestay/villa kembang 2/132.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716617760/dieng/homestay-villakembang2/132_hxdqxh.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716617760/dieng/homestay-villakembang2/132_hxdqxh.jpg"
       },
       {
-        "original": "../src/assets/homestay/villa kembang 2/142.jpg",
-        "thumbnail": "../src/assets/homestay/villa kembang 2/142.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716617761/dieng/homestay-villakembang2/142_moohg3.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716617761/dieng/homestay-villakembang2/142_moohg3.jpg"
       }
     ]
   },
   {
     "id": 33,
-    "image": "src/assets/homestay/villa mezzano dieng/8.jpg",
-    "image2": "src/assets/homestay/villa mezzano dieng/2.jpg",
-    "image3": "src/assets/homestay/villa mezzano dieng/3.jpg",
-    "image4": "src/assets/homestay/villa mezzano dieng/6.jpg",
+    "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263762/dieng/homestay-villamezzano/8_cfib3m.jpg",
+    "image2": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263719/dieng/homestay-villamezzano/2_binj9g.jpg",
+    "image3": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263756/dieng/homestay-villamezzano/3_ipm50f.jpg",
+    "image4": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263758/dieng/homestay-villamezzano/6_sm4iap.jpg",
     "headTitle": "VILLA MEZZANO DIENG",
     "title": "Villa Mezzano Dieng",
     "price": "Rp. 1.250.000/Night",
@@ -3596,61 +3300,61 @@
     ],
     "gallery": [
       {
-        "original": "../src/assets/homestay/villa mezzano dieng/8.jpg",
-        "thumbnail": "../src/assets/homestay/villa mezzano dieng/8.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263762/dieng/homestay-villamezzano/8_cfib3m.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263762/dieng/homestay-villamezzano/8_cfib3m.jpg"
       },
       {
-        "original": "../src/assets/homestay/villa mezzano dieng/2.jpg",
-        "thumbnail": "../src/assets/homestay/villa mezzano dieng/2.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263719/dieng/homestay-villamezzano/2_binj9g.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263719/dieng/homestay-villamezzano/2_binj9g.jpg"
       },
       {
-        "original": "../src/assets/homestay/villa mezzano dieng/3.jpg",
-        "thumbnail": "../src/assets/homestay/villa mezzano dieng/3.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263756/dieng/homestay-villamezzano/3_ipm50f.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263756/dieng/homestay-villamezzano/3_ipm50f.jpg"
       },
       {
-        "original": "../src/assets/homestay/villa mezzano dieng/6.jpg",
-        "thumbnail": "../src/assets/homestay/villa mezzano dieng/6.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263758/dieng/homestay-villamezzano/6_sm4iap.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263758/dieng/homestay-villamezzano/6_sm4iap.jpg"
       },
       {
-        "original": "../src/assets/homestay/villa mezzano dieng/7.jpg",
-        "thumbnail": "../src/assets/homestay/villa mezzano dieng/7.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263760/dieng/homestay-villamezzano/7_st5idm.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263760/dieng/homestay-villamezzano/7_st5idm.jpg"
       },
       {
-        "original": "../src/assets/homestay/villa mezzano dieng/9.jpg",
-        "thumbnail": "../src/assets/homestay/villa mezzano dieng/9.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263764/dieng/homestay-villamezzano/9_m9rxqy.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263764/dieng/homestay-villamezzano/9_m9rxqy.jpg"
       },
       {
-        "original": "../src/assets/homestay/villa mezzano dieng/10.jpg",
-        "thumbnail": "../src/assets/homestay/villa mezzano dieng/10.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263765/dieng/homestay-villamezzano/10_ppbyk4.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263765/dieng/homestay-villamezzano/10_ppbyk4.jpg"
       },
       {
-        "original": "../src/assets/homestay/villa mezzano dieng/11.jpg",
-        "thumbnail": "../src/assets/homestay/villa mezzano dieng/11.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263768/dieng/homestay-villamezzano/11_at3nco.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263768/dieng/homestay-villamezzano/11_at3nco.jpg"
       },
       {
-        "original": "../src/assets/homestay/villa mezzano dieng/14.jpg",
-        "thumbnail": "../src/assets/homestay/villa mezzano dieng/14.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263769/dieng/homestay-villamezzano/14_y6zpyc.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263769/dieng/homestay-villamezzano/14_y6zpyc.jpg"
       },
       {
-        "original": "../src/assets/homestay/villa mezzano dieng/42.jpg",
-        "thumbnail": "../src/assets/homestay/villa mezzano dieng/42.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263772/dieng/homestay-villamezzano/42_nmzfs0.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263772/dieng/homestay-villamezzano/42_nmzfs0.jpg"
       },
       {
-        "original": "../src/assets/homestay/villa mezzano dieng/52.jpg",
-        "thumbnail": "../src/assets/homestay/villa mezzano dieng/52.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263774/dieng/homestay-villamezzano/52_n7i8oe.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263774/dieng/homestay-villamezzano/52_n7i8oe.jpg"
       },
       {
-        "original": "../src/assets/homestay/villa mezzano dieng/82.jpg",
-        "thumbnail": "../src/assets/homestay/villa mezzano dieng/82.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263776/dieng/homestay-villamezzano/82_xq02qt.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263776/dieng/homestay-villamezzano/82_xq02qt.jpg"
       }
     ]
   },
   {
     "id": 34,
-    "image": "src/assets/homestay/villa ozy/1.jpg",
-    "image2": "src/assets/homestay/villa ozy/3.jpg",
-    "image3": "src/assets/homestay/villa ozy/4.jpg",
-    "image4": "src/assets/homestay/villa ozy/5.jpg",
+    "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263858/dieng/homestay-villaozy/1_amradq.jpg",
+    "image2": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263862/dieng/homestay-villaozy/3_gl5p7r.jpg",
+    "image3": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263864/dieng/homestay-villaozy/4_oswb3b.jpg",
+    "image4": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263866/dieng/homestay-villaozy/5_iw2ujk.jpg",
     "headTitle": "VILLA OZY",
     "title": "Villa Ozy",
     "price": "Rp. 800.000/Night",
@@ -3706,45 +3410,45 @@
     ],
     "gallery": [
       {
-        "original": "../src/assets/homestay/villa ozy/1.jpg",
-        "thumbnail": "../src/assets/homestay/villa ozy/1.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263858/dieng/homestay-villaozy/1_amradq.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263858/dieng/homestay-villaozy/1_amradq.jpg"
       },
       {
-        "original": "../src/assets/homestay/villa ozy/3.jpg",
-        "thumbnail": "../src/assets/homestay/villa ozy/3.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263862/dieng/homestay-villaozy/3_gl5p7r.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263862/dieng/homestay-villaozy/3_gl5p7r.jpg"
       },
       {
-        "original": "../src/assets/homestay/villa ozy/4.jpg",
-        "thumbnail": "../src/assets/homestay/villa ozy/4.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263864/dieng/homestay-villaozy/4_oswb3b.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263864/dieng/homestay-villaozy/4_oswb3b.jpg"
       },
       {
-        "original": "../src/assets/homestay/villa ozy/5.jpg",
-        "thumbnail": "../src/assets/homestay/villa ozy/5.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263866/dieng/homestay-villaozy/5_iw2ujk.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263866/dieng/homestay-villaozy/5_iw2ujk.jpg"
       },
       {
-        "original": "../src/assets/homestay/villa ozy/2.jpg",
-        "thumbnail": "../src/assets/homestay/villa ozy/2.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263860/dieng/homestay-villaozy/2_xyufix.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263860/dieng/homestay-villaozy/2_xyufix.jpg"
       },
       {
-        "original": "../src/assets/homestay/villa ozy/6.jpg",
-        "thumbnail": "../src/assets/homestay/villa ozy/6.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263868/dieng/homestay-villaozy/6_x4n98q.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263868/dieng/homestay-villaozy/6_x4n98q.jpg"
       },
       {
-        "original": "../src/assets/homestay/villa ozy/7.jpg",
-        "thumbnail": "../src/assets/homestay/villa ozy/7.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263870/dieng/homestay-villaozy/7_so65b1.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263870/dieng/homestay-villaozy/7_so65b1.jpg"
       },
       {
-        "original": "../src/assets/homestay/villa ozy/8.jpg",
-        "thumbnail": "../src/assets/homestay/villa ozy/8.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263925/dieng/homestay-villaozy/8_hnyljx.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263925/dieng/homestay-villaozy/8_hnyljx.jpg"
       }
     ]
   },
   {
     "id": 35,
-    "image": "src/assets/homestay/Tani House Mezzanine/1.jpg",
-    "image2": "src/assets/homestay/Tani House Mezzanine/2.jpg",
-    "image3": "src/assets/homestay/Tani House Mezzanine/3.jpg",
-    "image4": "src/assets/homestay/Tani House Mezzanine/4.jpg",
+    "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263984/dieng/homestay-mezzanine/1_gno3hx.jpg",
+    "image2": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263986/dieng/homestay-mezzanine/2_tvkfro.jpg",
+    "image3": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263993/dieng/homestay-mezzanine/3_kdmtyg.jpg",
+    "image4": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716264036/dieng/homestay-mezzanine/4_ppc9ri.jpg",
     "headTitle": "TANI HOSE MEZZANINE",
     "title": "Tani House Mezzanine",
     "price": "Rp. 1.400.000/Night",
@@ -3796,44 +3500,146 @@
     ],
     "gallery": [
       {
-        "original": "../src/assets/homestay/Tani House Mezzanine/1.jpg",
-        "thumbnail": "../src/assets/homestay/Tani House Mezzanine/1.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263984/dieng/homestay-mezzanine/1_gno3hx.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263984/dieng/homestay-mezzanine/1_gno3hx.jpg"
       },
       {
-        "original": "../src/assets/homestay/Tani House Mezzanine/2.jpg",
-        "thumbnail": "../src/assets/homestay/Tani House Mezzanine/2.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263986/dieng/homestay-mezzanine/2_tvkfro.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263986/dieng/homestay-mezzanine/2_tvkfro.jpg"
       },
       {
-        "original": "../src/assets/homestay/Tani House Mezzanine/3.jpg",
-        "thumbnail": "../src/assets/homestay/Tani House Mezzanine/3.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263993/dieng/homestay-mezzanine/3_kdmtyg.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716263993/dieng/homestay-mezzanine/3_kdmtyg.jpg"
       },
       {
-        "original": "../src/assets/homestay/Tani House Mezzanine/4.jpg",
-        "thumbnail": "../src/assets/homestay/Tani House Mezzanine/4.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716264036/dieng/homestay-mezzanine/4_ppc9ri.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716264036/dieng/homestay-mezzanine/4_ppc9ri.jpg"
       },
       {
-        "original": "../src/assets/homestay/Tani House Mezzanine/5.jpg",
-        "thumbnail": "../src/assets/homestay/Tani House Mezzanine/5.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716264080/dieng/homestay-mezzanine/5_vg7pfg.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716264080/dieng/homestay-mezzanine/5_vg7pfg.jpg"
       },
       {
-        "original": "../src/assets/homestay/Tani House Mezzanine/6.jpg",
-        "thumbnail": "../src/assets/homestay/Tani House Mezzanine/6.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716264082/dieng/homestay-mezzanine/6_stmhnl.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716264082/dieng/homestay-mezzanine/6_stmhnl.jpg"
       },
       {
-        "original": "../src/assets/homestay/Tani House Mezzanine/7.jpg",
-        "thumbnail": "../src/assets/homestay/Tani House Mezzanine/7.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716264084/dieng/homestay-mezzanine/7_qh0zh0.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716264084/dieng/homestay-mezzanine/7_qh0zh0.jpg"
       },
       {
-        "original": "../src/assets/homestay/Tani House Mezzanine/8.jpg",
-        "thumbnail": "../src/assets/homestay/Tani House Mezzanine/8.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716264086/dieng/homestay-mezzanine/8_w0gemi.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716264086/dieng/homestay-mezzanine/8_w0gemi.jpg"
       },
       {
-        "original": "../src/assets/homestay/Tani House Mezzanine/9.jpg",
-        "thumbnail": "../src/assets/homestay/Tani House Mezzanine/9.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716264088/dieng/homestay-mezzanine/9_e6cswh.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716264088/dieng/homestay-mezzanine/9_e6cswh.jpg"
       },
       {
-        "original": "../src/assets/homestay/Tani House Mezzanine/10.jpg",
-        "thumbnail": "../src/assets/homestay/Tani House Mezzanine/10.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716264091/dieng/homestay-mezzanine/10_arbbir.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716264091/dieng/homestay-mezzanine/10_arbbir.jpg"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1717826450/dieng/micuba/4_vpjntl.jpg",
+    "image2": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1717826454/dieng/micuba/8_xfq6q0.jpg",
+    "image3": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1717826447/dieng/micuba/6_globdy.jpg",
+    "image4": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1717826458/dieng/micuba/3_nuiqls.jpg",
+    "headTitle": "VILLA MICUBA",
+    "title": "Villa Micuba",
+    "price": "Rp. 1.800.000/Night",
+    "text": "22",
+    "ratings": "4.80",
+    "reviews": 10,
+    "recomendation": true,
+    "location": " jl.dieng wadasputih,kejajar, Wonosobo",
+    "host": "House Of Dieng",
+    "guests": "3-5",
+    "bedroom": 2,
+    "privateBath": 1,
+    "description": "Dapatkan pengalaman menginap yang luar biasa di Villa Micuba, sebuah vila strategis di jalan dieng Kejajar, 1 unit,kapasitas hingga 5 orang, fasilitas lengkap seperti Water heater di kamar mandi, Parking lot dan lain-lain, dan dispenser yang memudahkan Anda.",
+    "description2": " ",
+    "description3": " ",
+    "wifi": true,
+    "bathroom": true,
+    "computer": true,
+    "breakfast": true,
+    "atm": true,
+    "nearbyCity": true,
+    "medical": true,
+    "grill": true,
+    "facilities": [
+      {
+        "name": "Private Pool",
+        "image": "../src/assets/icon/privatepool.png"
+      },
+      {
+        "name": "Wifi",
+        "image": "../src/assets/icon/wifi.svg"
+      },
+      {
+        "name": "TV",
+        "image": "../src/assets/icon/tv.svg"
+      },
+      {
+        "name": "Dispenser",
+        "image": "../src/assets/icon/dispenser.svg"
+      },
+      {
+        "name": "Dapur",
+        "image": "../src/assets/icon/dapur.svg"
+      },
+      {
+        "name": "Hot Water",
+        "image": "../src/assets/icon/shower.svg"
+      },
+      {
+        "name": "Parkir",
+        "image": "../src/assets/icon/parkir.svg"
+      }
+    ],
+    "gallery": [
+      {
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1717826450/dieng/micuba/4_vpjntl.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1717826450/dieng/micuba/4_vpjntl.jpg"
+      },
+      {
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1717826454/dieng/micuba/8_xfq6q0.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1717826454/dieng/micuba/8_xfq6q0.jpg"
+      },
+      {
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1717826447/dieng/micuba/6_globdy.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1717826447/dieng/micuba/6_globdy.jpg"
+      },
+      {
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1717826458/dieng/micuba/3_nuiqls.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1717826458/dieng/micuba/3_nuiqls.jpg"
+      },
+      {
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1717826466/dieng/micuba/10_atncpy.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1717826466/dieng/micuba/10_atncpy.jpg"
+      },
+      {
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1717826464/dieng/micuba/11_h0tj7h.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1717826464/dieng/micuba/11_h0tj7h.jpg"
+      },
+      {
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1717826456/dieng/micuba/9_i1whme.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1717826456/dieng/micuba/9_i1whme.jpg"
+      },
+      {
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1717826443/dieng/micuba/7_pybt4y.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1717826443/dieng/micuba/7_pybt4y.jpg"
+      },
+      {
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1717826443/dieng/micuba/2_z8lgce.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1717826443/dieng/micuba/2_z8lgce.jpg"
+      },
+      {
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1717826435/dieng/micuba/5_gzcozh.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1717826435/dieng/micuba/5_gzcozh.jpg"
       }
     ]
   }
