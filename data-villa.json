@@ -645,10 +645,10 @@
   },
   {
     "id": 7,
-    "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170474/dieng/cozycabin/1_hodsve.jpg",
-    "image2": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170474/dieng/cozycabin/6_emy94z.jpg",
-    "image3": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170474/dieng/cozycabin/4_qmc0da.jpg",
-    "image4": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170474/dieng/cozycabin/8_fd12au.jpg",
+    "image": "src/assets/cozy cabin/1.jpg",
+    "image2": "src/assets/cozy cabin/2.jpg",
+    "image3": "src/assets/cozy cabin/3.jpg",
+    "image4": "src/assets/cozy cabin/4.jpg",
     "headTitle": "VILLA CABANA DIENG",
     "title": "Villa Cabana Dieng",
     "price": "Rp. 1.100.000/Night",
@@ -708,45 +708,45 @@
     ],
     "gallery": [
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170474/dieng/cozycabin/1_hodsve.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170474/dieng/cozycabin/1_hodsve.jpg"
+        "original": "../src/assets/cozy cabin/1.jpg",
+        "thumbnail": "../src/assets/cozy cabin/1.jpg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170474/dieng/cozycabin/6_emy94z.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170474/dieng/cozycabin/6_emy94z.jpg"
+        "original": "../src/assets/cozy cabin/2.jpg",
+        "thumbnail": "../src/assets/cozy cabin/2.jpg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170474/dieng/cozycabin/4_qmc0da.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170474/dieng/cozycabin/4_qmc0da.jpg"
+        "original": "../src/assets/cozy cabin/3.jpg",
+        "thumbnail": "../src/assets/cozy cabin/3.jpg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170474/dieng/cozycabin/8_fd12au.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170474/dieng/cozycabin/8_fd12au.jpg"
+        "original": "../src/assets/cozy cabin/4.jpg",
+        "thumbnail": "../src/assets/cozy cabin/4.jpg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170474/dieng/cozycabin/7_tced9i.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170474/dieng/cozycabin/7_tced9i.jpg"
+        "original": "../src/assets/cozy cabin/5.jpg",
+        "thumbnail": "../src/assets/cozy cabin/5.jpg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170474/dieng/cozycabin/2_yu65ge.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170474/dieng/cozycabin/2_yu65ge.jpg"
+        "original": "../src/assets/cozy cabin/6.jpg",
+        "thumbnail": "../src/assets/cozy cabin/6.jpg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170474/dieng/cozycabin/3_j157sv.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170474/dieng/cozycabin/3_j157sv.jpg"
+        "original": "../src/assets/cozy cabin/7.jpg",
+        "thumbnail": "../src/assets/cozy cabin/7.jpg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170473/dieng/cozycabin/5_qbfebf.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170473/dieng/cozycabin/5_qbfebf.jpg"
+        "original": "../src/assets/cozy cabin/8.jpg",
+        "thumbnail": "../src/assets/cozy cabin/8.jpg"
       }
     ]
   },
   {
     "id": 8,
-    "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170549/dieng/martosdfarmhouse/13_vd1ftz.jpg",
-    "image2": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170549/dieng/martosdfarmhouse/8_driqxv.jpg",
-    "image3": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170548/dieng/martosdfarmhouse/5_nhfka7.jpg",
-    "image4": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170547/dieng/martosdfarmhouse/2_t1s18r.jpg",
+    "image": "src/assets/d martos farmhouse/13.jpg",
+    "image2": "src/assets/d martos farmhouse/2.jpg",
+    "image3": "src/assets/d martos farmhouse/3.jpg",
+    "image4": "src/assets/d martos farmhouse/4.jpg",
     "headTitle": "D MARTOS FARMHOUSE",
     "title": "D Martos Farmhouse",
     "price": "Rp. 1.100.000/Night",
@@ -798,45 +798,45 @@
     ],
     "gallery": [
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170549/dieng/martosdfarmhouse/13_vd1ftz.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170549/dieng/martosdfarmhouse/13_vd1ftz.jpg"
+        "original": "../src/assets/d martos farmhouse/13.jpg",
+        "thumbnail": "../src/assets/d martos farmhouse/13.jpg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170549/dieng/martosdfarmhouse/8_driqxv.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170549/dieng/martosdfarmhouse/8_driqxv.jpg"
+        "original": "../src/assets/d martos farmhouse/2.jpg",
+        "thumbnail": "../src/assets/d martos farmhouse/2.jpg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170548/dieng/martosdfarmhouse/5_nhfka7.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170548/dieng/martosdfarmhouse/5_nhfka7.jpg"
+        "original": "../src/assets/d martos farmhouse/3.jpg",
+        "thumbnail": "../src/assets/d martos farmhouse/3.jpg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170547/dieng/martosdfarmhouse/2_t1s18r.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170547/dieng/martosdfarmhouse/2_t1s18r.jpg"
+        "original": "../src/assets/d martos farmhouse/4.jpg",
+        "thumbnail": "../src/assets/d martos farmhouse/4.jpg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170548/dieng/martosdfarmhouse/7_bkdrm2.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170548/dieng/martosdfarmhouse/7_bkdrm2.jpg"
+        "original": "../src/assets/d martos farmhouse/5.jpg",
+        "thumbnail": "../src/assets/d martos farmhouse/5.jpg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170547/dieng/martosdfarmhouse/4_vncljs.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170547/dieng/martosdfarmhouse/4_vncljs.jpg"
+        "original": "../src/assets/d martos farmhouse/6.jpg",
+        "thumbnail": "../src/assets/d martos farmhouse/6.jpg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170547/dieng/martosdfarmhouse/3_ctjozu.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170547/dieng/martosdfarmhouse/3_ctjozu.jpg"
+        "original": "../src/assets/d martos farmhouse/7.jpg",
+        "thumbnail": "../src/assets/d martos farmhouse/7.jpg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170547/dieng/martosdfarmhouse/4_vncljs.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170547/dieng/martosdfarmhouse/4_vncljs.jpg"
+        "original": "../src/assets/d martos farmhouse/8.jpg",
+        "thumbnail": "../src/assets/d martos farmhouse/8.jpg"
       }
     ]
   },
   {
     "id": 9,
-    "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170675/dieng/dnskuter/cabin1_lyphle.jpg",
-    "image2": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170677/dieng/dnskuter/cabin6_g6suta.jpg",
-    "image3": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170676/dieng/dnskuter/cabin4_jg4myy.jpg",
-    "image4": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170677/dieng/dnskuter/cabin7_rcnson.jpg",
+    "image": "src/assets/daniel cabin/cabin1.jpg",
+    "image2": "src/assets/daniel cabin/cabin2.jpg",
+    "image3": "src/assets/daniel cabin/cabin3.jpg",
+    "image4": "src/assets/daniel cabin/cabin4.jpg",
     "headTitle": "CABIN DIENG DN SKOTER",
     "title": "Cabin Dieng DN Skoter",
     "price": "Rp. 1.100.000/Night",
@@ -892,32 +892,36 @@
     ],
     "gallery": [
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170675/dieng/dnskuter/cabin1_lyphle.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170675/dieng/dnskuter/cabin1_lyphle.jpg"
+        "original": "../src/assets/daniel cabin/cabin1.jpg",
+        "thumbnail": "../src/assets/daniel cabin/cabin1.jpg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170677/dieng/dnskuter/cabin6_g6suta.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170677/dieng/dnskuter/cabin6_g6suta.jpg"
+        "original": "../src/assets/daniel cabin/cabin2.jpg",
+        "thumbnail": "../src/assets/daniel cabin/cabin2.jpg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170676/dieng/dnskuter/cabin4_jg4myy.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170676/dieng/dnskuter/cabin4_jg4myy.jpg"
+        "original": "../src/assets/daniel cabin/cabin3.jpg",
+        "thumbnail": "../src/assets/daniel cabin/cabin3.jpg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170677/dieng/dnskuter/cabin7_rcnson.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170677/dieng/dnskuter/cabin7_rcnson.jpg"
+        "original": "../src/assets/daniel cabin/cabin4.jpg",
+        "thumbnail": "../src/assets/daniel cabin/cabin4.jpg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170676/dieng/dnskuter/cabin5_ckesrq.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170676/dieng/dnskuter/cabin5_ckesrq.jpg"
+        "original": "../src/assets/daniel cabin/cabin5.jpg",
+        "thumbnail": "../src/assets/daniel cabin/cabin5.jpg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170675/dieng/dnskuter/cabin3_apkhtp.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170675/dieng/dnskuter/cabin3_apkhtp.jpg"
+        "original": "../src/assets/daniel cabin/cabin6.jpg",
+        "thumbnail": "../src/assets/daniel cabin/cabin6.jpg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170675/dieng/dnskuter/cabin2_lkkxwq.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716170675/dieng/dnskuter/cabin2_lkkxwq.jpg"
+        "original": "../src/assets/daniel cabin/cabin7.jpg",
+        "thumbnail": "../src/assets/daniel cabin/cabin7.jpg"
+      },
+      {
+        "original": "../src/assets/daniel cabin/cabin8.jpg",
+        "thumbnail": "../src/assets/daniel cabin/cabin8.jpg"
       }
     ]
   },
@@ -982,53 +986,53 @@
     ],
     "gallery": [
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172531/dieng/dringo/14_exjopf.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172531/dieng/dringo/14_exjopf.jpg"
+        "original": "../src/assets/dringo 1 cabin/14.jpg",
+        "thumbnail": "../src/assets/dringo 1 cabin/14.jpg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172527/dieng/dringo/2_vcog78.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172527/dieng/dringo/2_vcog78.jpg"
+        "original": "../src/assets/dringo 1 cabin/2.jpg",
+        "thumbnail": "../src/assets/dringo 1 cabin/2.jpg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172526/dieng/dringo/3_qu7ep4.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172526/dieng/dringo/3_qu7ep4.jpg"
+        "original": "../src/assets/dringo 1 cabin/3.jpg",
+        "thumbnail": "../src/assets/dringo 1 cabin/3.jpg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172528/dieng/dringo/6_xopgfl.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172528/dieng/dringo/6_xopgfl.jpg"
+        "original": "../src/assets/dringo 1 cabin/6.jpg",
+        "thumbnail": "../src/assets/dringo 1 cabin/6.jpg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172527/dieng/dringo/4_eklnap.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172527/dieng/dringo/4_eklnap.jpg"
+        "original": "../src/assets/dringo 1 cabin/4.jpg",
+        "thumbnail": "../src/assets/dringo 1 cabin/4.jpg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172527/dieng/dringo/5_nvcoix.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172527/dieng/dringo/5_nvcoix.jpg"
+        "original": "../src/assets/dringo 1 cabin/5.jpg",
+        "thumbnail": "../src/assets/dringo 1 cabin/5.jpg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172528/dieng/dringo/7_r6iscl.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172528/dieng/dringo/7_r6iscl.jpg"
+        "original": "../src/assets/dringo 1 cabin/7.jpg",
+        "thumbnail": "../src/assets/dringo 1 cabin/7.jpg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172528/dieng/dringo/8_sqxr3n.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172528/dieng/dringo/8_sqxr3n.jpg"
+        "original": "../src/assets/dringo 1 cabin/8.jpg",
+        "thumbnail": "../src/assets/dringo 1 cabin/8.jpg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172528/dieng/dringo/9_ar90l2.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172528/dieng/dringo/9_ar90l2.jpg"
+        "original": "../src/assets/dringo 1 cabin/9.jpg",
+        "thumbnail": "../src/assets/dringo 1 cabin/9.jpg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172529/dieng/dringo/10_drmewy.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172529/dieng/dringo/10_drmewy.jpg"
+        "original": "../src/assets/dringo 1 cabin/10.jpg",
+        "thumbnail": "../src/assets/dringo 1 cabin/10.jpg"
       }
     ]
   },
   {
     "id": 11,
-    "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172566/dieng/ira1/1_yqezcs.jpg",
-    "image2": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172567/dieng/ira1/2_t4xqwd.jpg",
-    "image3": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172567/dieng/ira1/3_xspdsk.jpg",
-    "image4": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172569/dieng/ira1/4_samrkk.jpg",
+    "image": "src/assets/ira 1 cabin/1.jpg",
+    "image2": "src/assets/ira 1 cabin/2.jpg",
+    "image3": "src/assets/ira 1 cabin/3.jpg",
+    "image4": "src/assets/ira 1 cabin/4.jpg",
     "headTitle": "CABIN IRA 2",
     "title": "Cabin Ira 2",
     "price": "Rp. 1.100.000/Night",
@@ -1084,49 +1088,49 @@
     ],
     "gallery": [
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172566/dieng/ira1/1_yqezcs.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172566/dieng/ira1/1_yqezcs.jpg"
+        "original": "../src/assets/ira 1 cabin/1.jpg",
+        "thumbnail": "../src/assets/ira 1 cabin/1.jpg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172567/dieng/ira1/2_t4xqwd.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172567/dieng/ira1/2_t4xqwd.jpg"
+        "original": "../src/assets/ira 1 cabin/2.jpg",
+        "thumbnail": "../src/assets/ira 1 cabin/2.jpg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172567/dieng/ira1/3_xspdsk.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172567/dieng/ira1/3_xspdsk.jpg"
+        "original": "../src/assets/ira 1 cabin/3.jpg",
+        "thumbnail": "../src/assets/ira 1 cabin/3.jpg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172569/dieng/ira1/4_samrkk.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172569/dieng/ira1/4_samrkk.jpg"
+        "original": "../src/assets/ira 1 cabin/4.jpg",
+        "thumbnail": "../src/assets/ira 1 cabin/4.jpg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172569/dieng/ira1/5_ovn5zs.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172569/dieng/ira1/5_ovn5zs.jpg"
+        "original": "../src/assets/ira 1 cabin/5.jpg",
+        "thumbnail": "../src/assets/ira 1 cabin/5.jpg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172571/dieng/ira1/6_pky1iy.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172571/dieng/ira1/6_pky1iy.jpg"
+        "original": "../src/assets/ira 1 cabin/6.jpg",
+        "thumbnail": "../src/assets/ira 1 cabin/6.jpg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172570/dieng/ira1/7_mwyfdq.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172570/dieng/ira1/7_mwyfdq.jpg"
+        "original": "../src/assets/ira 1 cabin/7.jpg",
+        "thumbnail": "../src/assets/ira 1 cabin/7.jpg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172571/dieng/ira1/8_oish3n.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172571/dieng/ira1/8_oish3n.jpg"
+        "original": "../src/assets/ira 1 cabin/8.jpg",
+        "thumbnail": "../src/assets/ira 1 cabin/8.jpg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172572/dieng/ira1/9_jqyuyw.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172572/dieng/ira1/9_jqyuyw.jpg"
+        "original": "../src/assets/ira 1 cabin/9.jpg",
+        "thumbnail": "../src/assets/ira 1 cabin/9.jpg"
       }
     ]
   },
   {
     "id": 12,
-    "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172620/dieng/ira2/1_y9pqf0.jpg",
-    "image2": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172621/dieng/ira2/2_hqxalx.jpg",
-    "image3": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172622/dieng/ira2/3_ezgtva.jpg",
-    "image4": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172623/dieng/ira2/4_hnaomm.jpg",
+    "image": "src/assets/ira 2 cabin/1.jpg",
+    "image2": "src/assets/ira 2 cabin/2.jpg",
+    "image3": "src/assets/ira 2 cabin/3.jpg",
+    "image4": "src/assets/ira 2 cabin/4.jpg",
     "headTitle": "CABIN IRA DIENG",
     "title": "Cabin Ira Dieng",
     "price": "Rp. 850.000/Night",
@@ -1182,45 +1186,45 @@
     ],
     "gallery": [
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172620/dieng/ira2/1_y9pqf0.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172620/dieng/ira2/1_y9pqf0.jpg"
+        "original": "../src/assets/ira 2 cabin/1.jpg",
+        "thumbnail": "../src/assets/ira 2 cabin/1.jpg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172621/dieng/ira2/2_hqxalx.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172621/dieng/ira2/2_hqxalx.jpg"
+        "original": "../src/assets/ira 2 cabin/2.jpg",
+        "thumbnail": "../src/assets/ira 2 cabin/2.jpg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172622/dieng/ira2/3_ezgtva.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172622/dieng/ira2/3_ezgtva.jpg"
+        "original": "../src/assets/ira 2 cabin/3.jpg",
+        "thumbnail": "../src/assets/ira 2 cabin/3.jpg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172623/dieng/ira2/4_hnaomm.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172623/dieng/ira2/4_hnaomm.jpg"
+        "original": "../src/assets/ira 2 cabin/4.jpg",
+        "thumbnail": "../src/assets/ira 2 cabin/4.jpg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172623/dieng/ira2/5_fsnxe1.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172623/dieng/ira2/5_fsnxe1.jpg"
+        "original": "../src/assets/ira 2 cabin/5.jpg",
+        "thumbnail": "../src/assets/ira 2 cabin/5.jpg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172624/dieng/ira2/6_klwgap.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172624/dieng/ira2/6_klwgap.jpg"
+        "original": "../src/assets/ira 2 cabin/6.jpg",
+        "thumbnail": "../src/assets/ira 2 cabin/6.jpg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172625/dieng/ira2/8_nf0iwk.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172625/dieng/ira2/8_nf0iwk.jpg"
+        "original": "../src/assets/ira 2 cabin/8.jpg",
+        "thumbnail": "../src/assets/ira 2 cabin/8.jpg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172626/dieng/ira2/9_knzunm.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172626/dieng/ira2/9_knzunm.jpg"
+        "original": "../src/assets/ira 2 cabin/9.jpg",
+        "thumbnail": "../src/assets/ira 2 cabin/9.jpg"
       }
     ]
   },
   {
     "id": 13,
-    "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172666/dieng/kayumanis/13_qib4xa.jpg",
-    "image2": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172662/dieng/kayumanis/5_xyts1t.jpg",
-    "image3": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172668/dieng/kayumanis/6_go3p58.png",
-    "image4": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172667/dieng/kayumanis/8_bdd3yt.png",
+    "image": "src/assets/kayu manis/13.jpg",
+    "image2": "src/assets/kayu manis/5.jpg",
+    "image3": "src/assets/kayu manis/6.jpg",
+    "image4": "src/assets/kayu manis/8.jpg",
     "headTitle": "COTTAGE LUMBUNG KAYUMANIS SKOTER",
     "title": "Cottage Lumbung Kayumanis Skoter",
     "price": "Rp. 1.000.000/Night",
@@ -1276,45 +1280,45 @@
     ],
     "gallery": [
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172666/dieng/kayumanis/13_qib4xa.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172666/dieng/kayumanis/13_qib4xa.jpg"
+        "original": "../src/assets/kayu manis/13.jpg",
+        "thumbnail": "../src/assets/kayu manis/13.jpg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172662/dieng/kayumanis/5_xyts1t.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172662/dieng/kayumanis/5_xyts1t.jpg"
+        "original": "../src/assets/kayu manis/5.jpg",
+        "thumbnail": "../src/assets/kayu manis/5.jpg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172668/dieng/kayumanis/6_go3p58.png",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172668/dieng/kayumanis/6_go3p58.png"
+        "original": "../src/assets/kayu manis/6.jpg",
+        "thumbnail": "../src/assets/kayu manis/6.jpg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172667/dieng/kayumanis/8_bdd3yt.png",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172667/dieng/kayumanis/8_bdd3yt.png"
+        "original": "../src/assets/kayu manis/8.jpg",
+        "thumbnail": "../src/assets/kayu manis/8.jpg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172660/dieng/kayumanis/2_zlzegy.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172660/dieng/kayumanis/2_zlzegy.jpg"
+        "original": "../src/assets/kayu manis/2.jpg",
+        "thumbnail": "../src/assets/kayu manis/2.jpg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172661/dieng/kayumanis/3_xlbhwv.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172661/dieng/kayumanis/3_xlbhwv.jpg"
+        "original": "../src/assets/kayu manis/3.jpg",
+        "thumbnail": "../src/assets/kayu manis/3.jpg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172661/dieng/kayumanis/4_asgfqb.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172661/dieng/kayumanis/4_asgfqb.jpg"
+        "original": "../src/assets/kayu manis/4.jpg",
+        "thumbnail": "../src/assets/kayu manis/4.jpg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172677/dieng/kayumanis/7_ysmdea.png",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716172677/dieng/kayumanis/7_ysmdea.png"
+        "original": "../src/assets/kayu manis/.jpg",
+        "thumbnail": "../src/assets/kayu manis/.jpg"
       }
     ]
   },
   {
     "id": 14,
-    "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174881/dieng/laziocottage/1_vjnfl2.jpg",
-    "image2": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174881/dieng/laziocottage/2_imrprm.jpg",
-    "image3": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174882/dieng/laziocottage/3_foqoay.jpg",
-    "image4": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174882/dieng/laziocottage/4_qjohv0.jpg",
+    "image": "src/assets/lazio cottage dieng/1.jpeg",
+    "image2": "src/assets/lazio cottage dieng/2.jpeg",
+    "image3": "src/assets/lazio cottage dieng/3.jpeg",
+    "image4": "src/assets/lazio cottage dieng/4.jpeg",
     "headTitle": "LAZIO COTTAGE DIENG",
     "title": "Lazio Cottage Dieng",
     "price": "Rp. 1.100.000/Night",
@@ -1374,36 +1378,36 @@
     ],
     "gallery": [
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174881/dieng/laziocottage/1_vjnfl2.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174881/dieng/laziocottage/1_vjnfl2.jpg"
+        "original": "../src/assets/lazio cottage dieng/1.jpeg",
+        "thumbnail": "../src/assets/lazio cottage dieng/1.jpeg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174881/dieng/laziocottage/2_imrprm.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174881/dieng/laziocottage/2_imrprm.jpg"
+        "original": "../src/assets/lazio cottage dieng/2.jpeg",
+        "thumbnail": "../src/assets/lazio cottage dieng/2.jpeg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174882/dieng/laziocottage/3_foqoay.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174882/dieng/laziocottage/3_foqoay.jpg"
+        "original": "../src/assets/lazio cottage dieng/3.jpeg",
+        "thumbnail": "../src/assets/lazio cottage dieng/3.jpeg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174882/dieng/laziocottage/4_qjohv0.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174882/dieng/laziocottage/4_qjohv0.jpg"
+        "original": "../src/assets/lazio cottage dieng/4.jpeg",
+        "thumbnail": "../src/assets/lazio cottage dieng/4.jpeg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174883/dieng/laziocottage/5_wswww2.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174883/dieng/laziocottage/5_wswww2.jpg"
+        "original": "../src/assets/lazio cottage dieng/5.jpeg",
+        "thumbnail": "../src/assets/lazio cottage dieng/5.jpeg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174884/dieng/laziocottage/6_zurjrl.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174884/dieng/laziocottage/6_zurjrl.jpg"
+        "original": "../src/assets/lazio cottage dieng/6.jpeg",
+        "thumbnail": "../src/assets/lazio cottage dieng/6.jpeg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174885/dieng/laziocottage/7_yewqym.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174885/dieng/laziocottage/7_yewqym.jpg"
+        "original": "../src/assets/lazio cottage dieng/7.jpeg",
+        "thumbnail": "../src/assets/lazio cottage dieng/7.jpeg"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174886/dieng/laziocottage/8_ckemmx.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716174886/dieng/laziocottage/8_ckemmx.jpg"
+        "original": "../src/assets/lazio cottage dieng/8.jpeg",
+        "thumbnail": "../src/assets/lazio cottage dieng/8.jpeg"
       }
     ]
   },
@@ -2925,7 +2929,7 @@
     "id": 30,
     "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261807/dieng/homestay-anamc/1_zscvmz.png",
     "image2": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261807/dieng/homestay-anamc/2_awdioq.png",
-    "image3": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261812/dieng/homestay-anamc/3_ljdex8.png",
+    "image3": "src/assets/homestay/villa anam c/3.png",
     "image4": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261811/dieng/homestay-anamc/4_a5hr2v.png",
     "headTitle": "VILLA ANAM C",
     "title": "Villa Anam C",
@@ -2986,8 +2990,8 @@
         "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261807/dieng/homestay-anamc/2_awdioq.png"
       },
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261812/dieng/homestay-anamc/3_ljdex8.png",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261812/dieng/homestay-anamc/3_ljdex8.png"
+        "original": "../src/assets/homestay/villa anam c/3.png",
+        "thumbnail": "../src/assets/homestay/villa anam c/3.png"
       },
       {
         "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716261811/dieng/homestay-anamc/4_a5hr2v.png",
