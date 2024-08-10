@@ -23,39 +23,39 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693641/dieng/icon/wifi_ekto4t.svg"
       },
       {
         "name": "TV",
-        "image": "../src/assets/icon/tv.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/tv_nxudd3.svg"
       },
       {
         "name": "Best View",
-        "image": "../src/assets/icon/bestview.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/bestview_rxdxuk.svg"
       },
       {
         "name": "Dispenser",
-        "image": "../src/assets/icon/dispenser.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dispenser_tgisox.svg"
       },
       {
         "name": "Dapur",
-        "image": "../src/assets/icon/dapur.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dapur_vtfu4p.svg"
       },
       {
         "name": "Hot Water",
-        "image": "../src/assets/icon/shower.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693639/dieng/icon/shower_chkgek.svg"
       },
       {
         "name": "Parkir",
-        "image": "../src/assets/icon/parkir.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693636/dieng/icon/parkir_l8mjet.svg"
       },
       {
         "name": "Strategis",
-        "image": "../src/assets/icon/strategis.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/strategis_loalny.svg"
       },
       {
         "name": "Free Breakfast",
-        "image": "../src/assets/icon/sarapan.png"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693639/dieng/icon/sarapan_lyom1c.png"
       }
     ],
     "gallery": [
@@ -107,13 +107,13 @@
   },
   {
     "id": 2,
-    "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125204/dieng/tanihouse2/tani_house2_yxc5eb.jpg",
+    "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125211/dieng/tanihouse2/IMG_0166_lzgibe.jpg",
     "image2": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125197/dieng/tanihouse2/IMG_0122_r85d53.jpg",
     "image3": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125188/dieng/tanihouse2/IMG_0132_l4srml.jpg",
     "image4": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125177/dieng/tanihouse2/IMG_0107_fea0ou.jpg",
     "headTitle": "CABIN TANI HOUSE 2",
     "title": "Cabin Tani House 2",
-    "price": "Rp. 1.500.000/Night",
+    "price": "Rp. 1.200.000/Night",
     "text": "20",
     "ratings": "4.9",
     "reviews": 10,
@@ -137,45 +137,45 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693641/dieng/icon/wifi_ekto4t.svg"
       },
       {
         "name": "TV",
-        "image": "../src/assets/icon/tv.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/tv_nxudd3.svg"
       },
       {
         "name": "Best View",
-        "image": "../src/assets/icon/bestview.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/bestview_rxdxuk.svg"
       },
       {
         "name": "Dispenser",
-        "image": "../src/assets/icon/dispenser.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dispenser_tgisox.svg"
       },
       {
         "name": "Dapur",
-        "image": "../src/assets/icon/dapur.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dapur_vtfu4p.svg"
       },
       {
         "name": "Hot Water",
-        "image": "../src/assets/icon/shower.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693639/dieng/icon/shower_chkgek.svg"
       },
       {
         "name": "Parkir",
-        "image": "../src/assets/icon/parkir.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693636/dieng/icon/parkir_l8mjet.svg"
       },
       {
         "name": "Strategis",
-        "image": "../src/assets/icon/strategis.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/strategis_loalny.svg"
       },
       {
         "name": "Free Breakfast",
-        "image": "../src/assets/icon/sarapan.png"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693639/dieng/icon/sarapan_lyom1c.png"
       }
     ],
     "gallery": [
       {
-        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125204/dieng/tanihouse2/tani_house2_yxc5eb.jpg",
-        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125204/dieng/tanihouse2/tani_house2_yxc5eb.jpg"
+        "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125211/dieng/tanihouse2/IMG_0166_lzgibe.jpg",
+        "thumbnail": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125211/dieng/tanihouse2/IMG_0166_lzgibe.jpg"
       },
       {
         "original": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716125197/dieng/tanihouse2/IMG_0122_r85d53.jpg",
@@ -223,7 +223,7 @@
     "image4": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1716126334/dieng/tanihouse3/de2abtytseql5zff97lc.jpg",
     "headTitle": "CABIN TANI HOUSE 3",
     "title": "Cabin Tani House 3",
-    "price": "Rp. 1.500.000/Night",
+    "price": "Rp. 1.400.000/Night",
     "text": "21",
     "ratings": "4.9",
     "reviews": 10,
@@ -247,39 +247,39 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693641/dieng/icon/wifi_ekto4t.svg"
       },
       {
         "name": "TV",
-        "image": "../src/assets/icon/tv.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/tv_nxudd3.svg"
       },
       {
         "name": "Best View",
-        "image": "../src/assets/icon/bestview.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/bestview_rxdxuk.svg"
       },
       {
         "name": "Dispenser",
-        "image": "../src/assets/icon/dispenser.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dispenser_tgisox.svg"
       },
       {
         "name": "Dapur",
-        "image": "../src/assets/icon/dapur.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dapur_vtfu4p.svg"
       },
       {
         "name": "Hot Water",
-        "image": "../src/assets/icon/shower.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693639/dieng/icon/shower_chkgek.svg"
       },
       {
         "name": "Parkir",
-        "image": "../src/assets/icon/parkir.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693636/dieng/icon/parkir_l8mjet.svg"
       },
       {
         "name": "Strategis",
-        "image": "../src/assets/icon/strategis.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/strategis_loalny.svg"
       },
       {
         "name": "Free Breakfast",
-        "image": "../src/assets/icon/sarapan.png"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693639/dieng/icon/sarapan_lyom1c.png"
       }
     ],
     "gallery": [
@@ -365,39 +365,39 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693641/dieng/icon/wifi_ekto4t.svg"
       },
       {
         "name": "TV",
-        "image": "../src/assets/icon/tv.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/tv_nxudd3.svg"
       },
       {
         "name": "Best View",
-        "image": "../src/assets/icon/bestview.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/bestview_rxdxuk.svg"
       },
       {
         "name": "Dispenser",
-        "image": "../src/assets/icon/dispenser.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dispenser_tgisox.svg"
       },
       {
         "name": "Dapur",
-        "image": "../src/assets/icon/dapur.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dapur_vtfu4p.svg"
       },
       {
         "name": "Hot Water",
-        "image": "../src/assets/icon/shower.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693639/dieng/icon/shower_chkgek.svg"
       },
       {
         "name": "Parkir",
-        "image": "../src/assets/icon/parkir.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693636/dieng/icon/parkir_l8mjet.svg"
       },
       {
         "name": "Strategis",
-        "image": "../src/assets/icon/strategis.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/strategis_loalny.svg"
       },
       {
         "name": "Free Breakfast",
-        "image": "../src/assets/icon/sarapan.png"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693639/dieng/icon/sarapan_lyom1c.png"
       }
     ],
     "gallery": [
@@ -479,35 +479,35 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693641/dieng/icon/wifi_ekto4t.svg"
       },
       {
         "name": "TV",
-        "image": "../src/assets/icon/tv.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/tv_nxudd3.svg"
       },
       {
         "name": "Best View",
-        "image": "../src/assets/icon/bestview.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/bestview_rxdxuk.svg"
       },
       {
         "name": "Dispenser",
-        "image": "../src/assets/icon/dispenser.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dispenser_tgisox.svg"
       },
       {
         "name": "Dapur",
-        "image": "../src/assets/icon/dapur.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dapur_vtfu4p.svg"
       },
       {
         "name": "Hot Water",
-        "image": "../src/assets/icon/shower.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693639/dieng/icon/shower_chkgek.svg"
       },
       {
         "name": "Welcome Drink",
-        "image": "../src/assets/icon/drink.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/drink_lfai5i.svg"
       },
       {
         "name": "Strategis",
-        "image": "../src/assets/icon/strategis.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/strategis_loalny.svg"
       }
     ],
     "gallery": [
@@ -589,35 +589,35 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693641/dieng/icon/wifi_ekto4t.svg"
       },
       {
         "name": "TV",
-        "image": "../src/assets/icon/tv.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/tv_nxudd3.svg"
       },
       {
         "name": "Best View",
-        "image": "../src/assets/icon/bestview.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/bestview_rxdxuk.svg"
       },
       {
         "name": "Dispenser",
-        "image": "../src/assets/icon/dispenser.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dispenser_tgisox.svg"
       },
       {
         "name": "Dapur",
-        "image": "../src/assets/icon/dapur.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dapur_vtfu4p.svg"
       },
       {
         "name": "Hot Water",
-        "image": "../src/assets/icon/shower.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/strategis_loalny.svg"
       },
       {
         "name": "Parkir",
-        "image": "../src/assets/icon/parkir.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693636/dieng/icon/parkir_l8mjet.svg"
       },
       {
         "name": "Strategis",
-        "image": "../src/assets/icon/strategis.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/strategis_loalny.svg"
       }
     ],
     "gallery": [
@@ -675,35 +675,35 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693641/dieng/icon/wifi_ekto4t.svg"
       },
       {
         "name": "TV",
-        "image": "../src/assets/icon/tv.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/tv_nxudd3.svg"
       },
       {
         "name": "Best View",
-        "image": "../src/assets/icon/bestview.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/bestview_rxdxuk.svg"
       },
       {
         "name": "Dispenser",
-        "image": "../src/assets/icon/dispenser.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dispenser_tgisox.svg"
       },
       {
         "name": "Dapur",
-        "image": "../src/assets/icon/dapur.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dapur_vtfu4p.svg"
       },
       {
         "name": "Hot Water",
-        "image": "../src/assets/icon/shower.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693639/dieng/icon/shower_chkgek.svg"
       },
       {
         "name": "Parkir",
-        "image": "../src/assets/icon/parkir.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693636/dieng/icon/parkir_l8mjet.svg"
       },
       {
         "name": "Strategis",
-        "image": "../src/assets/icon/strategis.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/strategis_loalny.svg"
       }
     ],
     "gallery": [
@@ -773,27 +773,27 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693641/dieng/icon/wifi_ekto4t.svg"
       },
       {
         "name": "TV",
-        "image": "../src/assets/icon/tv.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/tv_nxudd3.svg"
       },
       {
         "name": "Dapur",
-        "image": "../src/assets/icon/dapur.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dapur_vtfu4p.svg"
       },
       {
         "name": "Hot Water",
-        "image": "../src/assets/icon/shower.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693639/dieng/icon/shower_chkgek.svg"
       },
       {
         "name": "Welcome Drink",
-        "image": "../src/assets/icon/drink.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/drink_lfai5i.svg"
       },
       {
         "name": "Strategis",
-        "image": "../src/assets/icon/strategis.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/strategis_loalny.svg"
       }
     ],
     "gallery": [
@@ -863,31 +863,31 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693641/dieng/icon/wifi_ekto4t.svg"
       },
       {
         "name": "TV",
-        "image": "../src/assets/icon/tv.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/tv_nxudd3.svg"
       },
       {
         "name": "Dispenser",
-        "image": "../src/assets/icon/dispenser.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dispenser_tgisox.svg"
       },
       {
         "name": "Dapur",
-        "image": "../src/assets/icon/dapur.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dapur_vtfu4p.svg"
       },
       {
         "name": "Hot Water",
-        "image": "../src/assets/icon/shower.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693639/dieng/icon/shower_chkgek.svg"
       },
       {
         "name": "Parkir",
-        "image": "../src/assets/icon/parkir.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693636/dieng/icon/parkir_l8mjet.svg"
       },
       {
         "name": "Strategis",
-        "image": "../src/assets/icon/strategis.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/strategis_loalny.svg"
       }
     ],
     "gallery": [
@@ -957,31 +957,31 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693641/dieng/icon/wifi_ekto4t.svg"
       },
       {
         "name": "TV",
-        "image": "../src/assets/icon/tv.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/tv_nxudd3.svg"
       },
       {
         "name": "Best View",
-        "image": "../src/assets/icon/bestview.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/bestview_rxdxuk.svg"
       },
       {
         "name": "Dapur",
-        "image": "../src/assets/icon/dapur.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dapur_vtfu4p.svg"
       },
       {
         "name": "Parkir",
-        "image": "../src/assets/icon/parkir.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693636/dieng/icon/parkir_l8mjet.svg"
       },
       {
         "name": "Strategis",
-        "image": "../src/assets/icon/strategis.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/strategis_loalny.svg"
       },
       {
         "name": "Free Breakfast",
-        "image": "../src/assets/icon/sarapan.png"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693639/dieng/icon/sarapan_lyom1c.png"
       }
     ],
     "gallery": [
@@ -1059,31 +1059,31 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693641/dieng/icon/wifi_ekto4t.svg"
       },
       {
         "name": "TV",
-        "image": "../src/assets/icon/tv.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/tv_nxudd3.svg"
       },
       {
         "name": "Dispenser",
-        "image": "../src/assets/icon/dispenser.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dispenser_tgisox.svg"
       },
       {
         "name": "Dapur",
-        "image": "../src/assets/icon/dapur.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dapur_vtfu4p.svg"
       },
       {
         "name": "Hot Water",
-        "image": "../src/assets/icon/shower.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693639/dieng/icon/shower_chkgek.svg"
       },
       {
         "name": "Parkir",
-        "image": "../src/assets/icon/parkir.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693636/dieng/icon/parkir_l8mjet.svg"
       },
       {
         "name": "Welcome Drink",
-        "image": "../src/assets/icon/drink.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/drink_lfai5i.svg"
       }
     ],
     "gallery": [
@@ -1157,31 +1157,31 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693641/dieng/icon/wifi_ekto4t.svg"
       },
       {
         "name": "TV",
-        "image": "../src/assets/icon/tv.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/tv_nxudd3.svg"
       },
       {
         "name": "Dispenser",
-        "image": "../src/assets/icon/dispenser.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dispenser_tgisox.svg"
       },
       {
         "name": "Dapur",
-        "image": "../src/assets/icon/dapur.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dapur_vtfu4p.svg"
       },
       {
         "name": "Hot Water",
-        "image": "../src/assets/icon/shower.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693639/dieng/icon/shower_chkgek.svg"
       },
       {
         "name": "Parkir",
-        "image": "../src/assets/icon/parkir.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693636/dieng/icon/parkir_l8mjet.svg"
       },
       {
         "name": "Welcome Drink",
-        "image": "../src/assets/icon/drink.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/drink_lfai5i.svg"
       }
     ],
     "gallery": [
@@ -1251,31 +1251,31 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693641/dieng/icon/wifi_ekto4t.svg"
       },
       {
         "name": "TV",
-        "image": "../src/assets/icon/tv.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/tv_nxudd3.svg"
       },
       {
         "name": "Best View",
-        "image": "../src/assets/icon/bestview.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/bestview_rxdxuk.svg"
       },
       {
         "name": "Dispenser",
-        "image": "../src/assets/icon/dispenser.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dispenser_tgisox.svg"
       },
       {
         "name": "Dapur",
-        "image": "../src/assets/icon/dapur.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dapur_vtfu4p.svg"
       },
       {
         "name": "Hot Water",
-        "image": "../src/assets/icon/shower.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693639/dieng/icon/shower_chkgek.svg"
       },
       {
         "name": "Parkir",
-        "image": "../src/assets/icon/parkir.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693636/dieng/icon/parkir_l8mjet.svg"
       }
     ],
     "gallery": [
@@ -1345,35 +1345,35 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693641/dieng/icon/wifi_ekto4t.svg"
       },
       {
         "name": "TV",
-        "image": "../src/assets/icon/tv.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/tv_nxudd3.svg"
       },
       {
         "name": "Welcome Drink",
-        "image": "../src/assets/icon/drink.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/drink_lfai5i.svg"
       },
       {
         "name": "Dispenser",
-        "image": "../src/assets/icon/dispenser.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dispenser_tgisox.svg"
       },
       {
         "name": "Dapur",
-        "image": "../src/assets/icon/dapur.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dapur_vtfu4p.svg"
       },
       {
         "name": "Hot Water",
-        "image": "../src/assets/icon/shower.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693639/dieng/icon/shower_chkgek.svg"
       },
       {
         "name": "Parkir",
-        "image": "../src/assets/icon/parkir.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693636/dieng/icon/parkir_l8mjet.svg"
       },
       {
         "name": "Strategis",
-        "image": "../src/assets/icon/strategis.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/strategis_loalny.svg"
       }
     ],
     "gallery": [
@@ -1443,19 +1443,19 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693641/dieng/icon/wifi_ekto4t.svg"
       },
       {
         "name": "TV",
-        "image": "../src/assets/icon/tv.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/tv_nxudd3.svg"
       },
       {
         "name": "Dapur",
-        "image": "../src/assets/icon/dapur.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dapur_vtfu4p.svg"
       },
       {
         "name": "Hot Water",
-        "image": "../src/assets/icon/shower.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693639/dieng/icon/shower_chkgek.svg"
       }
     ],
     "gallery": [
@@ -1537,35 +1537,35 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693641/dieng/icon/wifi_ekto4t.svg"
       },
       {
         "name": "TV",
-        "image": "../src/assets/icon/tv.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/tv_nxudd3.svg"
       },
       {
         "name": "Welcome Drink",
-        "image": "../src/assets/icon/drink.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/drink_lfai5i.svg"
       },
       {
         "name": "Dispenser",
-        "image": "../src/assets/icon/dispenser.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dispenser_tgisox.svg"
       },
       {
         "name": "Dapur",
-        "image": "../src/assets/icon/dapur.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dapur_vtfu4p.svg"
       },
       {
         "name": "Hot Water",
-        "image": "../src/assets/icon/shower.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693639/dieng/icon/shower_chkgek.svg"
       },
       {
         "name": "Parkir",
-        "image": "../src/assets/icon/parkir.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693636/dieng/icon/parkir_l8mjet.svg"
       },
       {
         "name": "Strategis",
-        "image": "../src/assets/icon/strategis.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/strategis_loalny.svg"
       }
     ],
     "gallery": [
@@ -1635,35 +1635,35 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693641/dieng/icon/wifi_ekto4t.svg"
       },
       {
         "name": "TV",
-        "image": "../src/assets/icon/tv.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/tv_nxudd3.svg"
       },
       {
         "name": "Welcome Drink",
-        "image": "../src/assets/icon/drink.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/drink_lfai5i.svg"
       },
       {
         "name": "Dispenser",
-        "image": "../src/assets/icon/dispenser.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dispenser_tgisox.svg"
       },
       {
         "name": "Dapur",
-        "image": "../src/assets/icon/dapur.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dapur_vtfu4p.svg"
       },
       {
         "name": "Hot Water",
-        "image": "../src/assets/icon/shower.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693639/dieng/icon/shower_chkgek.svg"
       },
       {
         "name": "Parkir",
-        "image": "../src/assets/icon/parkir.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693636/dieng/icon/parkir_l8mjet.svg"
       },
       {
         "name": "Strategis",
-        "image": "../src/assets/icon/strategis.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/strategis_loalny.svg"
       }
     ],
     "gallery": [
@@ -1745,35 +1745,35 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693641/dieng/icon/wifi_ekto4t.svg"
       },
       {
         "name": "TV",
-        "image": "../src/assets/icon/tv.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/tv_nxudd3.svg"
       },
       {
         "name": "Best View",
-        "image": "../src/assets/icon/bestview.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/bestview_rxdxuk.svg"
       },
       {
         "name": "Dispenser",
-        "image": "../src/assets/icon/dispenser.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dispenser_tgisox.svg"
       },
       {
         "name": "Dapur",
-        "image": "../src/assets/icon/dapur.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dapur_vtfu4p.svg"
       },
       {
         "name": "Hot Water",
-        "image": "../src/assets/icon/shower.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693639/dieng/icon/shower_chkgek.svg"
       },
       {
         "name": "Parkir",
-        "image": "../src/assets/icon/parkir.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693636/dieng/icon/parkir_l8mjet.svg"
       },
       {
         "name": "Strategis",
-        "image": "../src/assets/icon/strategis.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/strategis_loalny.svg"
       }
     ],
     "gallery": [
@@ -1847,31 +1847,31 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693641/dieng/icon/wifi_ekto4t.svg"
       },
       {
         "name": "TV",
-        "image": "../src/assets/icon/tv.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/tv_nxudd3.svg"
       },
       {
         "name": "Dispenser",
-        "image": "../src/assets/icon/dispenser.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dispenser_tgisox.svg"
       },
       {
         "name": "Dapur",
-        "image": "../src/assets/icon/dapur.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dapur_vtfu4p.svg"
       },
       {
         "name": "Hot Water",
-        "image": "../src/assets/icon/shower.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693639/dieng/icon/shower_chkgek.svg"
       },
       {
         "name": "Parkir",
-        "image": "../src/assets/icon/parkir.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693636/dieng/icon/parkir_l8mjet.svg"
       },
       {
         "name": "Strategis",
-        "image": "../src/assets/icon/strategis.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/strategis_loalny.svg"
       }
     ],
     "gallery": [
@@ -1949,31 +1949,31 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693641/dieng/icon/wifi_ekto4t.svg"
       },
       {
         "name": "TV",
-        "image": "../src/assets/icon/tv.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/tv_nxudd3.svg"
       },
       {
         "name": "Dispenser",
-        "image": "../src/assets/icon/dispenser.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dispenser_tgisox.svg"
       },
       {
         "name": "Dapur",
-        "image": "../src/assets/icon/dapur.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dapur_vtfu4p.svg"
       },
       {
         "name": "Hot Water",
-        "image": "../src/assets/icon/shower.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693639/dieng/icon/shower_chkgek.svg"
       },
       {
         "name": "Parkir",
-        "image": "../src/assets/icon/parkir.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693636/dieng/icon/parkir_l8mjet.svg"
       },
       {
         "name": "Welcome Drink",
-        "image": "../src/assets/icon/drink.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/drink_lfai5i.svg"
       }
     ],
     "gallery": [
@@ -2031,31 +2031,31 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693641/dieng/icon/wifi_ekto4t.svg"
       },
       {
         "name": "TV",
-        "image": "../src/assets/icon/tv.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/tv_nxudd3.svg"
       },
       {
         "name": "Dispenser",
-        "image": "../src/assets/icon/dispenser.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dispenser_tgisox.svg"
       },
       {
         "name": "Dapur",
-        "image": "../src/assets/icon/dapur.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dapur_vtfu4p.svg"
       },
       {
         "name": "Hot Water",
-        "image": "../src/assets/icon/shower.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693639/dieng/icon/shower_chkgek.svg"
       },
       {
         "name": "Parkir",
-        "image": "../src/assets/icon/parkir.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693636/dieng/icon/parkir_l8mjet.svg"
       },
       {
         "name": "Welcome Drink",
-        "image": "../src/assets/icon/drink.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/drink_lfai5i.svg"
       }
     ],
     "gallery": [
@@ -2137,27 +2137,27 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693641/dieng/icon/wifi_ekto4t.svg"
       },
       {
         "name": "TV",
-        "image": "../src/assets/icon/tv.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/tv_nxudd3.svg"
       },
       {
         "name": "Dispenser",
-        "image": "../src/assets/icon/dispenser.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dispenser_tgisox.svg"
       },
       {
         "name": "Dapur",
-        "image": "../src/assets/icon/dapur.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dapur_vtfu4p.svg"
       },
       {
         "name": "Hot Water",
-        "image": "../src/assets/icon/shower.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693639/dieng/icon/shower_chkgek.svg"
       },
       {
         "name": "Welcome Drink",
-        "image": "../src/assets/icon/drink.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/drink_lfai5i.svg"
       }
     ],
     "gallery": [
@@ -2227,27 +2227,27 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693641/dieng/icon/wifi_ekto4t.svg"
       },
       {
         "name": "TV",
-        "image": "../src/assets/icon/tv.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/tv_nxudd3.svg"
       },
       {
         "name": "Dispenser",
-        "image": "../src/assets/icon/dispenser.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dispenser_tgisox.svg"
       },
       {
         "name": "Dapur",
-        "image": "../src/assets/icon/dapur.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dapur_vtfu4p.svg"
       },
       {
         "name": "Hot Water",
-        "image": "../src/assets/icon/shower.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693639/dieng/icon/shower_chkgek.svg"
       },
       {
         "name": "Welcome Drink",
-        "image": "../src/assets/icon/drink.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/drink_lfai5i.svg"
       }
     ],
     "gallery": [
@@ -2361,35 +2361,35 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693641/dieng/icon/wifi_ekto4t.svg"
       },
       {
         "name": "TV",
-        "image": "../src/assets/icon/tv.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/tv_nxudd3.svg"
       },
       {
         "name": "Dispenser",
-        "image": "../src/assets/icon/dispenser.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dispenser_tgisox.svg"
       },
       {
         "name": "Dapur",
-        "image": "../src/assets/icon/dapur.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dapur_vtfu4p.svg"
       },
       {
         "name": "Hot Water",
-        "image": "../src/assets/icon/shower.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693639/dieng/icon/shower_chkgek.svg"
       },
       {
         "name": "Welcome Drink",
-        "image": "../src/assets/icon/drink.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/drink_lfai5i.svg"
       },
       {
         "name": "Best View",
-        "image": "../src/assets/icon/bestview.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/bestview_rxdxuk.svg"
       },
       {
         "name": "Parkir",
-        "image": "../src/assets/icon/parkir.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693636/dieng/icon/parkir_l8mjet.svg"
       }
     ],
     "gallery": [
@@ -2459,35 +2459,35 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693641/dieng/icon/wifi_ekto4t.svg"
       },
       {
         "name": "TV",
-        "image": "../src/assets/icon/tv.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/tv_nxudd3.svg"
       },
       {
         "name": "Dispenser",
-        "image": "../src/assets/icon/dispenser.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dispenser_tgisox.svg"
       },
       {
         "name": "Dapur",
-        "image": "../src/assets/icon/dapur.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dapur_vtfu4p.svg"
       },
       {
         "name": "Hot Water",
-        "image": "../src/assets/icon/shower.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693639/dieng/icon/shower_chkgek.svg"
       },
       {
         "name": "Welcome Drink",
-        "image": "../src/assets/icon/drink.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/drink_lfai5i.svg"
       },
       {
         "name": "Strategis",
-        "image": "../src/assets/icon/strategis.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/strategis_loalny.svg"
       },
       {
         "name": "Parkir",
-        "image": "../src/assets/icon/parkir.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693636/dieng/icon/parkir_l8mjet.svg"
       }
     ],
     "gallery": [
@@ -2557,31 +2557,31 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693641/dieng/icon/wifi_ekto4t.svg"
       },
       {
         "name": "TV",
-        "image": "../src/assets/icon/tv.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/tv_nxudd3.svg"
       },
       {
         "name": "Dispenser",
-        "image": "../src/assets/icon/dispenser.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dispenser_tgisox.svg"
       },
       {
         "name": "Dapur",
-        "image": "../src/assets/icon/dapur.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dapur_vtfu4p.svg"
       },
       {
         "name": "Hot Water",
-        "image": "../src/assets/icon/shower.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693639/dieng/icon/shower_chkgek.svg"
       },
       {
         "name": "Welcome Drink",
-        "image": "../src/assets/icon/drink.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/drink_lfai5i.svg"
       },
       {
         "name": "Parkir",
-        "image": "../src/assets/icon/parkir.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693636/dieng/icon/parkir_l8mjet.svg"
       }
     ],
     "gallery": [
@@ -2651,23 +2651,23 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693641/dieng/icon/wifi_ekto4t.svg"
       },
       {
         "name": "TV",
-        "image": "../src/assets/icon/tv.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/tv_nxudd3.svg"
       },
       {
         "name": "Dapur",
-        "image": "../src/assets/icon/dapur.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dapur_vtfu4p.svg"
       },
       {
         "name": "Hot Water",
-        "image": "../src/assets/icon/shower.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693639/dieng/icon/shower_chkgek.svg"
       },
       {
         "name": "Parkir",
-        "image": "../src/assets/icon/parkir.svg"
+        "image": "parkir : https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693636/dieng/icon/parkir_l8mjet.svg"
       }
     ],
     "gallery": [
@@ -2749,35 +2749,35 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693641/dieng/icon/wifi_ekto4t.svg"
       },
       {
         "name": "TV",
-        "image": "../src/assets/icon/tv.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/tv_nxudd3.svg"
       },
       {
         "name": "Dispenser",
-        "image": "../src/assets/icon/dispenser.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dispenser_tgisox.svg"
       },
       {
         "name": "Dapur",
-        "image": "../src/assets/icon/dapur.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dapur_vtfu4p.svg"
       },
       {
         "name": "Hot Water",
-        "image": "../src/assets/icon/shower.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693639/dieng/icon/shower_chkgek.svg"
       },
       {
         "name": "Welcome Drink",
-        "image": "../src/assets/icon/drink.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/drink_lfai5i.svg"
       },
       {
         "name": "Strategis",
-        "image": "../src/assets/icon/strategis.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/strategis_loalny.svg"
       },
       {
         "name": "Parkir",
-        "image": "../src/assets/icon/parkir.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693636/dieng/icon/parkir_l8mjet.svg"
       }
     ],
     "gallery": [
@@ -2847,31 +2847,31 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693641/dieng/icon/wifi_ekto4t.svg"
       },
       {
         "name": "TV",
-        "image": "../src/assets/icon/tv.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/tv_nxudd3.svg"
       },
       {
         "name": "Dispenser",
-        "image": "../src/assets/icon/dispenser.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dispenser_tgisox.svg"
       },
       {
         "name": "Dapur",
-        "image": "../src/assets/icon/dapur.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dapur_vtfu4p.svg"
       },
       {
         "name": "Hot Water",
-        "image": "../src/assets/icon/shower.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693639/dieng/icon/shower_chkgek.svg"
       },
       {
         "name": "Welcome Drink",
-        "image": "../src/assets/icon/drink.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/drink_lfai5i.svg"
       },
       {
         "name": "Parkir",
-        "image": "../src/assets/icon/parkir.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693636/dieng/icon/parkir_l8mjet.svg"
       }
     ],
     "gallery": [
@@ -2957,27 +2957,27 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693641/dieng/icon/wifi_ekto4t.svg"
       },
       {
         "name": "TV",
-        "image": "../src/assets/icon/tv.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/tv_nxudd3.svg"
       },
       {
         "name": "Dispenser",
-        "image": "../src/assets/icon/dispenser.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dispenser_tgisox.svg"
       },
       {
         "name": "Dapur",
-        "image": "../src/assets/icon/dapur.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dapur_vtfu4p.svg"
       },
       {
         "name": "Hot Water",
-        "image": "../src/assets/icon/shower.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693639/dieng/icon/shower_chkgek.svg"
       },
       {
         "name": "Parkir",
-        "image": "../src/assets/icon/parkir.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693636/dieng/icon/parkir_l8mjet.svg"
       }
     ],
     "gallery": [
@@ -3047,27 +3047,27 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693641/dieng/icon/wifi_ekto4t.svg"
       },
       {
         "name": "TV",
-        "image": "../src/assets/icon/tv.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/tv_nxudd3.svg"
       },
       {
         "name": "Dispenser",
-        "image": "../src/assets/icon/dispenser.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dispenser_tgisox.svg"
       },
       {
         "name": "Strategis",
-        "image": "../src/assets/icon/strategis.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/strategis_loalny.svg"
       },
       {
         "name": "Hot Water",
-        "image": "../src/assets/icon/shower.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693639/dieng/icon/shower_chkgek.svg"
       },
       {
         "name": "Parkir",
-        "image": "../src/assets/icon/parkir.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693636/dieng/icon/parkir_l8mjet.svg"
       }
     ],
     "gallery": [
@@ -3129,35 +3129,35 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693641/dieng/icon/wifi_ekto4t.svg"
       },
       {
         "name": "TV",
-        "image": "../src/assets/icon/tv.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/tv_nxudd3.svg"
       },
       {
         "name": "Dispenser",
-        "image": "../src/assets/icon/dispenser.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dispenser_tgisox.svg"
       },
       {
         "name": "Strategis",
-        "image": "../src/assets/icon/strategis.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/strategis_loalny.svg"
       },
       {
         "name": "Hot Water",
-        "image": "../src/assets/icon/shower.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693639/dieng/icon/shower_chkgek.svg"
       },
       {
         "name": "Parkir",
-        "image": "../src/assets/icon/parkir.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693636/dieng/icon/parkir_l8mjet.svg"
       },
       {
         "name": "Best View",
-        "image": "../src/assets/icon/parkir.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/bestview_rxdxuk.svg"
       },
       {
         "name": "Welcome Drink",
-        "image": "../src/assets/icon/drink.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/drink_lfai5i.svg"
       }
     ],
     "gallery": [
@@ -3271,35 +3271,35 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693641/dieng/icon/wifi_ekto4t.svg"
       },
       {
         "name": "TV",
-        "image": "../src/assets/icon/tv.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/tv_nxudd3.svg"
       },
       {
         "name": "Karaoke",
-        "image": "../src/assets/icon/karaoke.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693635/dieng/icon/karaoke_gi9mln.svg"
       },
       {
         "name": "Strategis",
-        "image": "../src/assets/icon/strategis.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/strategis_loalny.svg"
       },
       {
         "name": "Hot Water",
-        "image": "../src/assets/icon/shower.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693639/dieng/icon/shower_chkgek.svg"
       },
       {
         "name": "Parkir",
-        "image": "../src/assets/icon/parkir.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693636/dieng/icon/parkir_l8mjet.svg"
       },
       {
         "name": "Best View",
-        "image": "../src/assets/icon/parkir.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/bestview_rxdxuk.svg"
       },
       {
         "name": "Welcome Drink",
-        "image": "../src/assets/icon/drink.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/drink_lfai5i.svg"
       }
     ],
     "gallery": [
@@ -3385,31 +3385,31 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693641/dieng/icon/wifi_ekto4t.svg"
       },
       {
         "name": "TV",
-        "image": "../src/assets/icon/tv.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/tv_nxudd3.svg"
       },
       {
         "name": "Dispenser",
-        "image": "../src/assets/icon/dispenser.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dispenser_tgisox.svg"
       },
       {
         "name": "Dapur",
-        "image": "../src/assets/icon/dapur.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dapur_vtfu4p.svg"
       },
       {
         "name": "Hot Water",
-        "image": "../src/assets/icon/shower.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693639/dieng/icon/shower_chkgek.svg"
       },
       {
         "name": "Parkir",
-        "image": "../src/assets/icon/parkir.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693636/dieng/icon/parkir_l8mjet.svg"
       },
       {
         "name": "Welcome Drink",
-        "image": "../src/assets/icon/drink.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/drink_lfai5i.svg"
       }
     ],
     "gallery": [
@@ -3479,27 +3479,27 @@
     "facilities": [
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693641/dieng/icon/wifi_ekto4t.svg"
       },
       {
         "name": "TV",
-        "image": "../src/assets/icon/tv.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/tv_nxudd3.svg"
       },
       {
         "name": "Dispenser",
-        "image": "../src/assets/icon/dispenser.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dispenser_tgisox.svg"
       },
       {
         "name": "Dapur",
-        "image": "../src/assets/icon/dapur.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dapur_vtfu4p.svg"
       },
       {
         "name": "Hot Water",
-        "image": "../src/assets/icon/shower.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693639/dieng/icon/shower_chkgek.svg"
       },
       {
         "name": "Parkir",
-        "image": "../src/assets/icon/parkir.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693636/dieng/icon/parkir_l8mjet.svg"
       }
     ],
     "gallery": [
@@ -3577,31 +3577,31 @@
     "facilities": [
       {
         "name": "Private Pool",
-        "image": "../src/assets/icon/privatepool.png"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693636/dieng/icon/privatepool_ckozc9.png"
       },
       {
         "name": "Wifi",
-        "image": "../src/assets/icon/wifi.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693641/dieng/icon/wifi_ekto4t.svg"
       },
       {
         "name": "TV",
-        "image": "../src/assets/icon/tv.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693640/dieng/icon/tv_nxudd3.svg"
       },
       {
         "name": "Dispenser",
-        "image": "../src/assets/icon/dispenser.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dispenser_tgisox.svg"
       },
       {
         "name": "Dapur",
-        "image": "../src/assets/icon/dapur.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693634/dieng/icon/dapur_vtfu4p.svg"
       },
       {
         "name": "Hot Water",
-        "image": "../src/assets/icon/shower.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693639/dieng/icon/shower_chkgek.svg"
       },
       {
         "name": "Parkir",
-        "image": "../src/assets/icon/parkir.svg"
+        "image": "https://res.cloudinary.com/dqu4vnpyj/image/upload/v1722693636/dieng/icon/parkir_l8mjet.svg"
       }
     ],
     "gallery": [
